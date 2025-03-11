@@ -2,25 +2,135 @@
   "combinations": [
     {
       "players": [
-        "Cade Cunningham",
-        "Andrew Nembhard",
-        "Tim Hardaway Jr.",
-        "Kyle Kuzma",
-        "Tyrese Haliburton",
-        "Jordan Poole"
+        "Kawhi Leonard",
+        "Ivica Zubac",
+        "Kyshawn George",
+        "Malik Beasley",
+        "Jordan Poole",
+        "Alex Sarr"
       ],
-      "percentage": 50.0
+      "percentage": 8.3
     },
     {
       "players": [
-        "Tyrese Haliburton",
-        "Cade Cunningham",
-        "Aaron Nesmith",
-        "Kyle Kuzma",
-        "Jarrett Allen",
-        "Myles Turner"
+        "CJ McCollum",
+        "Bogdan Bogdanovic",
+        "Damian Lillard",
+        "Zion Williamson",
+        "Kris Dunn",
+        "Alex Sarr"
       ],
-      "percentage": 50.0
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Bennedict Mathurin",
+        "Myles Turner",
+        "Andrew Nembhard",
+        "Pascal Siakam",
+        "Nic Claxton",
+        "Giannis Antetokounmpo"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Kyle Kuzma (50.0%)",
+        "Cade Cunningham (50.0%)",
+        "Andrew Nembhard (50.0%)",
+        "Jordan Poole (50.0%)",
+        "Tyrese Haliburton (50.0%)",
+        "Tim Hardaway Jr. (50.0%)"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Cam Johnson",
+        "Tyrese Haliburton",
+        "Donovan Mitchell",
+        "Aaron Nesmith",
+        "De'Andre Hunter",
+        "Damian Lillard"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Cade Cunningham",
+        "Cam Johnson",
+        "D'Angelo Russell",
+        "Bilal Coulibaly",
+        "Jalen Duren",
+        "Jordan Poole"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Cade Cunningham",
+        "Kyle Kuzma",
+        "Tyrese Haliburton",
+        "Jarrett Allen",
+        "Myles Turner",
+        "Aaron Nesmith"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "CJ McCollum",
+        "Kawhi Leonard",
+        "Zion Williamson",
+        "Malik Beasley",
+        "Jordan Poole (50.0%)",
+        "Brook Lopez"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "CJ McCollum",
+        "Tyrese Haliburton",
+        "Myles Turner",
+        "Zion Williamson",
+        "Jose Alvarado",
+        "Kris Dunn"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Evan Mobley",
+        "Ivica Zubac",
+        "Jose Alvarado",
+        "Cam Thomas",
+        "Darius Garland",
+        "Brook Lopez"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Cade Cunningham",
+        "Jarrett Allen",
+        "Ziaire Williams",
+        "Khris Middleton",
+        "Nic Claxton",
+        "Darius Garland"
+      ],
+      "percentage": 8.3
+    },
+    {
+      "players": [
+        "Ausar Thompson",
+        "Donovan Mitchell",
+        "Giannis Antetokounmpo",
+        "Jose Alvarado",
+        "Darius Garland",
+        "Brook Lopez"
+      ],
+      "percentage": 8.3
     }
   ]
 }
