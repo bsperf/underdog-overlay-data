@@ -1,0 +1,26 @@
+{
+  "combinations": [
+    {
+      "players": [
+        "Cade Cunningham",
+        "Andrew Nembhard",
+        "Tim Hardaway Jr.",
+        "Kyle Kuzma",
+        "Tyrese Haliburton",
+        "Jordan Poole"
+      ],
+      "percentage": 50.0
+    },
+    {
+      "players": [
+        "Tyrese Haliburton",
+        "Cade Cunningham",
+        "Aaron Nesmith",
+        "Kyle Kuzma",
+        "Jarrett Allen",
+        "Myles Turner"
+      ],
+      "percentage": 50.0
+    }
+  ]
+}
