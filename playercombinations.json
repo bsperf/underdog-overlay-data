@@ -1,136 +1,1072 @@
 {
-  "combinations": [
+  "exposures": [
     {
-      "players": [
-        "Kawhi Leonard",
-        "Ivica Zubac",
-        "Kyshawn George",
-        "Malik Beasley",
-        "Jordan Poole",
-        "Alex Sarr"
-      ],
-      "percentage": 8.3
+      "player": "Aaron Judge",
+      "exposure": 6.8
     },
     {
-      "players": [
-        "CJ McCollum",
-        "Bogdan Bogdanovic",
-        "Damian Lillard",
-        "Zion Williamson",
-        "Kris Dunn",
-        "Alex Sarr"
-      ],
-      "percentage": 8.3
+      "player": "Aaron Nola",
+      "exposure": 13.7
     },
     {
-      "players": [
-        "Bennedict Mathurin",
-        "Myles Turner",
-        "Andrew Nembhard",
-        "Pascal Siakam",
-        "Nic Claxton",
-        "Giannis Antetokounmpo"
-      ],
-      "percentage": 8.3
+      "player": "Adley Rutschman",
+      "exposure": 8.2
     },
     {
-      "players": [
-        "Kyle Kuzma (50.0%)",
-        "Cade Cunningham (50.0%)",
-        "Andrew Nembhard (50.0%)",
-        "Jordan Poole (50.0%)",
-        "Tyrese Haliburton (50.0%)",
-        "Tim Hardaway Jr. (50.0%)"
-      ],
-      "percentage": 8.3
+      "player": "Adolis Garc\u00eda",
+      "exposure": 21.9
     },
     {
-      "players": [
-        "Cam Johnson",
-        "Tyrese Haliburton",
-        "Donovan Mitchell",
-        "Aaron Nesmith",
-        "De'Andre Hunter",
-        "Damian Lillard"
-      ],
-      "percentage": 8.3
+      "player": "Alec Bohm",
+      "exposure": 17.8
     },
     {
-      "players": [
-        "Cade Cunningham",
-        "Cam Johnson",
-        "D'Angelo Russell",
-        "Bilal Coulibaly",
-        "Jalen Duren",
-        "Jordan Poole"
-      ],
-      "percentage": 8.3
+      "player": "Alec Burleson",
+      "exposure": 2.7
     },
     {
-      "players": [
-        "Cade Cunningham",
-        "Kyle Kuzma",
-        "Tyrese Haliburton",
-        "Jarrett Allen",
-        "Myles Turner",
-        "Aaron Nesmith"
-      ],
-      "percentage": 8.3
+      "player": "Alex Bregman",
+      "exposure": 5.5
     },
     {
-      "players": [
-        "CJ McCollum",
-        "Kawhi Leonard",
-        "Zion Williamson",
-        "Malik Beasley",
-        "Jordan Poole (50.0%)",
-        "Brook Lopez"
-      ],
-      "percentage": 8.3
+      "player": "Andrew Abbott",
+      "exposure": 1.4
     },
     {
-      "players": [
-        "CJ McCollum",
-        "Tyrese Haliburton",
-        "Myles Turner",
-        "Zion Williamson",
-        "Jose Alvarado",
-        "Kris Dunn"
-      ],
-      "percentage": 8.3
+      "player": "Andrew Benintendi",
+      "exposure": 4.1
     },
     {
-      "players": [
-        "Evan Mobley",
-        "Ivica Zubac",
-        "Jose Alvarado",
-        "Cam Thomas",
-        "Darius Garland",
-        "Brook Lopez"
-      ],
-      "percentage": 8.3
+      "player": "Andrew Painter",
+      "exposure": 1.4
     },
     {
-      "players": [
-        "Cade Cunningham",
-        "Jarrett Allen",
-        "Ziaire Williams",
-        "Khris Middleton",
-        "Nic Claxton",
-        "Darius Garland"
-      ],
-      "percentage": 8.3
+      "player": "Andrew Vaughn",
+      "exposure": 5.5
     },
     {
-      "players": [
-        "Ausar Thompson",
-        "Donovan Mitchell",
-        "Giannis Antetokounmpo",
-        "Jose Alvarado",
-        "Darius Garland",
-        "Brook Lopez"
-      ],
-      "percentage": 8.3
+      "player": "Andr\u00e9s Gim\u00e9nez",
+      "exposure": 5.5
+    },
+    {
+      "player": "Anthony Santander",
+      "exposure": 6.8
+    },
+    {
+      "player": "Austin Riley",
+      "exposure": 8.2
+    },
+    {
+      "player": "Bailey Ober",
+      "exposure": 8.2
+    },
+    {
+      "player": "Blake Snell",
+      "exposure": 12.3
+    },
+    {
+      "player": "Bo Bichette",
+      "exposure": 9.6
+    },
+    {
+      "player": "Bobby Witt Jr.",
+      "exposure": 8.2
+    },
+    {
+      "player": "Bowden Francis",
+      "exposure": 1.4
+    },
+    {
+      "player": "Brady Singer",
+      "exposure": 4.1
+    },
+    {
+      "player": "Brandon Marsh",
+      "exposure": 9.6
+    },
+    {
+      "player": "Brandon Nimmo",
+      "exposure": 2.7
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "exposure": 5.5
+    },
+    {
+      "player": "Brandon Woodruff",
+      "exposure": 5.5
+    },
+    {
+      "player": "Brayan Bello",
+      "exposure": 13.7
+    },
+    {
+      "player": "Brendan Donovan",
+      "exposure": 8.2
+    },
+    {
+      "player": "Brent Rooker",
+      "exposure": 4.1
+    },
+    {
+      "player": "Brenton Doyle",
+      "exposure": 12.3
+    },
+    {
+      "player": "Brice Turang",
+      "exposure": 1.4
+    },
+    {
+      "player": "Bryan De La Cruz",
+      "exposure": 1.4
+    },
+    {
+      "player": "Bryan Reynolds",
+      "exposure": 11.0
+    },
+    {
+      "player": "Bryce Harper",
+      "exposure": 5.5
+    },
+    {
+      "player": "Bryce Miller",
+      "exposure": 11.0
+    },
+    {
+      "player": "Bryson Stott",
+      "exposure": 12.3
+    },
+    {
+      "player": "Bubba Chandler",
+      "exposure": 4.1
+    },
+    {
+      "player": "CJ Abrams",
+      "exposure": 13.7
+    },
+    {
+      "player": "Cal Raleigh",
+      "exposure": 1.4
+    },
+    {
+      "player": "Carlos Correa",
+      "exposure": 2.7
+    },
+    {
+      "player": "Carlos Rod\u00f3n",
+      "exposure": 12.3
+    },
+    {
+      "player": "Carlos Santana",
+      "exposure": 1.4
+    },
+    {
+      "player": "Ceddanne Rafaela",
+      "exposure": 2.7
+    },
+    {
+      "player": "Cedric Mullins",
+      "exposure": 11.0
+    },
+    {
+      "player": "Charlie Morton",
+      "exposure": 1.4
+    },
+    {
+      "player": "Chris Bassitt",
+      "exposure": 19.2
+    },
+    {
+      "player": "Chris Sale",
+      "exposure": 2.7
+    },
+    {
+      "player": "Christian Encarnacion-Strand",
+      "exposure": 1.4
+    },
+    {
+      "player": "Christian Walker",
+      "exposure": 11.0
+    },
+    {
+      "player": "Christian Yelich",
+      "exposure": 11.0
+    },
+    {
+      "player": "Christopher Morel",
+      "exposure": 5.5
+    },
+    {
+      "player": "Clay Holmes",
+      "exposure": 2.7
+    },
+    {
+      "player": "Cody Bellinger",
+      "exposure": 4.1
+    },
+    {
+      "player": "Cole Ragans",
+      "exposure": 2.7
+    },
+    {
+      "player": "Colton Cowser",
+      "exposure": 2.7
+    },
+    {
+      "player": "Connor Norby",
+      "exposure": 8.2
+    },
+    {
+      "player": "Corbin Burnes",
+      "exposure": 2.7
+    },
+    {
+      "player": "Corbin Carroll",
+      "exposure": 12.3
+    },
+    {
+      "player": "Corey Seager",
+      "exposure": 9.6
+    },
+    {
+      "player": "Cristopher S\u00e1nchez",
+      "exposure": 6.8
+    },
+    {
+      "player": "DJ Herz",
+      "exposure": 4.1
+    },
+    {
+      "player": "Dansby Swanson",
+      "exposure": 11.0
+    },
+    {
+      "player": "Daulton Varsho",
+      "exposure": 13.7
+    },
+    {
+      "player": "Dean Kremer",
+      "exposure": 2.7
+    },
+    {
+      "player": "Dylan Cease",
+      "exposure": 8.2
+    },
+    {
+      "player": "Dylan Crews",
+      "exposure": 4.1
+    },
+    {
+      "player": "Elly De La Cruz",
+      "exposure": 4.1
+    },
+    {
+      "player": "Erick Fedde",
+      "exposure": 2.7
+    },
+    {
+      "player": "Eugenio Su\u00e1rez",
+      "exposure": 1.4
+    },
+    {
+      "player": "Evan Carter",
+      "exposure": 2.7
+    },
+    {
+      "player": "Ezequiel Tovar",
+      "exposure": 9.6
+    },
+    {
+      "player": "Fernando Tatis Jr.",
+      "exposure": 12.3
+    },
+    {
+      "player": "Framber Valdez",
+      "exposure": 15.1
+    },
+    {
+      "player": "Francisco Lindor",
+      "exposure": 13.7
+    },
+    {
+      "player": "Freddie Freeman",
+      "exposure": 6.8
+    },
+    {
+      "player": "Freddy Peralta",
+      "exposure": 17.8
+    },
+    {
+      "player": "Garrett Crochet",
+      "exposure": 6.8
+    },
+    {
+      "player": "George Kirby",
+      "exposure": 6.8
+    },
+    {
+      "player": "George Springer",
+      "exposure": 5.5
+    },
+    {
+      "player": "Gerrit Cole",
+      "exposure": 5.5
+    },
+    {
+      "player": "Giancarlo Stanton",
+      "exposure": 2.7
+    },
+    {
+      "player": "Gleyber Torres",
+      "exposure": 4.1
+    },
+    {
+      "player": "Gunnar Henderson",
+      "exposure": 4.1
+    },
+    {
+      "player": "Heliot Ramos",
+      "exposure": 19.2
+    },
+    {
+      "player": "Hunter Brown",
+      "exposure": 4.1
+    },
+    {
+      "player": "Hunter Greene",
+      "exposure": 6.8
+    },
+    {
+      "player": "Ian Happ",
+      "exposure": 16.4
+    },
+    {
+      "player": "Isaac Paredes",
+      "exposure": 5.5
+    },
+    {
+      "player": "JJ Bleday",
+      "exposure": 8.2
+    },
+    {
+      "player": "JP Sears",
+      "exposure": 5.5
+    },
+    {
+      "player": "Jack Flaherty",
+      "exposure": 12.3
+    },
+    {
+      "player": "Jackson Chourio",
+      "exposure": 5.5
+    },
+    {
+      "player": "Jackson Holliday",
+      "exposure": 5.5
+    },
+    {
+      "player": "Jackson Jobe",
+      "exposure": 8.2
+    },
+    {
+      "player": "Jake Burger",
+      "exposure": 5.5
+    },
+    {
+      "player": "Jake Cronenworth",
+      "exposure": 6.8
+    },
+    {
+      "player": "Jake Fraley",
+      "exposure": 1.4
+    },
+    {
+      "player": "Jake Irvin",
+      "exposure": 1.4
+    },
+    {
+      "player": "Jake McCarthy",
+      "exposure": 4.1
+    },
+    {
+      "player": "James Wood",
+      "exposure": 2.7
+    },
+    {
+      "player": "Jared Jones",
+      "exposure": 16.4
+    },
+    {
+      "player": "Jarren Duran",
+      "exposure": 6.8
+    },
+    {
+      "player": "Jasson Dom\u00ednguez",
+      "exposure": 6.8
+    },
+    {
+      "player": "Jazz Chisholm Jr.",
+      "exposure": 4.1
+    },
+    {
+      "player": "Jeimer Candelario",
+      "exposure": 4.1
+    },
+    {
+      "player": "Jeremy Pe\u00f1a",
+      "exposure": 9.6
+    },
+    {
+      "player": "Jes\u00fas Luzardo",
+      "exposure": 1.4
+    },
+    {
+      "player": "Jes\u00fas S\u00e1nchez",
+      "exposure": 13.7
+    },
+    {
+      "player": "Jo Adell",
+      "exposure": 2.7
+    },
+    {
+      "player": "Joc Pederson",
+      "exposure": 5.5
+    },
+    {
+      "player": "Joe Ryan",
+      "exposure": 20.5
+    },
+    {
+      "player": "Jonathan India",
+      "exposure": 1.4
+    },
+    {
+      "player": "Jordan Beck",
+      "exposure": 1.4
+    },
+    {
+      "player": "Jordan Walker",
+      "exposure": 4.1
+    },
+    {
+      "player": "Jordan Westburg",
+      "exposure": 2.7
+    },
+    {
+      "player": "Jorge Soler",
+      "exposure": 8.2
+    },
+    {
+      "player": "Jose Altuve",
+      "exposure": 19.2
+    },
+    {
+      "player": "Josh Bell",
+      "exposure": 2.7
+    },
+    {
+      "player": "Josh Lowe",
+      "exposure": 9.6
+    },
+    {
+      "player": "Josh Naylor",
+      "exposure": 5.5
+    },
+    {
+      "player": "Jos\u00e9 Berr\u00edos",
+      "exposure": 11.0
+    },
+    {
+      "player": "Jos\u00e9 Ram\u00edrez",
+      "exposure": 5.5
+    },
+    {
+      "player": "Jos\u00e9 Soriano",
+      "exposure": 4.1
+    },
+    {
+      "player": "Juan Soto",
+      "exposure": 6.8
+    },
+    {
+      "player": "Julio Rodr\u00edguez",
+      "exposure": 9.6
+    },
+    {
+      "player": "Jung Hoo Lee",
+      "exposure": 9.6
+    },
+    {
+      "player": "Jurickson Profar",
+      "exposure": 16.4
+    },
+    {
+      "player": "Justin Steele",
+      "exposure": 11.0
+    },
+    {
+      "player": "Kerry Carpenter",
+      "exposure": 5.5
+    },
+    {
+      "player": "Ketel Marte",
+      "exposure": 16.4
+    },
+    {
+      "player": "Kevin Gausman",
+      "exposure": 20.5
+    },
+    {
+      "player": "Kodai Senga",
+      "exposure": 19.2
+    },
+    {
+      "player": "Kumar Rocker",
+      "exposure": 5.5
+    },
+    {
+      "player": "Kutter Crawford",
+      "exposure": 4.1
+    },
+    {
+      "player": "Kyle Harrison",
+      "exposure": 2.7
+    },
+    {
+      "player": "Kyle Schwarber",
+      "exposure": 9.6
+    },
+    {
+      "player": "Kyle Tucker",
+      "exposure": 19.2
+    },
+    {
+      "player": "Lane Thomas",
+      "exposure": 4.1
+    },
+    {
+      "player": "Lars Nootbaar",
+      "exposure": 8.2
+    },
+    {
+      "player": "Lawrence Butler",
+      "exposure": 2.7
+    },
+    {
+      "player": "Logan Gilbert",
+      "exposure": 5.5
+    },
+    {
+      "player": "Logan Webb",
+      "exposure": 11.0
+    },
+    {
+      "player": "Lourdes Gurriel",
+      "exposure": 5.5
+    },
+    {
+      "player": "Lucas Giolito",
+      "exposure": 1.4
+    },
+    {
+      "player": "Luis Arraez",
+      "exposure": 11.0
+    },
+    {
+      "player": "Luis Castillo",
+      "exposure": 17.8
+    },
+    {
+      "player": "Luis Gil",
+      "exposure": 1.4
+    },
+    {
+      "player": "Luis L. Ortiz",
+      "exposure": 1.4
+    },
+    {
+      "player": "Luis Rengifo",
+      "exposure": 1.4
+    },
+    {
+      "player": "Luis Robert Jr.",
+      "exposure": 8.2
+    },
+    {
+      "player": "Luis Severino",
+      "exposure": 4.1
+    },
+    {
+      "player": "Luke Raley",
+      "exposure": 1.4
+    },
+    {
+      "player": "MJ Melendez",
+      "exposure": 5.5
+    },
+    {
+      "player": "MacKenzie Gore",
+      "exposure": 6.8
+    },
+    {
+      "player": "Manny Machado",
+      "exposure": 12.3
+    },
+    {
+      "player": "Marcell Ozuna",
+      "exposure": 9.6
+    },
+    {
+      "player": "Marcus Semien",
+      "exposure": 16.4
+    },
+    {
+      "player": "Mark Vientos",
+      "exposure": 5.5
+    },
+    {
+      "player": "Masataka Yoshida",
+      "exposure": 4.1
+    },
+    {
+      "player": "Masyn Winn",
+      "exposure": 1.4
+    },
+    {
+      "player": "Matt Chapman",
+      "exposure": 6.8
+    },
+    {
+      "player": "Matt McLain",
+      "exposure": 1.4
+    },
+    {
+      "player": "Matt Olson",
+      "exposure": 12.3
+    },
+    {
+      "player": "Matt Shaw",
+      "exposure": 1.4
+    },
+    {
+      "player": "Matt Vierling",
+      "exposure": 5.5
+    },
+    {
+      "player": "Matt Wallner",
+      "exposure": 4.1
+    },
+    {
+      "player": "Max Fried",
+      "exposure": 4.1
+    },
+    {
+      "player": "Max Muncy",
+      "exposure": 15.1
+    },
+    {
+      "player": "Merrill Kelly",
+      "exposure": 5.5
+    },
+    {
+      "player": "Michael Busch",
+      "exposure": 2.7
+    },
+    {
+      "player": "Michael Conforto",
+      "exposure": 4.1
+    },
+    {
+      "player": "Michael Harris II",
+      "exposure": 6.8
+    },
+    {
+      "player": "Michael King",
+      "exposure": 8.2
+    },
+    {
+      "player": "Michael Toglia",
+      "exposure": 1.4
+    },
+    {
+      "player": "Michael Wacha",
+      "exposure": 5.5
+    },
+    {
+      "player": "Mike Trout",
+      "exposure": 9.6
+    },
+    {
+      "player": "Mike Yastrzemski",
+      "exposure": 1.4
+    },
+    {
+      "player": "Miles Mikolas",
+      "exposure": 1.4
+    },
+    {
+      "player": "Mitch Keller",
+      "exposure": 16.4
+    },
+    {
+      "player": "Mitchell Parker",
+      "exposure": 1.4
+    },
+    {
+      "player": "Mookie Betts",
+      "exposure": 4.1
+    },
+    {
+      "player": "Nathan Eovaldi",
+      "exposure": 12.3
+    },
+    {
+      "player": "Nathaniel Lowe",
+      "exposure": 2.7
+    },
+    {
+      "player": "Nestor Cortes",
+      "exposure": 4.1
+    },
+    {
+      "player": "Nick Castellanos",
+      "exposure": 9.6
+    },
+    {
+      "player": "Nick Lodolo",
+      "exposure": 1.4
+    },
+    {
+      "player": "Nick Pivetta",
+      "exposure": 4.1
+    },
+    {
+      "player": "Nico Hoerner",
+      "exposure": 8.2
+    },
+    {
+      "player": "Nolan Arenado",
+      "exposure": 21.9
+    },
+    {
+      "player": "Nolan Jones",
+      "exposure": 26.0
+    },
+    {
+      "player": "Oneil Cruz",
+      "exposure": 1.4
+    },
+    {
+      "player": "Ozzie Albies",
+      "exposure": 12.3
+    },
+    {
+      "player": "Pablo L\u00f3pez",
+      "exposure": 12.3
+    },
+    {
+      "player": "Parker Meadows",
+      "exposure": 1.4
+    },
+    {
+      "player": "Paul Goldschmidt",
+      "exposure": 12.3
+    },
+    {
+      "player": "Paul Skenes",
+      "exposure": 4.1
+    },
+    {
+      "player": "Pete Alonso",
+      "exposure": 8.2
+    },
+    {
+      "player": "Pete Crow-Armstrong",
+      "exposure": 1.4
+    },
+    {
+      "player": "Rafael Devers",
+      "exposure": 21.9
+    },
+    {
+      "player": "Randy Arozarena",
+      "exposure": 11.0
+    },
+    {
+      "player": "Ranger Su\u00e1rez",
+      "exposure": 5.5
+    },
+    {
+      "player": "Reese Olson",
+      "exposure": 5.5
+    },
+    {
+      "player": "Reynaldo L\u00f3pez",
+      "exposure": 9.6
+    },
+    {
+      "player": "Rhys Hoskins",
+      "exposure": 8.2
+    },
+    {
+      "player": "Riley Greene",
+      "exposure": 2.7
+    },
+    {
+      "player": "Robbie Ray",
+      "exposure": 6.8
+    },
+    {
+      "player": "Roman Anthony",
+      "exposure": 5.5
+    },
+    {
+      "player": "Ronald Acu\u00f1a Jr.",
+      "exposure": 16.4
+    },
+    {
+      "player": "Ronel Blanco",
+      "exposure": 12.3
+    },
+    {
+      "player": "Royce Lewis",
+      "exposure": 1.4
+    },
+    {
+      "player": "Ryan McMahon",
+      "exposure": 30.1
+    },
+    {
+      "player": "Ryan Mountcastle",
+      "exposure": 2.7
+    },
+    {
+      "player": "Ryan Pepiot",
+      "exposure": 2.7
+    },
+    {
+      "player": "R\u014dki Sasaki",
+      "exposure": 1.4
+    },
+    {
+      "player": "Salvador Perez",
+      "exposure": 8.2
+    },
+    {
+      "player": "Sandy Alcantara",
+      "exposure": 2.7
+    },
+    {
+      "player": "Sean Manaea",
+      "exposure": 9.6
+    },
+    {
+      "player": "Seiya Suzuki",
+      "exposure": 6.8
+    },
+    {
+      "player": "Seth Lugo",
+      "exposure": 2.7
+    },
+    {
+      "player": "Shane Baz",
+      "exposure": 1.4
+    },
+    {
+      "player": "Shane McClanahan",
+      "exposure": 2.7
+    },
+    {
+      "player": "Shea Langeliers",
+      "exposure": 2.7
+    },
+    {
+      "player": "Shohei Ohtani",
+      "exposure": 6.8
+    },
+    {
+      "player": "Shota Imanaga",
+      "exposure": 16.4
+    },
+    {
+      "player": "Sonny Gray",
+      "exposure": 13.7
+    },
+    {
+      "player": "Spencer Arrighetti",
+      "exposure": 2.7
+    },
+    {
+      "player": "Spencer Steer",
+      "exposure": 13.7
+    },
+    {
+      "player": "Spencer Strider",
+      "exposure": 5.5
+    },
+    {
+      "player": "Steven Kwan",
+      "exposure": 8.2
+    },
+    {
+      "player": "TJ Friedl",
+      "exposure": 23.3
+    },
+    {
+      "player": "Taj Bradley",
+      "exposure": 15.1
+    },
+    {
+      "player": "Tanner Bibee",
+      "exposure": 5.5
+    },
+    {
+      "player": "Tanner Houck",
+      "exposure": 13.7
+    },
+    {
+      "player": "Tarik Skubal",
+      "exposure": 6.8
+    },
+    {
+      "player": "Taylor Ward",
+      "exposure": 11.0
+    },
+    {
+      "player": "Teoscar Hern\u00e1ndez",
+      "exposure": 9.6
+    },
+    {
+      "player": "Thairo Estrada",
+      "exposure": 1.4
+    },
+    {
+      "player": "Tommy Edman",
+      "exposure": 1.4
+    },
+    {
+      "player": "Trea Turner",
+      "exposure": 6.8
+    },
+    {
+      "player": "Trevor Larnach",
+      "exposure": 1.4
+    },
+    {
+      "player": "Triston Casas",
+      "exposure": 2.7
+    },
+    {
+      "player": "Tyler Anderson",
+      "exposure": 4.1
+    },
+    {
+      "player": "Tyler Fitzgerald",
+      "exposure": 5.5
+    },
+    {
+      "player": "Tyler Glasnow",
+      "exposure": 4.1
+    },
+    {
+      "player": "Tyler O'Neill",
+      "exposure": 20.5
+    },
+    {
+      "player": "Tyler Soderstrom",
+      "exposure": 1.4
+    },
+    {
+      "player": "Victor Robles",
+      "exposure": 2.7
+    },
+    {
+      "player": "Vinnie Pasquantino",
+      "exposure": 6.8
+    },
+    {
+      "player": "Vladimir Guerrero Jr.",
+      "exposure": 12.3
+    },
+    {
+      "player": "Walker Buehler",
+      "exposure": 1.4
+    },
+    {
+      "player": "Will Smith",
+      "exposure": 17.8
+    },
+    {
+      "player": "Willi Castro",
+      "exposure": 1.4
+    },
+    {
+      "player": "William Contreras",
+      "exposure": 4.1
+    },
+    {
+      "player": "Willson Contreras",
+      "exposure": 16.4
+    },
+    {
+      "player": "Willy Adames",
+      "exposure": 19.2
+    },
+    {
+      "player": "Wilyer Abreu",
+      "exposure": 4.1
+    },
+    {
+      "player": "Xander Bogaerts",
+      "exposure": 6.8
+    },
+    {
+      "player": "Xavier Edwards",
+      "exposure": 6.8
+    },
+    {
+      "player": "Yainer Diaz",
+      "exposure": 4.1
+    },
+    {
+      "player": "Yandy D\u00edaz",
+      "exposure": 5.5
+    },
+    {
+      "player": "Yordan Alvarez",
+      "exposure": 9.6
+    },
+    {
+      "player": "Yoshinobu Yamamoto",
+      "exposure": 5.5
+    },
+    {
+      "player": "Yu Darvish",
+      "exposure": 1.4
+    },
+    {
+      "player": "Yusei Kikuchi",
+      "exposure": 9.6
+    },
+    {
+      "player": "Zac Gallen",
+      "exposure": 23.3
+    },
+    {
+      "player": "Zach Eflin",
+      "exposure": 12.3
+    },
+    {
+      "player": "Zach Neto",
+      "exposure": 4.1
+    },
+    {
+      "player": "Zack Gelof",
+      "exposure": 9.6
+    },
+    {
+      "player": "Zack Wheeler",
+      "exposure": 4.1
     }
   ]
 }
