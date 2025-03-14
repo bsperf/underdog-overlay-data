@@ -1,13 +1,13 @@
 {
   "games": [
     {
-      "matchup": "Cleveland Cavaliers at Memphis Grizzlies",
-      "spread": "Cavaliers -2",
+      "matchup": "Cle @ Mem",
+      "spread": "Cavs -2",
       "total": 244.5
     },
     {
-      "matchup": "Detroit Pistons vs. Washington Wizards",
-      "spread": "Pistons -14.5",
+      "matchup": "Det vs. Was",
+      "spread": -14.5",
       "total": 125.5
     },
     {
