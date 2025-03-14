@@ -3,14 +3,17 @@
     {
       "matchup": "CLE @ MEM",
       "spread": "Cavs -2",
-      },
+      "total": 244.5
+    },
     {
-      "matchup": "IND @ PHI",
+      "matchup": "CHA @ SAS",
       "spread": "-14.5",
-         },
+      "total": 125.5
+    },
     {
-      "matchup": "LAL vs DEN",
+      "matchup": "LAL @ DEN",
       "spread": "Lakers -12.5",
-         }
+      "total": 228.0
+    }
   ]
 }
