@@ -3,17 +3,53 @@
     {
       "matchup": "CLE @ MEM",
       "spread": "Cavs -2",
-      "total": 244.5
+      "total": 243.5
     },
     {
       "matchup": "CHA @ SAS",
-      "spread": "-14.5",
-      "total": 125.5
+      "spread": "Hornets -4",
+      "total": 235.5
     },
     {
       "matchup": "LAL @ DEN",
-      "spread": "Lakers -12.5",
-      "total": 228.0
+      "spread": "Nuggets -13.5",
+      "total": 229.5
     }
+     {
+      "matchup": "PHX @ SAC ",
+      "spread": "Suns -3",
+      "total": 232.5
+    },
+    {
+      "matchup": "MIA @ BOS",
+      "spread": "Celtics -8",
+      "total": 214.5
+    },
+    {
+      "matchup": "UTA @ TOR",
+      "spread": "Jazz -1",
+      "total": 235
+    }
+     {
+      "matchup": "IND @ PHI",
+      "spread": "Pacers -3",
+      "total": 229
+    },
+    {
+      "matchup": "LAC @ ATL",
+      "spread": "Clippers-1",
+      "total": 233.5
+    },
+    {
+      "matchup": "DAL @ HOU",
+      "spread": "Rockets -12.5",
+      "total": 223.5
+    }
+      {
+      "matchup": "ORL @ MIN",
+      "spread": "Twolves -10.5 ",
+      "total": 207.5
+    },
+ 
   ]
 }
