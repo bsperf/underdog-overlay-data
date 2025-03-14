@@ -1,116 +1,154 @@
-{
-  "exposures": [
+[
     {
-      "player": "Alperen Sengun",
-      "exposure": 21.4
+        "player":"Bam Adebayo",
+        "exposure":42.4242424242
     },
     {
-      "player": "Anthony Edwards",
-      "exposure": 7.1
+        "player":"Jamal Murray",
+        "exposure":33.3333333333
     },
     {
-      "player": "Bam Adebayo",
-      "exposure": 42.9
+        "player":"Mark Williams",
+        "exposure":30.303030303
     },
     {
-      "player": "Darius Garland",
-      "exposure": 7.1
+        "player":"Domantas Sabonis",
+        "exposure":30.303030303
     },
     {
-      "player": "Devin Booker",
-      "exposure": 35.7
+        "player":"Jayson Tatum",
+        "exposure":27.2727272727
     },
     {
-      "player": "Domantas Sabonis",
-      "exposure": 42.9
+        "player":"Evan Mobley",
+        "exposure":24.2424242424
     },
     {
-      "player": "Dyson Daniels",
-      "exposure": 28.6
+        "player":"Devin Booker",
+        "exposure":24.2424242424
     },
     {
-      "player": "Evan Mobley",
-      "exposure": 35.7
+        "player":"Quentin Grimes",
+        "exposure":24.2424242424
     },
     {
-      "player": "Franz Wagner",
-      "exposure": 42.9
+        "player":"Dyson Daniels",
+        "exposure":24.2424242424
     },
     {
-      "player": "Ivica Zubac",
-      "exposure": 21.4
+        "player":"Franz Wagner",
+        "exposure":24.2424242424
     },
     {
-      "player": "Ja Morant",
-      "exposure": 14.3
+        "player":"Ja Morant",
+        "exposure":21.2121212121
     },
     {
-      "player": "Jamal Murray",
-      "exposure": 35.7
+        "player":"Kevin Durant",
+        "exposure":21.2121212121
     },
     {
-      "player": "Jarrett Allen",
-      "exposure": 7.1
+        "player":"Jaylen Brown",
+        "exposure":21.2121212121
     },
     {
-      "player": "Jaylen Brown",
-      "exposure": 14.3
+        "player":"Tyrese Haliburton",
+        "exposure":21.2121212121
     },
     {
-      "player": "Jayson Tatum",
-      "exposure": 14.3
+        "player":"Ivica Zubac",
+        "exposure":18.1818181818
     },
     {
-      "player": "Kevin Durant",
-      "exposure": 21.4
+        "player":"Nikola Jokic",
+        "exposure":18.1818181818
     },
     {
-      "player": "LaMelo Ball",
-      "exposure": 14.3
+        "player":"Alperen Sengun",
+        "exposure":18.1818181818
     },
     {
-      "player": "Luka Doncic",
-      "exposure": 21.4
+        "player":"Anthony Edwards",
+        "exposure":15.1515151515
     },
     {
-      "player": "Mark Williams",
-      "exposure": 28.6
+        "player":"Onyeka Okongwu",
+        "exposure":15.1515151515
     },
     {
-      "player": "Miles Bridges",
-      "exposure": 14.3
+        "player":"Miles Bridges",
+        "exposure":15.1515151515
     },
     {
-      "player": "Nikola Jokic",
-      "exposure": 21.4
+        "player":"LaMelo Ball",
+        "exposure":12.1212121212
     },
     {
-      "player": "Onyeka Okongwu",
-      "exposure": 14.3
+        "player":"Desmond Bane",
+        "exposure":12.1212121212
     },
     {
-      "player": "Quentin Grimes",
-      "exposure": 35.7
+        "player":"Luka Doncic",
+        "exposure":12.1212121212
     },
     {
-      "player": "RJ Barrett",
-      "exposure": 7.1
+        "player":"Julius Randle",
+        "exposure":9.0909090909
     },
     {
-      "player": "Scottie Barnes",
-      "exposure": 7.1
+        "player":"Zach LaVine",
+        "exposure":9.0909090909
     },
     {
-      "player": "Stephon Castle",
-      "exposure": 7.1
+        "player":"RJ Barrett",
+        "exposure":9.0909090909
     },
     {
-      "player": "Tyrese Haliburton",
-      "exposure": 28.6
+        "player":"Darius Garland",
+        "exposure":9.0909090909
     },
     {
-      "player": "Zach LaVine",
-      "exposure": 7.1
+        "player":"Scottie Barnes",
+        "exposure":9.0909090909
+    },
+    {
+        "player":"James Harden",
+        "exposure":6.0606060606
+    },
+    {
+        "player":"Walker Kessler",
+        "exposure":6.0606060606
+    },
+    {
+        "player":"Paolo Banchero",
+        "exposure":6.0606060606
+    },
+    {
+        "player":"Jaren Jackson Jr.",
+        "exposure":6.0606060606
+    },
+    {
+        "player":"Jarrett Allen",
+        "exposure":6.0606060606
+    },
+    {
+        "player":"Stephon Castle",
+        "exposure":6.0606060606
+    },
+    {
+        "player":"Trae Young",
+        "exposure":3.0303030303
+    },
+    {
+        "player":"Tyler Herro",
+        "exposure":3.0303030303
+    },
+    {
+        "player":"Myles Turner",
+        "exposure":3.0303030303
+    },
+    {
+        "player":"Austin Reaves",
+        "exposure":3.0303030303
     }
-  ]
-}
+]
