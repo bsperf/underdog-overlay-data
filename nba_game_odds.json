@@ -2,53 +2,73 @@
   "games": [
     {
       "matchup": "MIA @ NYK",
-      "Knicks": "-7.5",
-      "210.5 6:30": ""
+      "favorite": "Knicks",
+      "spread": "-7.5",
+      "over_under": "210.5",
+      "time": "6:30"
     },
     {
       "matchup": "DET @ NOP",
-      "Pistons": "-7",
-      "232.5  7:00": ""
+      "favorite": "Pistons",
+      "spread": "-7",
+      "over_under": "232.5",
+      "time": "7:00"
     },
     {
       "matchup": "PHI @ HOU",
-      "Rockets": "-15.5",
-      "222.5  7:00": ""
+      "favorite": "Rockets",
+      "spread": "-15.5",
+      "over_under": "222.5",
+      "time": "7:00"
     },
     {
       "matchup": "IND @ MIN",
-      "TWolves": "-7.5",
-      "228.5 7:00": ""
+      "favorite": "TWolves",
+      "spread": "-7.5",
+      "over_under": "228.5",
+      "time": "7:00"
     },
     {
       "matchup": "CHI @ UTA",
-      "Bulls": "-5.5",
-      "240.5 8:00 ": ""
+      "favorite": "Bulls",
+      "spread": "-5.5",
+      "over_under": "240.5",
+      "time": "8:00"
     },
     {
       "matchup": "MEM @ SAC",
-      "Kings": "-4",
-      "237.5  9:00": ""
+      "favorite": "Kings",
+      "spread": "-4",
+      "over_under": "237.5",
+      "time": "9:00"
     },
     {
       "matchup": "TOR @ PHX",
-      "Suns": "-8.5",
-      "227.5  9:00": ""
+      "favorite": "Suns",
+      "spread": "-8.5",
+      "over_under": "227.5",
+      "time": "9:00"
     },
     {
       "matchup": "DEN @ GSW",
-      "Warriorrs": "-7.5",
-      "236.5  9:00": ""
+      "favorite": "Warriors",
+      "spread": "-7.5",
+      "over_under": "236.5",
+      "time": "9:00"
     },
     {
       "matchup": "WAS @ POR",
-      "Blazers": "-5",
-      "231.5 9:00": ""
+      "favorite": "Blazers",
+      "spread": "-5",
+      "over_under": "231.5",
+      "time": "9:00"
     },
     {
       "matchup": "SAS @ LAL",
-      "Lakers": "-9.5",
-      "229.5 9:30": ""
+      "favorite": "Lakers",
+      "spread": "-9.5",
+      "over_under": "229.5",
+      "time": "9:30"
     }
   ]
 }
