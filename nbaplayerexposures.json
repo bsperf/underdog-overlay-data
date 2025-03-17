@@ -1,146 +1,182 @@
 [
     {
-        "player":"Anthony Edwards",
-        "exposure":17.6470588235
-    },
-    {
-        "player":"Austin Reaves",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Bam Adebayo",
-        "exposure":17.6470588235
+        "player":"Jalen Duren",
+        "exposure":33.33
     },
     {
         "player":"Cade Cunningham",
-        "exposure":41.1764705882
-    },
-    {
-        "player":"Coby White",
-        "exposure":29.4117647059
-    },
-    {
-        "player":"Deni Avdija",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Desmond Bane",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Devin Booker",
-        "exposure":29.4117647059
-    },
-    {
-        "player":"Domantas Sabonis",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"Ja Morant",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Jalen Duren",
-        "exposure":23.5294117647
-    },
-    {
-        "player":"Jalen Green",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"Jaren Jackson Jr.",
-        "exposure":17.6470588235
-    },
-    {
-        "player":"Jimmy Butler",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"Jordan Poole",
-        "exposure":29.4117647059
-    },
-    {
-        "player":"Josh Hart",
-        "exposure":29.4117647059
-    },
-    {
-        "player":"Julius Randle",
-        "exposure":11.7647058824
+        "exposure":30.3
     },
     {
         "player":"Kevin Durant",
-        "exposure":29.4117647059
+        "exposure":27.27
     },
     {
-        "player":"Luka Doncic",
-        "exposure":17.6470588235
-    },
-    {
-        "player":"Mikal Bridges",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Myles Turner",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Nikola Jokic",
-        "exposure":23.5294117647
-    },
-    {
-        "player":"Nikola Vucevic",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"OG Anunoby",
-        "exposure":23.5294117647
-    },
-    {
-        "player":"Quentin Grimes",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"RJ Barrett",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Russell Westbrook",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Stephen Curry",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"Stephon Castle",
-        "exposure":11.7647058824
-    },
-    {
-        "player":"Trey Murphy III",
-        "exposure":29.4117647059
-    },
-    {
-        "player":"Tyler Herro",
-        "exposure":23.5294117647
-    },
-    {
-        "player":"Tyrese Haliburton",
-        "exposure":5.8823529412
-    },
-    {
-        "player":"Tyrese Maxey",
-        "exposure":17.6470588235
+        "player":"Josh Hart",
+        "exposure":27.27
     },
     {
         "player":"Walker Kessler",
-        "exposure":23.5294117647
+        "exposure":24.24
     },
     {
-        "player":"Zach LaVine",
-        "exposure":5.8823529412
+        "player":"Luka Doncic",
+        "exposure":24.24
     },
     {
         "player":"Zion Williamson",
-        "exposure":23.5294117647
+        "exposure":21.21
+    },
+    {
+        "player":"Trey Murphy III",
+        "exposure":21.21
+    },
+    {
+        "player":"Devin Booker",
+        "exposure":21.21
+    },
+    {
+        "player":"Bam Adebayo",
+        "exposure":21.21
+    },
+    {
+        "player":"Jaren Jackson Jr.",
+        "exposure":21.21
+    },
+    {
+        "player":"Tyler Herro",
+        "exposure":21.21
+    },
+    {
+        "player":"Nikola Jokic",
+        "exposure":18.18
+    },
+    {
+        "player":"Desmond Bane",
+        "exposure":18.18
+    },
+    {
+        "player":"Nikola Vucevic",
+        "exposure":18.18
+    },
+    {
+        "player":"Jordan Poole",
+        "exposure":18.18
+    },
+    {
+        "player":"Stephen Curry",
+        "exposure":15.15
+    },
+    {
+        "player":"Coby White",
+        "exposure":15.15
+    },
+    {
+        "player":"Quentin Grimes",
+        "exposure":15.15
+    },
+    {
+        "player":"Karl-Anthony Towns",
+        "exposure":12.12
+    },
+    {
+        "player":"Jalen Green",
+        "exposure":12.12
+    },
+    {
+        "player":"Zach LaVine",
+        "exposure":12.12
+    },
+    {
+        "player":"OG Anunoby",
+        "exposure":12.12
+    },
+    {
+        "player":"Julius Randle",
+        "exposure":12.12
+    },
+    {
+        "player":"Tyrese Maxey",
+        "exposure":12.12
+    },
+    {
+        "player":"Austin Reaves",
+        "exposure":12.12
+    },
+    {
+        "player":"Jamal Murray",
+        "exposure":9.09
+    },
+    {
+        "player":"Tyrese Haliburton",
+        "exposure":9.09
+    },
+    {
+        "player":"Anthony Edwards",
+        "exposure":9.09
+    },
+    {
+        "player":"Domantas Sabonis",
+        "exposure":9.09
+    },
+    {
+        "player":"Deni Avdija",
+        "exposure":9.09
+    },
+    {
+        "player":"Tre Jones",
+        "exposure":6.06
+    },
+    {
+        "player":"Scottie Barnes",
+        "exposure":6.06
+    },
+    {
+        "player":"Stephon Castle",
+        "exposure":6.06
+    },
+    {
+        "player":"Malik Monk",
+        "exposure":6.06
+    },
+    {
+        "player":"Jimmy Butler",
+        "exposure":6.06
+    },
+    {
+        "player":"Ja Morant",
+        "exposure":3.03
+    },
+    {
+        "player":"Myles Turner",
+        "exposure":3.03
+    },
+    {
+        "player":"RJ Barrett",
+        "exposure":3.03
+    },
+    {
+        "player":"Russell Westbrook",
+        "exposure":3.03
+    },
+    {
+        "player":"Mikal Bridges",
+        "exposure":3.03
+    },
+    {
+        "player":"Alperen Sengun",
+        "exposure":3.03
+    },
+    {
+        "player":"Alex Sarr",
+        "exposure":3.03
+    },
+    {
+        "player":"DeMar DeRozan",
+        "exposure":3.03
+    },
+    {
+        "player":"Devin Vassell",
+        "exposure":3.03
     }
 ]
