@@ -1,54 +1,54 @@
 {
   "games": [
     {
-      "matchup": "CLE @ MEM",
-      "Cavs": "-2",
-      "243.5": ""
+      "matchup": "MIA @ NYK",
+      "Knicks": "-7.5",
+      "210.5 6:30": ""
     },
     {
-      "matchup": "CHA @ SAS",
-      "Hornets": "-4",
-      "235.5": ""
+      "matchup": "DET @ NOP",
+      "Pistons": "-7",
+      "232.5  7:00": ""
     },
     {
-      "matchup": "LAL @ DEN",
-      "Nuggets": "-13.5",
-      "229.5": ""
+      "matchup": "PHI @ HOU",
+      "Rockets": "-15.5",
+      "222.5  7:00": ""
     },
     {
-      "matchup": "PHX @ SAC",
-      "Suns": "-3",
-      "232.5": ""
+      "matchup": "IND @ MIN",
+      "TWolves": "-7.5",
+      "228.5 7:00": ""
     },
     {
-      "matchup": "MIA @ BOS",
-      "Celtics": "-8",
-      "214.5": ""
+      "matchup": "CHI @ UTA",
+      "Bulls": "-5.5",
+      "240.5 8:00 ": ""
     },
     {
-      "matchup": "UTA @ TOR",
-      "Jazz": "-1",
-      "235": ""
+      "matchup": "MEM @ SAC",
+      "Kings": "-4",
+      "237.5  9:00": ""
     },
     {
-      "matchup": "IND @ PHI",
-      "Pacers": "-3",
-      "229": ""
+      "matchup": "TOR @ PHX",
+      "Suns": "-8.5",
+      "227.5  9:00": ""
     },
     {
-      "matchup": "LAC @ ATL",
-      "Clippers": "-1",
-      "233.5": ""
+      "matchup": "DEN @ GSW",
+      "Warriorrs": "-7.5",
+      "236.5  9:00": ""
     },
     {
-      "matchup": "DAL @ HOU",
-      "Rockets": "-12.5",
-      "223.5": ""
+      "matchup": "WAS @ POR",
+      "Blazers": "-5",
+      "231.5 9:00": ""
     },
     {
-      "matchup": "ORL @ MIN",
-      "Twolves": "-10.5",
-      "207.5": ""
+      "matchup": "SAS @ LAL",
+      "Lakers": "-9.5",
+      "229.5 9:30": ""
     }
   ]
 }
