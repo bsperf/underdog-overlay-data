@@ -1,194 +1,166 @@
 [
     {
-        "player": "Kevin Durant",
-        "exposure": 33.33333333333333
+        "player":"Nikola Jokic",
+        "exposure":34.78
     },
     {
-        "player": "Josh Hart",
-        "exposure": 29.166666666666668
+        "player":"Bam Adebayo",
+        "exposure":30.43
     },
     {
-        "player": "Tyler Herro",
-        "exposure": 29.166666666666668
+        "player":"Franz Wagner",
+        "exposure":30.43
     },
     {
-        "player": "Jalen Duren",
-        "exposure": 25.0
+        "player":"Tyrese Haliburton",
+        "exposure":30.43
     },
     {
-        "player": "Cade Cunningham",
-        "exposure": 25.0
+        "player":"Chet Holmgren",
+        "exposure":30.43
     },
     {
-        "player": "Trey Murphy III",
-        "exposure": 22.916666666666664
+        "player":"Jamal Murray",
+        "exposure":26.09
     },
     {
-        "player": "Zion Williamson",
-        "exposure": 22.916666666666664
+        "player":"Devin Booker",
+        "exposure":21.74
     },
     {
-        "player": "Nikola Jokic",
-        "exposure": 20.833333333333336
+        "player":"Tyler Herro",
+        "exposure":21.74
     },
     {
-        "player": "Jaren Jackson Jr.",
-        "exposure": 18.75
+        "player":"Donovan Mitchell",
+        "exposure":21.74
     },
     {
-        "player": "Luka Doncic",
-        "exposure": 18.75
+        "player":"DeMar DeRozan",
+        "exposure":21.74
     },
     {
-        "player": "Devin Booker",
-        "exposure": 18.75
+        "player":"Cade Cunningham",
+        "exposure":17.39
     },
     {
-        "player": "Jordan Poole",
-        "exposure": 16.666666666666664
+        "player":"Anthony Edwards",
+        "exposure":17.39
     },
     {
-        "player": "Tyrese Haliburton",
-        "exposure": 16.666666666666664
+        "player":"OG Anunoby",
+        "exposure":17.39
     },
     {
-        "player": "Jalen Green",
-        "exposure": 16.666666666666664
+        "player":"Alperen Sengun",
+        "exposure":17.39
     },
     {
-        "player": "Walker Kessler",
-        "exposure": 16.666666666666664
+        "player":"Kevin Durant",
+        "exposure":17.39
     },
     {
-        "player": "Nikola Vucevic",
-        "exposure": 16.666666666666664
+        "player":"Jaren Jackson Jr.",
+        "exposure":17.39
     },
     {
-        "player": "Julius Randle",
-        "exposure": 14.583333333333334
+        "player":"Luka Doncic",
+        "exposure":13.04
     },
     {
-        "player": "DeMar DeRozan",
-        "exposure": 14.583333333333334
+        "player":"Nikola Vucevic",
+        "exposure":13.04
     },
     {
-        "player": "Coby White",
-        "exposure": 14.583333333333334
+        "player":"Evan Mobley",
+        "exposure":13.04
     },
     {
-        "player": "Karl-Anthony Towns",
-        "exposure": 14.583333333333334
+        "player":"Deni Avdija",
+        "exposure":13.04
     },
     {
-        "player": "Desmond Bane",
-        "exposure": 14.583333333333334
+        "player":"Pascal Siakam",
+        "exposure":13.04
     },
     {
-        "player": "Bam Adebayo",
-        "exposure": 14.583333333333334
+        "player":"Zach LaVine",
+        "exposure":13.04
     },
     {
-        "player": "Jamal Murray",
-        "exposure": 14.583333333333334
+        "player":"Paolo Banchero",
+        "exposure":13.04
     },
     {
-        "player": "Stephen Curry",
-        "exposure": 12.5
+        "player":"Zion Williamson",
+        "exposure":13.04
     },
     {
-        "player": "Quentin Grimes",
-        "exposure": 10.416666666666668
+        "player":"Jalen Green",
+        "exposure":13.04
     },
     {
-        "player": "Deni Avdija",
-        "exposure": 10.416666666666668
+        "player":"Desmond Bane",
+        "exposure":13.04
     },
     {
-        "player": "Domantas Sabonis",
-        "exposure": 10.416666666666668
+        "player":"Jonas Valanciunas",
+        "exposure":13.04
     },
     {
-        "player": "Anthony Edwards",
-        "exposure": 10.416666666666668
+        "player":"Isaiah Hartenstein",
+        "exposure":8.7
     },
     {
-        "player": "Austin Reaves",
-        "exposure": 10.416666666666668
+        "player":"Josh Giddey",
+        "exposure":8.7
     },
     {
-        "player": "Tyrese Maxey",
-        "exposure": 8.333333333333332
+        "player":"Mikal Bridges",
+        "exposure":8.7
     },
     {
-        "player": "OG Anunoby",
-        "exposure": 8.333333333333332
+        "player":"Naji Marshall",
+        "exposure":8.7
     },
     {
-        "player": "Zach LaVine",
-        "exposure": 8.333333333333332
+        "player":"Austin Reaves",
+        "exposure":8.7
     },
     {
-        "player": "Malik Monk",
-        "exposure": 8.333333333333332
+        "player":"Darius Garland",
+        "exposure":4.35
     },
     {
-        "player": "Donovan Clingan",
-        "exposure": 6.25
+        "player":"Devin Vassell",
+        "exposure":4.35
     },
     {
-        "player": "Scottie Barnes",
-        "exposure": 6.25
+        "player":"Walker Kessler",
+        "exposure":4.35
     },
     {
-        "player": "Jimmy Butler",
-        "exposure": 6.25
+        "player":"Myles Turner",
+        "exposure":4.35
     },
     {
-        "player": "Stephon Castle",
-        "exposure": 4.166666666666666
+        "player":"Karl-Anthony Towns",
+        "exposure":4.35
     },
     {
-        "player": "Myles Turner",
-        "exposure": 4.166666666666666
+        "player":"Alex Sarr",
+        "exposure":4.35
     },
     {
-        "player": "Tre Jones",
-        "exposure": 4.166666666666666
+        "player":"PJ Washington",
+        "exposure":4.35
     },
     {
-        "player": "Alperen Sengun",
-        "exposure": 4.166666666666666
+        "player":"Coby White",
+        "exposure":4.35
     },
     {
-        "player": "Ja Morant",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "Mikal Bridges",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "RJ Barrett",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "Russell Westbrook",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "Rudy Gobert",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "Alex Sarr",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "Devin Vassell",
-        "exposure": 2.083333333333333
-    },
-    {
-        "player": "Anfernee Simons",
-        "exposure": 2.083333333333333
+        "player":"Anfernee Simons",
+        "exposure":4.35
     }
 ]
