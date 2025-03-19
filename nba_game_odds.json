@@ -5,154 +5,154 @@
       "favorite": "Pacers",
       "spread": "+10.5",
       "over_under": "234.5",
-      "time": "7:00 PM ET"
+      "time": "6:00"
     },
     {
       "matchup": "IND vs DAL",
       "favorite": "Pacers",
       "spread": "-10.5",
       "over_under": "234.5",
-      "time": "7:00 PM ET"
+      "time": "6:00"
     },
     {
       "matchup": "HOU @ ORL",
       "favorite": "Magic",
       "spread": "-2.5",
       "over_under": "210.5",
-      "time": "7:00 PM ET"
+      "time": "6:00"
     },
     {
       "matchup": "ORL vs HOU",
       "favorite": "Magic",
       "spread": "+2.5",
       "over_under": "210.5",
-      "time": "7:00 PM ET"
+      "time": "6:00"
     },
     {
       "matchup": "DET @ MIA",
       "favorite": "Heat",
       "spread": "-5",
       "over_under": "217.5",
-      "time": "7:30 PM ET"
+      "time": "6:30"
     },
     {
       "matchup": "MIA vs DET",
       "favorite": "Heat",
       "spread": "+5",
       "over_under": "217.5",
-      "time": "7:30 PM ET"
+      "time": "6:30"
     },
     {
       "matchup": "NOP @ MIN",
       "favorite": "Timberwolves",
       "spread": "+13",
       "over_under": "228.5",
-      "time": "8:00 PM ET"
+      "time": "7:00"
     },
     {
       "matchup": "MIN vs NOP",
       "favorite": "Timberwolves",
       "spread": "-13",
       "over_under": "228.5",
-      "time": "8:00 PM ET"
+      "time": "7:00"
     },
     {
       "matchup": "PHI @ OKC",
       "favorite": "Thunder",
       "spread": "+10",
       "over_under": "230.5",
-      "time": "8:00 PM ET"
+      "time": "7:00"
     },
     {
       "matchup": "OKC vs PHI",
       "favorite": "Thunder",
       "spread": "-10",
       "over_under": "230.5",
-      "time": "8:00 PM ET"
+      "time": "7:00"
     },
     {
       "matchup": "NYK @ SAS",
       "favorite": "Spurs",
       "spread": "-8.5",
       "over_under": "229.5",
-      "time": "8:00 PM ET"
+      "time": "7:00"
     },
     {
       "matchup": "SAS vs NYK",
       "favorite": "Spurs",
       "spread": "+8.5",
       "over_under": "229.5",
-      "time": "8:00 PM ET"
+      "time": "7:00"
     },
     {
       "matchup": "WAS @ UTA",
       "favorite": "Jazz",
       "spread": "+4.5",
       "over_under": "234",
-      "time": "9:00 PM ET"
+      "time": "8:00"
     },
     {
       "matchup": "UTA vs WAS",
       "favorite": "Jazz",
       "spread": "-4.5",
       "over_under": "234",
-      "time": "9:00 PM ET"
+      "time": "8:00"
     },
     {
       "matchup": "DEN @ LAL",
       "favorite": "Lakers",
       "spread": "-1",
       "over_under": "232.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "LAL vs DEN",
       "favorite": "Lakers",
       "spread": "+1",
       "over_under": "232.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "CHI @ PHX",
       "favorite": "Suns",
       "spread": "+6.5",
       "over_under": "235.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "PHX vs CHI",
       "favorite": "Suns",
       "spread": "-6.5",
       "over_under": "235.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "MEM @ POR",
       "favorite": "Trail Blazers",
       "spread": "-4.5",
       "over_under": "235.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "POR vs MEM",
       "favorite": "Trail Blazers",
       "spread": "+4.5",
       "over_under": "235.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "CLE @ SAC",
       "favorite": "Kings",
       "spread": "-5",
       "over_under": "234.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     },
     {
       "matchup": "SAC vs CLE",
       "favorite": "Kings",
       "spread": "+5",
       "over_under": "234.5",
-      "time": "10:00 PM ET"
+      "time": "9:00"
     }
   ]
 }
