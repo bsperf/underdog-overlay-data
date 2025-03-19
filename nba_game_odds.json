@@ -5,77 +5,77 @@
       "favorite": "Mavericks",
       "spread": "-3.5",
       "over_under": "221.0",
-      "time": "7:00 PM EDT"
+      "time": "6:00 PM"
     },
     {
       "matchup": "HOU @ ORL",
       "favorite": "Rockets",
       "spread": "-2.5",
       "over_under": "209.0",
-      "time": "7:00 PM EDT"
+      "time": "6:00 PM"
     },
     {
       "matchup": "DET @ MIA",
       "favorite": "Heat",
       "spread": "-6.5",
       "over_under": "215.5",
-      "time": "7:30 PM EDT"
+      "time": "6:30 PM"
     },
     {
       "matchup": "NOP @ MIN",
       "favorite": "Timberwolves",
       "spread": "-12.5",
       "over_under": "228.5",
-      "time": "8:00 PM EDT"
+      "time": "7:00 PM"
     },
     {
       "matchup": "NYK @ SAS",
       "favorite": "Knicks",
       "spread": "-4.5",
       "over_under": "220.0",
-      "time": "8:00 PM EDT"
+      "time": "7:00 PM"
     },
     {
       "matchup": "PHI @ OKC",
       "favorite": "Thunder",
       "spread": "-11.5",
       "over_under": "229.0",
-      "time": "8:00 PM EDT"
+      "time": "7:00 PM"
     },
     {
       "matchup": "WAS @ UTA",
       "favorite": "Jazz",
       "spread": "-4.5",
       "over_under": "233.5",
-      "time": "9:00 PM EDT"
+      "time": "8:00 PM"
     },
     {
       "matchup": "DEN @ LAL",
       "favorite": "Lakers",
       "spread": "-1.5",
       "over_under": "232.5",
-      "time": "10:00 PM EDT"
+      "time": "9:00 PM"
     },
     {
       "matchup": "CHI @ PHX",
       "favorite": "Suns",
       "spread": "-6.5",
       "over_under": "234.0",
-      "time": "10:00 PM EDT"
+      "time": "9:00 PM"
     },
     {
       "matchup": "MEM @ POR",
       "favorite": "Grizzlies",
       "spread": "-4.5",
       "over_under": "235.5",
-      "time": "10:00 PM EDT"
+      "time": "9:00 PM"
     },
     {
       "matchup": "CLE @ SAC",
       "favorite": "Kings",
       "spread": "-3.0",
       "over_under": "237.5",
-      "time": "10:00 PM EDT"
+      "time": "9:00 PM"
     }
   ]
 }
