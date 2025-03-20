@@ -1,1 +1,118 @@
-[{"player":"Luka Doncic","adp_order":1,"times_drafted":3.0,"exposure":42.86},{"player":"Giannis Antetokounmpo","adp_order":2,"times_drafted":1.0,"exposure":14.29},{"player":"Karl-Anthony Towns","adp_order":3,"times_drafted":null,"exposure":0.0},{"player":"Tyrese Haliburton","adp_order":10,"times_drafted":2.0,"exposure":28.57},{"player":"LaMelo Ball","adp_order":5,"times_drafted":3.0,"exposure":42.86},{"player":"Austin Reaves","adp_order":6,"times_drafted":null,"exposure":0.0},{"player":"Damian Lillard","adp_order":7,"times_drafted":null,"exposure":0.0},{"player":"Stephen Curry","adp_order":4,"times_drafted":null,"exposure":0.0},{"player":"Malik Monk","adp_order":15,"times_drafted":null,"exposure":0.0},{"player":"Josh Hart","adp_order":9,"times_drafted":4.0,"exposure":57.14},{"player":"DeMar DeRozan","adp_order":16,"times_drafted":2.0,"exposure":28.57},{"player":"Coby White","adp_order":18,"times_drafted":null,"exposure":0.0},{"player":"Zach LaVine","adp_order":23,"times_drafted":2.0,"exposure":28.57},{"player":"OG Anunoby","adp_order":21,"times_drafted":2.0,"exposure":28.57},{"player":"Jimmy Butler","adp_order":11,"times_drafted":1.0,"exposure":14.29},{"player":"Scottie Barnes","adp_order":17,"times_drafted":null,"exposure":0.0},{"player":"Nic Claxton","adp_order":29,"times_drafted":4.0,"exposure":57.14},{"player":"Pascal Siakam","adp_order":13,"times_drafted":null,"exposure":0.0},{"player":"Mikal Bridges","adp_order":24,"times_drafted":4.0,"exposure":57.14},{"player":"Nikola Vucevic","adp_order":22,"times_drafted":null,"exposure":0.0},{"player":"Mark Williams","adp_order":14,"times_drafted":3.0,"exposure":42.86},{"player":"Josh Giddey","adp_order":12,"times_drafted":null,"exposure":0.0},{"player":"D'Angelo Russell","adp_order":25,"times_drafted":1.0,"exposure":14.29},{"player":"Myles Turner","adp_order":27,"times_drafted":null,"exposure":0.0},{"player":"Jonas Valanciunas","adp_order":19,"times_drafted":1.0,"exposure":14.29},{"player":"Miles McBride","adp_order":31,"times_drafted":null,"exposure":0.0},{"player":"Draymond Green","adp_order":20,"times_drafted":null,"exposure":0.0},{"player":"Immanuel Quickley","adp_order":26,"times_drafted":null,"exposure":0.0},{"player":"Keon Johnson","adp_order":34,"times_drafted":null,"exposure":0.0},{"player":"Brook Lopez","adp_order":30,"times_drafted":1.0,"exposure":14.29},{"player":"Jakob Poeltl","adp_order":32,"times_drafted":null,"exposure":0.0},{"player":"Tre Jones","adp_order":28,"times_drafted":null,"exposure":0.0},{"player":"Keegan Murray","adp_order":33,"times_drafted":2.0,"exposure":28.57},{"player":"Kevin Huerter","adp_order":39,"times_drafted":null,"exposure":0.0},{"player":"Kyle Kuzma","adp_order":35,"times_drafted":null,"exposure":0.0},{"player":"Andrew Nembhard","adp_order":37,"times_drafted":null,"exposure":0.0},{"player":"Ziaire Williams","adp_order":47,"times_drafted":null,"exposure":0.0},{"player":"Brandin Podziemski","adp_order":36,"times_drafted":1.0,"exposure":14.29},{"player":"Jaxson Hayes","adp_order":38,"times_drafted":null,"exposure":0.0},{"player":"Jonathan Kuminga","adp_order":40,"times_drafted":3.0,"exposure":42.86},{"player":"Jordan Goodwin","adp_order":65,"times_drafted":null,"exposure":0.0},{"player":"Aaron Nesmith","adp_order":41,"times_drafted":null,"exposure":0.0},{"player":"Dorian Finney-Smith","adp_order":49,"times_drafted":null,"exposure":0.0},{"player":"DaQuan Jeffries","adp_order":54,"times_drafted":null,"exposure":0.0},{"player":"Nick Smith Jr.","adp_order":67,"times_drafted":null,"exposure":0.0},{"player":"Taurean Prince","adp_order":58,"times_drafted":null,"exposure":0.0},{"player":"Bennedict Mathurin","adp_order":52,"times_drafted":null,"exposure":0.0},{"player":"Trendon Watford","adp_order":57,"times_drafted":null,"exposure":0.0},{"player":"Jusuf Nurkic","adp_order":48,"times_drafted":null,"exposure":0.0},{"player":"Moses Moody","adp_order":42,"times_drafted":null,"exposure":0.0},{"player":"Zach Collins","adp_order":71,"times_drafted":null,"exposure":0.0},{"player":"Dalton Knecht","adp_order":46,"times_drafted":null,"exposure":0.0},{"player":"Orlando Robinson","adp_order":51,"times_drafted":null,"exposure":0.0},{"player":"T.J. McConnell","adp_order":64,"times_drafted":null,"exposure":0.0},{"player":"Kevin Porter Jr.","adp_order":45,"times_drafted":null,"exposure":0.0},{"player":"Day'Ron Sharpe","adp_order":53,"times_drafted":null,"exposure":0.0},{"player":"Josh Green","adp_order":60,"times_drafted":null,"exposure":0.0},{"player":"Jamal Shead","adp_order":63,"times_drafted":null,"exposure":0.0},{"player":"Obi Toppin","adp_order":44,"times_drafted":null,"exposure":0.0},{"player":"Jarred Vanderbilt","adp_order":66,"times_drafted":null,"exposure":0.0},{"player":"Buddy Hield","adp_order":59,"times_drafted":null,"exposure":0.0},{"player":"Rui Hachimura","adp_order":50,"times_drafted":null,"exposure":0.0},{"player":"Quinten Post","adp_order":62,"times_drafted":null,"exposure":0.0},{"player":"AJ Lawson","adp_order":70,"times_drafted":null,"exposure":0.0},{"player":"Landry Shamet","adp_order":68,"times_drafted":null,"exposure":0.0},{"player":"Tony Bradley","adp_order":73,"times_drafted":null,"exposure":0.0},{"player":"Seth Curry","adp_order":72,"times_drafted":null,"exposure":0.0},{"player":"Devin Carter","adp_order":69,"times_drafted":null,"exposure":0.0},{"player":"Shake Milton","adp_order":56,"times_drafted":null,"exposure":0.0}]
+[
+    {
+        "player": "Dajuan Harris Jr.",
+        "exposure": 80.0
+    },
+    {
+        "player": "Aaron Scott",
+        "exposure": 50.0
+    },
+    {
+        "player": "Aniwaniwa Tait-Jones",
+        "exposure": 50.0
+    },
+    {
+        "player": "Marquel Sutton",
+        "exposure": 40.0
+    },
+    {
+        "player": "Caleb Grill",
+        "exposure": 30.0
+    },
+    {
+        "player": "Zuby Ejiofor",
+        "exposure": 30.0
+    },
+    {
+        "player": "Zvonimir Ivi\u0161i\u0107",
+        "exposure": 30.0
+    },
+    {
+        "player": "KJ Adams Jr.",
+        "exposure": 30.0
+    },
+    {
+        "player": "Hunter Dickinson",
+        "exposure": 20.0
+    },
+    {
+        "player": "Nick Townsend",
+        "exposure": 20.0
+    },
+    {
+        "player": "Kobe Johnson",
+        "exposure": 20.0
+    },
+    {
+        "player": "Jonas Aidoo",
+        "exposure": 20.0
+    },
+    {
+        "player": "Mason Falslev",
+        "exposure": 20.0
+    },
+    {
+        "player": "Trevon Brazile",
+        "exposure": 10.0
+    },
+    {
+        "player": "Johnell Davis",
+        "exposure": 10.0
+    },
+    {
+        "player": "Kadary Richmond",
+        "exposure": 10.0
+    },
+    {
+        "player": "JJ White",
+        "exposure": 10.0
+    },
+    {
+        "player": "Danny Wolf",
+        "exposure": 10.0
+    },
+    {
+        "player": "Zhuric Phelps",
+        "exposure": 10.0
+    },
+    {
+        "player": "Kyler Filewich",
+        "exposure": 10.0
+    },
+    {
+        "player": "Bez Mbeng",
+        "exposure": 10.0
+    },
+    {
+        "player": "Elijah Hawkins",
+        "exposure": 10.0
+    },
+    {
+        "player": "JT Toppin",
+        "exposure": 10.0
+    },
+    {
+        "player": "Corey Tripp",
+        "exposure": 10.0
+    },
+    {
+        "player": "Chaz Lanier",
+        "exposure": 10.0
+    },
+    {
+        "player": "Vladislav Goldin",
+        "exposure": 10.0
+    },
+    {
+        "player": "Zakai Zeigler",
+        "exposure": 10.0
+    },
+    {
+        "player": "Bennett Stirtz",
+        "exposure": 10.0
+    },
+    {
+        "player": "Zeke Mayo",
+        "exposure": 10.0
+    }
+]
