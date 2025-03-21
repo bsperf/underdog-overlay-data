@@ -1,118 +1,138 @@
 [
     {
-        "player": "Kam Woods",
-        "exposure": 69.23076923076923
-    },
-    {
-        "player": "Tayton Conerway",
-        "exposure": 61.53846153846154
-    },
-    {
-        "player": "Tyon Grant-Foster",
-        "exposure": 61.53846153846154
-    },
-    {
-        "player": "Amarion Dickerson",
-        "exposure": 38.46153846153847
-    },
-    {
-        "player": "David Joplin",
-        "exposure": 30.76923076923077
-    },
-    {
-        "player": "Jase Richardson",
-        "exposure": 23.076923076923077
-    },
-    {
-        "player": "Nelly Junior Joseph",
-        "exposure": 23.076923076923077
-    },
-    {
-        "player": "Thomas Dowd",
-        "exposure": 23.076923076923077
-    },
-    {
-        "player": "Augustas Marciulionis",
-        "exposure": 23.076923076923077
-    },
-    {
-        "player": "Andrew Carr",
-        "exposure": 23.076923076923077
-    },
-    {
-        "player": "VJ Edgecombe",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Labaron Philon",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Nique Clifford",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "PJ Haggerty",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Kon Knueppel",
-        "exposure": 15.384615384615385
+        "player": "Alex Karaban",
+        "exposure": 10.0
     },
     {
         "player": "Alvaro Folgueiras",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Otega Oweh",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Jaxon Kohler",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Kam Jones",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Joshua Jefferson",
-        "exposure": 15.384615384615385
+        "exposure": 20.0
     },
     {
         "player": "Amari Williams",
-        "exposure": 7.6923076923076925
+        "exposure": 15.0
     },
     {
-        "player": "Earl Timberlake",
-        "exposure": 7.6923076923076925
+        "player": "Amarion Dickerson",
+        "exposure": 40.0
     },
     {
-        "player": "Derik Queen",
-        "exposure": 7.6923076923076925
+        "player": "Andrew Carr",
+        "exposure": 15.0
     },
     {
-        "player": "Cooper Flagg",
-        "exposure": 7.6923076923076925
+        "player": "Augustas Marciulionis",
+        "exposure": 15.0
     },
     {
         "player": "Connor Withers",
-        "exposure": 7.6923076923076925
+        "exposure": 5.0
     },
     {
-        "player": "Alex Karaban",
-        "exposure": 7.6923076923076925
+        "player": "Cooper Flagg",
+        "exposure": 5.0
     },
     {
-        "player": "Mark Sears",
-        "exposure": 7.6923076923076925
+        "player": "David Joplin",
+        "exposure": 25.0
+    },
+    {
+        "player": "Derik Queen",
+        "exposure": 5.0
+    },
+    {
+        "player": "Dola Adebayo",
+        "exposure": 5.0
     },
     {
         "player": "Donovan Dent",
-        "exposure": 7.6923076923076925
+        "exposure": 10.0
+    },
+    {
+        "player": "Earl Timberlake",
+        "exposure": 15.0
+    },
+    {
+        "player": "Jase Richardson",
+        "exposure": 20.0
+    },
+    {
+        "player": "Jaxon Kohler",
+        "exposure": 10.0
+    },
+    {
+        "player": "Joshua Jefferson",
+        "exposure": 40.0
+    },
+    {
+        "player": "Kam Jones",
+        "exposure": 15.0
+    },
+    {
+        "player": "Kam Woods",
+        "exposure": 50.0
+    },
+    {
+        "player": "Kon Knueppel",
+        "exposure": 10.0
+    },
+    {
+        "player": "Labaron Philon",
+        "exposure": 15.0
+    },
+    {
+        "player": "Mark Sears",
+        "exposure": 5.0
+    },
+    {
+        "player": "Nelly Junior Joseph",
+        "exposure": 20.0
+    },
+    {
+        "player": "Nique Clifford",
+        "exposure": 30.0
     },
     {
         "player": "Norchad Omier",
-        "exposure": 7.6923076923076925
+        "exposure": 5.0
+    },
+    {
+        "player": "Otega Oweh",
+        "exposure": 15.0
+    },
+    {
+        "player": "PJ Haggerty",
+        "exposure": 10.0
+    },
+    {
+        "player": "Ryan Prather",
+        "exposure": 5.0
+    },
+    {
+        "player": "Tarris Reed Jr.",
+        "exposure": 5.0
+    },
+    {
+        "player": "Tayton Conerway",
+        "exposure": 45.0
+    },
+    {
+        "player": "Thomas Dowd",
+        "exposure": 15.0
+    },
+    {
+        "player": "Tyon Grant-Foster",
+        "exposure": 70.0
+    },
+    {
+        "player": "VJ Edgecombe",
+        "exposure": 20.0
+    },
+    {
+        "player": "Ven-Allen Lubin",
+        "exposure": 5.0
+    },
+    {
+        "player": "Walter Clayton Jr.",
+        "exposure": 5.0
     }
 ]
