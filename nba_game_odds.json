@@ -1,73 +1,143 @@
 {
   "games": [
     {
-      "matchup": "NYK @ CHA",
-      "favorite": "Knicks",
+      "matchup": "ORL @ WAS",
+      "favorite": "Magic",
       "spread": "-7.5",
-      "over_under": "221.5",
+      "over_under": "216.5",
       "time": "6:00"
     },
     {
-      "matchup": "CHA vs NYK",
-      "favorite": "Knicks",
+      "matchup": "WAS vs ORL",
+      "favorite": "Magic",
       "spread": "+7.5",
-      "over_under": "221.5",
+      "over_under": "216.5",
       "time": "6:00"
     },
     {
-      "matchup": "BKN @ IND",
-      "favorite": "Pacers",
-      "spread": "+9",
-      "over_under": "226",
-      "time": "6:00"
+      "matchup": "NOP @ MIN",
+      "favorite": "Timberwolves",
+      "spread": "+14",
+      "over_under": "228.5",
+      "time": "7:00"
     },
     {
-      "matchup": "IND vs BKN",
-      "favorite": "Pacers",
-      "spread": "-9",
-      "over_under": "226",
-      "time": "6:00"
+      "matchup": "MIN vs NOP",
+      "favorite": "Timberwolves",
+      "spread": "-14",
+      "over_under": "228.5",
+      "time": "7:00"
     },
     {
-      "matchup": "CHI @ SAC",
-      "favorite": "Kings",
+      "matchup": "CHA @ OKC",
+      "favorite": "Thunder",
+      "spread": "+20",
+      "over_under": "227",
+      "time": "7:00"
+    },
+    {
+      "matchup": "OKC vs CHA",
+      "favorite": "Thunder",
+      "spread": "-20",
+      "over_under": "227",
+      "time": "7:00"
+    },
+    {
+      "matchup": "HOU @ MIA",
+      "favorite": "Rockets",
+      "spread": "-5.5",
+      "over_under": "213.5",
+      "time": "7:00"
+    },
+    {
+      "matchup": "MIA vs HOU",
+      "favorite": "Rockets",
+      "spread": "+5.5",
+      "over_under": "213.5",
+      "time": "7:00"
+    },
+    {
+      "matchup": "PHI @ SAS",
+      "favorite": "Spurs",
+      "spread": "+5.5",
+      "over_under": "241.5",
+      "time": "7:00"
+    },
+    {
+      "matchup": "SAS vs PHI",
+      "favorite": "Spurs",
+      "spread": "-5.5",
+      "over_under": "241.5",
+      "time": "7:00"
+    },
+    {
+      "matchup": "DET @ DAL",
+      "favorite": "Pistons",
+      "spread": "-8.5",
+      "over_under": "236",
+      "time": "7:30"
+    },
+    {
+      "matchup": "DAL vs DET",
+      "favorite": "Pistons",
+      "spread": "+8.5",
+      "over_under": "236",
+      "time": "7:30"
+    },
+    {
+      "matchup": "BOS @ UTA",
+      "favorite": "Celtics",
+      "spread": "-13",
+      "over_under": "227.5",
+      "time": "8:30"
+    },
+    {
+      "matchup": "UTA vs BOS",
+      "favorite": "Celtics",
+      "spread": "+13",
+      "over_under": "227.5",
+      "time": "8:30"
+    },
+    {
+      "matchup": "CLE @ PHX",
+      "favorite": "Cavaliers",
+      "spread": "-7.5",
+      "over_under": "239",
+      "time": "9:00"
+    },
+    {
+      "matchup": "PHX vs CLE",
+      "favorite": "Cavaliers",
+      "spread": "+7.5",
+      "over_under": "239",
+      "time": "9:00"
+    },
+    {
+      "matchup": "DEN @ POR",
+      "favorite": "Nuggets",
+      "spread": "-1",
+      "over_under": "225.5",
+      "time": "9:00"
+    },
+    {
+      "matchup": "POR vs DEN",
+      "favorite": "Nuggets",
+      "spread": "+1",
+      "over_under": "225.5",
+      "time": "9:00"
+    },
+    {
+      "matchup": "MEM @ LAC",
+      "favorite": "Clippers",
       "spread": "+7",
-      "over_under": "234.5",
-      "time": "9:00"
-    },
-    {
-      "matchup": "SAC vs CHI",
-      "favorite": "Kings",
-      "spread": "-7",
-      "over_under": "234.5",
-      "time": "9:00"
-    },
-    {
-      "matchup": "TOR @ GSW",
-      "favorite": "Warriors",
-      "spread": "+14.5",
-      "over_under": "224.5",
-      "time": "9:00"
-    },
-    {
-      "matchup": "GSW vs TOR",
-      "favorite": "Warriors",
-      "spread": "-14.5",
-      "over_under": "224.5",
-      "time": "9:00"
-    },
-    {
-      "matchup": "MIL @ LAL",
-      "favorite": "Bucks",
-      "spread": "-3.5",
-      "over_under": "225",
+      "over_under": "231",
       "time": "9:30"
     },
     {
-      "matchup": "LAL vs MIL",
-      "favorite": "Bucks",
-      "spread": "+3.5",
-      "over_under": "225",
+      "matchup": "LAC vs MEM",
+      "favorite": "Clippers",
+      "spread": "-7",
+      "over_under": "231",
       "time": "9:30"
     }
   ]
