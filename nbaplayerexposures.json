@@ -1,172 +1,166 @@
 [
     {
+        "player": "Aaron Gordon",
+        "exposure": 5.128205128205128
+    },
+    {
         "player": "Alex Sarr",
-        "exposure": 9.375,
-        "adp_order": 38
+        "exposure": 7.6923076923076925
     },
     {
         "player": "Anthony Edwards",
-        "exposure": 31.25,
-        "adp_order": 11
+        "exposure": 35.8974358974359
     },
     {
         "player": "Austin Reaves",
-        "exposure": 18.75,
-        "adp_order": 22
+        "exposure": 17.94871794871795
     },
     {
         "player": "CJ McCollum",
-        "exposure": 18.75,
-        "adp_order": 28
+        "exposure": 15.384615384615385
     },
     {
         "player": "Coby White",
-        "exposure": 6.25,
-        "adp_order": 17
+        "exposure": 7.6923076923076925
+    },
+    {
+        "player": "DeAndre Jordan",
+        "exposure": 2.564102564102564
     },
     {
         "player": "DeMar DeRozan",
-        "exposure": 21.875,
-        "adp_order": 23
+        "exposure": 17.94871794871795
     },
     {
         "player": "Derrick White",
-        "exposure": 9.375,
-        "adp_order": 36
+        "exposure": 7.6923076923076925
     },
     {
         "player": "Devin Booker",
-        "exposure": 31.25,
-        "adp_order": 10
+        "exposure": 33.33333333333333
     },
     {
         "player": "Domantas Sabonis",
-        "exposure": 15.625,
-        "adp_order": 30
+        "exposure": 17.94871794871795
     },
     {
         "player": "Franz Wagner",
-        "exposure": 28.125,
-        "adp_order": 14
+        "exposure": 20.51282051282051
     },
     {
         "player": "Giannis Antetokounmpo",
-        "exposure": 15.625,
-        "adp_order": 1
+        "exposure": 12.82051282051282
     },
     {
         "player": "Jamal Murray",
-        "exposure": 15.625,
-        "adp_order": 16
+        "exposure": 15.384615384615385
     },
     {
         "player": "Jaylen Brown",
-        "exposure": 40.625,
-        "adp_order": 25
+        "exposure": 38.46153846153847
     },
     {
         "player": "Jayson Tatum",
-        "exposure": 12.5,
-        "adp_order": 5
+        "exposure": 12.82051282051282
     },
     {
         "player": "Jordan Poole",
-        "exposure": 6.25,
-        "adp_order": 43
+        "exposure": 5.128205128205128
     },
     {
         "player": "Josh Giddey",
-        "exposure": 6.25,
-        "adp_order": 4
+        "exposure": 5.128205128205128
     },
     {
         "player": "Julius Randle",
-        "exposure": 28.125,
-        "adp_order": 27
+        "exposure": 20.51282051282051
+    },
+    {
+        "player": "Kelly Olynyk",
+        "exposure": 2.564102564102564
     },
     {
         "player": "Kristaps Porzingis",
-        "exposure": 3.125,
-        "adp_order": 21
+        "exposure": 7.6923076923076925
     },
     {
         "player": "LeBron James",
-        "exposure": 25.0,
-        "adp_order": 6
+        "exposure": 23.076923076923077
     },
     {
         "player": "Luka Doncic",
-        "exposure": 18.75,
-        "adp_order": 2
+        "exposure": 15.384615384615385
     },
     {
         "player": "Malik Monk",
-        "exposure": 15.625,
-        "adp_order": 32
+        "exposure": 15.384615384615385
+    },
+    {
+        "player": "Michael Porter Jr.",
+        "exposure": 2.564102564102564
     },
     {
         "player": "Myles Turner",
-        "exposure": 21.875,
-        "adp_order": 29
+        "exposure": 20.51282051282051
+    },
+    {
+        "player": "Naji Marshall",
+        "exposure": 7.6923076923076925
+    },
+    {
+        "player": "Nic Claxton",
+        "exposure": 2.564102564102564
     },
     {
         "player": "Nikola Jokic",
-        "exposure": 18.75,
-        "adp_order": 8
+        "exposure": 15.384615384615385
     },
     {
         "player": "Nikola Vucevic",
-        "exposure": 31.25,
-        "adp_order": 15
+        "exposure": 25.64102564102564
     },
     {
         "player": "PJ Washington",
-        "exposure": 3.125,
-        "adp_order": 18
+        "exposure": 5.128205128205128
     },
     {
         "player": "Paolo Banchero",
-        "exposure": 28.125,
-        "adp_order": 3
+        "exposure": 33.33333333333333
     },
     {
         "player": "Pascal Siakam",
-        "exposure": 12.5,
-        "adp_order": 20
+        "exposure": 15.384615384615385
     },
     {
         "player": "Quentin Grimes",
-        "exposure": 6.25,
-        "adp_order": 12
+        "exposure": 5.128205128205128
+    },
+    {
+        "player": "Rudy Gobert",
+        "exposure": 2.564102564102564
     },
     {
         "player": "Russell Westbrook",
-        "exposure": 18.75,
-        "adp_order": 31
+        "exposure": 17.94871794871795
     },
     {
         "player": "Scottie Barnes",
-        "exposure": 15.625,
-        "adp_order": 19
+        "exposure": 17.94871794871795
     },
     {
         "player": "Tyrese Haliburton",
-        "exposure": 9.375,
-        "adp_order": 9
+        "exposure": 10.256410256410255
     },
     {
         "player": "Tyrese Maxey",
-        "exposure": 3.125,
-        "adp_order": 44
+        "exposure": 2.564102564102564
     },
     {
         "player": "Zach LaVine",
-        "exposure": 40.625,
-        "adp_order": 34
+        "exposure": 41.02564102564102
     },
     {
         "player": "Zion Williamson",
-        "exposure": 12.5,
-        "adp_order": 13
+        "exposure": 10.256410256410255
     }
 ]
