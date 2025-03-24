@@ -1,138 +1,172 @@
 [
     {
-        "player": "Alex Karaban",
-        "exposure": 10.0
+        "player": "Alex Sarr",
+        "exposure": 9.375,
+        "adp_order": 38
     },
     {
-        "player": "Alvaro Folgueiras",
-        "exposure": 20.0
+        "player": "Anthony Edwards",
+        "exposure": 31.25,
+        "adp_order": 11
     },
     {
-        "player": "Amari Williams",
-        "exposure": 15.0
+        "player": "Austin Reaves",
+        "exposure": 18.75,
+        "adp_order": 22
     },
     {
-        "player": "Amarion Dickerson",
-        "exposure": 40.0
+        "player": "CJ McCollum",
+        "exposure": 18.75,
+        "adp_order": 28
     },
     {
-        "player": "Andrew Carr",
-        "exposure": 15.0
+        "player": "Coby White",
+        "exposure": 6.25,
+        "adp_order": 17
     },
     {
-        "player": "Augustas Marciulionis",
-        "exposure": 15.0
+        "player": "DeMar DeRozan",
+        "exposure": 21.875,
+        "adp_order": 23
     },
     {
-        "player": "Connor Withers",
-        "exposure": 5.0
+        "player": "Derrick White",
+        "exposure": 9.375,
+        "adp_order": 36
     },
     {
-        "player": "Cooper Flagg",
-        "exposure": 5.0
+        "player": "Devin Booker",
+        "exposure": 31.25,
+        "adp_order": 10
     },
     {
-        "player": "David Joplin",
-        "exposure": 25.0
+        "player": "Domantas Sabonis",
+        "exposure": 15.625,
+        "adp_order": 30
     },
     {
-        "player": "Derik Queen",
-        "exposure": 5.0
+        "player": "Franz Wagner",
+        "exposure": 28.125,
+        "adp_order": 14
     },
     {
-        "player": "Dola Adebayo",
-        "exposure": 5.0
+        "player": "Giannis Antetokounmpo",
+        "exposure": 15.625,
+        "adp_order": 1
     },
     {
-        "player": "Donovan Dent",
-        "exposure": 10.0
+        "player": "Jamal Murray",
+        "exposure": 15.625,
+        "adp_order": 16
     },
     {
-        "player": "Earl Timberlake",
-        "exposure": 15.0
+        "player": "Jaylen Brown",
+        "exposure": 40.625,
+        "adp_order": 25
     },
     {
-        "player": "Jase Richardson",
-        "exposure": 20.0
+        "player": "Jayson Tatum",
+        "exposure": 12.5,
+        "adp_order": 5
     },
     {
-        "player": "Jaxon Kohler",
-        "exposure": 10.0
+        "player": "Jordan Poole",
+        "exposure": 6.25,
+        "adp_order": 43
     },
     {
-        "player": "Joshua Jefferson",
-        "exposure": 40.0
+        "player": "Josh Giddey",
+        "exposure": 6.25,
+        "adp_order": 4
     },
     {
-        "player": "Kam Jones",
-        "exposure": 15.0
+        "player": "Julius Randle",
+        "exposure": 28.125,
+        "adp_order": 27
     },
     {
-        "player": "Kam Woods",
-        "exposure": 50.0
+        "player": "Kristaps Porzingis",
+        "exposure": 3.125,
+        "adp_order": 21
     },
     {
-        "player": "Kon Knueppel",
-        "exposure": 10.0
+        "player": "LeBron James",
+        "exposure": 25.0,
+        "adp_order": 6
     },
     {
-        "player": "Labaron Philon",
-        "exposure": 15.0
+        "player": "Luka Doncic",
+        "exposure": 18.75,
+        "adp_order": 2
     },
     {
-        "player": "Mark Sears",
-        "exposure": 5.0
+        "player": "Malik Monk",
+        "exposure": 15.625,
+        "adp_order": 32
     },
     {
-        "player": "Nelly Junior Joseph",
-        "exposure": 20.0
+        "player": "Myles Turner",
+        "exposure": 21.875,
+        "adp_order": 29
     },
     {
-        "player": "Nique Clifford",
-        "exposure": 30.0
+        "player": "Nikola Jokic",
+        "exposure": 18.75,
+        "adp_order": 8
     },
     {
-        "player": "Norchad Omier",
-        "exposure": 5.0
+        "player": "Nikola Vucevic",
+        "exposure": 31.25,
+        "adp_order": 15
     },
     {
-        "player": "Otega Oweh",
-        "exposure": 15.0
+        "player": "PJ Washington",
+        "exposure": 3.125,
+        "adp_order": 18
     },
     {
-        "player": "PJ Haggerty",
-        "exposure": 10.0
+        "player": "Paolo Banchero",
+        "exposure": 28.125,
+        "adp_order": 3
     },
     {
-        "player": "Ryan Prather",
-        "exposure": 5.0
+        "player": "Pascal Siakam",
+        "exposure": 12.5,
+        "adp_order": 20
     },
     {
-        "player": "Tarris Reed Jr.",
-        "exposure": 5.0
+        "player": "Quentin Grimes",
+        "exposure": 6.25,
+        "adp_order": 12
     },
     {
-        "player": "Tayton Conerway",
-        "exposure": 45.0
+        "player": "Russell Westbrook",
+        "exposure": 18.75,
+        "adp_order": 31
     },
     {
-        "player": "Thomas Dowd",
-        "exposure": 15.0
+        "player": "Scottie Barnes",
+        "exposure": 15.625,
+        "adp_order": 19
     },
     {
-        "player": "Tyon Grant-Foster",
-        "exposure": 70.0
+        "player": "Tyrese Haliburton",
+        "exposure": 9.375,
+        "adp_order": 9
     },
     {
-        "player": "VJ Edgecombe",
-        "exposure": 20.0
+        "player": "Tyrese Maxey",
+        "exposure": 3.125,
+        "adp_order": 44
     },
     {
-        "player": "Ven-Allen Lubin",
-        "exposure": 5.0
+        "player": "Zach LaVine",
+        "exposure": 40.625,
+        "adp_order": 34
     },
     {
-        "player": "Walter Clayton Jr.",
-        "exposure": 5.0
+        "player": "Zion Williamson",
+        "exposure": 12.5,
+        "adp_order": 13
     }
 ]
