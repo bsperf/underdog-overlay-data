@@ -1,166 +1,167 @@
 [
     {
-        "player": "Aaron Gordon",
-        "exposure": 5.128205128205128
+        "player": "Walker Kessler",
+        "exposure": 33.33,
+        "adp_order": 25
     },
     {
-        "player": "Alex Sarr",
-        "exposure": 7.6923076923076925
+        "player": "Anthony Davis",
+        "exposure": 33.33,
+        "adp_order": 29
     },
     {
-        "player": "Anthony Edwards",
-        "exposure": 35.8974358974359
+        "player": "Bam Adebayo",
+        "exposure": 33.33,
+        "adp_order": 9
     },
     {
-        "player": "Austin Reaves",
-        "exposure": 17.94871794871795
+        "player": "Cade Cunningham",
+        "exposure": 33.33,
+        "adp_order": 5
     },
     {
-        "player": "CJ McCollum",
-        "exposure": 15.384615384615385
+        "player": "Josh Hart",
+        "exposure": 33.33,
+        "adp_order": 20
     },
     {
-        "player": "Coby White",
-        "exposure": 7.6923076923076925
+        "player": "Stephen Curry",
+        "exposure": 28.57,
+        "adp_order": 30
     },
     {
-        "player": "DeAndre Jordan",
-        "exposure": 2.564102564102564
+        "player": "Dyson Daniels",
+        "exposure": 23.81,
+        "adp_order": 22
     },
     {
-        "player": "DeMar DeRozan",
-        "exposure": 17.94871794871795
+        "player": "Onyeka Okongwu",
+        "exposure": 23.81,
+        "adp_order": 17
     },
     {
-        "player": "Derrick White",
-        "exposure": 7.6923076923076925
-    },
-    {
-        "player": "Devin Booker",
-        "exposure": 33.33333333333333
+        "player": "Karl-Anthony Towns",
+        "exposure": 23.81,
+        "adp_order": 2
     },
     {
         "player": "Domantas Sabonis",
-        "exposure": 17.94871794871795
+        "exposure": 23.81,
+        "adp_order": 19
     },
     {
-        "player": "Franz Wagner",
-        "exposure": 20.51282051282051
+        "player": "Desmond Bane",
+        "exposure": 23.81,
+        "adp_order": 13
     },
     {
-        "player": "Giannis Antetokounmpo",
-        "exposure": 12.82051282051282
+        "player": "Evan Mobley",
+        "exposure": 23.81,
+        "adp_order": 8
     },
     {
-        "player": "Jamal Murray",
-        "exposure": 15.384615384615385
+        "player": "Jalen Green",
+        "exposure": 19.05,
+        "adp_order": 31
     },
     {
-        "player": "Jaylen Brown",
-        "exposure": 38.46153846153847
+        "player": "Jalen Williams",
+        "exposure": 19.05,
+        "adp_order": 32
     },
     {
-        "player": "Jayson Tatum",
-        "exposure": 12.82051282051282
+        "player": "Amen Thompson",
+        "exposure": 19.05,
+        "adp_order": 16
     },
     {
-        "player": "Jordan Poole",
-        "exposure": 5.128205128205128
-    },
-    {
-        "player": "Josh Giddey",
-        "exposure": 5.128205128205128
-    },
-    {
-        "player": "Julius Randle",
-        "exposure": 20.51282051282051
-    },
-    {
-        "player": "Kelly Olynyk",
-        "exposure": 2.564102564102564
-    },
-    {
-        "player": "Kristaps Porzingis",
-        "exposure": 7.6923076923076925
-    },
-    {
-        "player": "LeBron James",
-        "exposure": 23.076923076923077
-    },
-    {
-        "player": "Luka Doncic",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Malik Monk",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Michael Porter Jr.",
-        "exposure": 2.564102564102564
-    },
-    {
-        "player": "Myles Turner",
-        "exposure": 20.51282051282051
-    },
-    {
-        "player": "Naji Marshall",
-        "exposure": 7.6923076923076925
-    },
-    {
-        "player": "Nic Claxton",
-        "exposure": 2.564102564102564
-    },
-    {
-        "player": "Nikola Jokic",
-        "exposure": 15.384615384615385
-    },
-    {
-        "player": "Nikola Vucevic",
-        "exposure": 25.64102564102564
+        "player": "Jimmy Butler",
+        "exposure": 19.05,
+        "adp_order": 7
     },
     {
         "player": "PJ Washington",
-        "exposure": 5.128205128205128
+        "exposure": 19.05,
+        "adp_order": 24
     },
     {
-        "player": "Paolo Banchero",
-        "exposure": 33.33333333333333
+        "player": "Trae Young",
+        "exposure": 14.29,
+        "adp_order": 4
     },
     {
-        "player": "Pascal Siakam",
-        "exposure": 15.384615384615385
+        "player": "Chet Holmgren",
+        "exposure": 14.29,
+        "adp_order": 40
     },
     {
-        "player": "Quentin Grimes",
-        "exposure": 5.128205128205128
+        "player": "LaMelo Ball",
+        "exposure": 14.29,
+        "adp_order": 10
     },
     {
-        "player": "Rudy Gobert",
-        "exposure": 2.564102564102564
+        "player": "Fred VanVleet",
+        "exposure": 14.29,
+        "adp_order": 38
     },
     {
-        "player": "Russell Westbrook",
-        "exposure": 17.94871794871795
+        "player": "Miles Bridges",
+        "exposure": 14.29,
+        "adp_order": 21
     },
     {
-        "player": "Scottie Barnes",
-        "exposure": 17.94871794871795
+        "player": "Tyler Herro",
+        "exposure": 14.29,
+        "adp_order": 14
     },
     {
-        "player": "Tyrese Haliburton",
-        "exposure": 10.256410256410255
+        "player": "Deni Avdija",
+        "exposure": 9.52,
+        "adp_order": 15
     },
     {
-        "player": "Tyrese Maxey",
-        "exposure": 2.564102564102564
+        "player": "Shai Gilgeous-Alexander",
+        "exposure": 9.52,
+        "adp_order": 1
+    },
+    {
+        "player": "Mark Williams",
+        "exposure": 9.52,
+        "adp_order": 27
+    },
+    {
+        "player": "Jarrett Allen",
+        "exposure": 9.52,
+        "adp_order": 39
     },
     {
         "player": "Zach LaVine",
-        "exposure": 41.02564102564102
+        "exposure": 9.52,
+        "adp_order": 45
     },
     {
-        "player": "Zion Williamson",
-        "exposure": 10.256410256410255
+        "player": "Darius Garland",
+        "exposure": 9.52,
+        "adp_order": 18
+    },
+    {
+        "player": "Jaren Jackson Jr.",
+        "exposure": 9.52,
+        "adp_order": 12
+    },
+    {
+        "player": "Stephon Castle",
+        "exposure": 4.76,
+        "adp_order": 57
+    },
+    {
+        "player": "Alperen Sengun",
+        "exposure": 4.76,
+        "adp_order": 6
+    },
+    {
+        "player": "Paolo Banchero",
+        "exposure": 4.76,
+        "adp_order": 3
     }
 ]
