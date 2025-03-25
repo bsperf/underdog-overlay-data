@@ -1,167 +1,182 @@
 [
     {
-        "player": "Walker Kessler",
-        "adp_order": 25,
-        "exposure": 28.12
-    },
-    {
-        "player": "Anthony Davis",
-        "adp_order": 29,
-        "exposure": 21.88
-    },
-    {
-        "player": "Bam Adebayo",
-        "adp_order": 9,
-        "exposure": 31.25
-    },
-    {
-        "player": "Cade Cunningham",
-        "adp_order": 5,
-        "exposure": 21.88
-    },
-    {
         "player": "Josh Hart",
-        "adp_order": 20,
-        "exposure": 28.12
-    },
-    {
-        "player": "Stephen Curry",
-        "adp_order": 30,
-        "exposure": 25.0
-    },
-    {
-        "player": "Dyson Daniels",
-        "adp_order": 22,
-        "exposure": 15.62
+        "exposure": 26.83
     },
     {
         "player": "Onyeka Okongwu",
-        "adp_order": 17,
-        "exposure": 18.75
-    },
-    {
-        "player": "Karl-Anthony Towns",
-        "adp_order": 2,
-        "exposure": 25.0
+        "exposure": 26.83
     },
     {
         "player": "Domantas Sabonis",
-        "adp_order": 19,
-        "exposure": 15.62
+        "exposure": 24.39
+    },
+    {
+        "player": "Bam Adebayo",
+        "exposure": 24.39
+    },
+    {
+        "player": "Walker Kessler",
+        "exposure": 24.39
+    },
+    {
+        "player": "Stephen Curry",
+        "exposure": 21.95
     },
     {
         "player": "Desmond Bane",
-        "adp_order": 13,
-        "exposure": 25.0
+        "exposure": 21.95
+    },
+    {
+        "player": "Karl-Anthony Towns",
+        "exposure": 21.95
     },
     {
         "player": "Evan Mobley",
-        "adp_order": 8,
-        "exposure": 25.0
-    },
-    {
-        "player": "Jalen Green",
-        "adp_order": 31,
-        "exposure": 15.62
-    },
-    {
-        "player": "Jalen Williams",
-        "adp_order": 32,
-        "exposure": 15.62
+        "exposure": 21.95
     },
     {
         "player": "Amen Thompson",
-        "adp_order": 16,
-        "exposure": 18.75
+        "exposure": 19.51
     },
     {
-        "player": "Jimmy Butler",
-        "adp_order": 7,
-        "exposure": 15.62
+        "player": "Jalen Williams",
+        "exposure": 19.51
     },
     {
-        "player": "PJ Washington",
-        "adp_order": 24,
-        "exposure": 18.75
-    },
-    {
-        "player": "Trae Young",
-        "adp_order": 4,
-        "exposure": 12.5
-    },
-    {
-        "player": "Chet Holmgren",
-        "adp_order": 40,
-        "exposure": 15.62
-    },
-    {
-        "player": "LaMelo Ball",
-        "adp_order": 10,
-        "exposure": 15.62
-    },
-    {
-        "player": "Fred VanVleet",
-        "adp_order": 38,
-        "exposure": 12.5
-    },
-    {
-        "player": "Miles Bridges",
-        "adp_order": 21,
-        "exposure": 15.62
-    },
-    {
-        "player": "Tyler Herro",
-        "adp_order": 14,
-        "exposure": 6.25
-    },
-    {
-        "player": "Deni Avdija",
-        "adp_order": 15,
-        "exposure": 15.62
-    },
-    {
-        "player": "Shai Gilgeous-Alexander",
-        "adp_order": 1,
-        "exposure": 9.38
+        "player": "Cade Cunningham",
+        "exposure": 17.07
     },
     {
         "player": "Mark Williams",
-        "adp_order": 27,
-        "exposure": 18.75
-    },
-    {
-        "player": "Jarrett Allen",
-        "adp_order": 39,
-        "exposure": 6.25
-    },
-    {
-        "player": "Zach LaVine",
-        "adp_order": 45,
-        "exposure": 9.38
-    },
-    {
-        "player": "Darius Garland",
-        "adp_order": 18,
-        "exposure": 15.62
+        "exposure": 17.07
     },
     {
         "player": "Jaren Jackson Jr.",
-        "adp_order": 12,
-        "exposure": 18.75
+        "exposure": 17.07
     },
     {
-        "player": "Stephon Castle",
-        "adp_order": 57,
-        "exposure": 3.12
+        "player": "Anthony Davis",
+        "exposure": 17.07
+    },
+    {
+        "player": "Dyson Daniels",
+        "exposure": 17.07
+    },
+    {
+        "player": "Chet Holmgren",
+        "exposure": 14.63
+    },
+    {
+        "player": "Jimmy Butler",
+        "exposure": 14.63
+    },
+    {
+        "player": "LaMelo Ball",
+        "exposure": 14.63
+    },
+    {
+        "player": "Darius Garland",
+        "exposure": 14.63
     },
     {
         "player": "Alperen Sengun",
-        "adp_order": 6,
-        "exposure": 9.38
+        "exposure": 14.63
+    },
+    {
+        "player": "Deni Avdija",
+        "exposure": 14.63
+    },
+    {
+        "player": "PJ Washington",
+        "exposure": 14.63
+    },
+    {
+        "player": "Trae Young",
+        "exposure": 14.63
+    },
+    {
+        "player": "Shai Gilgeous-Alexander",
+        "exposure": 12.2
+    },
+    {
+        "player": "Jalen Green",
+        "exposure": 12.2
+    },
+    {
+        "player": "Fred VanVleet",
+        "exposure": 12.2
+    },
+    {
+        "player": "Miles Bridges",
+        "exposure": 12.2
     },
     {
         "player": "Paolo Banchero",
-        "adp_order": 3,
-        "exposure": 9.38
+        "exposure": 9.76
+    },
+    {
+        "player": "OG Anunoby",
+        "exposure": 9.76
+    },
+    {
+        "player": "Isaiah Hartenstein",
+        "exposure": 7.32
+    },
+    {
+        "player": "Franz Wagner",
+        "exposure": 7.32
+    },
+    {
+        "player": "Keyonte George",
+        "exposure": 7.32
+    },
+    {
+        "player": "Jarrett Allen",
+        "exposure": 7.32
+    },
+    {
+        "player": "Zach LaVine",
+        "exposure": 7.32
+    },
+    {
+        "player": "Tyler Herro",
+        "exposure": 7.32
+    },
+    {
+        "player": "Jalen Duren",
+        "exposure": 4.88
+    },
+    {
+        "player": "Andrew Wiggins",
+        "exposure": 4.88
+    },
+    {
+        "player": "Malik Monk",
+        "exposure": 4.88
+    },
+    {
+        "player": "Stephon Castle",
+        "exposure": 4.88
+    },
+    {
+        "player": "Shaedon Sharpe",
+        "exposure": 2.44
+    },
+    {
+        "player": "Santi Aldama",
+        "exposure": 2.44
+    },
+    {
+        "player": "Spencer Dinwiddie",
+        "exposure": 2.44
+    },
+    {
+        "player": "Devin Vassell",
+        "exposure": 2.44
+    },
+    {
+        "player": "Naji Marshall",
+        "exposure": 2.44
     }
 ]
