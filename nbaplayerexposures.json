@@ -1,167 +1,167 @@
 [
     {
-        "player": "Walker Kessler",
-        "exposure": 33.33,
-        "adp_order": 25
+        "player":"Walker Kessler",
+        "adp_order":25,
+        "exposure":32.0
     },
     {
-        "player": "Anthony Davis",
-        "exposure": 33.33,
-        "adp_order": 29
+        "player":"Anthony Davis",
+        "adp_order":29,
+        "exposure":28.0
     },
     {
-        "player": "Bam Adebayo",
-        "exposure": 33.33,
-        "adp_order": 9
+        "player":"Bam Adebayo",
+        "adp_order":9,
+        "exposure":36.0
     },
     {
-        "player": "Cade Cunningham",
-        "exposure": 33.33,
-        "adp_order": 5
+        "player":"Cade Cunningham",
+        "adp_order":5,
+        "exposure":24.0
     },
     {
-        "player": "Josh Hart",
-        "exposure": 33.33,
-        "adp_order": 20
+        "player":"Josh Hart",
+        "adp_order":20,
+        "exposure":36.0
     },
     {
-        "player": "Stephen Curry",
-        "exposure": 28.57,
-        "adp_order": 30
+        "player":"Stephen Curry",
+        "adp_order":30,
+        "exposure":28.0
     },
     {
-        "player": "Dyson Daniels",
-        "exposure": 23.81,
-        "adp_order": 22
+        "player":"Dyson Daniels",
+        "adp_order":22,
+        "exposure":20.0
     },
     {
-        "player": "Onyeka Okongwu",
-        "exposure": 23.81,
-        "adp_order": 17
+        "player":"Onyeka Okongwu",
+        "adp_order":17,
+        "exposure":20.0
     },
     {
-        "player": "Karl-Anthony Towns",
-        "exposure": 23.81,
-        "adp_order": 2
+        "player":"Karl-Anthony Towns",
+        "adp_order":2,
+        "exposure":24.0
     },
     {
-        "player": "Domantas Sabonis",
-        "exposure": 23.81,
-        "adp_order": 19
+        "player":"Domantas Sabonis",
+        "adp_order":19,
+        "exposure":20.0
     },
     {
-        "player": "Desmond Bane",
-        "exposure": 23.81,
-        "adp_order": 13
+        "player":"Desmond Bane",
+        "adp_order":13,
+        "exposure":28.0
     },
     {
-        "player": "Evan Mobley",
-        "exposure": 23.81,
-        "adp_order": 8
+        "player":"Evan Mobley",
+        "adp_order":8,
+        "exposure":28.0
     },
     {
-        "player": "Jalen Green",
-        "exposure": 19.05,
-        "adp_order": 31
+        "player":"Jalen Green",
+        "adp_order":31,
+        "exposure":16.0
     },
     {
-        "player": "Jalen Williams",
-        "exposure": 19.05,
-        "adp_order": 32
+        "player":"Jalen Williams",
+        "adp_order":32,
+        "exposure":16.0
     },
     {
-        "player": "Amen Thompson",
-        "exposure": 19.05,
-        "adp_order": 16
+        "player":"Amen Thompson",
+        "adp_order":16,
+        "exposure":20.0
     },
     {
-        "player": "Jimmy Butler",
-        "exposure": 19.05,
-        "adp_order": 7
+        "player":"Jimmy Butler",
+        "adp_order":7,
+        "exposure":16.0
     },
     {
-        "player": "PJ Washington",
-        "exposure": 19.05,
-        "adp_order": 24
+        "player":"PJ Washington",
+        "adp_order":24,
+        "exposure":16.0
     },
     {
-        "player": "Trae Young",
-        "exposure": 14.29,
-        "adp_order": 4
+        "player":"Trae Young",
+        "adp_order":4,
+        "exposure":16.0
     },
     {
-        "player": "Chet Holmgren",
-        "exposure": 14.29,
-        "adp_order": 40
+        "player":"Chet Holmgren",
+        "adp_order":40,
+        "exposure":16.0
     },
     {
-        "player": "LaMelo Ball",
-        "exposure": 14.29,
-        "adp_order": 10
+        "player":"LaMelo Ball",
+        "adp_order":10,
+        "exposure":12.0
     },
     {
-        "player": "Fred VanVleet",
-        "exposure": 14.29,
-        "adp_order": 38
+        "player":"Fred VanVleet",
+        "adp_order":38,
+        "exposure":16.0
     },
     {
-        "player": "Miles Bridges",
-        "exposure": 14.29,
-        "adp_order": 21
+        "player":"Miles Bridges",
+        "adp_order":21,
+        "exposure":12.0
     },
     {
-        "player": "Tyler Herro",
-        "exposure": 14.29,
-        "adp_order": 14
+        "player":"Tyler Herro",
+        "adp_order":14,
+        "exposure":8.0
     },
     {
-        "player": "Deni Avdija",
-        "exposure": 9.52,
-        "adp_order": 15
+        "player":"Deni Avdija",
+        "adp_order":15,
+        "exposure":8.0
     },
     {
-        "player": "Shai Gilgeous-Alexander",
-        "exposure": 9.52,
-        "adp_order": 1
+        "player":"Shai Gilgeous-Alexander",
+        "adp_order":1,
+        "exposure":8.0
     },
     {
-        "player": "Mark Williams",
-        "exposure": 9.52,
-        "adp_order": 27
+        "player":"Mark Williams",
+        "adp_order":27,
+        "exposure":16.0
     },
     {
-        "player": "Jarrett Allen",
-        "exposure": 9.52,
-        "adp_order": 39
+        "player":"Jarrett Allen",
+        "adp_order":39,
+        "exposure":8.0
     },
     {
-        "player": "Zach LaVine",
-        "exposure": 9.52,
-        "adp_order": 45
+        "player":"Zach LaVine",
+        "adp_order":45,
+        "exposure":12.0
     },
     {
-        "player": "Darius Garland",
-        "exposure": 9.52,
-        "adp_order": 18
+        "player":"Darius Garland",
+        "adp_order":18,
+        "exposure":12.0
     },
     {
-        "player": "Jaren Jackson Jr.",
-        "exposure": 9.52,
-        "adp_order": 12
+        "player":"Jaren Jackson Jr.",
+        "adp_order":12,
+        "exposure":16.0
     },
     {
-        "player": "Stephon Castle",
-        "exposure": 4.76,
-        "adp_order": 57
+        "player":"Stephon Castle",
+        "adp_order":57,
+        "exposure":4.0
     },
     {
-        "player": "Alperen Sengun",
-        "exposure": 4.76,
-        "adp_order": 6
+        "player":"Alperen Sengun",
+        "adp_order":6,
+        "exposure":12.0
     },
     {
-        "player": "Paolo Banchero",
-        "exposure": 4.76,
-        "adp_order": 3
+        "player":"Paolo Banchero",
+        "adp_order":3,
+        "exposure":4.0
     }
 ]
