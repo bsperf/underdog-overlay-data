@@ -3,14 +3,14 @@
     {
       "matchup": "SAS @ DET",
       "favorite": "Pistons",
-      "spread": "-9.5",
+      "spread": "+9.5",
       "over_under": "235",
       "time": "7:00"
     },
     {
       "matchup": "DET vs SAS",
       "favorite": "Pistons",
-      "spread": "+9.5",
+      "spread": "-9.5",
       "over_under": "235",
       "time": "7:00"
     },
@@ -45,28 +45,28 @@
     {
       "matchup": "DAL @ NYK",
       "favorite": "Knicks",
-      "spread": "-9.5",
+      "spread": "+9.5",
       "over_under": "224",
       "time": "7:30"
     },
     {
       "matchup": "NYK vs DAL",
       "favorite": "Knicks",
-      "spread": "+9.5",
+      "spread": "-9.5",
       "over_under": "224",
       "time": "7:30"
     },
     {
       "matchup": "ATL @ HOU",
       "favorite": "Rockets",
-      "spread": "-8",
+      "spread": "+8",
       "over_under": "234.5",
       "time": "8:00"
     },
     {
       "matchup": "HOU vs ATL",
       "favorite": "Rockets",
-      "spread": "+8",
+      "spread": "-8",
       "over_under": "234.5",
       "time": "8:00"
     },
