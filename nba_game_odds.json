@@ -1,116 +1,88 @@
 {
   "games": [
     {
-      "matchup": "SAS @ DET",
-      "favorite": "Pistons",
-      "spread": "+9.5",
-      "over_under": "235",
-      "time": "7:00"
+      "matchup": "WAS @ PHI",
+      "favorite": "76ers",
+      "spread": "+3",
+      "over_under": "230",
+      "time": "7:00 PM ET"
     },
     {
-      "matchup": "DET vs SAS",
-      "favorite": "Pistons",
-      "spread": "-9.5",
-      "over_under": "235",
-      "time": "7:00"
+      "matchup": "PHI vs WAS",
+      "favorite": "76ers",
+      "spread": "-3",
+      "over_under": "230",
+      "time": "7:00 PM ET"
     },
     {
-      "matchup": "ORL @ CHA",
-      "favorite": "Magic",
-      "spread": "-5",
-      "over_under": "211.5",
-      "time": "7:00"
+      "matchup": "LAL @ IND",
+      "favorite": "Lakers",
+      "spread": "-1.5",
+      "over_under": "235.5",
+      "time": "7:30 PM ET"
     },
     {
-      "matchup": "CHA vs ORL",
-      "favorite": "Magic",
-      "spread": "+5",
-      "over_under": "211.5",
-      "time": "7:00"
+      "matchup": "IND vs LAL",
+      "favorite": "Lakers",
+      "spread": "+1.5",
+      "over_under": "235.5",
+      "time": "7:30 PM ET"
     },
     {
-      "matchup": "GSW @ MIA",
-      "favorite": "Warriors",
-      "spread": "-4.5",
+      "matchup": "TOR @ BKN",
+      "favorite": "Nets",
+      "spread": "+2.5",
+      "over_under": "215",
+      "time": "7:30 PM ET"
+    },
+    {
+      "matchup": "BKN vs TOR",
+      "favorite": "Nets",
+      "spread": "-2.5",
+      "over_under": "215",
+      "time": "7:30 PM ET"
+    },
+    {
+      "matchup": "LAC @ NYK",
+      "favorite": "Clippers",
+      "spread": "-2",
       "over_under": "217.5",
-      "time": "7:30"
+      "time": "7:30 PM ET"
     },
     {
-      "matchup": "MIA vs GSW",
-      "favorite": "Warriors",
-      "spread": "+4.5",
+      "matchup": "NYK vs LAC",
+      "favorite": "Clippers",
+      "spread": "+2",
       "over_under": "217.5",
-      "time": "7:30"
+      "time": "7:30 PM ET"
     },
     {
-      "matchup": "DAL @ NYK",
-      "favorite": "Knicks",
-      "spread": "+9.5",
-      "over_under": "224",
-      "time": "7:30"
+      "matchup": "MIL @ DEN",
+      "favorite": "Nuggets",
+      "spread": "+6",
+      "over_under": "222.5",
+      "time": "9:10 PM ET"
     },
     {
-      "matchup": "NYK vs DAL",
-      "favorite": "Knicks",
-      "spread": "-9.5",
-      "over_under": "224",
-      "time": "7:30"
+      "matchup": "DEN vs MIL",
+      "favorite": "Nuggets",
+      "spread": "-6",
+      "over_under": "222.5",
+      "time": "9:10 PM ET"
     },
     {
-      "matchup": "ATL @ HOU",
-      "favorite": "Rockets",
-      "spread": "+8",
-      "over_under": "234.5",
-      "time": "8:00"
+      "matchup": "BOS @ PHX",
+      "favorite": "Celtics",
+      "spread": "-3.5",
+      "over_under": "222.5",
+      "time": "10:00 PM ET"
     },
     {
-      "matchup": "HOU vs ATL",
-      "favorite": "Rockets",
-      "spread": "-8",
-      "over_under": "234.5",
-      "time": "8:00"
-    },
-    {
-      "matchup": "MEM @ UTA",
-      "favorite": "Grizzlies",
-      "spread": "-10",
-      "over_under": "240.5",
-      "time": "9:00"
-    },
-    {
-      "matchup": "UTA vs MEM",
-      "favorite": "Grizzlies",
-      "spread": "+10",
-      "over_under": "240.5",
-      "time": "9:00"
-    },
-    {
-      "matchup": "OKC @ SAC",
-      "favorite": "Thunder",
-      "spread": "-10",
-      "over_under": "231",
-      "time": "10:00"
-    },
-    {
-      "matchup": "SAC vs OKC",
-      "favorite": "Thunder",
-      "spread": "+10",
-      "over_under": "231",
-      "time": "10:00"
-    },
-    {
-      "matchup": "CLE @ POR",
-      "favorite": "Cavaliers",
-      "spread": "-6.5",
-      "over_under": "230.5",
-      "time": "10:00"
-    },
-    {
-      "matchup": "POR vs CLE",
-      "favorite": "Cavaliers",
-      "spread": "+6.5",
-      "over_under": "230.5",
-      "time": "10:00"
+      "matchup": "PHX vs BOS",
+      "favorite": "Celtics",
+      "spread": "+3.5",
+      "over_under": "222.5",
+      "time": "10:00 PM ET"
     }
   ]
 }
