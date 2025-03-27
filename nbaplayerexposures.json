@@ -1,250 +1,250 @@
 [
   {
-    "player": "Sungjae Im",
-    "exposure": 7.25
+    "player": "Aaron Rai",
+    "exposure": 17.39
   },
   {
-    "player": "Taylor Pendrith",
-    "exposure": 5.8
-  },
-  {
-    "player": "Michael Kim",
-    "exposure": 5.07
-  },
-  {
-    "player": "Tony Finau",
-    "exposure": 5.07
-  },
-  {
-    "player": "Jason Day",
+    "player": "Adam Hadwin",
     "exposure": 4.35
   },
   {
-    "player": "Jake Knapp",
+    "player": "Alex Smalley",
+    "exposure": 17.39
+  },
+  {
+    "player": "Andrew Novak",
+    "exposure": 13.04
+  },
+  {
+    "player": "Austin Eckroat",
+    "exposure": 4.35
+  },
+  {
+    "player": "Beau Hossler",
+    "exposure": 8.7
+  },
+  {
+    "player": "Ben Griffin",
+    "exposure": 4.35
+  },
+  {
+    "player": "C.T. Pan",
+    "exposure": 4.35
+  },
+  {
+    "player": "Charley Hoffman",
+    "exposure": 4.35
+  },
+  {
+    "player": "Danny Walker",
     "exposure": 4.35
   },
   {
     "player": "Davis Thompson",
-    "exposure": 3.62
-  },
-  {
-    "player": "Aaron Rai",
-    "exposure": 2.9
-  },
-  {
-    "player": "Alex Smalley",
-    "exposure": 2.9
-  },
-  {
-    "player": "Scottie Scheffler",
-    "exposure": 2.9
-  },
-  {
-    "player": "Jacob Bridgeman",
-    "exposure": 2.9
-  },
-  {
-    "player": "Wyndham Clark",
-    "exposure": 2.17
-  },
-  {
-    "player": "Thomas Detry",
-    "exposure": 2.17
-  },
-  {
-    "player": "Maverick McNealy",
-    "exposure": 2.17
-  },
-  {
-    "player": "Si Woo Kim",
-    "exposure": 2.17
-  },
-  {
-    "player": "J.J. Spaun",
-    "exposure": 2.17
-  },
-  {
-    "player": "Andrew Novak",
-    "exposure": 2.17
-  },
-  {
-    "player": "Keith Mitchell",
-    "exposure": 2.17
-  },
-  {
-    "player": "Lee Hodges",
-    "exposure": 1.45
-  },
-  {
-    "player": "Victor Perez",
-    "exposure": 1.45
-  },
-  {
-    "player": "Patrick Rodgers",
-    "exposure": 1.45
-  },
-  {
-    "player": "Stephan Jaeger",
-    "exposure": 1.45
-  },
-  {
-    "player": "Sahith Theegala",
-    "exposure": 1.45
-  },
-  {
-    "player": "Patrick Fishburn",
-    "exposure": 1.45
-  },
-  {
-    "player": "Takumi Kanaya",
-    "exposure": 1.45
-  },
-  {
-    "player": "Beau Hossler",
-    "exposure": 1.45
-  },
-  {
-    "player": "Thorbjorn Olesen",
-    "exposure": 0.72
-  },
-  {
-    "player": "Max McGreevy",
-    "exposure": 0.72
-  },
-  {
-    "player": "Michael Thorbjornsen",
-    "exposure": 0.72
-  },
-  {
-    "player": "Charley Hoffman",
-    "exposure": 0.72
-  },
-  {
-    "player": "Matt Wallace",
-    "exposure": 0.72
-  },
-  {
-    "player": "Hayden Springer",
-    "exposure": 0.72
-  },
-  {
-    "player": "Justin Lower",
-    "exposure": 0.72
-  },
-  {
-    "player": "Matteo Manassero",
-    "exposure": 0.72
-  },
-  {
-    "player": "Adam Hadwin",
-    "exposure": 0.72
-  },
-  {
-    "player": "Niklas Norgaard Moller",
-    "exposure": 0.72
-  },
-  {
-    "player": "Rico Hoey",
-    "exposure": 0.72
-  },
-  {
-    "player": "Harris English",
-    "exposure": 0.72
-  },
-  {
-    "player": "Taylor Moore",
-    "exposure": 0.72
-  },
-  {
-    "player": "Seamus Power",
-    "exposure": 0.72
-  },
-  {
-    "player": "Matthew McCarty",
-    "exposure": 0.72
-  },
-  {
-    "player": "Rickie Fowler",
-    "exposure": 0.72
-  },
-  {
-    "player": "Min Woo Lee",
-    "exposure": 0.72
-  },
-  {
-    "player": "Vince Whaley",
-    "exposure": 0.72
-  },
-  {
-    "player": "Ryan Fox",
-    "exposure": 0.72
-  },
-  {
-    "player": "Danny Walker",
-    "exposure": 0.72
-  },
-  {
-    "player": "Sam Stevens",
-    "exposure": 0.72
-  },
-  {
-    "player": "Nicolai Hojgaard",
-    "exposure": 0.72
-  },
-  {
-    "player": "Nicolas Echavarria",
-    "exposure": 0.72
-  },
-  {
-    "player": "Ben Griffin",
-    "exposure": 0.72
-  },
-  {
-    "player": "Rasmus Hojgaard",
-    "exposure": 0.72
-  },
-  {
-    "player": "Austin Eckroat",
-    "exposure": 0.72
-  },
-  {
-    "player": "Kevin Yu",
-    "exposure": 0.72
-  },
-  {
-    "player": "Nick Dunlap",
-    "exposure": 0.72
-  },
-  {
-    "player": "Kurt Kitayama",
-    "exposure": 0.72
-  },
-  {
-    "player": "C.T. Pan",
-    "exposure": 0.72
+    "exposure": 21.74
   },
   {
     "player": "Doug Ghim",
-    "exposure": 0.72
-  },
-  {
-    "player": "Jhonattan Vegas",
-    "exposure": 0.72
+    "exposure": 4.35
   },
   {
     "player": "Eric Cole",
-    "exposure": 0.72
+    "exposure": 4.35
+  },
+  {
+    "player": "Harris English",
+    "exposure": 4.35
+  },
+  {
+    "player": "Hayden Springer",
+    "exposure": 4.35
+  },
+  {
+    "player": "J.J. Spaun",
+    "exposure": 13.04
+  },
+  {
+    "player": "Jacob Bridgeman",
+    "exposure": 17.39
+  },
+  {
+    "player": "Jake Knapp",
+    "exposure": 26.09
+  },
+  {
+    "player": "Jason Day",
+    "exposure": 26.09
+  },
+  {
+    "player": "Jhonattan Vegas",
+    "exposure": 4.35
+  },
+  {
+    "player": "Justin Lower",
+    "exposure": 4.35
+  },
+  {
+    "player": "Keith Mitchell",
+    "exposure": 13.04
+  },
+  {
+    "player": "Kevin Yu",
+    "exposure": 4.35
+  },
+  {
+    "player": "Kurt Kitayama",
+    "exposure": 4.35
+  },
+  {
+    "player": "Lee Hodges",
+    "exposure": 8.7
   },
   {
     "player": "Mackenzie Hughes",
-    "exposure": 0.72
+    "exposure": 4.35
+  },
+  {
+    "player": "Matt Wallace",
+    "exposure": 4.35
+  },
+  {
+    "player": "Matteo Manassero",
+    "exposure": 4.35
+  },
+  {
+    "player": "Matthew McCarty",
+    "exposure": 4.35
+  },
+  {
+    "player": "Maverick McNealy",
+    "exposure": 13.04
+  },
+  {
+    "player": "Max McGreevy",
+    "exposure": 4.35
+  },
+  {
+    "player": "Michael Kim",
+    "exposure": 30.43
+  },
+  {
+    "player": "Michael Thorbjornsen",
+    "exposure": 4.35
+  },
+  {
+    "player": "Min Woo Lee",
+    "exposure": 4.35
+  },
+  {
+    "player": "Nick Dunlap",
+    "exposure": 4.35
+  },
+  {
+    "player": "Nicolai Hojgaard",
+    "exposure": 4.35
+  },
+  {
+    "player": "Nicolas Echavarria",
+    "exposure": 4.35
+  },
+  {
+    "player": "Niklas Norgaard Moller",
+    "exposure": 4.35
+  },
+  {
+    "player": "Patrick Fishburn",
+    "exposure": 8.7
+  },
+  {
+    "player": "Patrick Rodgers",
+    "exposure": 8.7
+  },
+  {
+    "player": "Rasmus Hojgaard",
+    "exposure": 4.35
+  },
+  {
+    "player": "Rickie Fowler",
+    "exposure": 4.35
+  },
+  {
+    "player": "Rico Hoey",
+    "exposure": 4.35
+  },
+  {
+    "player": "Ryan Fox",
+    "exposure": 4.35
   },
   {
     "player": "Ryan Gerard",
-    "exposure": 0.72
+    "exposure": 4.35
   },
   {
     "player": "Ryo Hisatsune",
-    "exposure": 0.72
+    "exposure": 4.35
+  },
+  {
+    "player": "Sahith Theegala",
+    "exposure": 8.7
+  },
+  {
+    "player": "Sam Stevens",
+    "exposure": 4.35
+  },
+  {
+    "player": "Scottie Scheffler",
+    "exposure": 17.39
+  },
+  {
+    "player": "Seamus Power",
+    "exposure": 4.35
+  },
+  {
+    "player": "Si Woo Kim",
+    "exposure": 13.04
+  },
+  {
+    "player": "Stephan Jaeger",
+    "exposure": 8.7
+  },
+  {
+    "player": "Sungjae Im",
+    "exposure": 43.48
+  },
+  {
+    "player": "Takumi Kanaya",
+    "exposure": 8.7
+  },
+  {
+    "player": "Taylor Moore",
+    "exposure": 4.35
+  },
+  {
+    "player": "Taylor Pendrith",
+    "exposure": 34.78
+  },
+  {
+    "player": "Thomas Detry",
+    "exposure": 13.04
+  },
+  {
+    "player": "Thorbjorn Olesen",
+    "exposure": 4.35
+  },
+  {
+    "player": "Tony Finau",
+    "exposure": 30.43
+  },
+  {
+    "player": "Victor Perez",
+    "exposure": 8.7
+  },
+  {
+    "player": "Vince Whaley",
+    "exposure": 4.35
+  },
+  {
+    "player": "Wyndham Clark",
+    "exposure": 13.04
   }
 ]
