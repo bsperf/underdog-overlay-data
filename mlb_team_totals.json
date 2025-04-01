@@ -1,28 +1,28 @@
 {
   "games": [
     {
-      "matchup": "AZ @ NYY",
+      "matchup": "ATL @ LAD",
       "team_totals": {
-        "AZ": {
-          "over_under": "4.2"
+        "ATL": {
+          "over_under": "3.6"
         },
-        "NYY": {
-          "over_under": "4.0"
+        "LAD": {
+          "over_under": "4.1"
         }
       },
-      "time": "07:05"
+      "time": "10:05"
     },
     {
-      "matchup": "KC @ MIL",
+      "matchup": "CHC @ ATH",
       "team_totals": {
-        "KC": {
-          "over_under": "4.4"
+        "CHC": {
+          "over_under": "4.5"
         },
-        "MIL": {
-          "over_under": "4.4"
+        "ATH": {
+          "over_under": "4.2"
         }
       },
-      "time": "7:40"
+      "time": "10:05"
     }
   ]
 }
