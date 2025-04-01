@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "matchup": "NYY vs AZ",
+      "team_totals": {
+        "NYY": { "over_under": "4.5" },
+        "AZ": { "over_under": "3.5" }
+      }
+    },
+    {
+      "matchup": "CHC @ ATH",
+      "team_totals": {
+        "CHC": { "over_under": "4.2" },
+        "ATH": { "over_under": "4.0" }
+      }
+    }
+    // More matchups...
+  ]
+}
