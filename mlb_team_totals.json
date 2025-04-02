@@ -1,28 +1,52 @@
 {
   "games": [
     {
+      "matchup": "BOS @ BAL",
+      "team_totals": {
+        "BOS": {
+          "over_under": "3.8"
+        },
+        "BAL": {
+          "over_under": "3.8"
+        }
+      },
+      "time": "6:35"
+    },
+    {
+      "matchup": "COL @ PHI",
+      "team_totals": {
+        "COL": {
+          "over_under": "2.6"
+        },
+        "PHI": {
+          "over_under": "4.6"
+        }
+      },
+      "time": "6:45"
+    }
+     {
+      "matchup": "AZ @ NYY",
+      "team_totals": {
+        "AZ": {
+          "over_under": "3.9"
+        },
+        "NYY": {
+          "over_under": "4.3"
+        }
+      },
+      "time": "07:05"
+    }
+     {
       "matchup": "ATL @ LAD",
       "team_totals": {
         "ATL": {
-          "over_under": "3.6"
+          "over_under": "3.3"
         },
         "LAD": {
-          "over_under": "4.1"
+          "over_under": "4.9"
         }
       },
-      "time": "10:05"
-    },
-    {
-      "matchup": "CHC @ ATH",
-      "team_totals": {
-        "CHC": {
-          "over_under": "4.5"
-        },
-        "ATH": {
-          "over_under": "4.2"
-        }
-      },
-      "time": "10:05"
+      "time": "8:38"
     }
   ]
 }
