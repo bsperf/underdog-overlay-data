@@ -1,164 +1,214 @@
 {
-  "exposures": [
+  "players": [
     {
-      "player": "Cristopher S\u00e1nchez",
-      "exposure": 46.7
+      "name": "Hunter Brown",
+      "count": 3,
+      "percentage": 30.0
     },
     {
-      "player": "Bryce Harper",
-      "exposure": 33.3
+      "name": "Shohei Ohtani",
+      "count": 3,
+      "percentage": 30.0
     },
     {
-      "player": "Jarren Duran",
-      "exposure": 26.7
+      "name": "Brent Rooker",
+      "count": 3,
+      "percentage": 30.0
     },
     {
-      "player": "Carlos Correa",
-      "exposure": 26.7
+      "name": "Michael Conforto",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Alex Bregman",
-      "exposure": 26.7
+      "name": "Teoscar Hernández",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Jackson Chourio",
-      "exposure": 20.0
+      "name": "Will Smith",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Bobby Witt Jr.",
-      "exposure": 20.0
+      "name": "Fernando Tatis Jr.",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Luis Robert Jr.",
-      "exposure": 20.0
+      "name": "Aaron Judge",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Cade Povich",
-      "exposure": 20.0
+      "name": "Kyle Tucker",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Kyle Schwarber",
-      "exposure": 20.0
+      "name": "Paul Goldschmidt",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Nick Castellanos",
-      "exposure": 20.0
+      "name": "Mookie Betts",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Bryan Hudson",
-      "exposure": 20.0
+      "name": "Gunnar Henderson",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Bryson Stott",
-      "exposure": 20.0
+      "name": "Max Fried",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Rafael Devers",
-      "exposure": 20.0
+      "name": "Yordan Alvarez",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Christian Yelich",
-      "exposure": 13.3
+      "name": "Shota Imanaga",
+      "count": 2,
+      "percentage": 20.0
     },
     {
-      "player": "Max Kepler",
-      "exposure": 13.3
+      "name": "Jasson Domínguez",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Ryan Mountcastle",
-      "exposure": 13.3
+      "name": "Yainer Diaz",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Adley Rutschman",
-      "exposure": 13.3
+      "name": "Isaac Paredes",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Alec Bohm",
-      "exposure": 13.3
+      "name": "Jose Altuve",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Brandon Marsh",
-      "exposure": 13.3
+      "name": "Jazz Chisholm Jr.",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Rob Refsnyder",
-      "exposure": 13.3
+      "name": "Max Muncy",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "William Contreras",
-      "exposure": 13.3
+      "name": "Jack Flaherty",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Kris Bubic",
-      "exposure": 13.3
+      "name": "Francisco Lindor",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Rhys Hoskins",
-      "exposure": 13.3
+      "name": "Pete Alonso",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Byron Buxton",
-      "exposure": 13.3
+      "name": "Brandon Nimmo",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Salvador Perez",
-      "exposure": 13.3
+      "name": "Christian Walker",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "J.T. Realmuto",
-      "exposure": 13.3
+      "name": "Tylor Megill",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Harrison Bader",
-      "exposure": 6.7
+      "name": "Adolis García",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Andrew Benintendi",
-      "exposure": 6.7
+      "name": "Wyatt Langford",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Kristian Campbell",
-      "exposure": 6.7
+      "name": "Ryan Mountcastle",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Tyler O'Neill",
-      "exposure": 6.7
+      "name": "Jordan Westburg",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Ty France",
-      "exposure": 6.7
+      "name": "Lawrence Butler",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Ram\u00f3n Laureano",
-      "exposure": 6.7
+      "name": "Marcus Semien",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Jose Miranda",
-      "exposure": 6.7
+      "name": "Michael Busch",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Brenton Doyle",
-      "exposure": 6.7
+      "name": "CJ Abrams",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Dairon Blanco",
-      "exposure": 6.7
+      "name": "Brandon Pfaadt",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Triston Casas",
-      "exposure": 6.7
+      "name": "Ryan O'Hearn",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Trevor Story",
-      "exposure": 6.7
+      "name": "Shea Langeliers",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Andrew Vaughn",
-      "exposure": 6.7
+      "name": "Ian Happ",
+      "count": 1,
+      "percentage": 10.0
     },
     {
-      "player": "Ryan Jeffers",
-      "exposure": 6.7
+      "name": "Cody Bellinger",
+      "count": 1,
+      "percentage": 10.0
+    },
+    {
+      "name": "Nico Hoerner",
+      "count": 1,
+      "percentage": 10.0
+    },
+    {
+      "name": "Tommy Edman",
+      "count": 1,
+      "percentage": 10.0
     }
   ]
 }
