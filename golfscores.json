@@ -1,65 +1,64 @@
 {
-  "scores": [
-    {
-      "name": "Justin Rose",
-      "score": "-7",
-      "exposure": 5.88
-    },
-    {
-      "name": "Corey Conners",
-      "score": "-4",
-      "exposure": 17.65
-    },
-    {
-      "name": "Scottie Scheffler",
-      "score": "-4",
-      "exposure": 17.65
-    },
-    {
-      "name": "Ludvig Aberg",
-      "score": "-4",
-      "exposure": null
-    },
-    {
-      "name": "Tyrrell Hatton",
-      "score": "-3",
-      "exposure": null
-    },
-    {
-      "name": "Bryson DeChambeau",
-      "score": "-3",
-      "exposure": 5.88
-    },
-    {
-      "name": "Aaron Rai",
-      "score": "-2",
-      "exposure": 17.65
-    },
-    {
-      "name": "Harris English",
-      "score": "-2",
-      "exposure": 5.88
-    },
-    {
-      "name": "Jason Day",
-      "score": "-2",
-      "exposure": 17.65
-    },
-    {
-      "name": "Akshay Bhatia",
-      "score": "-2",
-      "exposure": 11.76
-    },
-    {
-      "name": "Michael Kim",
-      "score": "-1",
-      "exposure": 17.65
-    },
-    {
-      "name": "Davis Thompson",
-      "score": "-1",
-      "exposure": 11.76
-    },
-    ...
-  ]
+    "scores": [
+        {
+            "name": "Justin Rose",
+            "score": "-7",
+            "exposure": 5.88
+        },
+        {
+            "name": "Corey Conners",
+            "score": "-4",
+            "exposure": 17.65
+        },
+        {
+            "name": "Scottie Scheffler",
+            "score": "-4",
+            "exposure": 17.65
+        },
+        {
+            "name": "Ludvig Aberg",
+            "score": "-4",
+            "exposure": null
+        },
+        {
+            "name": "Tyrrell Hatton",
+            "score": "-3",
+            "exposure": null
+        },
+        {
+            "name": "Bryson DeChambeau",
+            "score": "-3",
+            "exposure": 5.88
+        },
+        {
+            "name": "Aaron Rai",
+            "score": "-2",
+            "exposure": 17.65
+        },
+        {
+            "name": "Harris English",
+            "score": "-2",
+            "exposure": 5.88
+        },
+        {
+            "name": "Jason Day",
+            "score": "-2",
+            "exposure": 17.65
+        },
+        {
+            "name": "Akshay Bhatia",
+            "score": "-2",
+            "exposure": 11.76
+        },
+        {
+            "name": "Michael Kim",
+            "score": "-1",
+            "exposure": 17.65
+        },
+        {
+            "name": "Davis Thompson",
+            "score": "-1",
+            "exposure": 11.76
+        }
+    ]
 }
