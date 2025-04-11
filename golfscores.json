@@ -1,64 +1,484 @@
 {
-    "scores": [
-        {
-            "name": "Justin Rose",
-            "score": "-7",
-            "exposure": 5.88
-        },
-        {
-            "name": "Corey Conners",
-            "score": "-4",
-            "exposure": 17.65
-        },
-        {
-            "name": "Scottie Scheffler",
-            "score": "-4",
-            "exposure": 17.65
-        },
-        {
-            "name": "Ludvig Aberg",
-            "score": "-4",
-            "exposure": null
-        },
-        {
-            "name": "Tyrrell Hatton",
-            "score": "-3",
-            "exposure": null
-        },
-        {
-            "name": "Bryson DeChambeau",
-            "score": "-3",
-            "exposure": 5.88
-        },
-        {
-            "name": "Aaron Rai",
-            "score": "-2",
-            "exposure": 17.65
-        },
-        {
-            "name": "Harris English",
-            "score": "-2",
-            "exposure": 5.88
-        },
-        {
-            "name": "Jason Day",
-            "score": "-2",
-            "exposure": 17.65
-        },
-        {
-            "name": "Akshay Bhatia",
-            "score": "-2",
-            "exposure": 11.76
-        },
-        {
-            "name": "Michael Kim",
-            "score": "-1",
-            "exposure": 17.65
-        },
-        {
-            "name": "Davis Thompson",
-            "score": "-1",
-            "exposure": 11.76
-        }
-    ]
+  "scores": [
+    {
+      "name": "Justin Rose",
+      "score": "-7",
+      "exposure": 5.88
+    },
+    {
+      "name": "Corey Conners",
+      "score": "-4",
+      "exposure": 17.65
+    },
+    {
+      "name": "Scottie Scheffler",
+      "score": "-4",
+      "exposure": 17.65
+    },
+    {
+      "name": "Ludvig Aberg",
+      "score": "-4",
+      "exposure": null
+    },
+    {
+      "name": "Tyrrell Hatton",
+      "score": "-3",
+      "exposure": null
+    },
+    {
+      "name": "Bryson DeChambeau",
+      "score": "-3",
+      "exposure": 5.88
+    },
+    {
+      "name": "Aaron Rai",
+      "score": "-2",
+      "exposure": 17.65
+    },
+    {
+      "name": "Harris English",
+      "score": "-2",
+      "exposure": 5.88
+    },
+    {
+      "name": "Jason Day",
+      "score": "-2",
+      "exposure": 17.65
+    },
+    {
+      "name": "Akshay Bhatia",
+      "score": "-2",
+      "exposure": 11.76
+    },
+    {
+      "name": "Michael Kim",
+      "score": "-1",
+      "exposure": 17.65
+    },
+    {
+      "name": "Davis Thompson",
+      "score": "-1",
+      "exposure": 11.76
+    },
+    {
+      "name": "Cameron Smith",
+      "score": "-1",
+      "exposure": 17.65
+    },
+    {
+      "name": "Fred Couples",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Brian Harman",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Patrick Reed",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Max Greyserman",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Min Woo Lee",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Bubba Watson",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Matthew McCarty",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Denny McCarthy",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Daniel Berger",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Matt Fitzpatrick",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Sungjae Im",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Viktor Hovland",
+      "score": "-1",
+      "exposure": null
+    },
+    {
+      "name": "Shane Lowry",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Zach Johnson",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Stephan Jaeger",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Collin Morikawa",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Joaquin Niemann",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Maverick McNealy",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Brian Campbell",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Tom Hoge",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Sergio Garcia",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Rory McIlroy",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Sahith Theegala",
+      "score": "E",
+      "exposure": null
+    },
+    {
+      "name": "Davis Riley",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Nicolas Echavarria",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Justin Thomas",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Jordan Spieth",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Tom Kim",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Adam Schenk",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Hiroshi Tai (a)",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Nick Taylor",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Rasmus H\u00f8jgaard",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Xander Schauffele",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Hideki Matsuyama",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Tommy Fleetwood",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Sam Burns",
+      "score": "1",
+      "exposure": null
+    },
+    {
+      "name": "Bernhard Langer",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Will Zalatoris",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "J.T. Poston",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Byeong Hun An",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Keegan Bradley",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Cameron Davis",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Charl Schwartzel",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Max Homa",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "J.J. Spaun",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Dustin Johnson",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Patrick Cantlay",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Brooks Koepka",
+      "score": "2",
+      "exposure": null
+    },
+    {
+      "name": "Jhonattan Vegas",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Mike Weir",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Chris Kirk",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Danny Willett",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Robert Macintyre",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Phil Mickelson",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Tony Finau",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Rafael Campos",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "\u00c1ngel Cabrera",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Jon Rahm",
+      "score": "3",
+      "exposure": null
+    },
+    {
+      "name": "Nicolai H\u00f8jgaard",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Kevin Yu",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Joe Highsmith",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Jose Luis Ballester (a)",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Austin Eckroat",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Christiaan Bezuidenhout",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Justin Hastings (a)",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Wyndham Clark",
+      "score": "4",
+      "exposure": null
+    },
+    {
+      "name": "Taylor Pendrith",
+      "score": "5",
+      "exposure": null
+    },
+    {
+      "name": "Billy Horschel",
+      "score": "5",
+      "exposure": null
+    },
+    {
+      "name": "Laurie Canter",
+      "score": "5",
+      "exposure": null
+    },
+    {
+      "name": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+      "score": "5",
+      "exposure": null
+    },
+    {
+      "name": "Evan Beck (a)",
+      "score": "5",
+      "exposure": null
+    },
+    {
+      "name": "Adam Scott",
+      "score": "5",
+      "exposure": null
+    },
+    {
+      "name": "Matthieu Pavon",
+      "score": "6",
+      "exposure": null
+    },
+    {
+      "name": "Lucas Glover",
+      "score": "6",
+      "exposure": null
+    },
+    {
+      "name": "Sepp Straka",
+      "score": "6",
+      "exposure": null
+    },
+    {
+      "name": "Patton Kizzire",
+      "score": "7",
+      "exposure": null
+    },
+    {
+      "name": "Noah Kent (a)",
+      "score": "7",
+      "exposure": null
+    },
+    {
+      "name": "Thomas Detry",
+      "score": "7",
+      "exposure": null
+    },
+    {
+      "name": "Thriston Lawrence",
+      "score": "7",
+      "exposure": null
+    },
+    {
+      "name": "Russell Henley",
+      "score": "7",
+      "exposure": null
+    },
+    {
+      "name": "Nick Dunlap",
+      "score": "18",
+      "exposure": null
+    },
+    {
+      "name": "T. Lawrence",
+      "score": "7",
+      "exposure": null
+    },
+    {
+      "name": "N. Dunlap",
+      "score": "18",
+      "exposure": null
+    }
+  ]
 }
