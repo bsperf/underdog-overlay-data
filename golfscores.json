@@ -2,295 +2,251 @@
   "scores": [
     {
       "name": "Justin Thomas",
-      "score": "-10"
+      "score": -10.0
     },
     {
       "name": "Russell Henley",
-      "score": "-7"
+      "score": -7.0
     },
     {
       "name": "Scottie Scheffler",
-      "score": "-7"
+      "score": -7.0
     },
     {
       "name": "Wyndham Clark",
-      "score": "-6"
+      "score": -6.0
     },
     {
       "name": "Brian Campbell",
-      "score": "-5"
+      "score": -5.0
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": "-5"
+      "score": -5.0
     },
     {
       "name": "J.J. Spaun",
-      "score": "-5"
+      "score": -5.0
     },
     {
       "name": "Gary Woodland",
-      "score": "-5"
+      "score": -5.0
     },
     {
       "name": "Brian Harman",
-      "score": "-5"
+      "score": -5.0
     },
     {
       "name": "Sami Valimaki",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Matt Kuchar",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Keegan Bradley",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Eric Cole",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Patrick Cantlay",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Tommy Fleetwood",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Jordan Spieth",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Ryan Gerard",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Stephan Jaeger",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Max Greyserman",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Justin Rose",
-      "score": "-4"
+      "score": -4.0
     },
     {
       "name": "Denny McCarthy",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Akshay Bhatia",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Adam Scott",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Si Woo Kim",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Shane Lowry",
-      "score": "-3"
-    },
-    {
-      "name": NaN,
-      "score": NaN
+      "score": -3.0
     },
     {
       "name": "Lucas Glover",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Mackenzie Hughes",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "J.T. Poston",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Jason Day",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Andrew Novak",
-      "score": "-3"
+      "score": -3.0
     },
     {
       "name": "Bud Cauley",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Sam Burns",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Sungjae Im",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Viktor Hovland",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Ludvig \u00c5berg",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Xander Schauffele",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Collin Morikawa",
-      "score": "-2"
+      "score": -2.0
     },
     {
       "name": "Nick Taylor",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Sam Stevens",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Max Homa",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Christiaan Bezuidenhout",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Sepp Straka",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Tom Hoge",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Corey Conners",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Daniel Berger",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Harris English",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Cameron Young",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Aaron Rai",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Cam Davis",
-      "score": "-1"
+      "score": -1.0
     },
     {
       "name": "Maverick McNealy",
-      "score": "-1"
-    },
-    {
-      "name": "Davis Thompson",
-      "score": "E"
-    },
-    {
-      "name": "Matthieu Pavon",
-      "score": "E"
-    },
-    {
-      "name": "Karl Vilips",
-      "score": "E"
-    },
-    {
-      "name": "Jacob Bridgeman",
-      "score": "E"
-    },
-    {
-      "name": "Ryo Hisatsune",
-      "score": "E"
-    },
-    {
-      "name": "Robert MacIntyre",
-      "score": "E"
-    },
-    {
-      "name": "Chris Kirk",
-      "score": "E"
-    },
-    {
-      "name": "Austin Eckroat",
-      "score": "E"
-    },
-    {
-      "name": "Billy Horschel",
-      "score": "E"
-    },
-    {
-      "name": "Michael Kim",
-      "score": "E"
+      "score": -1.0
     },
     {
       "name": "Adam Hadwin",
-      "score": "1"
+      "score": 1.0
     },
     {
       "name": "Rickie Fowler",
-      "score": "1"
+      "score": 1.0
     },
     {
       "name": "Will Zalatoris",
-      "score": "1"
+      "score": 1.0
     },
     {
       "name": "Tony Finau",
-      "score": "1"
+      "score": 1.0
     },
     {
       "name": "Min Woo Lee",
-      "score": "1"
+      "score": 1.0
     },
     {
       "name": "Taylor Pendrith",
-      "score": "2"
+      "score": 2.0
     },
     {
       "name": "Thomas Detry",
-      "score": "2"
+      "score": 2.0
     },
     {
       "name": "Byeong Hun An",
-      "score": "3"
+      "score": 3.0
     },
     {
       "name": "Patrick Rodgers",
-      "score": "4"
+      "score": 4.0
     },
     {
       "name": "Sahith Theegala",
-      "score": "4"
+      "score": 4.0
     },
     {
       "name": "Joe Highsmith",
-      "score": "6"
+      "score": 6.0
     },
     {
       "name": "Nick Dunlap",
-      "score": "7"
+      "score": 7.0
     }
   ]
 }
