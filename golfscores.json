@@ -3,132 +3,132 @@
     {
       "name": "Justin Thomas",
       "score": -10.0,
-      "exposure": 10.526315789473683
+      "exposure": 13.333333333333334
     },
     {
       "name": "Russell Henley",
       "score": -7.0,
-      "exposure": 21.052631578947366
+      "exposure": 13.333333333333334
     },
     {
       "name": "Scottie Scheffler",
       "score": -7.0,
-      "exposure": 21.052631578947366
+      "exposure": 23.333333333333332
     },
     {
       "name": "Wyndham Clark",
       "score": -6.0,
-      "exposure": 10.526315789473683
+      "exposure": 13.333333333333334
     },
     {
       "name": "Brian Campbell",
       "score": -5.0,
-      "exposure": 15.789473684210526
+      "exposure": 10.0
     },
     {
       "name": "Matt Fitzpatrick",
       "score": -5.0,
-      "exposure": 10.526315789473683
+      "exposure": 6.666666666666667
     },
     {
       "name": "J.J. Spaun",
       "score": -5.0,
-      "exposure": 15.789473684210526
+      "exposure": 20.0
     },
     {
       "name": "Gary Woodland",
       "score": -5.0,
-      "exposure": 5.263157894736842
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Brian Harman",
       "score": -5.0,
-      "exposure": 5.263157894736842
+      "exposure": 10.0
     },
     {
       "name": "Sami Valimaki",
       "score": -4.0,
-      "exposure": 5.263157894736842
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Matt Kuchar",
       "score": -4.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Keegan Bradley",
       "score": -4.0,
-      "exposure": 10.526315789473683
+      "exposure": 6.666666666666667
     },
     {
       "name": "Eric Cole",
       "score": -4.0,
-      "exposure": 10.526315789473683
+      "exposure": 13.333333333333334
     },
     {
       "name": "Patrick Cantlay",
       "score": -4.0,
-      "exposure": 15.789473684210526
+      "exposure": 20.0
     },
     {
       "name": "Tommy Fleetwood",
       "score": -4.0,
-      "exposure": 10.526315789473683
+      "exposure": 16.666666666666664
     },
     {
       "name": "Jordan Spieth",
       "score": -4.0,
-      "exposure": 21.052631578947366
+      "exposure": 20.0
     },
     {
       "name": "Ryan Gerard",
       "score": -4.0,
-      "exposure": 10.526315789473683
+      "exposure": 6.666666666666667
     },
     {
       "name": "Stephan Jaeger",
       "score": -4.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Max Greyserman",
       "score": -4.0,
-      "exposure": 5.263157894736842
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Justin Rose",
       "score": -4.0,
-      "exposure": 15.789473684210526
+      "exposure": 13.333333333333334
     },
     {
       "name": "Denny McCarthy",
       "score": -3.0,
-      "exposure": 10.526315789473683
+      "exposure": 13.333333333333334
     },
     {
       "name": "Akshay Bhatia",
       "score": -3.0,
-      "exposure": 26.31578947368421
+      "exposure": 20.0
     },
     {
       "name": "Adam Scott",
       "score": -3.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Si Woo Kim",
       "score": -3.0,
-      "exposure": 5.263157894736842
+      "exposure": 6.666666666666667
     },
     {
       "name": "Shane Lowry",
       "score": -3.0,
-      "exposure": 15.789473684210526
+      "exposure": 13.333333333333334
     },
     {
       "name": "Lucas Glover",
       "score": -3.0,
-      "exposure": 5.263157894736842
+      "exposure": 10.0
     },
     {
       "name": "Mackenzie Hughes",
@@ -138,37 +138,37 @@
     {
       "name": "J.T. Poston",
       "score": -3.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Jason Day",
       "score": -3.0,
-      "exposure": 21.052631578947366
+      "exposure": 13.333333333333334
     },
     {
       "name": "Andrew Novak",
       "score": -3.0,
-      "exposure": 5.263157894736842
+      "exposure": 6.666666666666667
     },
     {
       "name": "Bud Cauley",
       "score": -2.0,
-      "exposure": 10.526315789473683
+      "exposure": 13.333333333333334
     },
     {
       "name": "Sam Burns",
       "score": -2.0,
-      "exposure": 10.526315789473683
+      "exposure": 10.0
     },
     {
       "name": "Sungjae Im",
       "score": -2.0,
-      "exposure": 26.31578947368421
+      "exposure": 20.0
     },
     {
       "name": "Viktor Hovland",
       "score": -2.0,
-      "exposure": 26.31578947368421
+      "exposure": 23.333333333333332
     },
     {
       "name": "Ludvig \u00c5berg",
@@ -178,22 +178,22 @@
     {
       "name": "Xander Schauffele",
       "score": -2.0,
-      "exposure": 5.263157894736842
+      "exposure": 6.666666666666667
     },
     {
       "name": "Collin Morikawa",
       "score": -2.0,
-      "exposure": 10.526315789473683
+      "exposure": 13.333333333333334
     },
     {
       "name": "Nick Taylor",
       "score": -1.0,
-      "exposure": 5.263157894736842
+      "exposure": 10.0
     },
     {
       "name": "Sam Stevens",
       "score": -1.0,
-      "exposure": 5.263157894736842
+      "exposure": 10.0
     },
     {
       "name": "Max Homa",
@@ -203,42 +203,42 @@
     {
       "name": "Christiaan Bezuidenhout",
       "score": -1.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Sepp Straka",
       "score": -1.0,
-      "exposure": 10.526315789473683
+      "exposure": 16.666666666666664
     },
     {
       "name": "Tom Hoge",
       "score": -1.0,
-      "exposure": 10.526315789473683
+      "exposure": 10.0
     },
     {
       "name": "Corey Conners",
       "score": -1.0,
-      "exposure": 15.789473684210526
+      "exposure": 20.0
     },
     {
       "name": "Daniel Berger",
       "score": -1.0,
-      "exposure": 15.789473684210526
+      "exposure": 16.666666666666664
     },
     {
       "name": "Harris English",
       "score": -1.0,
-      "exposure": 10.526315789473683
+      "exposure": 10.0
     },
     {
       "name": "Cameron Young",
       "score": -1.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Aaron Rai",
       "score": -1.0,
-      "exposure": 15.789473684210526
+      "exposure": 16.666666666666664
     },
     {
       "name": "Cam Davis",
@@ -248,7 +248,7 @@
     {
       "name": "Maverick McNealy",
       "score": -1.0,
-      "exposure": 10.526315789473683
+      "exposure": 6.666666666666667
     },
     {
       "name": "Adam Hadwin",
@@ -263,7 +263,7 @@
     {
       "name": "Will Zalatoris",
       "score": 1.0,
-      "exposure": 5.263157894736842
+      "exposure": 6.666666666666667
     },
     {
       "name": "Tony Finau",
@@ -273,12 +273,12 @@
     {
       "name": "Min Woo Lee",
       "score": 1.0,
-      "exposure": null
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Taylor Pendrith",
       "score": 2.0,
-      "exposure": 10.526315789473683
+      "exposure": 6.666666666666667
     },
     {
       "name": "Thomas Detry",
@@ -288,7 +288,7 @@
     {
       "name": "Byeong Hun An",
       "score": 3.0,
-      "exposure": 5.263157894736842
+      "exposure": 3.3333333333333335
     },
     {
       "name": "Patrick Rodgers",
