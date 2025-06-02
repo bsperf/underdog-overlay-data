@@ -1,1982 +1,2477 @@
 {
   "Ja'Marr Chase": {
     "Proj": 263.2,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": 25
   },
   "Saquon Barkley": {
     "Proj": 257.5,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": 28
   },
   "Bijan Robinson": {
     "Proj": 249.7,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": 23
   },
   "Puka Nacua": {
     "Proj": 239.2,
-    "Exposure": 11.49
+    "Exposure": 11.49,
+    "Age": 24
   },
   "CeeDee Lamb": {
     "Proj": 238.9,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": 26
   },
   "Justin Jefferson": {
     "Proj": 235.8,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": 26
   },
   "Ashton Jeanty": {
     "Proj": 229.0,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": 21
   },
   "Jahmyr Gibbs": {
     "Proj": 228.9,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": 23
   },
   "Brian Thomas": {
     "Proj": 226.0,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": 22
   },
   "Nico Collins": {
     "Proj": 224.4,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": 26
   },
   "Amon-Ra St. Brown": {
     "Proj": 224.0,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": 25
   },
   "Derrick Henry": {
     "Proj": 222.9,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": 31
   },
   "Malik Nabers": {
     "Proj": 221.6,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": 22
   },
   "A.J. Brown": {
     "Proj": 220.2,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": 28
   },
   "De'Von Achane": {
     "Proj": 220.1,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": 23
   },
   "Jonathan Taylor": {
     "Proj": 216.7,
-    "Exposure": 13.51
+    "Exposure": 13.51,
+    "Age": 26
   },
   "Kyren Williams": {
     "Proj": 214.1,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": 25
   },
   "Drake London": {
     "Proj": 211.8,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": 24
   },
   "Ladd McConkey": {
     "Proj": 211.3,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": 23
   },
   "Bucky Irving": {
     "Proj": 210.7,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Josh Jacobs": {
     "Proj": 208.8,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Joe Mixon": {
     "Proj": 206.3,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Tyreek Hill": {
     "Proj": 204.1,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Christian McCaffrey": {
     "Proj": 202.4,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Mike Evans": {
     "Proj": 201.5,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Chase Brown": {
     "Proj": 199.4,
-    "Exposure": 11.49
+    "Exposure": 11.49,
+    "Age": null
   },
   "Tee Higgins": {
     "Proj": 195.6,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Davante Adams": {
     "Proj": 195.5,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Jaxon Smith-Njigba": {
     "Proj": 195.3,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Alvin Kamara": {
     "Proj": 190.1,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Terry McLaurin": {
     "Proj": 188.5,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "DeVonta Smith": {
     "Proj": 187.2,
-    "Exposure": 13.51
+    "Exposure": 13.51,
+    "Age": null
   },
   "D.J. Moore": {
     "Proj": 187.1,
-    "Exposure": 16.22
+    "Exposure": 16.22,
+    "Age": null
   },
   "Breece Hall": {
     "Proj": 185.7,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Chuba Hubbard": {
     "Proj": 185.5,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "D'Andre Swift": {
     "Proj": 184.3,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Brock Bowers": {
     "Proj": 184.2,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "George Pickens": {
     "Proj": 180.5,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Marvin Harrison": {
     "Proj": 180.2,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Zay Flowers": {
     "Proj": 177.4,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Trey McBride": {
     "Proj": 177.0,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "James Cook": {
     "Proj": 175.5,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "DK Metcalf": {
     "Proj": 173.5,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Xavier Worthy": {
     "Proj": 173.5,
-    "Exposure": 20.95
+    "Exposure": 20.95,
+    "Age": null
   },
   "Jaylen Waddle": {
     "Proj": 172.8,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": null
   },
   "Jakobi Meyers": {
     "Proj": 171.9,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Courtland Sutton": {
     "Proj": 171.3,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Aaron Jones": {
     "Proj": 170.9,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "James Conner": {
     "Proj": 170.7,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Omarion Hampton": {
     "Proj": 170.6,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Khalil Shakir": {
     "Proj": 170.0,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Tetairoa McMillan": {
     "Proj": 168.5,
-    "Exposure": 14.19
+    "Exposure": 14.19,
+    "Age": null
   },
   "Jerry Jeudy": {
     "Proj": 168.3,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Kenneth Walker III": {
     "Proj": 168.3,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Jameson Williams": {
     "Proj": 167.8,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Calvin Ridley": {
     "Proj": 167.3,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Quinshon Judkins": {
     "Proj": 162.0,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Rashee Rice": {
     "Proj": 161.4,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Chris Godwin": {
     "Proj": 161.1,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Garrett Wilson": {
     "Proj": 159.8,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Travis Hunter": {
     "Proj": 159.7,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "George Kittle": {
     "Proj": 158.4,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "David Montgomery": {
     "Proj": 158.2,
-    "Exposure": 15.54
+    "Exposure": 15.54,
+    "Age": null
   },
   "Jaylen Warren": {
     "Proj": 158.2,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Rashid Shaheed": {
     "Proj": 158.0,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Chris Olave": {
     "Proj": 157.4,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Brian Robinson Jr.": {
     "Proj": 157.2,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Deebo Samuel": {
     "Proj": 156.3,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Kaleb Johnson": {
     "Proj": 155.0,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "RJ Harvey": {
     "Proj": 154.2,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Sam LaPorta": {
     "Proj": 153.9,
-    "Exposure": 18.24
+    "Exposure": 18.24,
+    "Age": null
   },
   "Tony Pollard": {
     "Proj": 153.0,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Tyrone Tracy": {
     "Proj": 152.5,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Jordan Addison": {
     "Proj": 152.0,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "David Njoku": {
     "Proj": 150.4,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Jauan Jennings": {
     "Proj": 150.1,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Travis Kelce": {
     "Proj": 149.8,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Tyjae Spears": {
     "Proj": 148.8,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Javonte Williams": {
     "Proj": 147.4,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Jayden Reed": {
     "Proj": 145.7,
-    "Exposure": 29.05
+    "Exposure": 29.05,
+    "Age": null
   },
   "Rome Odunze": {
     "Proj": 144.3,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Matthew Golden": {
     "Proj": 143.2,
-    "Exposure": 12.84
+    "Exposure": 12.84,
+    "Age": null
   },
   "Darnell Mooney": {
     "Proj": 142.8,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Cooper Kupp": {
     "Proj": 140.7,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Stefon Diggs": {
     "Proj": 139.6,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Isiah Pacheco": {
     "Proj": 139.1,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "TreVeyon Henderson": {
     "Proj": 138.9,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Rhamondre Stevenson": {
     "Proj": 138.9,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Evan Engram": {
     "Proj": 138.7,
-    "Exposure": 15.54
+    "Exposure": 15.54,
+    "Age": null
   },
   "Cedric Tillman": {
     "Proj": 132.8,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Mark Andrews": {
     "Proj": 132.5,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Ricky Pearsall": {
     "Proj": 131.0,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Wan'Dale Robinson": {
     "Proj": 128.0,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "T.J. Hockenson": {
     "Proj": 127.5,
-    "Exposure": 12.84
+    "Exposure": 12.84,
+    "Age": null
   },
   "Jonnu Smith": {
     "Proj": 126.7,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Josh Downs": {
     "Proj": 126.0,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Emeka Egbuka": {
     "Proj": 124.9,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Michael Pittman Jr.": {
     "Proj": 124.7,
-    "Exposure": 14.19
+    "Exposure": 14.19,
+    "Age": null
   },
   "Marvin Mims Jr.": {
     "Proj": 124.3,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Tucker Kraft": {
     "Proj": 123.9,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Christian Kirk": {
     "Proj": 123.5,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Zach Charbonnet": {
     "Proj": 122.6,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Austin Ekeler": {
     "Proj": 121.6,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Najee Harris": {
     "Proj": 118.6,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Darius Slayton": {
     "Proj": 115.9,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Jack Bech": {
     "Proj": 115.6,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Jake Ferguson": {
     "Proj": 115.4,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Luther Burden": {
     "Proj": 114.7,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Keon Coleman": {
     "Proj": 113.6,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Jayden Higgins": {
     "Proj": 112.8,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Colston Loveland": {
     "Proj": 110.7,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Dalton Kincaid": {
     "Proj": 110.6,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Tre Harris": {
     "Proj": 110.2,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Romeo Doubs": {
     "Proj": 109.9,
-    "Exposure": 18.92
+    "Exposure": 18.92,
+    "Age": null
   },
   "Dallas Goedert": {
     "Proj": 108.9,
-    "Exposure": 14.19
+    "Exposure": 14.19,
+    "Age": null
   },
   "Travis Etienne Jr.": {
     "Proj": 108.5,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Hollywood Brown": {
     "Proj": 108.3,
-    "Exposure": 16.22
+    "Exposure": 16.22,
+    "Age": null
   },
   "Trey Benson": {
     "Proj": 106.7,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Pat Freiermuth": {
     "Proj": 106.2,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Ray-Ray McCloud III": {
     "Proj": 105.4,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Xavier Legette": {
     "Proj": 104.6,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Michael Wilson": {
     "Proj": 104.2,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Hunter Henry": {
     "Proj": 103.4,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": null
   },
   "Rashod Bateman": {
     "Proj": 102.9,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Bhayshul Tuten": {
     "Proj": 102.1,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Kyle Pitts": {
     "Proj": 101.6,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Adam Thielen": {
     "Proj": 101.5,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Tyler Warren": {
     "Proj": 101.3,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Isaiah Likely": {
     "Proj": 100.3,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Audric Estime": {
     "Proj": 100.2,
-    "Exposure": 14.19
+    "Exposure": 14.19,
+    "Age": null
   },
   "Kyle Williams": {
     "Proj": 100.2,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Zach Ertz": {
     "Proj": 99.0,
-    "Exposure": 11.49
+    "Exposure": 11.49,
+    "Age": null
   },
   "Jaylen Wright": {
     "Proj": 98.3,
-    "Exposure": 15.54
+    "Exposure": 15.54,
+    "Age": null
   },
   "Dalton Schultz": {
     "Proj": 97.5,
-    "Exposure": 14.19
+    "Exposure": 14.19,
+    "Age": null
   },
   "Jaydon Blue": {
     "Proj": 95.7,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Isaac Guerendo": {
     "Proj": 95.4,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": null
   },
   "Brenton Strange": {
     "Proj": 95.2,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Jordan Mason": {
     "Proj": 94.0,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Roschon Johnson": {
     "Proj": 91.6,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Brandon Aiyuk": {
     "Proj": 91.5,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Tyler Allgeier": {
     "Proj": 90.9,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Jerome Ford": {
     "Proj": 90.8,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Mike Gesicki": {
     "Proj": 90.8,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": null
   },
   "Allen Lazard": {
     "Proj": 90.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Blake Corum": {
     "Proj": 90.0,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Quentin Johnston": {
     "Proj": 89.9,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Chig Okonkwo": {
     "Proj": 87.5,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Joshua Palmer": {
     "Proj": 87.2,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Theo Johnson": {
     "Proj": 86.5,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Rico Dowdle": {
     "Proj": 85.8,
-    "Exposure": 28.38
+    "Exposure": 28.38,
+    "Age": null
   },
   "Dyami Brown": {
     "Proj": 85.8,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Raheem Mostert": {
     "Proj": 85.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Cade Otton": {
     "Proj": 85.1,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": null
   },
   "Tank Bigsby": {
     "Proj": 83.7,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Juwan Johnson": {
     "Proj": 82.7,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Andrei Iosivas": {
     "Proj": 82.7,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Ray Davis": {
     "Proj": 82.4,
-    "Exposure": 15.54
+    "Exposure": 15.54,
+    "Age": null
   },
   "Roman Wilson": {
     "Proj": 82.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Rachaad White": {
     "Proj": 82.1,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Kareem Hunt": {
     "Proj": 81.5,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "DeAndre Hopkins": {
     "Proj": 81.0,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Zack Moss": {
     "Proj": 78.7,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Tyler Conklin": {
     "Proj": 78.4,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Diontae Johnson": {
     "Proj": 78.3,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Woody Marks": {
     "Proj": 77.9,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Tyler Lockett": {
     "Proj": 77.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Braelon Allen": {
     "Proj": 76.5,
-    "Exposure": 15.54
+    "Exposure": 15.54,
+    "Age": null
   },
   "Mike Williams": {
     "Proj": 76.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "MarShawn Lloyd": {
     "Proj": 73.6,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Pat Bryant": {
     "Proj": 73.2,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Mason Taylor": {
     "Proj": 72.2,
-    "Exposure": 11.49
+    "Exposure": 11.49,
+    "Age": null
   },
   "Justice Hill": {
     "Proj": 70.6,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "KaVontae Turpin": {
     "Proj": 70.2,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "DeMario Douglas": {
     "Proj": 70.2,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Alec Pierce": {
     "Proj": 68.0,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Jalen Coker": {
     "Proj": 66.9,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Noah Fant": {
     "Proj": 66.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tre Tucker": {
     "Proj": 66.1,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Ty Johnson": {
     "Proj": 65.9,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Devin Neal": {
     "Proj": 65.3,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Tutu Atwell": {
     "Proj": 64.8,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Ja'Tavion Sanders": {
     "Proj": 64.7,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Noah Brown": {
     "Proj": 64.5,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Adonai Mitchell": {
     "Proj": 63.2,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Tyler Higbee": {
     "Proj": 63.1,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Dylan Sampson": {
     "Proj": 62.3,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Cam Skattebo": {
     "Proj": 61.4,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Brandin Cooks": {
     "Proj": 61.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Devin Singletary": {
     "Proj": 61.0,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Jalen McMillan": {
     "Proj": 59.6,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Josh Reynolds": {
     "Proj": 58.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Devaughn Vele": {
     "Proj": 57.7,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Greg Dortch": {
     "Proj": 57.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Calvin Austin III": {
     "Proj": 57.4,
-    "Exposure": 5.41
+    "Exposure": 5.41,
+    "Age": null
   },
   "Cole Kmet": {
     "Proj": 56.4,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Noah Gray": {
     "Proj": 55.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Marquez Valdes-Scantling": {
     "Proj": 55.6,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Sean Tucker": {
     "Proj": 54.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Malik Washington": {
     "Proj": 54.6,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Dontayvion Wicks": {
     "Proj": 52.3,
-    "Exposure": 9.46
+    "Exposure": 9.46,
+    "Age": null
   },
   "Will Shipley": {
     "Proj": 52.1,
-    "Exposure": 11.49
+    "Exposure": 11.49,
+    "Age": null
   },
   "Miles Sanders": {
     "Proj": 52.0,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Demarcus Robinson": {
     "Proj": 51.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Elijah Mitchell": {
     "Proj": 51.2,
-    "Exposure": 8.78
+    "Exposure": 8.78,
+    "Age": null
   },
   "Michael Mayer": {
     "Proj": 50.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Austin Hooper": {
     "Proj": 49.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Treylon Burks": {
     "Proj": 48.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Will Dissly": {
     "Proj": 48.6,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Elijah Arroyo": {
     "Proj": 48.3,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Nick Westbrook-Ikhine": {
     "Proj": 48.3,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Luke McCaffrey": {
     "Proj": 48.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Curtis Samuel": {
     "Proj": 48.0,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Jalen Nailor": {
     "Proj": 47.8,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Elic Ayomanor": {
     "Proj": 46.9,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Terrance Ferguson": {
     "Proj": 46.6,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Kayshon Boutte": {
     "Proj": 46.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jordan Whittington": {
     "Proj": 45.8,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Dawson Knox": {
     "Proj": 45.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Foster Moreau": {
     "Proj": 45.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kendre Miller": {
     "Proj": 45.2,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Harold Fannin": {
     "Proj": 44.0,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Zay Jones": {
     "Proj": 43.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Samaje Perine": {
     "Proj": 43.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Luke Schoonmaker": {
     "Proj": 43.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Troy Franklin": {
     "Proj": 42.4,
-    "Exposure": 14.86
+    "Exposure": 14.86,
+    "Age": null
   },
   "Tim Patrick": {
     "Proj": 42.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kalif Raymond": {
     "Proj": 42.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jaylin Noel": {
     "Proj": 41.3,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Isaac TeSlaa": {
     "Proj": 40.3,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Parker Washington": {
     "Proj": 39.9,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Luke Musgrave": {
     "Proj": 39.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Chimere Dike": {
     "Proj": 38.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tommy Tremble": {
     "Proj": 37.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jalen Tolbert": {
     "Proj": 37.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jordan James": {
     "Proj": 37.2,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Jaleel McLaughlin": {
     "Proj": 35.8,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Tory Horton": {
     "Proj": 35.5,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Khalil Herbert": {
     "Proj": 34.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Van Jefferson": {
     "Proj": 34.2,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Ben Sinnott": {
     "Proj": 34.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Gunnar Helm": {
     "Proj": 34.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Isaiah Davis": {
     "Proj": 33.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "JuJu Smith-Schuster": {
     "Proj": 33.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Savion Williams": {
     "Proj": 32.5,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Emanuel Wilson": {
     "Proj": 32.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Johnny Mundt": {
     "Proj": 30.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "DJ Giddens": {
     "Proj": 30.0,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Malachi Corley": {
     "Proj": 29.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Josh Oliver": {
     "Proj": 29.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tai Felton": {
     "Proj": 29.2,
-    "Exposure": 2.03
+    "Exposure": 2.03,
+    "Age": null
   },
   "Keaton Mitchell": {
     "Proj": 27.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Drew Sample": {
     "Proj": 27.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Mack Hollins": {
     "Proj": 26.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kenneth Gainwell": {
     "Proj": 26.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Casey Washington": {
     "Proj": 25.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jermaine Burton": {
     "Proj": 25.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jeremy Ruckert": {
     "Proj": 25.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Adam Trautman": {
     "Proj": 25.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Darnell Washington": {
     "Proj": 25.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jahan Dotson": {
     "Proj": 24.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tanner Hudson": {
     "Proj": 24.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "A.J. Dillon": {
     "Proj": 24.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Brevin Jordan": {
     "Proj": 24.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tylan Wallace": {
     "Proj": 24.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Bub Means": {
     "Proj": 23.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Elijah Moore": {
     "Proj": 22.8,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Antonio Gibson": {
     "Proj": 22.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Michael Woods": {
     "Proj": 22.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jonathan Mingo": {
     "Proj": 22.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Dont'e Thornton": {
     "Proj": 21.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jalen Royals": {
     "Proj": 21.8,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Brock Wright": {
     "Proj": 21.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Trevor Etienne": {
     "Proj": 21.0,
-    "Exposure": 11.49
+    "Exposure": 11.49,
+    "Age": null
   },
   "Cordarrelle Patterson": {
     "Proj": 20.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Julian Hill": {
     "Proj": 19.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Travis Homer": {
     "Proj": 19.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Craig Reynolds": {
     "Proj": 19.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Rondale Moore": {
     "Proj": 19.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Scotty Miller": {
     "Proj": 19.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jeremy McNichols": {
     "Proj": 18.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Charlie Kolar": {
     "Proj": 18.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tip Reiman": {
     "Proj": 18.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Dare Ogunbowale": {
     "Proj": 17.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Emari Demercado": {
     "Proj": 17.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Devontez Walker": {
     "Proj": 17.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "AJ Barner": {
     "Proj": 17.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Payne Durham": {
     "Proj": 17.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Josh Whyle": {
     "Proj": 17.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Luke Farrell": {
     "Proj": 16.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jalin Hyatt": {
     "Proj": 16.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Arian Smith": {
     "Proj": 16.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "KhaDarel Hodge": {
     "Proj": 15.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Daniel Bellinger": {
     "Proj": 15.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ty Chandler": {
     "Proj": 15.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Alexander Mattison": {
     "Proj": 15.4,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Ollie Gordon": {
     "Proj": 15.1,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Jamari Thrash": {
     "Proj": 14.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Konata Mumpfield": {
     "Proj": 14.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Derius Davis": {
     "Proj": 14.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Erik Ezukanma": {
     "Proj": 14.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Grant Calcaterra": {
     "Proj": 14.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jarquez Hunter": {
     "Proj": 14.0,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Jaylin Lane": {
     "Proj": 13.9,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Johnny Wilson": {
     "Proj": 13.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Charlie Jones": {
     "Proj": 13.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jacob Cowing": {
     "Proj": 12.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Elijah Higgins": {
     "Proj": 12.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jake Bobo": {
     "Proj": 12.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Drew Ogletree": {
     "Proj": 12.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Colby Parkinson": {
     "Proj": 11.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kendrick Bourne": {
     "Proj": 11.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Charlie Woerner": {
     "Proj": 11.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Olamide Zaccheaus": {
     "Proj": 11.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Lil'Jordan Humphrey": {
     "Proj": 10.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jamal Agnew": {
     "Proj": 10.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Stone Smartt": {
     "Proj": 10.6,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Oronde Gadsden": {
     "Proj": 10.6,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Connor Heyward": {
     "Proj": 10.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ainias Smith": {
     "Proj": 9.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "John Bates": {
     "Proj": 9.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kenny Yeboah": {
     "Proj": 9.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kimani Vidal": {
     "Proj": 9.4,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Joshua Cephus": {
     "Proj": 9.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kenny McIntosh": {
     "Proj": 8.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ryan Flournoy": {
     "Proj": 8.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Laviska Shenault": {
     "Proj": 8.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Christian Watson": {
     "Proj": 8.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Cade Stover": {
     "Proj": 8.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Brevyn Spann-Ford": {
     "Proj": 7.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Cedrick Wilson": {
     "Proj": 7.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Trent Sherfield": {
     "Proj": 7.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Darrynton Evans": {
     "Proj": 7.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kevin Austin": {
     "Proj": 7.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tahj Brooks": {
     "Proj": 7.2,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Lucas Krull": {
     "Proj": 7.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jared Wiley": {
     "Proj": 7.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Isaiah Williams": {
     "Proj": 7.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "John Metchie": {
     "Proj": 6.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Bo Melton": {
     "Proj": 6.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Blake Whiteheart": {
     "Proj": 6.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Brashard Smith": {
     "Proj": 6.6,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Julius Chestnut": {
     "Proj": 6.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tyler Johnson": {
     "Proj": 6.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Malik Heath": {
     "Proj": 6.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Sione Vaki": {
     "Proj": 6.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Javon Baker": {
     "Proj": 5.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ben Skowronek": {
     "Proj": 5.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ja'Lynn Polk": {
     "Proj": 5.6,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Simi Fehoko": {
     "Proj": 5.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jaheim Bell": {
     "Proj": 5.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "LaJohntay Wester": {
     "Proj": 5.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Phil Mafah": {
     "Proj": 5.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Zach Pascal": {
     "Proj": 5.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Clyde Edwards-Helaire": {
     "Proj": 5.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Greg Dulcich": {
     "Proj": 5.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Sterling Shepard": {
     "Proj": 4.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Dee Eskridge": {
     "Proj": 4.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "David Moore": {
     "Proj": 4.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Harrison Bryant": {
     "Proj": 4.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Zach Davidson": {
     "Proj": 4.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ricky White": {
     "Proj": 4.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Damien Martinez": {
     "Proj": 4.6,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "K.J. Osborn": {
     "Proj": 4.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kristian Wilkerson": {
     "Proj": 4.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tommy Mellott": {
     "Proj": 4.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jelani Woods": {
     "Proj": 4.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Gavin Bartholomew": {
     "Proj": 4.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Durham Smythe": {
     "Proj": 4.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ian Thomas": {
     "Proj": 4.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Xavier Restrepo": {
     "Proj": 4.1,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Xavier Weaver": {
     "Proj": 3.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ashton Dulin": {
     "Proj": 3.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Rasheen Ali": {
     "Proj": 3.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jase McClellan": {
     "Proj": 3.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Sincere McCormick": {
     "Proj": 3.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Anthony Gould": {
     "Proj": 3.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Hunter Long": {
     "Proj": 3.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "DeeJay Dallas": {
     "Proj": 3.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kalel Mullings": {
     "Proj": 3.1,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Xavier Smith": {
     "Proj": 3.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Dameon Pierce": {
     "Proj": 3.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Cam Grandy": {
     "Proj": 3.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kylen Granson": {
     "Proj": 2.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "KeAndre Lambert-Smith": {
     "Proj": 2.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Davis Allen": {
     "Proj": 2.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Austin Trammell": {
     "Proj": 2.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jacory Croskey-Merritt": {
     "Proj": 2.5,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Carson Steele": {
     "Proj": 2.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Teagan Quitoriano": {
     "Proj": 2.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Trey Palmer": {
     "Proj": 2.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Patrick Taylor": {
     "Proj": 2.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Mason Tipton": {
     "Proj": 2.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "David Bell": {
     "Proj": 2.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tyler Scott": {
     "Proj": 2.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tyler Badie": {
     "Proj": 2.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kyle Monangai": {
     "Proj": 2.2,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Keilan Robinson": {
     "Proj": 2.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Will Mallory": {
     "Proj": 1.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Brayden Willis": {
     "Proj": 1.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Eric Saubert": {
     "Proj": 1.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ben Sims": {
     "Proj": 1.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jimmy Horn": {
     "Proj": 1.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Mecole Hardman": {
     "Proj": 1.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "DeAndre Carter": {
     "Proj": 1.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Parris Campbell": {
     "Proj": 1.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Chris Brooks": {
     "Proj": 1.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Hunter Renfrow": {
     "Proj": 0.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jalen Brooks": {
     "Proj": 0.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Brenden Rice": {
     "Proj": 0.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kaden Prather": {
     "Proj": 0.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "A.T. Perry": {
     "Proj": 0.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jalen Virgil": {
     "Proj": 0.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jordan Watkins": {
     "Proj": 0.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Alex Bachman": {
     "Proj": 0.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Danny Gray": {
     "Proj": 0.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tez Johnson": {
     "Proj": 0.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jordan Matthews": {
     "Proj": 0.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Devin Duvernay": {
     "Proj": 0.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Michael Bandy": {
     "Proj": 0.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Skyy Moore": {
     "Proj": 0.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Zack Kuntz": {
     "Proj": 0.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Lucky Jackson": {
     "Proj": 0.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Xavier Hutchinson": {
     "Proj": 0.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Ko Kieft": {
     "Proj": 0.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tim Jones": {
     "Proj": 0.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Terrace Marshall": {
     "Proj": 0.2,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Josh Allen": {
     "Proj": 358.3,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": 29
   },
   "Lamar Jackson": {
     "Proj": 357.0,
-    "Exposure": 10.14
+    "Exposure": 10.14,
+    "Age": null
   },
   "Jalen Hurts": {
     "Proj": 352.6,
-    "Exposure": 4.73
+    "Exposure": 4.73,
+    "Age": null
   },
   "Jayden Daniels": {
     "Proj": 320.4,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Joe Burrow": {
     "Proj": 315.4,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": 28
   },
   "Patrick Mahomes": {
     "Proj": 314.8,
-    "Exposure": 14.86
+    "Exposure": 14.86,
+    "Age": 29
   },
   "Kyler Murray": {
     "Proj": 294.5,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Dak Prescott": {
     "Proj": 290.8,
-    "Exposure": 7.43
+    "Exposure": 7.43,
+    "Age": null
   },
   "Caleb Williams": {
     "Proj": 287.2,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Brock Purdy": {
     "Proj": 286.3,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "C.J. Stroud": {
     "Proj": 286.3,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Jordan Love": {
     "Proj": 284.3,
-    "Exposure": 19.59
+    "Exposure": 19.59,
+    "Age": null
   },
   "Trevor Lawrence": {
     "Proj": 279.1,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Baker Mayfield": {
     "Proj": 277.0,
-    "Exposure": 14.19
+    "Exposure": 14.19,
+    "Age": null
   },
   "Jared Goff": {
     "Proj": 276.4,
-    "Exposure": 12.16
+    "Exposure": 12.16,
+    "Age": null
   },
   "Justin Herbert": {
     "Proj": 276.1,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Tua Tagovailoa": {
     "Proj": 268.6,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "J.J. McCarthy": {
     "Proj": 265.8,
-    "Exposure": 10.81
+    "Exposure": 10.81,
+    "Age": null
   },
   "Bo Nix": {
     "Proj": 264.3,
-    "Exposure": 18.24
+    "Exposure": 18.24,
+    "Age": null
   },
   "Michael Penix": {
     "Proj": 261.4,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Geno Smith": {
     "Proj": 261.1,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Matthew Stafford": {
     "Proj": 255.3,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Sam Darnold": {
     "Proj": 253.3,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Cam Ward": {
     "Proj": 252.1,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Anthony Richardson": {
     "Proj": 250.1,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Bryce Young": {
     "Proj": 243.0,
-    "Exposure": 3.38
+    "Exposure": 3.38,
+    "Age": null
   },
   "Drake Maye": {
     "Proj": 237.5,
-    "Exposure": 4.05
+    "Exposure": 4.05,
+    "Age": null
   },
   "Tyler Shough": {
     "Proj": 232.9,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Mason Rudolph": {
     "Proj": 185.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Justin Fields": {
     "Proj": 184.8,
-    "Exposure": 8.11
+    "Exposure": 8.11,
+    "Age": null
   },
   "Daniel Jones": {
     "Proj": 175.9,
-    "Exposure": 6.08
+    "Exposure": 6.08,
+    "Age": null
   },
   "Russell Wilson": {
     "Proj": 175.2,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Jaxson Dart": {
     "Proj": 162.5,
-    "Exposure": 6.76
+    "Exposure": 6.76,
+    "Age": null
   },
   "Kirk Cousins": {
     "Proj": 142.0,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Will Levis": {
     "Proj": 131.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Joe Flacco": {
     "Proj": 101.6,
-    "Exposure": 1.35
+    "Exposure": 1.35,
+    "Age": null
   },
   "Gardner Minshew": {
     "Proj": 95.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Will Howard": {
     "Proj": 56.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Dillon Gabriel": {
     "Proj": 47.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Aidan O'Connell": {
     "Proj": 43.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kenny Pickett": {
     "Proj": 36.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jacoby Brissett": {
     "Proj": 34.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Joe Milton": {
     "Proj": 34.1,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Tyrod Taylor": {
     "Proj": 31.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Spencer Rattler": {
     "Proj": 26.7,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Zach Wilson": {
     "Proj": 26.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Nick Mullens": {
     "Proj": 24.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jarrett Stidham": {
     "Proj": 24.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Sam Howell": {
     "Proj": 20.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Drew Lock": {
     "Proj": 19.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Marcus Mariota": {
     "Proj": 19.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jalen Milroe": {
     "Proj": 18.4,
-    "Exposure": 2.7
+    "Exposure": 2.7,
+    "Age": null
   },
   "Jimmy Garoppolo": {
     "Proj": 16.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Malik Willis": {
     "Proj": 15.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Andy Dalton": {
     "Proj": 15.5,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jake Browning": {
     "Proj": 15.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Jameis Winston": {
     "Proj": 15.4,
-    "Exposure": 0.68
+    "Exposure": 0.68,
+    "Age": null
   },
   "Joshua Dobbs": {
     "Proj": 15.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Taylor Heinicke": {
     "Proj": 14.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Mitchell Trubisky": {
     "Proj": 14.6,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tyson Bagent": {
     "Proj": 14.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Davis Mills": {
     "Proj": 13.9,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Tanner McKee": {
     "Proj": 13.8,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Mac Jones": {
     "Proj": 13.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Kyle Trask": {
     "Proj": 13.3,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Brett Rypien": {
     "Proj": 13.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Hendon Hooker": {
     "Proj": 13.1,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Cooper Rush": {
     "Proj": 12.0,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   },
   "Dorian Thompson-Robinson": {
     "Proj": 6.4,
-    "Exposure": 0.0
+    "Exposure": 0.0,
+    "Age": null
   }
 }
