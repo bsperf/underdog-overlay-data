@@ -2,14 +2,8 @@
   "games": [
     { "matchup": "WSH @ NYM", "over_under": "3.31" },
     { "matchup": "NYM vs WSH", "over_under": "5.19" },
-    { "matchup": "TB @ BOS", "over_under": "4.81" },
-    { "matchup": "BOS vs TB", "over_under": "4.69" },
-    { "matchup": "NYY @ KC", "over_under": "4.75" },
-    { "matchup": "KC vs NYY", "over_under": "4.25" },
     { "matchup": "TEX @ MIN", "over_under": "3.93" },
     { "matchup": "MIN vs TEX", "over_under": "4.57" },
-    { "matchup": "CWS @ HOU", "over_under": "3.64" },
-    { "matchup": "HOU vs CWS", "over_under": "4.86" },
     { "matchup": "SF @ COL", "over_under": "6.33" },
     { "matchup": "COL vs SF", "over_under": "4.17" }
   ]
