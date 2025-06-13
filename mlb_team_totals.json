@@ -1,14 +1,22 @@
 {
   "games": [
-    { "matchup": "DET @ BAL", "over_under": "4.69" },
-    { "matchup": "BAL vs DET", "over_under": "3.31" },
-    { "matchup": "NYY @ KC", "over_under": "4.99" },
-    { "matchup": "KC vs NYY", "over_under": "4.01" },
-    { "matchup": "STL @ MIL", "over_under": "4.06" },
-    { "matchup": "MIL vs STL", "over_under": "3.44" },
-    { "matchup": "PIT @ CHC", "over_under": "3.08" },
-    { "matchup": "CHC vs PIT", "over_under": "4.42" },
-    { "matchup": "CWS @ HOU", "over_under": "2.77" },
-    { "matchup": "HOU vs CWS", "over_under": "4.73" }
+    { "matchup": "LAA @ BAL", "over_under": "4.44" },
+    { "matchup": "BAL vs LAA", "over_under": "6.06" },
+    { "matchup": "CIN @ DET", "over_under": "3.74" },
+    { "matchup": "DET vs CIN", "over_under": "4.26" },
+    { "matchup": "TB @ NYM", "over_under": "3.43" },
+    { "matchup": "NYM vs TB", "over_under": "4.57" },
+    { "matchup": "NYY @ BOS", "over_under": "3.83" },
+    { "matchup": "BOS vs NYY", "over_under": "4.68" },
+    { "matchup": "COL @ ATL", "over_under": "3.14" },
+    { "matchup": "ATL vs COL", "over_under": "5.36" },
+    { "matchup": "CWS @ TEX", "over_under": "3.59" },
+    { "matchup": "TEX vs CWS", "over_under": "4.91" },
+    { "matchup": "ATH @ KC", "over_under": "3.54" },
+    { "matchup": "KC vs ATH", "over_under": "4.46" },
+    { "matchup": "MIN @ HOU", "over_under": "4.05" },
+    { "matchup": "HOU vs MIN", "over_under": "3.95" },
+    { "matchup": "STL @ MIL", "over_under": "3.35" },
+    { "matchup": "MIL vs STL", "over_under": "4.15" }
   ]
 }
