@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Weather & Time Dashboard</title>
+<style>
+    body {
+        font-family: sans-serif;
+        background: #0a2a43;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 100vh;
+    }
+    .block {
+        text-align: center;
+    }
+    iframe {
+        border: none;
+        background: transparent;
+    }
+    .time {
+        font-size: 2em;
+        margin-top: 10px;
+    }
+</style>
+</head>
+<body>
+<div class="block">
+    <h2>Sabetha (66534)</h2>
+    <iframe src="https://wttr.in/66534?format=3" width="250" height="50"></iframe>
+    <div class="time" id="time1"></div>
+</div>
+<div class="block">
+    <h2>Fort Dodge (50501)</h2>
+    <iframe src="https://wttr.in/50501?format=3" width="250" height="50"></iframe>
+    <div class="time" id="time2"></div>
+</div>
+<div class="block">
+    <h2>South Pittsburg (37347)</h2>
+    <iframe src="https://wttr.in/37347?format=3" width="250" height="50"></iframe>
+    <div class="time" id="time3"></div>
+</div>
+<div class="block">
+    <h2>Paola (66092)</h2>
+    <iframe src="https://wttr.in/66092?format=3" width="250" height="50"></iframe>
+    <div class="time" id="time4"></div>
+</div>
+
+<script>
+function updateTime() {
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+    document.getElementById('time1').textContent = timeStr;
+    document.getElementById('time2').textContent = timeStr;
+    document.getElementById('time3').textContent = timeStr;
+    document.getElementById('time4').textContent = timeStr;
+}
+setInterval(updateTime, 1000);
+updateTime();
+</script>
+</body>
+</html>
