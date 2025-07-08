@@ -18,5 +18,13 @@
     { "matchup": "STL vs WSH", "over_under": "5.07" },
     { "matchup": "CLE @ HOU", "over_under": "2.9" },
     { "matchup": "HOU vs CLE", "over_under": "4.1" }
+    { "matchup": "TEX @ LAA", "over_under": "4.13" },
+    { "matchup": "LAA vs TEX", "over_under": "3.87" },
+    { "matchup": "AZ @ SD", "over_under": "3.7" },
+    { "matchup": "SD vs AZ", "over_under": "4.3" },
+    { "matchup": "PHI @ SF", "over_under": "3.83" },
+    { "matchup": "SF vs PHI", "over_under": "4.68" },
+    { "matchup": "ATL @ ATH", "over_under": "5.49" },
+    { "matchup": "ATH vs ATL", "over_under": "5.01" }
   ]
 }
