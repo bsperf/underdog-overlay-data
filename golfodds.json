@@ -25,7 +25,7 @@
       "odds": "+5000"
     },
     {
-      "golfer": "Robert Macintyre",
+      "golfer": "Robert MacIntyre",
       "odds": "+5000"
     },
     {
@@ -65,10 +65,6 @@
       "odds": "+7000"
     },
     {
-      "golfer": "Taylor Pendrith",
-      "odds": "+7000"
-    },
-    {
       "golfer": "Ryan Fox",
       "odds": "+7000"
     },
@@ -78,6 +74,14 @@
     },
     {
       "golfer": "Harris English",
+      "odds": "+7500"
+    },
+    {
+      "golfer": "Rasmus Hojgaard",
+      "odds": "+7500"
+    },
+    {
+      "golfer": "Taylor Pendrith",
       "odds": "+7500"
     },
     {
@@ -110,10 +114,6 @@
     },
     {
       "golfer": "Daniel Berger",
-      "odds": "+8000"
-    },
-    {
-      "golfer": "Rasmus Hojgaard",
       "odds": "+8000"
     },
     {
@@ -153,7 +153,7 @@
       "odds": "+9000"
     },
     {
-      "golfer": "Hao-tong Li",
+      "golfer": "Haotong Li",
       "odds": "+9000"
     },
     {
@@ -166,10 +166,6 @@
     },
     {
       "golfer": "Sam Stevens",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Alex Smalley",
       "odds": "+9000"
     },
     {
@@ -229,6 +225,10 @@
       "odds": "+10000"
     },
     {
+      "golfer": "Alex Smalley",
+      "odds": "+10000"
+    },
+    {
       "golfer": "Jordan Smith",
       "odds": "+10000"
     },
@@ -245,7 +245,7 @@
       "odds": "+10000"
     },
     {
-      "golfer": "Eugenio Lopez-Chacarra",
+      "golfer": "Eugenio Chacarra",
       "odds": "+10000"
     },
     {
@@ -301,10 +301,6 @@
       "odds": "+12000"
     },
     {
-      "golfer": "Keita Nakajima",
-      "odds": "+12000"
-    },
-    {
       "golfer": "Patrick Rodgers",
       "odds": "+12000"
     },
@@ -334,10 +330,6 @@
     },
     {
       "golfer": "Martin Couvra",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Marcel Schneider",
       "odds": "+12000"
     },
     {
@@ -373,6 +365,14 @@
       "odds": "+12000"
     },
     {
+      "golfer": "John Parry",
+      "odds": "+15000"
+    },
+    {
+      "golfer": "Keita Nakajima",
+      "odds": "+15000"
+    },
+    {
       "golfer": "Alejandro Tosti",
       "odds": "+15000"
     },
@@ -397,11 +397,11 @@
       "odds": "+15000"
     },
     {
-      "golfer": "Andy Sullivan",
+      "golfer": "Calum Hill",
       "odds": "+15000"
     },
     {
-      "golfer": "Calum Hill",
+      "golfer": "Marcel Schneider",
       "odds": "+15000"
     },
     {
@@ -409,12 +409,12 @@
       "odds": "+15000"
     },
     {
-      "golfer": "Joe Highsmith",
+      "golfer": "Connor Syme",
       "odds": "+15000"
     },
     {
-      "golfer": "Yannik Paul",
-      "odds": "+17000"
+      "golfer": "Joe Highsmith",
+      "odds": "+15000"
     },
     {
       "golfer": "Jacques Kruyswijk",
@@ -422,10 +422,6 @@
     },
     {
       "golfer": "Sebastian Soderberg",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "John Parry",
       "odds": "+17000"
     },
     {
@@ -469,6 +465,10 @@
       "odds": "+17000"
     },
     {
+      "golfer": "Andy Sullivan",
+      "odds": "+17000"
+    },
+    {
       "golfer": "David Ford",
       "odds": "+17000"
     },
@@ -485,12 +485,12 @@
       "odds": "+17000"
     },
     {
-      "golfer": "Connor Syme",
+      "golfer": "Danny Walker",
       "odds": "+17000"
     },
     {
-      "golfer": "Danny Walker",
-      "odds": "+17000"
+      "golfer": "Yannik Paul",
+      "odds": "+20000"
     },
     {
       "golfer": "Todd Clements",
@@ -509,7 +509,7 @@
       "odds": "+20000"
     },
     {
-      "golfer": "Nicolai Von Dellingshausen",
+      "golfer": "Nicolai von Dellingshausen",
       "odds": "+20000"
     },
     {
@@ -593,10 +593,6 @@
       "odds": "+35000"
     },
     {
-      "golfer": "Wooyoung Cho",
-      "odds": "+40000"
-    },
-    {
       "golfer": "Dale Whitnell",
       "odds": "+40000"
     },
@@ -626,5 +622,3 @@
     }
   ]
 }
-
-
