@@ -2,8 +2,8 @@
   "games": [
     { "matchup": "SEA @ NYY", "over_under": "4.2" },
     { "matchup": "NYY vs SEA", "over_under": "5.3" },
-    { "matchup": "NYM @ BAL", "over_under": "5.61" },
-    { "matchup": "BAL vs NYM", "over_under": "4.39" },
+    { "matchup": "NYM @ BAL", "over_under": "PPD" },
+    { "matchup": "BAL vs NYM", "over_under": "PPD" },
     { "matchup": "MIA @ CIN", "over_under": "3.9" },
     { "matchup": "CIN vs MIA", "over_under": "4.6" },
     { "matchup": "COL @ BOS", "over_under": "3.3" },
