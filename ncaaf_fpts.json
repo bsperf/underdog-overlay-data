@@ -1,0 +1,10460 @@
+{
+  "players": [
+    {
+      "Player": "John Mateer",
+      "FPts": 431.65
+    },
+    {
+      "Player": "Cade Klubnik",
+      "FPts": 400.25
+    },
+    {
+      "Player": "Devon Dampier",
+      "FPts": 389.0
+    },
+    {
+      "Player": "Rocco Becht",
+      "FPts": 343.05
+    },
+    {
+      "Player": "Chandler Morris",
+      "FPts": 334.9
+    },
+    {
+      "Player": "Avery Johnson",
+      "FPts": 318.1
+    },
+    {
+      "Player": "Diego Pavia",
+      "FPts": 314.65
+    },
+    {
+      "Player": "Drew Allar",
+      "FPts": 308.15
+    },
+    {
+      "Player": "Jeremiah Smith",
+      "FPts": 306.2
+    },
+    {
+      "Player": "Garrett Nussmeier",
+      "FPts": 306.15
+    },
+    {
+      "Player": "Sam Leavitt",
+      "FPts": 304.55
+    },
+    {
+      "Player": "Taylen Green",
+      "FPts": 299.85
+    },
+    {
+      "Player": "Sawyer Robertson",
+      "FPts": 298.55
+    },
+    {
+      "Player": "Kevin Jennings",
+      "FPts": 295.65
+    },
+    {
+      "Player": "Josh Hoover",
+      "FPts": 293.55
+    },
+    {
+      "Player": "Brendan Sorsby",
+      "FPts": 291.15
+    },
+    {
+      "Player": "Nick Singleton",
+      "FPts": 288.4
+    },
+    {
+      "Player": "LaNorris Sellers",
+      "FPts": 282.7
+    },
+    {
+      "Player": "Jeremiyah Love",
+      "FPts": 280.1
+    },
+    {
+      "Player": "Haynes King",
+      "FPts": 280.0
+    },
+    {
+      "Player": "Makhi Hughes",
+      "FPts": 278.7
+    },
+    {
+      "Player": "Jake Retzlaff",
+      "FPts": 276.7
+    },
+    {
+      "Player": "Giovanni Lopez",
+      "FPts": 274.45
+    },
+    {
+      "Player": "Carson Beck",
+      "FPts": 273.35
+    },
+    {
+      "Player": "Darius Taylor",
+      "FPts": 262.1
+    },
+    {
+      "Player": "Behren Morton",
+      "FPts": 260.55
+    },
+    {
+      "Player": "Desmond Reid",
+      "FPts": 260.1
+    },
+    {
+      "Player": "CJ Campbell",
+      "FPts": 255.0
+    },
+    {
+      "Player": "Antonio Williams",
+      "FPts": 251.4
+    },
+    {
+      "Player": "Luke Altmyer",
+      "FPts": 250.85
+    },
+    {
+      "Player": "Devonte Ross",
+      "FPts": 249.8
+    },
+    {
+      "Player": "Dean Connors",
+      "FPts": 249.2
+    },
+    {
+      "Player": "Eric Rivers",
+      "FPts": 248.9
+    },
+    {
+      "Player": "Joey Aguilar",
+      "FPts": 248.8
+    },
+    {
+      "Player": "Trebor Pena",
+      "FPts": 245.3
+    },
+    {
+      "Player": "Nico Iamaleava",
+      "FPts": 242.7
+    },
+    {
+      "Player": "Jordyn Tyson",
+      "FPts": 241.2
+    },
+    {
+      "Player": "Fernando Mendoza",
+      "FPts": 238.4
+    },
+    {
+      "Player": "Athan Kaliakmanis",
+      "FPts": 237.9
+    },
+    {
+      "Player": "Anthony Hankerson",
+      "FPts": 236.3
+    },
+    {
+      "Player": "Kaidon Salter",
+      "FPts": 235.0
+    },
+    {
+      "Player": "Marcel Reed",
+      "FPts": 233.9
+    },
+    {
+      "Player": "Isaac Brown",
+      "FPts": 232.5
+    },
+    {
+      "Player": "Maalik Murphy",
+      "FPts": 230.75
+    },
+    {
+      "Player": "Billy Edwards",
+      "FPts": 229.85
+    },
+    {
+      "Player": "Jalon Daniels",
+      "FPts": 229.4
+    },
+    {
+      "Player": "Darian Mensah",
+      "FPts": 229.35
+    },
+    {
+      "Player": "Tanner Koziol",
+      "FPts": 226.5
+    },
+    {
+      "Player": "Demond Claiborne",
+      "FPts": 225.2
+    },
+    {
+      "Player": "Ahmad Hardy",
+      "FPts": 224.4
+    },
+    {
+      "Player": "Cedrick Bailey",
+      "FPts": 222.95
+    },
+    {
+      "Player": "DT Sheffield",
+      "FPts": 222.8
+    },
+    {
+      "Player": "Bryson Washington",
+      "FPts": 222.5
+    },
+    {
+      "Player": "Tre Wisner",
+      "FPts": 217.5
+    },
+    {
+      "Player": "Eli Holstein",
+      "FPts": 216.2
+    },
+    {
+      "Player": "Jamal Haynes",
+      "FPts": 211.0
+    },
+    {
+      "Player": "Kaytron Allen",
+      "FPts": 204.1
+    },
+    {
+      "Player": "Noah Fifita",
+      "FPts": 204.0
+    },
+    {
+      "Player": "Jonah Coleman",
+      "FPts": 204.0
+    },
+    {
+      "Player": "Denzel Boston",
+      "FPts": 202.4
+    },
+    {
+      "Player": "Kevin Coleman",
+      "FPts": 202.3
+    },
+    {
+      "Player": "Elijah Sarratt",
+      "FPts": 198.7
+    },
+    {
+      "Player": "Notre Dame",
+      "FPts": 198.0
+    },
+    {
+      "Player": "Braydon Bennett",
+      "FPts": 197.9
+    },
+    {
+      "Player": "Ryan Williams",
+      "FPts": 197.3
+    },
+    {
+      "Player": "Rahsul Faison",
+      "FPts": 190.8
+    },
+    {
+      "Player": "Ohio State",
+      "FPts": 190.0
+    },
+    {
+      "Player": "Eli Sanders",
+      "FPts": 188.7
+    },
+    {
+      "Player": "Miller Moss",
+      "FPts": 187.95
+    },
+    {
+      "Player": "Josh Cameron",
+      "FPts": 187.4
+    },
+    {
+      "Player": "Javon Tracy",
+      "FPts": 186.3
+    },
+    {
+      "Player": "Carson Hansen",
+      "FPts": 186.3
+    },
+    {
+      "Player": "Fluff Bothwell",
+      "FPts": 185.1
+    },
+    {
+      "Player": "Ashton Daniels",
+      "FPts": 183.9
+    },
+    {
+      "Player": "Trent Walker",
+      "FPts": 183.9
+    },
+    {
+      "Player": "Caleb Douglas",
+      "FPts": 183.7
+    },
+    {
+      "Player": "Aidan Chiles",
+      "FPts": 183.25
+    },
+    {
+      "Player": "Lee Beebe",
+      "FPts": 182.3
+    },
+    {
+      "Player": "Texas",
+      "FPts": 182.0
+    },
+    {
+      "Player": "Kyron Drones",
+      "FPts": 181.6
+    },
+    {
+      "Player": "Dean Patterson",
+      "FPts": 180.9
+    },
+    {
+      "Player": "Jaden Nixon",
+      "FPts": 179.8
+    },
+    {
+      "Player": "DeZhaun Stribling",
+      "FPts": 179.2
+    },
+    {
+      "Player": "Amare Thomas",
+      "FPts": 177.8
+    },
+    {
+      "Player": "Caden Durham",
+      "FPts": 176.9
+    },
+    {
+      "Player": "Mikey Keene",
+      "FPts": 176.85
+    },
+    {
+      "Player": "Reginald Virgil",
+      "FPts": 176.6
+    },
+    {
+      "Player": "Aaron Anderson",
+      "FPts": 176.5
+    },
+    {
+      "Player": "Jackson Arnold",
+      "FPts": 175.05
+    },
+    {
+      "Player": "Ismail Mahdi",
+      "FPts": 174.6
+    },
+    {
+      "Player": "Kameran Shanks",
+      "FPts": 170.6
+    },
+    {
+      "Player": "Roman Hemby",
+      "FPts": 170.0
+    },
+    {
+      "Player": "Seth McGowan",
+      "FPts": 170.0
+    },
+    {
+      "Player": "Kanye Udoh",
+      "FPts": 169.0
+    },
+    {
+      "Player": "Eric Singleton",
+      "FPts": 168.5
+    },
+    {
+      "Player": "Star Thomas",
+      "FPts": 168.4
+    },
+    {
+      "Player": "Penn State",
+      "FPts": 168.0
+    },
+    {
+      "Player": "CJ Donaldson",
+      "FPts": 167.8
+    },
+    {
+      "Player": "JaKobi Lane",
+      "FPts": 167.5
+    },
+    {
+      "Player": "Chrishon McCray",
+      "FPts": 166.5
+    },
+    {
+      "Player": "OMega Blake",
+      "FPts": 166.2
+    },
+    {
+      "Player": "Makai Jackson",
+      "FPts": 165.5
+    },
+    {
+      "Player": "Ole Miss",
+      "FPts": 165.0
+    },
+    {
+      "Player": "Luke Wysong",
+      "FPts": 164.5
+    },
+    {
+      "Player": "Dylan Raiola",
+      "FPts": 163.65
+    },
+    {
+      "Player": "Jahiem White",
+      "FPts": 161.7
+    },
+    {
+      "Player": "Coy Eakin",
+      "FPts": 161.2
+    },
+    {
+      "Player": "Omari Kelly",
+      "FPts": 159.9
+    },
+    {
+      "Player": "Jayce Brown",
+      "FPts": 159.5
+    },
+    {
+      "Player": "Davon Booth",
+      "FPts": 159.3
+    },
+    {
+      "Player": "Cam Vaughn",
+      "FPts": 159.1
+    },
+    {
+      "Player": "Malik Rutherford",
+      "FPts": 158.9
+    },
+    {
+      "Player": "Danny ONeil",
+      "FPts": 158.35
+    },
+    {
+      "Player": "Cayden Lee",
+      "FPts": 158.2
+    },
+    {
+      "Player": "Chase Roberts",
+      "FPts": 157.6
+    },
+    {
+      "Player": "Tawee Walker",
+      "FPts": 157.5
+    },
+    {
+      "Player": "LeVeon Moss",
+      "FPts": 157.0
+    },
+    {
+      "Player": "Hudson Clement",
+      "FPts": 155.1
+    },
+    {
+      "Player": "Germie Bernard",
+      "FPts": 153.1
+    },
+    {
+      "Player": "BYU ",
+      "FPts": 153.0
+    },
+    {
+      "Player": "Lewis Bond",
+      "FPts": 152.3
+    },
+    {
+      "Player": "Damien Taylor",
+      "FPts": 151.9
+    },
+    {
+      "Player": "Daylan Smothers",
+      "FPts": 150.4
+    },
+    {
+      "Player": "Kevin Concepcion",
+      "FPts": 150.0
+    },
+    {
+      "Player": "Carnell Tate",
+      "FPts": 149.9
+    },
+    {
+      "Player": "Thomas Castellanos",
+      "FPts": 149.7
+    },
+    {
+      "Player": "AJ Turner",
+      "FPts": 149.2
+    },
+    {
+      "Player": "Makai Lemon",
+      "FPts": 148.35
+    },
+    {
+      "Player": "Eli Stowers",
+      "FPts": 148.35
+    },
+    {
+      "Player": "SMU",
+      "FPts": 148.0
+    },
+    {
+      "Player": "Isaiah Horton",
+      "FPts": 147.6
+    },
+    {
+      "Player": "Ryan Davis",
+      "FPts": 146.7
+    },
+    {
+      "Player": "Noah Thomas",
+      "FPts": 146.2
+    },
+    {
+      "Player": "Collin Rogers",
+      "FPts": 146.0
+    },
+    {
+      "Player": "Sedrick Alexander",
+      "FPts": 145.4
+    },
+    {
+      "Player": "Eric McAlister",
+      "FPts": 145.2
+    },
+    {
+      "Player": "Kris Hutson",
+      "FPts": 145.1
+    },
+    {
+      "Player": "Michael Van Buren",
+      "FPts": 145.1
+    },
+    {
+      "Player": "Tennessee",
+      "FPts": 145.0
+    },
+    {
+      "Player": "Cam Coleman",
+      "FPts": 144.8
+    },
+    {
+      "Player": "Jam Miller",
+      "FPts": 144.3
+    },
+    {
+      "Player": "LJ Martin",
+      "FPts": 144.1
+    },
+    {
+      "Player": "Emmett Johnson",
+      "FPts": 144.1
+    },
+    {
+      "Player": "Duke",
+      "FPts": 144.0
+    },
+    {
+      "Player": "Iowa",
+      "FPts": 144.0
+    },
+    {
+      "Player": "Max Klare",
+      "FPts": 143.5
+    },
+    {
+      "Player": "Chris Bell",
+      "FPts": 143.0
+    },
+    {
+      "Player": "Mike Washington",
+      "FPts": 142.9
+    },
+    {
+      "Player": "Cam Pickett",
+      "FPts": 142.8
+    },
+    {
+      "Player": "Oran Singleton",
+      "FPts": 142.2
+    },
+    {
+      "Player": "Indiana",
+      "FPts": 142.0
+    },
+    {
+      "Player": "Harrison Wallace",
+      "FPts": 142.0
+    },
+    {
+      "Player": "Bryant Wesco",
+      "FPts": 141.8
+    },
+    {
+      "Player": "Braedyn Locke",
+      "FPts": 141.2
+    },
+    {
+      "Player": "Caden Chittenden",
+      "FPts": 141.0
+    },
+    {
+      "Player": "Durell Robinson",
+      "FPts": 140.6
+    },
+    {
+      "Player": "Dorian Fleming",
+      "FPts": 140.5
+    },
+    {
+      "Player": "TJ Moore",
+      "FPts": 140.1
+    },
+    {
+      "Player": "Terrance Carter",
+      "FPts": 139.9
+    },
+    {
+      "Player": "Omar Cooper",
+      "FPts": 139.7
+    },
+    {
+      "Player": "Evan Stewart",
+      "FPts": 139.3
+    },
+    {
+      "Player": "South Carolina",
+      "FPts": 139.0
+    },
+    {
+      "Player": "Cam Fancher",
+      "FPts": 138.9
+    },
+    {
+      "Player": "Ian Strong",
+      "FPts": 138.8
+    },
+    {
+      "Player": "Dante Dowdell",
+      "FPts": 138.5
+    },
+    {
+      "Player": "Noah Whittington",
+      "FPts": 137.6
+    },
+    {
+      "Player": "Emmett Mosley",
+      "FPts": 137.1
+    },
+    {
+      "Player": "Colorado",
+      "FPts": 137.0
+    },
+    {
+      "Player": "Yamir Knight",
+      "FPts": 136.6
+    },
+    {
+      "Player": "DJ Lagway",
+      "FPts": 135.85
+    },
+    {
+      "Player": "Nate Frazier",
+      "FPts": 135.6
+    },
+    {
+      "Player": "Oklahoma",
+      "FPts": 135.0
+    },
+    {
+      "Player": "Ethan Hampton",
+      "FPts": 134.9
+    },
+    {
+      "Player": "Raylen Sharpe",
+      "FPts": 133.8
+    },
+    {
+      "Player": "Justin Joly",
+      "FPts": 133.1
+    },
+    {
+      "Player": "Alabama",
+      "FPts": 133.0
+    },
+    {
+      "Player": "Dillon Bell",
+      "FPts": 132.3
+    },
+    {
+      "Player": "Jack Endries",
+      "FPts": 132.3
+    },
+    {
+      "Player": "Ashtyn Hawkins",
+      "FPts": 132.1
+    },
+    {
+      "Player": "Mark Fletcher",
+      "FPts": 131.3
+    },
+    {
+      "Player": "Pittsburgh",
+      "FPts": 131.0
+    },
+    {
+      "Player": "Jacory Barney",
+      "FPts": 130.7
+    },
+    {
+      "Player": "Tony Johnson",
+      "FPts": 130.2
+    },
+    {
+      "Player": "Otto Tia",
+      "FPts": 129.4
+    },
+    {
+      "Player": "Jack Lausch",
+      "FPts": 129.0
+    },
+    {
+      "Player": "Dylan Edwards",
+      "FPts": 128.9
+    },
+    {
+      "Player": "Vinny Anthony",
+      "FPts": 128.6
+    },
+    {
+      "Player": "Dane Key",
+      "FPts": 128.5
+    },
+    {
+      "Player": "Nyziah Hunter",
+      "FPts": 128.4
+    },
+    {
+      "Player": "Dawson Pendergrass",
+      "FPts": 128.4
+    },
+    {
+      "Player": "Kole Wilson",
+      "FPts": 128.3
+    },
+    {
+      "Player": "Markus Allen",
+      "FPts": 128.1
+    },
+    {
+      "Player": "Oregon",
+      "FPts": 128.0
+    },
+    {
+      "Player": "Amari Daniels",
+      "FPts": 127.1
+    },
+    {
+      "Player": "Will Ferrin",
+      "FPts": 127.0
+    },
+    {
+      "Player": "Minnesota",
+      "FPts": 127.0
+    },
+    {
+      "Player": "DeAndre Moore",
+      "FPts": 126.6
+    },
+    {
+      "Player": "Cam Porter",
+      "FPts": 126.5
+    },
+    {
+      "Player": "Nick Marsh",
+      "FPts": 126.2
+    },
+    {
+      "Player": "Wayshawn Parker",
+      "FPts": 125.3
+    },
+    {
+      "Player": "Jaden Greathouse",
+      "FPts": 125.2
+    },
+    {
+      "Player": "Jalen Moss",
+      "FPts": 124.9
+    },
+    {
+      "Player": "Devin Mockobee",
+      "FPts": 124.7
+    },
+    {
+      "Player": "Terion Stewart",
+      "FPts": 124.0
+    },
+    {
+      "Player": "Boston College",
+      "FPts": 124.0
+    },
+    {
+      "Player": "Max Gilbert",
+      "FPts": 124.0
+    },
+    {
+      "Player": "Peyton Woodring",
+      "FPts": 123.0
+    },
+    {
+      "Player": "Jaivian Thomas",
+      "FPts": 122.7
+    },
+    {
+      "Player": "Kenny Johnson",
+      "FPts": 122.3
+    },
+    {
+      "Player": "Chase Sowell",
+      "FPts": 121.8
+    },
+    {
+      "Player": "Jayden Maiava",
+      "FPts": 121.25
+    },
+    {
+      "Player": "Jovantae Barnes",
+      "FPts": 121.0
+    },
+    {
+      "Player": "Blake Craig",
+      "FPts": 121.0
+    },
+    {
+      "Player": "Louisville",
+      "FPts": 121.0
+    },
+    {
+      "Player": "North Carolina",
+      "FPts": 121.0
+    },
+    {
+      "Player": "Utah",
+      "FPts": 121.0
+    },
+    {
+      "Player": "Jadan Baugh",
+      "FPts": 120.6
+    },
+    {
+      "Player": "Damian Ramos",
+      "FPts": 120.0
+    },
+    {
+      "Player": "Jadarian Price",
+      "FPts": 119.6
+    },
+    {
+      "Player": "Joseph Williams",
+      "FPts": 119.4
+    },
+    {
+      "Player": "Jayden Fielding",
+      "FPts": 119.0
+    },
+    {
+      "Player": "Florida",
+      "FPts": 119.0
+    },
+    {
+      "Player": "Duke Watson",
+      "FPts": 118.7
+    },
+    {
+      "Player": "Demond Williams",
+      "FPts": 118.7
+    },
+    {
+      "Player": "Joe Royer",
+      "FPts": 118.1
+    },
+    {
+      "Player": "Louis Brown",
+      "FPts": 118.0
+    },
+    {
+      "Player": "Bert Auburn",
+      "FPts": 118.0
+    },
+    {
+      "Player": "Nolan Hauser",
+      "FPts": 118.0
+    },
+    {
+      "Player": "Kansas State",
+      "FPts": 118.0
+    },
+    {
+      "Player": "Randy Bond",
+      "FPts": 117.0
+    },
+    {
+      "Player": "Kyle Konrardy",
+      "FPts": 117.0
+    },
+    {
+      "Player": "Georgia",
+      "FPts": 116.0
+    },
+    {
+      "Player": "Missouri",
+      "FPts": 116.0
+    },
+    {
+      "Player": "Nebraska",
+      "FPts": 116.0
+    },
+    {
+      "Player": "Jacob De Jesus",
+      "FPts": 115.3
+    },
+    {
+      "Player": "Raphael Williams",
+      "FPts": 115.3
+    },
+    {
+      "Player": "Michigan",
+      "FPts": 115.0
+    },
+    {
+      "Player": "Evan Pryor",
+      "FPts": 114.9
+    },
+    {
+      "Player": "Jaydn Ott",
+      "FPts": 114.7
+    },
+    {
+      "Player": "Arizona State",
+      "FPts": 114.0
+    },
+    {
+      "Player": "Virginia Tech",
+      "FPts": 114.0
+    },
+    {
+      "Player": "Justice Haynes",
+      "FPts": 113.7
+    },
+    {
+      "Player": "Clemson",
+      "FPts": 113.0
+    },
+    {
+      "Player": "Drew Stevens",
+      "FPts": 113.0
+    },
+    {
+      "Player": "California",
+      "FPts": 112.0
+    },
+    {
+      "Player": "Arch Manning",
+      "FPts": 111.75
+    },
+    {
+      "Player": "Lucas Carneiro",
+      "FPts": 110.0
+    },
+    {
+      "Player": "Horatio Fields",
+      "FPts": 109.3
+    },
+    {
+      "Player": "Brandon High",
+      "FPts": 109.3
+    },
+    {
+      "Player": "Trey Smack",
+      "FPts": 109.0
+    },
+    {
+      "Player": "Rahkeem Smith",
+      "FPts": 108.7
+    },
+    {
+      "Player": "Brock Taylor",
+      "FPts": 107.0
+    },
+    {
+      "Player": "Sahmir Hagans",
+      "FPts": 106.3
+    },
+    {
+      "Player": "Dominic Zvada",
+      "FPts": 106.0
+    },
+    {
+      "Player": "JaKobi Jackson",
+      "FPts": 105.5
+    },
+    {
+      "Player": "Kentucky",
+      "FPts": 105.0
+    },
+    {
+      "Player": "Zeon Chriss",
+      "FPts": 104.9
+    },
+    {
+      "Player": "Malcolm Simmons",
+      "FPts": 104.4
+    },
+    {
+      "Player": "Illinois",
+      "FPts": 104.0
+    },
+    {
+      "Player": "Iowa State",
+      "FPts": 104.0
+    },
+    {
+      "Player": "Grayson James",
+      "FPts": 104.0
+    },
+    {
+      "Player": "Kyle Lemmermann",
+      "FPts": 104.0
+    },
+    {
+      "Player": "Deshawn Purdie",
+      "FPts": 103.1
+    },
+    {
+      "Player": "Zachariah Branch",
+      "FPts": 103.0
+    },
+    {
+      "Player": "Mitch Jeter",
+      "FPts": 103.0
+    },
+    {
+      "Player": "Cameron Ross",
+      "FPts": 102.9
+    },
+    {
+      "Player": "Kyron Ware-Hudson",
+      "FPts": 102.2
+    },
+    {
+      "Player": "Vanderbilt",
+      "FPts": 102.0
+    },
+    {
+      "Player": "Antwan Raymond",
+      "FPts": 101.1
+    },
+    {
+      "Player": "John Love",
+      "FPts": 101.0
+    },
+    {
+      "Player": "Nicolas Radicic",
+      "FPts": 101.0
+    },
+    {
+      "Player": "Texas A&M",
+      "FPts": 101.0
+    },
+    {
+      "Player": "Carlos Hernandez",
+      "FPts": 100.7
+    },
+    {
+      "Player": "Will Pauling",
+      "FPts": 99.1
+    },
+    {
+      "Player": "Ryan Barker",
+      "FPts": 99.0
+    },
+    {
+      "Player": "Drelyn Washington",
+      "FPts": 98.5
+    },
+    {
+      "Player": "Ryan Wingo",
+      "FPts": 98.2
+    },
+    {
+      "Player": "Joshua Meredith",
+      "FPts": 98.2
+    },
+    {
+      "Player": "Jesus Gomez",
+      "FPts": 98.0
+    },
+    {
+      "Player": "Kade Hensley",
+      "FPts": 98.0
+    },
+    {
+      "Player": "Houston",
+      "FPts": 98.0
+    },
+    {
+      "Player": "Darrell Gill",
+      "FPts": 97.8
+    },
+    {
+      "Player": "Harvey Broussard",
+      "FPts": 97.6
+    },
+    {
+      "Player": "Caleb Goodie",
+      "FPts": 97.3
+    },
+    {
+      "Player": "Aidan Birr",
+      "FPts": 97.0
+    },
+    {
+      "Player": "Traylon Ray",
+      "FPts": 96.8
+    },
+    {
+      "Player": "Laith Marjan",
+      "FPts": 96.0
+    },
+    {
+      "Player": "Miami (FL)",
+      "FPts": 96.0
+    },
+    {
+      "Player": "Jake Garcia",
+      "FPts": 95.9
+    },
+    {
+      "Player": "Tate Carney",
+      "FPts": 95.8
+    },
+    {
+      "Player": "QueSean Brown",
+      "FPts": 95.6
+    },
+    {
+      "Player": "Andrew Laughery",
+      "FPts": 95.1
+    },
+    {
+      "Player": "David Olano",
+      "FPts": 95.0
+    },
+    {
+      "Player": "Washington State",
+      "FPts": 95.0
+    },
+    {
+      "Player": "Isaac Wilson",
+      "FPts": 94.2
+    },
+    {
+      "Player": "Barion Brown",
+      "FPts": 94.1
+    },
+    {
+      "Player": "Upton Bellenfant",
+      "FPts": 94.0
+    },
+    {
+      "Player": "LSU",
+      "FPts": 94.0
+    },
+    {
+      "Player": "Alejandro Mata",
+      "FPts": 94.0
+    },
+    {
+      "Player": "Kanoah Vinesett",
+      "FPts": 93.0
+    },
+    {
+      "Player": "Omar Evans",
+      "FPts": 92.6
+    },
+    {
+      "Player": "Chamon Metayer",
+      "FPts": 92.6
+    },
+    {
+      "Player": "Duce Robinson",
+      "FPts": 92.6
+    },
+    {
+      "Player": "Noah Burnette",
+      "FPts": 92.0
+    },
+    {
+      "Player": "Noe Ruelas",
+      "FPts": 92.0
+    },
+    {
+      "Player": "Johnnie Daniels",
+      "FPts": 91.6
+    },
+    {
+      "Player": "Jonathan Brady",
+      "FPts": 91.4
+    },
+    {
+      "Player": "Auburn",
+      "FPts": 91.0
+    },
+    {
+      "Player": "Todd Pelino",
+      "FPts": 91.0
+    },
+    {
+      "Player": "Rece Verhoff",
+      "FPts": 91.0
+    },
+    {
+      "Player": "Quinten Joyner",
+      "FPts": 90.7
+    },
+    {
+      "Player": "Jabre Barber",
+      "FPts": 90.7
+    },
+    {
+      "Player": "Reed Harris",
+      "FPts": 90.7
+    },
+    {
+      "Player": "Daequan Wright",
+      "FPts": 90.4
+    },
+    {
+      "Player": "CJ Daniels",
+      "FPts": 90.0
+    },
+    {
+      "Player": "Grady Gross",
+      "FPts": 90.0
+    },
+    {
+      "Player": "Jai Patel",
+      "FPts": 90.0
+    },
+    {
+      "Player": "Junior Sherrill",
+      "FPts": 89.7
+    },
+    {
+      "Player": "Isaiah Sategna",
+      "FPts": 89.5
+    },
+    {
+      "Player": "Jacob Gill",
+      "FPts": 89.4
+    },
+    {
+      "Player": "Grayson Barnes",
+      "FPts": 89.3
+    },
+    {
+      "Player": "Mateen Bhaghani",
+      "FPts": 89.0
+    },
+    {
+      "Player": "Xavier Brown",
+      "FPts": 88.5
+    },
+    {
+      "Player": "Hilton Alexander",
+      "FPts": 88.3
+    },
+    {
+      "Player": "Blake Shapen",
+      "FPts": 88.3
+    },
+    {
+      "Player": "Northwestern",
+      "FPts": 88.0
+    },
+    {
+      "Player": "Atticus Sappington",
+      "FPts": 88.0
+    },
+    {
+      "Player": "Logan Loya",
+      "FPts": 87.8
+    },
+    {
+      "Player": "Noah Rogers",
+      "FPts": 86.8
+    },
+    {
+      "Player": "Keelan Marion",
+      "FPts": 86.2
+    },
+    {
+      "Player": "Baylor",
+      "FPts": 86.0
+    },
+    {
+      "Player": "Chris Hunter",
+      "FPts": 86.0
+    },
+    {
+      "Player": "Randy Pittman",
+      "FPts": 85.6
+    },
+    {
+      "Player": "Michael Trigg",
+      "FPts": 85.5
+    },
+    {
+      "Player": "Sam Roush",
+      "FPts": 85.4
+    },
+    {
+      "Player": "Cam Thompson",
+      "FPts": 85.1
+    },
+    {
+      "Player": "Kyson Brown",
+      "FPts": 85.0
+    },
+    {
+      "Player": "North Carolina State",
+      "FPts": 85.0
+    },
+    {
+      "Player": "USC",
+      "FPts": 85.0
+    },
+    {
+      "Player": "Cash Jones",
+      "FPts": 84.2
+    },
+    {
+      "Player": "Treyshun Hurry",
+      "FPts": 84.1
+    },
+    {
+      "Player": "Stephon Johnson",
+      "FPts": 84.1
+    },
+    {
+      "Player": "Matthew Dennis",
+      "FPts": 84.0
+    },
+    {
+      "Player": "RJ Maryland",
+      "FPts": 83.9
+    },
+    {
+      "Player": "Bauer Sharp",
+      "FPts": 83.6
+    },
+    {
+      "Player": "Marquarius White",
+      "FPts": 83.4
+    },
+    {
+      "Player": "Alex Bauman",
+      "FPts": 83.2
+    },
+    {
+      "Player": "Bobby Golden",
+      "FPts": 83.1
+    },
+    {
+      "Player": "Emmet Kenney",
+      "FPts": 83.0
+    },
+    {
+      "Player": "Matthew Hibner",
+      "FPts": 82.8
+    },
+    {
+      "Player": "Luke Hasz",
+      "FPts": 82.4
+    },
+    {
+      "Player": "Miles Kitselman",
+      "FPts": 82.2
+    },
+    {
+      "Player": "Mazeo Bennett",
+      "FPts": 81.7
+    },
+    {
+      "Player": "Nyckoles Harbor",
+      "FPts": 81.7
+    },
+    {
+      "Player": "Jordan Mosley",
+      "FPts": 81.5
+    },
+    {
+      "Player": "LJ Johnson",
+      "FPts": 81.3
+    },
+    {
+      "Player": "Jack Velling",
+      "FPts": 81.1
+    },
+    {
+      "Player": "Arkansas",
+      "FPts": 81.0
+    },
+    {
+      "Player": "TCU",
+      "FPts": 81.0
+    },
+    {
+      "Player": "Abu Sama",
+      "FPts": 80.5
+    },
+    {
+      "Player": "Dekel Crowdus",
+      "FPts": 80.2
+    },
+    {
+      "Player": "Benji Gosnell",
+      "FPts": 80.1
+    },
+    {
+      "Player": "Will Bettridge",
+      "FPts": 80.0
+    },
+    {
+      "Player": "Kansas",
+      "FPts": 80.0
+    },
+    {
+      "Player": "Syracuse",
+      "FPts": 80.0
+    },
+    {
+      "Player": "Beau Pribula",
+      "FPts": 79.95
+    },
+    {
+      "Player": "Jacob Stewart",
+      "FPts": 79.8
+    },
+    {
+      "Player": "KJ Duff",
+      "FPts": 79.3
+    },
+    {
+      "Player": "Jameson Geers",
+      "FPts": 79.0
+    },
+    {
+      "Player": "Donavon Greene",
+      "FPts": 79.0
+    },
+    {
+      "Player": "Lawson Luckie",
+      "FPts": 78.8
+    },
+    {
+      "Player": "Drelon Miller",
+      "FPts": 78.7
+    },
+    {
+      "Player": "NaQuari Rogers",
+      "FPts": 78.6
+    },
+    {
+      "Player": "Dylan Wade",
+      "FPts": 78.4
+    },
+    {
+      "Player": "Kwazi Gilmer",
+      "FPts": 78.3
+    },
+    {
+      "Player": "ReShaun Sanford",
+      "FPts": 78.1
+    },
+    {
+      "Player": "Rodney Gallagher",
+      "FPts": 77.9
+    },
+    {
+      "Player": "Garrett Oakley",
+      "FPts": 77.6
+    },
+    {
+      "Player": "Jacurri Brown",
+      "FPts": 77.45
+    },
+    {
+      "Player": "Oscar Adaway III",
+      "FPts": 77.0
+    },
+    {
+      "Player": "Rutgers",
+      "FPts": 77.0
+    },
+    {
+      "Player": "Jamarion Wilcox",
+      "FPts": 76.4
+    },
+    {
+      "Player": "Justin Bowick",
+      "FPts": 76.3
+    },
+    {
+      "Player": "Seydou Traore",
+      "FPts": 76.1
+    },
+    {
+      "Player": "Jeremiah Franklin",
+      "FPts": 76.1
+    },
+    {
+      "Player": "Logan Ward",
+      "FPts": 76.0
+    },
+    {
+      "Player": "Deion Burks",
+      "FPts": 74.7
+    },
+    {
+      "Player": "Joseph Manjack",
+      "FPts": 74.35
+    },
+    {
+      "Player": "Mikey Matthews",
+      "FPts": 74.1
+    },
+    {
+      "Player": "Buck Buchanan",
+      "FPts": 74.0
+    },
+    {
+      "Player": "Trech Kekahuna",
+      "FPts": 74.0
+    },
+    {
+      "Player": "Larry Simmons",
+      "FPts": 73.9
+    },
+    {
+      "Player": "Octavian Smith",
+      "FPts": 73.7
+    },
+    {
+      "Player": "Jahmal Edrine",
+      "FPts": 73.5
+    },
+    {
+      "Player": "Chris Brazzell",
+      "FPts": 73.2
+    },
+    {
+      "Player": "Kenyon Sadiq",
+      "FPts": 73.2
+    },
+    {
+      "Player": "Trond Grizzell",
+      "FPts": 73.1
+    },
+    {
+      "Player": "Peyton Jones",
+      "FPts": 73.1
+    },
+    {
+      "Player": "Ethan Sanchez",
+      "FPts": 73.0
+    },
+    {
+      "Player": "Nathaniel Vakos",
+      "FPts": 73.0
+    },
+    {
+      "Player": "Kendrick Raphael",
+      "FPts": 72.6
+    },
+    {
+      "Player": "Jordan Faison",
+      "FPts": 72.6
+    },
+    {
+      "Player": "Mario Craver",
+      "FPts": 72.5
+    },
+    {
+      "Player": "Xavier Robinson",
+      "FPts": 72.2
+    },
+    {
+      "Player": "Cincinnati",
+      "FPts": 72.0
+    },
+    {
+      "Player": "JaMori Maclin",
+      "FPts": 71.6
+    },
+    {
+      "Player": "AJ Newberry",
+      "FPts": 70.9
+    },
+    {
+      "Player": "Ayden Greene",
+      "FPts": 70.4
+    },
+    {
+      "Player": "Kyle Ferrie",
+      "FPts": 70.0
+    },
+    {
+      "Player": "Washington",
+      "FPts": 70.0
+    },
+    {
+      "Player": "Michael Hawkins",
+      "FPts": 69.95
+    },
+    {
+      "Player": "Jordan Lyle",
+      "FPts": 69.9
+    },
+    {
+      "Player": "Oscar Delp",
+      "FPts": 69.8
+    },
+    {
+      "Player": "Davis Warren",
+      "FPts": 69.75
+    },
+    {
+      "Player": "Caleb Medford",
+      "FPts": 69.6
+    },
+    {
+      "Player": "Aneyas Williams",
+      "FPts": 69.1
+    },
+    {
+      "Player": "Texas Tech",
+      "FPts": 69.0
+    },
+    {
+      "Player": "Stacy Sneed",
+      "FPts": 68.7
+    },
+    {
+      "Player": "Joe Himon",
+      "FPts": 68.3
+    },
+    {
+      "Player": "Jackson Courville",
+      "FPts": 68.0
+    },
+    {
+      "Player": "Nolan Ray",
+      "FPts": 68.0
+    },
+    {
+      "Player": "Vince Brown",
+      "FPts": 67.6
+    },
+    {
+      "Player": "Darius Clemons",
+      "FPts": 67.6
+    },
+    {
+      "Player": "Jaron Tibbs",
+      "FPts": 67.5
+    },
+    {
+      "Player": "DJ Collins",
+      "FPts": 67.4
+    },
+    {
+      "Player": "UCLA",
+      "FPts": 67.0
+    },
+    {
+      "Player": "Max Reese",
+      "FPts": 66.5
+    },
+    {
+      "Player": "Marquis Johnson",
+      "FPts": 66.4
+    },
+    {
+      "Player": "Stephen Rusnak",
+      "FPts": 66.0
+    },
+    {
+      "Player": "Stanford",
+      "FPts": 66.0
+    },
+    {
+      "Player": "J.Michael Sturdivant",
+      "FPts": 66.0
+    },
+    {
+      "Player": "DeSean Bishop",
+      "FPts": 65.5
+    },
+    {
+      "Player": "Kamari Moulton",
+      "FPts": 65.5
+    },
+    {
+      "Player": "Wake Forest",
+      "FPts": 65.0
+    },
+    {
+      "Player": "Austin Welch",
+      "FPts": 65.0
+    },
+    {
+      "Player": "Jacob Zeno",
+      "FPts": 64.65
+    },
+    {
+      "Player": "Zavion Thomas",
+      "FPts": 64.4
+    },
+    {
+      "Player": "Dylan Rizk",
+      "FPts": 64.05
+    },
+    {
+      "Player": "Jeremy Payne",
+      "FPts": 63.8
+    },
+    {
+      "Player": "Nicco Marchiol",
+      "FPts": 63.7
+    },
+    {
+      "Player": "Titus Mokiao-Atimalala",
+      "FPts": 63.6
+    },
+    {
+      "Player": "Evan Boyd",
+      "FPts": 63.2
+    },
+    {
+      "Player": "Jerrick Gibson",
+      "FPts": 63.2
+    },
+    {
+      "Player": "Davion Gause",
+      "FPts": 63.0
+    },
+    {
+      "Player": "Wisconsin",
+      "FPts": 63.0
+    },
+    {
+      "Player": "Myles Montgomery",
+      "FPts": 62.9
+    },
+    {
+      "Player": "Cole Turner",
+      "FPts": 62.5
+    },
+    {
+      "Player": "Ben Gulbranson",
+      "FPts": 62.45
+    },
+    {
+      "Player": "Censere Lee",
+      "FPts": 62.4
+    },
+    {
+      "Player": "Malik Benson",
+      "FPts": 62.3
+    },
+    {
+      "Player": "Ismael Cisse",
+      "FPts": 62.3
+    },
+    {
+      "Player": "Umari Hatcher",
+      "FPts": 62.3
+    },
+    {
+      "Player": "Jordan McDonald",
+      "FPts": 62.0
+    },
+    {
+      "Player": "UCF",
+      "FPts": 62.0
+    },
+    {
+      "Player": "Wesley Grimes",
+      "FPts": 61.9
+    },
+    {
+      "Player": "Daniel Hishaw Jr.",
+      "FPts": 61.9
+    },
+    {
+      "Player": "Darrion Dupree",
+      "FPts": 61.6
+    },
+    {
+      "Player": "JKoby Williams",
+      "FPts": 61.6
+    },
+    {
+      "Player": "Brett Norfleet",
+      "FPts": 61.5
+    },
+    {
+      "Player": "Prince Strachan",
+      "FPts": 61.4
+    },
+    {
+      "Player": "Micah Ford",
+      "FPts": 61.35
+    },
+    {
+      "Player": "Vaughn Pemberton",
+      "FPts": 61.2
+    },
+    {
+      "Player": "Georgia Tech",
+      "FPts": 61.0
+    },
+    {
+      "Player": "Tyler Morris",
+      "FPts": 60.7
+    },
+    {
+      "Player": "Mekhi Mews",
+      "FPts": 59.8
+    },
+    {
+      "Player": "Carson Kent",
+      "FPts": 59.7
+    },
+    {
+      "Player": "Troy Stellato",
+      "FPts": 59.7
+    },
+    {
+      "Player": "Taylor Tatum",
+      "FPts": 59.7
+    },
+    {
+      "Player": "Gabe Burkle",
+      "FPts": 59.6
+    },
+    {
+      "Player": "Jeremiah Patterson",
+      "FPts": 59.4
+    },
+    {
+      "Player": "Justin Stevenson",
+      "FPts": 59.4
+    },
+    {
+      "Player": "Michigan State",
+      "FPts": 59.0
+    },
+    {
+      "Player": "Braylen Russell",
+      "FPts": 58.2
+    },
+    {
+      "Player": "Ryan Browne",
+      "FPts": 58.1
+    },
+    {
+      "Player": "Jamarius Haynes",
+      "FPts": 57.7
+    },
+    {
+      "Player": "Kobe Paysour",
+      "FPts": 57.5
+    },
+    {
+      "Player": "Kaden Feagin",
+      "FPts": 57.3
+    },
+    {
+      "Player": "Peyton Lewis",
+      "FPts": 57.3
+    },
+    {
+      "Player": "Aziah Johnson",
+      "FPts": 57.1
+    },
+    {
+      "Player": "John Hohl",
+      "FPts": 57.0
+    },
+    {
+      "Player": "Tayven Jackson",
+      "FPts": 56.75
+    },
+    {
+      "Player": "Jacob Jordan",
+      "FPts": 56.7
+    },
+    {
+      "Player": "Kris Mitchell",
+      "FPts": 56.4
+    },
+    {
+      "Player": "Decker DeGraaf",
+      "FPts": 56.3
+    },
+    {
+      "Player": "Arizona",
+      "FPts": 56.0
+    },
+    {
+      "Player": "Micah Welch",
+      "FPts": 56.0
+    },
+    {
+      "Player": "Dallan Hayden",
+      "FPts": 55.8
+    },
+    {
+      "Player": "Leo Pulalasi",
+      "FPts": 55.6
+    },
+    {
+      "Player": "Robby Ashford",
+      "FPts": 54.9
+    },
+    {
+      "Player": "Kedrick Reescano",
+      "FPts": 54.6
+    },
+    {
+      "Player": "Hank Beatty",
+      "FPts": 54.5
+    },
+    {
+      "Player": "Brenen Thompson",
+      "FPts": 54.0
+    },
+    {
+      "Player": "Liam Clifford",
+      "FPts": 53.8
+    },
+    {
+      "Player": "Trace Bruckler",
+      "FPts": 53.8
+    },
+    {
+      "Player": "Conner Weigman",
+      "FPts": 53.05
+    },
+    {
+      "Player": "Damari Alston",
+      "FPts": 52.9
+    },
+    {
+      "Player": "Keyjuan Brown",
+      "FPts": 52.6
+    },
+    {
+      "Player": "Lemeke Brockington",
+      "FPts": 52.4
+    },
+    {
+      "Player": "Anderson Castle",
+      "FPts": 52.4
+    },
+    {
+      "Player": "Jackson Kennedy",
+      "FPts": 52.0
+    },
+    {
+      "Player": "Virginia",
+      "FPts": 52.0
+    },
+    {
+      "Player": "Brody Dalton",
+      "FPts": 51.8
+    },
+    {
+      "Player": "Caullin Lacy",
+      "FPts": 51.7
+    },
+    {
+      "Player": "Eugene Wilson",
+      "FPts": 51.6
+    },
+    {
+      "Player": "JJ Hester",
+      "FPts": 51.5
+    },
+    {
+      "Player": "London Humphreys",
+      "FPts": 51.4
+    },
+    {
+      "Player": "Chris Hilton",
+      "FPts": 51.3
+    },
+    {
+      "Player": "Florida State",
+      "FPts": 51.0
+    },
+    {
+      "Player": "Cyrus Allen",
+      "FPts": 50.9
+    },
+    {
+      "Player": "Semaj Morgan",
+      "FPts": 50.1
+    },
+    {
+      "Player": "Micah Mays",
+      "FPts": 49.8
+    },
+    {
+      "Player": "Reece Vander Zee",
+      "FPts": 49.6
+    },
+    {
+      "Player": "Jared Brown",
+      "FPts": 49.4
+    },
+    {
+      "Player": "Justius Lowe",
+      "FPts": 49.3
+    },
+    {
+      "Player": "Aidan Mizell",
+      "FPts": 49.2
+    },
+    {
+      "Player": "Trell Harris",
+      "FPts": 49.1
+    },
+    {
+      "Player": "TreyDez Green",
+      "FPts": 49.1
+    },
+    {
+      "Player": "West Virginia",
+      "FPts": 49.0
+    },
+    {
+      "Player": "Oscar Hammond",
+      "FPts": 48.8
+    },
+    {
+      "Player": "Tanner Arkin",
+      "FPts": 48.7
+    },
+    {
+      "Player": "Cameron Davis",
+      "FPts": 48.6
+    },
+    {
+      "Player": "Samuel Brown",
+      "FPts": 48.5
+    },
+    {
+      "Player": "Cameron Dickey",
+      "FPts": 48.2
+    },
+    {
+      "Player": "Jaron Glover",
+      "FPts": 48.2
+    },
+    {
+      "Player": "Turbo Richard",
+      "FPts": 48.0
+    },
+    {
+      "Player": "Adam Randall",
+      "FPts": 47.9
+    },
+    {
+      "Player": "Jayden Thomas",
+      "FPts": 47.4
+    },
+    {
+      "Player": "Bryce Duke",
+      "FPts": 47.3
+    },
+    {
+      "Player": "Joe Jackson",
+      "FPts": 47.0
+    },
+    {
+      "Player": "Malachi Singleton",
+      "FPts": 46.9
+    },
+    {
+      "Player": "Jamal Roberts",
+      "FPts": 46.7
+    },
+    {
+      "Player": "Parker Kingston",
+      "FPts": 46.55
+    },
+    {
+      "Player": "Lake McRee",
+      "FPts": 46.5
+    },
+    {
+      "Player": "Jayden Harrison",
+      "FPts": 46.1
+    },
+    {
+      "Player": "Luke McGary",
+      "FPts": 46.1
+    },
+    {
+      "Player": "Connor Gibbs",
+      "FPts": 46.0
+    },
+    {
+      "Player": "Jalen Berger",
+      "FPts": 45.7
+    },
+    {
+      "Player": "Kevorian Barnes",
+      "FPts": 45.2
+    },
+    {
+      "Player": "Maryland",
+      "FPts": 45.0
+    },
+    {
+      "Player": "Cade Yacamelli",
+      "FPts": 44.9
+    },
+    {
+      "Player": "Bailey Stockton",
+      "FPts": 44.7
+    },
+    {
+      "Player": "Sam Olson",
+      "FPts": 44.6
+    },
+    {
+      "Player": "Joshua Manning",
+      "FPts": 44.6
+    },
+    {
+      "Player": "Collin Dixon",
+      "FPts": 44.4
+    },
+    {
+      "Player": "Jaziun Patterson",
+      "FPts": 44.2
+    },
+    {
+      "Player": "Josh Cuevas",
+      "FPts": 43.8
+    },
+    {
+      "Player": "Kenny Fletcher",
+      "FPts": 43.7
+    },
+    {
+      "Player": "Brock Glenn",
+      "FPts": 43.55
+    },
+    {
+      "Player": "Rodney Hill",
+      "FPts": 43.2
+    },
+    {
+      "Player": "Jojo Phillips",
+      "FPts": 43.1
+    },
+    {
+      "Player": "Ian Hershey",
+      "FPts": 43.0
+    },
+    {
+      "Player": "Oklahoma State",
+      "FPts": 43.0
+    },
+    {
+      "Player": "Jaedn Skeete",
+      "FPts": 42.9
+    },
+    {
+      "Player": "Nate Kurisky",
+      "FPts": 42.7
+    },
+    {
+      "Player": "Talyn Shettron",
+      "FPts": 42.5
+    },
+    {
+      "Player": "Luke Kromenhoek",
+      "FPts": 42.4
+    },
+    {
+      "Player": "Colin Weber",
+      "FPts": 42.3
+    },
+    {
+      "Player": "Johncarlos Miller",
+      "FPts": 42.2
+    },
+    {
+      "Player": "Corey Smith",
+      "FPts": 42.1
+    },
+    {
+      "Player": "Grant Wilson",
+      "FPts": 42.05
+    },
+    {
+      "Player": "Zevi Eckhaus",
+      "FPts": 42.0
+    },
+    {
+      "Player": "Towns McGough",
+      "FPts": 42.0
+    },
+    {
+      "Player": "Aaron Philo",
+      "FPts": 41.85
+    },
+    {
+      "Player": "Hayden Hansen",
+      "FPts": 41.7
+    },
+    {
+      "Player": "Brendan Doyle",
+      "FPts": 41.5
+    },
+    {
+      "Player": "Preston Stone",
+      "FPts": 41.45
+    },
+    {
+      "Player": "Chad Alexander",
+      "FPts": 41.2
+    },
+    {
+      "Player": "Sione I Moa",
+      "FPts": 41.2
+    },
+    {
+      "Player": "Justus Ross-Simmons",
+      "FPts": 41.2
+    },
+    {
+      "Player": "Preston Howard",
+      "FPts": 40.9
+    },
+    {
+      "Player": "Harrison Waylee",
+      "FPts": 40.8
+    },
+    {
+      "Player": "Will Hammond",
+      "FPts": 40.45
+    },
+    {
+      "Player": "Theodor Ohrstrom",
+      "FPts": 40.4
+    },
+    {
+      "Player": "Kaelon Black",
+      "FPts": 39.7
+    },
+    {
+      "Player": "Jordyn Bailey",
+      "FPts": 39.6
+    },
+    {
+      "Player": "Trent Battle",
+      "FPts": 39.5
+    },
+    {
+      "Player": "Landen Thomas",
+      "FPts": 39.3
+    },
+    {
+      "Player": "Tastean Reddicks",
+      "FPts": 39.2
+    },
+    {
+      "Player": "Hank Brown",
+      "FPts": 39.15
+    },
+    {
+      "Player": "Olsen Patt Henry",
+      "FPts": 39.1
+    },
+    {
+      "Player": "Elija Lofton",
+      "FPts": 39.0
+    },
+    {
+      "Player": "Liam Connor",
+      "FPts": 39.0
+    },
+    {
+      "Player": "Jake Overman",
+      "FPts": 39.0
+    },
+    {
+      "Player": "Spencer Porath",
+      "FPts": 39.0
+    },
+    {
+      "Player": "Jaylen Lloyd",
+      "FPts": 38.6
+    },
+    {
+      "Player": "Khalil Dinkins",
+      "FPts": 38.2
+    },
+    {
+      "Player": "DAndre Rogers",
+      "FPts": 38.2
+    },
+    {
+      "Player": "Manny Covey",
+      "FPts": 38.1
+    },
+    {
+      "Player": "Tre Spivey",
+      "FPts": 38.0
+    },
+    {
+      "Player": "Josh Kattus",
+      "FPts": 37.9
+    },
+    {
+      "Player": "Colbie Young",
+      "FPts": 37.9
+    },
+    {
+      "Player": "Brandon Inniss",
+      "FPts": 37.6
+    },
+    {
+      "Player": "Omarion Miller",
+      "FPts": 37.6
+    },
+    {
+      "Player": "Rico Flores",
+      "FPts": 36.7
+    },
+    {
+      "Player": "Keenan Jackson",
+      "FPts": 36.4
+    },
+    {
+      "Player": "Richie Hoskins",
+      "FPts": 36.1
+    },
+    {
+      "Player": "Oregon State",
+      "FPts": 36.0
+    },
+    {
+      "Player": "Terrell Anderson",
+      "FPts": 35.8
+    },
+    {
+      "Player": "Brayden Loftin",
+      "FPts": 35.5
+    },
+    {
+      "Player": "E.J. Smith",
+      "FPts": 35.3
+    },
+    {
+      "Player": "Calil Valentine",
+      "FPts": 35.2
+    },
+    {
+      "Player": "Ethan Davis",
+      "FPts": 35.1
+    },
+    {
+      "Player": "Jarod Bowie",
+      "FPts": 34.8
+    },
+    {
+      "Player": "Jamari Johnson",
+      "FPts": 34.8
+    },
+    {
+      "Player": "DeNylon Morrissette",
+      "FPts": 34.7
+    },
+    {
+      "Player": "Branson Robinson",
+      "FPts": 34.6
+    },
+    {
+      "Player": "Sesi Vailahi",
+      "FPts": 34.5
+    },
+    {
+      "Player": "Salahadin Allah",
+      "FPts": 34.4
+    },
+    {
+      "Player": "Cole Spence",
+      "FPts": 34.1
+    },
+    {
+      "Player": "Holden Staes",
+      "FPts": 34.1
+    },
+    {
+      "Player": "Jack Olsen",
+      "FPts": 34.0
+    },
+    {
+      "Player": "Tony Livingston",
+      "FPts": 33.9
+    },
+    {
+      "Player": "Benjamin Brahmer",
+      "FPts": 33.9
+    },
+    {
+      "Player": "Ben Black",
+      "FPts": 33.7
+    },
+    {
+      "Player": "Johntay Cook",
+      "FPts": 33.7
+    },
+    {
+      "Player": "Tyler Van Dyke",
+      "FPts": 33.7
+    },
+    {
+      "Player": "Josiah Martin",
+      "FPts": 33.6
+    },
+    {
+      "Player": "Will Swanson",
+      "FPts": 33.6
+    },
+    {
+      "Player": "Max Brown",
+      "FPts": 33.25
+    },
+    {
+      "Player": "Shaleak Knotts",
+      "FPts": 33.1
+    },
+    {
+      "Player": "Trent Howland",
+      "FPts": 32.7
+    },
+    {
+      "Player": "Fredrick Moore",
+      "FPts": 32.6
+    },
+    {
+      "Player": "James Peoples",
+      "FPts": 32.5
+    },
+    {
+      "Player": "Addison Ostrenga",
+      "FPts": 32.1
+    },
+    {
+      "Player": "Mississippi State",
+      "FPts": 32.0
+    },
+    {
+      "Player": "Eli Raridon",
+      "FPts": 32.0
+    },
+    {
+      "Player": "William Watson",
+      "FPts": 31.95
+    },
+    {
+      "Player": "Xavier Townsend",
+      "FPts": 31.7
+    },
+    {
+      "Player": "Will Anciaux",
+      "FPts": 31.2
+    },
+    {
+      "Player": "Chris Davis",
+      "FPts": 30.9
+    },
+    {
+      "Player": "Will Monney",
+      "FPts": 30.8
+    },
+    {
+      "Player": "Rashid Williams",
+      "FPts": 30.8
+    },
+    {
+      "Player": "Chris Johnson",
+      "FPts": 30.3
+    },
+    {
+      "Player": "Vandrevius Jacobs",
+      "FPts": 30.1
+    },
+    {
+      "Player": "Ethan Head",
+      "FPts": 30.0
+    },
+    {
+      "Player": "Kobe Prentice",
+      "FPts": 29.9
+    },
+    {
+      "Player": "Jordan McCants",
+      "FPts": 29.9
+    },
+    {
+      "Player": "Noah Vaughn",
+      "FPts": 29.7
+    },
+    {
+      "Player": "Gavin Sawchuk",
+      "FPts": 29.6
+    },
+    {
+      "Player": "Tobias Merriweather",
+      "FPts": 29.5
+    },
+    {
+      "Player": "Adam Mohammed",
+      "FPts": 29.4
+    },
+    {
+      "Player": "Luke Reynolds",
+      "FPts": 29.3
+    },
+    {
+      "Player": "Devan Williams",
+      "FPts": 29.2
+    },
+    {
+      "Player": "Maealiuaki Smith",
+      "FPts": 29.05
+    },
+    {
+      "Player": "Malachi Thomas",
+      "FPts": 29.0
+    },
+    {
+      "Player": "Janiran Bonner",
+      "FPts": 28.8
+    },
+    {
+      "Player": "Derrick McFall",
+      "FPts": 28.6
+    },
+    {
+      "Player": "Jack Pedersen",
+      "FPts": 28.6
+    },
+    {
+      "Player": "Richard Young",
+      "FPts": 28.3
+    },
+    {
+      "Player": "Hardley Gilmore",
+      "FPts": 28.2
+    },
+    {
+      "Player": "Mike Matthews",
+      "FPts": 28.0
+    },
+    {
+      "Player": "Yasin Willis",
+      "FPts": 27.6
+    },
+    {
+      "Player": "Kendrick Law",
+      "FPts": 27.5
+    },
+    {
+      "Player": "Jerand Bradley",
+      "FPts": 27.4
+    },
+    {
+      "Player": "Carsen Ryan",
+      "FPts": 27.3
+    },
+    {
+      "Player": "Romello Brinson",
+      "FPts": 27.1
+    },
+    {
+      "Player": "Tank Hawkins",
+      "FPts": 27.1
+    },
+    {
+      "Player": "Purdue",
+      "FPts": 27.0
+    },
+    {
+      "Player": "Cataurus Hicks",
+      "FPts": 26.9
+    },
+    {
+      "Player": "Zion Kearney",
+      "FPts": 26.8
+    },
+    {
+      "Player": "Michael Smith",
+      "FPts": 26.6
+    },
+    {
+      "Player": "Marcus Burke",
+      "FPts": 26.4
+    },
+    {
+      "Player": "Caziah Holmes",
+      "FPts": 26.4
+    },
+    {
+      "Player": "Steve Angeli",
+      "FPts": 26.3
+    },
+    {
+      "Player": "Tucker Ashcraft",
+      "FPts": 26.2
+    },
+    {
+      "Player": "Jashon Benjamin",
+      "FPts": 26.2
+    },
+    {
+      "Player": "Peyton OLeary",
+      "FPts": 26.2
+    },
+    {
+      "Player": "Fred Farrier",
+      "FPts": 25.9
+    },
+    {
+      "Player": "Bryan Jackson",
+      "FPts": 25.8
+    },
+    {
+      "Player": "Dakota Twitty",
+      "FPts": 25.8
+    },
+    {
+      "Player": "Domonique Thomas",
+      "FPts": 25.7
+    },
+    {
+      "Player": "Grady Brosterhous",
+      "FPts": 25.4
+    },
+    {
+      "Player": "Josh Ford",
+      "FPts": 25.2
+    },
+    {
+      "Player": "Preston Fox",
+      "FPts": 25.1
+    },
+    {
+      "Player": "Jordan Shipp",
+      "FPts": 25.1
+    },
+    {
+      "Player": "Harrison Bailey",
+      "FPts": 25.05
+    },
+    {
+      "Player": "Harry Lodge",
+      "FPts": 25.0
+    },
+    {
+      "Player": "Brady Denaburg",
+      "FPts": 25.0
+    },
+    {
+      "Player": "Kaleb Jackson",
+      "FPts": 25.0
+    },
+    {
+      "Player": "Zac Yoakam",
+      "FPts": 25.0
+    },
+    {
+      "Player": "Christian Hamilton",
+      "FPts": 24.9
+    },
+    {
+      "Player": "Roydell Williams",
+      "FPts": 24.9
+    },
+    {
+      "Player": "Jeremiah Cobb",
+      "FPts": 24.7
+    },
+    {
+      "Player": "Chris Culliver",
+      "FPts": 24.7
+    },
+    {
+      "Player": "Garret Rangel",
+      "FPts": 24.7
+    },
+    {
+      "Player": "Carter Nelson",
+      "FPts": 24.5
+    },
+    {
+      "Player": "Jeff Sims",
+      "FPts": 24.5
+    },
+    {
+      "Player": "Zach Ortwerth",
+      "FPts": 24.3
+    },
+    {
+      "Player": "Amaree Williams",
+      "FPts": 24.1
+    },
+    {
+      "Player": "Jawarn Howell",
+      "FPts": 23.8
+    },
+    {
+      "Player": "Marlin Klein",
+      "FPts": 23.8
+    },
+    {
+      "Player": "Perry Thompson",
+      "FPts": 23.6
+    },
+    {
+      "Player": "Derrick Davis",
+      "FPts": 23.5
+    },
+    {
+      "Player": "Austin Simmons",
+      "FPts": 23.5
+    },
+    {
+      "Player": "Gabarri Johnson",
+      "FPts": 23.3
+    },
+    {
+      "Player": "Michael Mitchell",
+      "FPts": 23.3
+    },
+    {
+      "Player": "Charlie Offerdahl",
+      "FPts": 23.2
+    },
+    {
+      "Player": "Shamar Rigby",
+      "FPts": 23.2
+    },
+    {
+      "Player": "Heinrich Haarberg",
+      "FPts": 22.85
+    },
+    {
+      "Player": "Anthony Evans",
+      "FPts": 22.8
+    },
+    {
+      "Player": "Kameron Courtney",
+      "FPts": 22.8
+    },
+    {
+      "Player": "Dazmin James",
+      "FPts": 22.7
+    },
+    {
+      "Player": "Sedrick Irvin Jr.",
+      "FPts": 22.6
+    },
+    {
+      "Player": "Drew Biber",
+      "FPts": 22.3
+    },
+    {
+      "Player": "Christopher Vizzina",
+      "FPts": 22.3
+    },
+    {
+      "Player": "Suderian Harrison",
+      "FPts": 22.25
+    },
+    {
+      "Player": "Jayden Limar",
+      "FPts": 22.2
+    },
+    {
+      "Player": "Jordan Dingle",
+      "FPts": 22.1
+    },
+    {
+      "Player": "Henry Belin",
+      "FPts": 22.05
+    },
+    {
+      "Player": "Jay Fair",
+      "FPts": 21.8
+    },
+    {
+      "Player": "Savell Smalls",
+      "FPts": 21.8
+    },
+    {
+      "Player": "Zacharyus Williams",
+      "FPts": 21.7
+    },
+    {
+      "Player": "Cooper Flanagan",
+      "FPts": 21.5
+    },
+    {
+      "Player": "Eli Green",
+      "FPts": 21.5
+    },
+    {
+      "Player": "Boden Groen",
+      "FPts": 21.4
+    },
+    {
+      "Player": "Bryce Caufield",
+      "FPts": 21.2
+    },
+    {
+      "Player": "Joshisa Trader",
+      "FPts": 21.1
+    },
+    {
+      "Player": "Tristan Alvano",
+      "FPts": 21.0
+    },
+    {
+      "Player": "Chase Curtis",
+      "FPts": 21.0
+    },
+    {
+      "Player": "Carston Kieffer",
+      "FPts": 21.0
+    },
+    {
+      "Player": "Hogan Hansen",
+      "FPts": 20.8
+    },
+    {
+      "Player": "Caleb Hood",
+      "FPts": 20.75
+    },
+    {
+      "Player": "Gunner Stockton",
+      "FPts": 20.7
+    },
+    {
+      "Player": "Creed Whittemore",
+      "FPts": 20.6
+    },
+    {
+      "Player": "Dan Villari",
+      "FPts": 20.6
+    },
+    {
+      "Player": "Riley Williams",
+      "FPts": 20.5
+    },
+    {
+      "Player": "Micah Hudson",
+      "FPts": 20.3
+    },
+    {
+      "Player": "Daidren Zipperer",
+      "FPts": 20.2
+    },
+    {
+      "Player": "Rodney Fields",
+      "FPts": 20.2
+    },
+    {
+      "Player": "Duane Thomas",
+      "FPts": 20.1
+    },
+    {
+      "Player": "Kyle Cunanan",
+      "FPts": 20.0
+    },
+    {
+      "Player": "DaWain Lofton",
+      "FPts": 20.0
+    },
+    {
+      "Player": "David Wells",
+      "FPts": 19.9
+    },
+    {
+      "Player": "Frank Covey",
+      "FPts": 19.8
+    },
+    {
+      "Player": "Rico Scott",
+      "FPts": 19.8
+    },
+    {
+      "Player": "Kahnen Daniels",
+      "FPts": 19.7
+    },
+    {
+      "Player": "Trey Leckner",
+      "FPts": 19.7
+    },
+    {
+      "Player": "Keith Adams",
+      "FPts": 19.6
+    },
+    {
+      "Player": "Xavier Gayten",
+      "FPts": 19.5
+    },
+    {
+      "Player": "Tony Freeman",
+      "FPts": 19.2
+    },
+    {
+      "Player": "Nate Johnson",
+      "FPts": 19.1
+    },
+    {
+      "Player": "Andrew Boyle",
+      "FPts": 19.0
+    },
+    {
+      "Player": "Ivan Carreon",
+      "FPts": 18.9
+    },
+    {
+      "Player": "Cristian Driver",
+      "FPts": 18.8
+    },
+    {
+      "Player": "Ty Simpson",
+      "FPts": 18.75
+    },
+    {
+      "Player": "Terrell Washington",
+      "FPts": 18.7
+    },
+    {
+      "Player": "Cameron Seldon",
+      "FPts": 18.6
+    },
+    {
+      "Player": "Riley Nowakowski",
+      "FPts": 18.4
+    },
+    {
+      "Player": "Jarriett Buie",
+      "FPts": 18.4
+    },
+    {
+      "Player": "Andre Greene",
+      "FPts": 18.4
+    },
+    {
+      "Player": "Jake Taylor",
+      "FPts": 18.4
+    },
+    {
+      "Player": "Devin Green",
+      "FPts": 18.3
+    },
+    {
+      "Player": "Nate Boerkircher",
+      "FPts": 18.2
+    },
+    {
+      "Player": "Matthew Klopfenstein",
+      "FPts": 18.2
+    },
+    {
+      "Player": "Luca Lombardo",
+      "FPts": 18.0
+    },
+    {
+      "Player": "Tyler Moore",
+      "FPts": 18.0
+    },
+    {
+      "Player": "JMarion Burnette",
+      "FPts": 17.9
+    },
+    {
+      "Player": "Devin Hyatt",
+      "FPts": 17.9
+    },
+    {
+      "Player": "DJ Butler",
+      "FPts": 17.8
+    },
+    {
+      "Player": "Malik Elzy",
+      "FPts": 17.7
+    },
+    {
+      "Player": "Kedren Young",
+      "FPts": 17.6
+    },
+    {
+      "Player": "Kam Davis",
+      "FPts": 17.4
+    },
+    {
+      "Player": "Zion Ragins",
+      "FPts": 17.4
+    },
+    {
+      "Player": "Jadyn Oh",
+      "FPts": 17.0
+    },
+    {
+      "Player": "Pokaiaua Haunga",
+      "FPts": 16.9
+    },
+    {
+      "Player": "Enoch Nawahine",
+      "FPts": 16.9
+    },
+    {
+      "Player": "Andreas Paaske",
+      "FPts": 16.9
+    },
+    {
+      "Player": "Jarvis Green",
+      "FPts": 16.8
+    },
+    {
+      "Player": "Johnathan Montague",
+      "FPts": 16.8
+    },
+    {
+      "Player": "Will Kacmarek",
+      "FPts": 16.6
+    },
+    {
+      "Player": "Malik McClain",
+      "FPts": 16.5
+    },
+    {
+      "Player": "Seth Anderson",
+      "FPts": 16.4
+    },
+    {
+      "Player": "Daniel Blood",
+      "FPts": 16.1
+    },
+    {
+      "Player": "Dayton Howard",
+      "FPts": 16.1
+    },
+    {
+      "Player": "Christian Abney",
+      "FPts": 16.0
+    },
+    {
+      "Player": "Jaquez Moore",
+      "FPts": 16.0
+    },
+    {
+      "Player": "Will Nixon",
+      "FPts": 16.0
+    },
+    {
+      "Player": "Dylan Paine",
+      "FPts": 16.0
+    },
+    {
+      "Player": "Corey Smith",
+      "FPts": 16.0
+    },
+    {
+      "Player": "Jeremiah Coney",
+      "FPts": 15.9
+    },
+    {
+      "Player": "Goff Goff",
+      "FPts": 15.9
+    },
+    {
+      "Player": "Cole Tabb",
+      "FPts": 15.9
+    },
+    {
+      "Player": "AMarion Peterson",
+      "FPts": 15.8
+    },
+    {
+      "Player": "Charleston French",
+      "FPts": 15.6
+    },
+    {
+      "Player": "Jalen Brown",
+      "FPts": 15.5
+    },
+    {
+      "Player": "Branden Ganashamoorthy",
+      "FPts": 15.5
+    },
+    {
+      "Player": "Cole Adams",
+      "FPts": 15.4
+    },
+    {
+      "Player": "Jackson Stratton",
+      "FPts": 15.35
+    },
+    {
+      "Player": "Treyaun Webb",
+      "FPts": 15.3
+    },
+    {
+      "Player": "Chauncey Magwood",
+      "FPts": 15.2
+    },
+    {
+      "Player": "Jonah Wilson",
+      "FPts": 14.8
+    },
+    {
+      "Player": "Jaheim Merriweather",
+      "FPts": 14.8
+    },
+    {
+      "Player": "Caleb Komolafe",
+      "FPts": 14.7
+    },
+    {
+      "Player": "Trelain Maddox",
+      "FPts": 14.6
+    },
+    {
+      "Player": "JuJuan Johnson",
+      "FPts": 14.6
+    },
+    {
+      "Player": "Kyle Parker",
+      "FPts": 14.5
+    },
+    {
+      "Player": "Ashton Bethel-Roman",
+      "FPts": 14.4
+    },
+    {
+      "Player": "Willie Rodriguez",
+      "FPts": 14.4
+    },
+    {
+      "Player": "Isiah Canion",
+      "FPts": 14.3
+    },
+    {
+      "Player": "Brennan Parachek",
+      "FPts": 14.3
+    },
+    {
+      "Player": "Sam Jackson",
+      "FPts": 14.3
+    },
+    {
+      "Player": "DaJaun Riggs",
+      "FPts": 14.2
+    },
+    {
+      "Player": "Jelani Thurman",
+      "FPts": 14.2
+    },
+    {
+      "Player": "Derek Eusebio",
+      "FPts": 14.1
+    },
+    {
+      "Player": "Bennett Christian",
+      "FPts": 14.1
+    },
+    {
+      "Player": "Justyn Martin",
+      "FPts": 14.05
+    },
+    {
+      "Player": "KaMorreun Pimpton",
+      "FPts": 13.9
+    },
+    {
+      "Player": "Ryan Niblett",
+      "FPts": 13.7
+    },
+    {
+      "Player": "Dwight Phillips",
+      "FPts": 13.7
+    },
+    {
+      "Player": "Jason Patterson",
+      "FPts": 13.6
+    },
+    {
+      "Player": "Bradley Dunn",
+      "FPts": 13.5
+    },
+    {
+      "Player": "Joseph McVay",
+      "FPts": 13.5
+    },
+    {
+      "Player": "Caleb Odom",
+      "FPts": 13.5
+    },
+    {
+      "Player": "Elijah Brown",
+      "FPts": 13.4
+    },
+    {
+      "Player": "Daniel Hill",
+      "FPts": 13.4
+    },
+    {
+      "Player": "Nathaniel Joseph",
+      "FPts": 13.4
+    },
+    {
+      "Player": "Datrell Jones",
+      "FPts": 13.3
+    },
+    {
+      "Player": "Kewan Lacy",
+      "FPts": 13.3
+    },
+    {
+      "Player": "Jacob Barrick",
+      "FPts": 13.0
+    },
+    {
+      "Player": "Aiden Flora",
+      "FPts": 12.9
+    },
+    {
+      "Player": "Emanuel Ross",
+      "FPts": 12.8
+    },
+    {
+      "Player": "Kendrick Bell",
+      "FPts": 12.7
+    },
+    {
+      "Player": "Cutter Boley",
+      "FPts": 12.6
+    },
+    {
+      "Player": "Samuel Singleton",
+      "FPts": 12.6
+    },
+    {
+      "Player": "Jaylan Knighton",
+      "FPts": 12.5
+    },
+    {
+      "Player": "Kris Hughes",
+      "FPts": 12.4
+    },
+    {
+      "Player": "Landen King",
+      "FPts": 12.4
+    },
+    {
+      "Player": "Hayden Eligon",
+      "FPts": 12.3
+    },
+    {
+      "Player": "Josh Sapp",
+      "FPts": 12.3
+    },
+    {
+      "Player": "Cameron Wallace",
+      "FPts": 12.3
+    },
+    {
+      "Player": "Dante Daniels",
+      "FPts": 12.2
+    },
+    {
+      "Player": "Emmanuel Henderson",
+      "FPts": 12.2
+    },
+    {
+      "Player": "Antonio Meeks",
+      "FPts": 12.2
+    },
+    {
+      "Player": "RicDarious Farmer",
+      "FPts": 12.0
+    },
+    {
+      "Player": "Jordan Marshall",
+      "FPts": 12.0
+    },
+    {
+      "Player": "DeJuan Williams",
+      "FPts": 11.8
+    },
+    {
+      "Player": "Dylan Goffney",
+      "FPts": 11.7
+    },
+    {
+      "Player": "Douglas Emilien",
+      "FPts": 11.5
+    },
+    {
+      "Player": "Benjamin Hall",
+      "FPts": 11.4
+    },
+    {
+      "Player": "Emory Williams",
+      "FPts": 11.35
+    },
+    {
+      "Player": "Lawayne McCoy",
+      "FPts": 11.3
+    },
+    {
+      "Player": "Dylan Lee",
+      "FPts": 11.2
+    },
+    {
+      "Player": "Josiah McLaurin",
+      "FPts": 11.2
+    },
+    {
+      "Player": "Devin Brown",
+      "FPts": 11.0
+    },
+    {
+      "Player": "Kaden Wetjen",
+      "FPts": 10.9
+    },
+    {
+      "Player": "Jaden Bray",
+      "FPts": 10.8
+    },
+    {
+      "Player": "Kaleb Webb",
+      "FPts": 10.8
+    },
+    {
+      "Player": "Cole Ballard",
+      "FPts": 10.75
+    },
+    {
+      "Player": "Jay Harris",
+      "FPts": 10.7
+    },
+    {
+      "Player": "Julian Sayin",
+      "FPts": 10.6
+    },
+    {
+      "Player": "Aidan Warner",
+      "FPts": 10.6
+    },
+    {
+      "Player": "Gavin Freeman",
+      "FPts": 10.5
+    },
+    {
+      "Player": "Tyseer Denmark",
+      "FPts": 10.4
+    },
+    {
+      "Player": "Malachi Thomas",
+      "FPts": 10.2
+    },
+    {
+      "Player": "Joel Hasley",
+      "FPts": 10.1
+    },
+    {
+      "Player": "Zachary Card",
+      "FPts": 10.0
+    },
+    {
+      "Player": "Cory Davis",
+      "FPts": 10.0
+    },
+    {
+      "Player": "Luke Lindenmeyer",
+      "FPts": 10.0
+    },
+    {
+      "Player": "Jake Reichle",
+      "FPts": 10.0
+    },
+    {
+      "Player": "Kaden Helms",
+      "FPts": 9.9
+    },
+    {
+      "Player": "Colin Page",
+      "FPts": 9.9
+    },
+    {
+      "Player": "Jordon Harris",
+      "FPts": 9.8
+    },
+    {
+      "Player": "Ayo Shotomide-King",
+      "FPts": 9.8
+    },
+    {
+      "Player": "Marquis Shoulders",
+      "FPts": 9.8
+    },
+    {
+      "Player": "Walker Lyons",
+      "FPts": 9.6
+    },
+    {
+      "Player": "Bryson Rodgers",
+      "FPts": 9.6
+    },
+    {
+      "Player": "CJ Brown",
+      "FPts": 9.2
+    },
+    {
+      "Player": "Anthony Rubio",
+      "FPts": 9.2
+    },
+    {
+      "Player": "Maurice Brown",
+      "FPts": 9.1
+    },
+    {
+      "Player": "Jordan King",
+      "FPts": 9.0
+    },
+    {
+      "Player": "Tyler Powell",
+      "FPts": 9.0
+    },
+    {
+      "Player": "Michael Frogge",
+      "FPts": 8.9
+    },
+    {
+      "Player": "Jalil Farooq",
+      "FPts": 8.8
+    },
+    {
+      "Player": "Dilin Jones",
+      "FPts": 8.8
+    },
+    {
+      "Player": "Leshon Williams",
+      "FPts": 8.7
+    },
+    {
+      "Player": "Anthony Dinota",
+      "FPts": 8.6
+    },
+    {
+      "Player": "Mike Higgins",
+      "FPts": 8.6
+    },
+    {
+      "Player": "Max Johnson",
+      "FPts": 8.55
+    },
+    {
+      "Player": "Anthony Frias",
+      "FPts": 8.5
+    },
+    {
+      "Player": "Tavorus Jones",
+      "FPts": 8.5
+    },
+    {
+      "Player": "JT Seagreaves",
+      "FPts": 8.4
+    },
+    {
+      "Player": "Gavin Blackwell",
+      "FPts": 8.3
+    },
+    {
+      "Player": "Amari NiBlack",
+      "FPts": 8.3
+    },
+    {
+      "Player": "Jackson Acker",
+      "FPts": 8.3
+    },
+    {
+      "Player": "Rueben Owens",
+      "FPts": 8.2
+    },
+    {
+      "Player": "Jaylin Lucas",
+      "FPts": 8.2
+    },
+    {
+      "Player": "Donaven McCulley",
+      "FPts": 8.2
+    },
+    {
+      "Player": "Jayden York",
+      "FPts": 8.1
+    },
+    {
+      "Player": "Max Drag",
+      "FPts": 8.1
+    },
+    {
+      "Player": "Ken Seals",
+      "FPts": 8.05
+    },
+    {
+      "Player": "Quinton Martin",
+      "FPts": 8.0
+    },
+    {
+      "Player": "Khamari Anderson",
+      "FPts": 7.9
+    },
+    {
+      "Player": "Connor Cox",
+      "FPts": 7.9
+    },
+    {
+      "Player": "Raleek Brown",
+      "FPts": 7.8
+    },
+    {
+      "Player": "Sacovie White",
+      "FPts": 7.8
+    },
+    {
+      "Player": "Kevin Bauman",
+      "FPts": 7.8
+    },
+    {
+      "Player": "Tyler Brown",
+      "FPts": 7.8
+    },
+    {
+      "Player": "Jamaal Wiley",
+      "FPts": 7.8
+    },
+    {
+      "Player": "Michael Masunas",
+      "FPts": 7.7
+    },
+    {
+      "Player": "Kamrean Johnson",
+      "FPts": 7.6
+    },
+    {
+      "Player": "Kenny Minchey",
+      "FPts": 7.4
+    },
+    {
+      "Player": "Carter Shaw",
+      "FPts": 7.4
+    },
+    {
+      "Player": "Luke Harpring",
+      "FPts": 7.3
+    },
+    {
+      "Player": "Barry Jackson",
+      "FPts": 7.3
+    },
+    {
+      "Player": "Khobie Martin",
+      "FPts": 7.3
+    },
+    {
+      "Player": "TyLyric Coleman",
+      "FPts": 7.3
+    },
+    {
+      "Player": "Micah Riley-Ducker",
+      "FPts": 7.3
+    },
+    {
+      "Player": "Gabe Fisher",
+      "FPts": 7.2
+    },
+    {
+      "Player": "Keylen Adams",
+      "FPts": 7.1
+    },
+    {
+      "Player": "Drake Lindsey",
+      "FPts": 7.1
+    },
+    {
+      "Player": "Abram Murray",
+      "FPts": 7.0
+    },
+    {
+      "Player": "E.J. Williams",
+      "FPts": 6.9
+    },
+    {
+      "Player": "Ayden Williams",
+      "FPts": 6.9
+    },
+    {
+      "Player": "Kaleb Smith",
+      "FPts": 6.8
+    },
+    {
+      "Player": "Chance Williams",
+      "FPts": 6.7
+    },
+    {
+      "Player": "Paul Billups",
+      "FPts": 6.7
+    },
+    {
+      "Player": "Chase Gillespie",
+      "FPts": 6.7
+    },
+    {
+      "Player": "Kwinten Ives",
+      "FPts": 6.7
+    },
+    {
+      "Player": "Cole Speer",
+      "FPts": 6.7
+    },
+    {
+      "Player": "Miles ONeill",
+      "FPts": 6.55
+    },
+    {
+      "Player": "Hauss Hejny",
+      "FPts": 6.5
+    },
+    {
+      "Player": "Eriq Rice",
+      "FPts": 6.5
+    },
+    {
+      "Player": "Harmon Saint Germain",
+      "FPts": 6.5
+    },
+    {
+      "Player": "Nitro Tuggle",
+      "FPts": 6.4
+    },
+    {
+      "Player": "Charlie Becker",
+      "FPts": 6.3
+    },
+    {
+      "Player": "Arhmad Branch",
+      "FPts": 6.3
+    },
+    {
+      "Player": "David Eziomume",
+      "FPts": 6.2
+    },
+    {
+      "Player": "Terrell Timmons",
+      "FPts": 6.2
+    },
+    {
+      "Player": "Lex Thomas",
+      "FPts": 6.15
+    },
+    {
+      "Player": "Drew Wagner",
+      "FPts": 6.1
+    },
+    {
+      "Player": "Ashton Hollins",
+      "FPts": 6.0
+    },
+    {
+      "Player": "Alex McPherson",
+      "FPts": 6.0
+    },
+    {
+      "Player": "Zeke Moore",
+      "FPts": 6.0
+    },
+    {
+      "Player": "Austin Mack",
+      "FPts": 5.95
+    },
+    {
+      "Player": "Josh Beetham",
+      "FPts": 5.9
+    },
+    {
+      "Player": "Cody Hagen",
+      "FPts": 5.9
+    },
+    {
+      "Player": "Camron Heard",
+      "FPts": 5.9
+    },
+    {
+      "Player": "Kevin RIley",
+      "FPts": 5.9
+    },
+    {
+      "Player": "Chauncey Bowens",
+      "FPts": 5.8
+    },
+    {
+      "Player": "Ryan Manning",
+      "FPts": 5.8
+    },
+    {
+      "Player": "Tristen Brown",
+      "FPts": 5.8
+    },
+    {
+      "Player": "Roderick Robinson",
+      "FPts": 5.7
+    },
+    {
+      "Player": "Tyreek Robinson",
+      "FPts": 5.7
+    },
+    {
+      "Player": "Alante Brown",
+      "FPts": 5.7
+    },
+    {
+      "Player": "Connor Moberly",
+      "FPts": 5.55
+    },
+    {
+      "Player": "Tawaski Abrams",
+      "FPts": 5.4
+    },
+    {
+      "Player": "Max Bredeson",
+      "FPts": 5.4
+    },
+    {
+      "Player": "Jeremiah McClellan",
+      "FPts": 5.4
+    },
+    {
+      "Player": "Micahi Danzy",
+      "FPts": 5.3
+    },
+    {
+      "Player": "Jayden Dixon-Veal",
+      "FPts": 5.3
+    },
+    {
+      "Player": "Kylan Fox",
+      "FPts": 5.2
+    },
+    {
+      "Player": "Chris Elko",
+      "FPts": 5.1
+    },
+    {
+      "Player": "Christian Moore",
+      "FPts": 5.1
+    },
+    {
+      "Player": "Braylon Staley",
+      "FPts": 5.1
+    },
+    {
+      "Player": "Kelby Valsin",
+      "FPts": 5.1
+    },
+    {
+      "Player": "Connor Hawkins",
+      "FPts": 5.0
+    },
+    {
+      "Player": "Hayden Large",
+      "FPts": 5.0
+    },
+    {
+      "Player": "Kade Eldridge",
+      "FPts": 4.9
+    },
+    {
+      "Player": "Monte Harrison",
+      "FPts": 4.9
+    },
+    {
+      "Player": "Tyler Mason",
+      "FPts": 4.9
+    },
+    {
+      "Player": "Ty Clark",
+      "FPts": 4.8
+    },
+    {
+      "Player": "Trey Weary",
+      "FPts": 4.8
+    },
+    {
+      "Player": "Luke Doty",
+      "FPts": 4.7
+    },
+    {
+      "Player": "Beni Ngoyi",
+      "FPts": 4.7
+    },
+    {
+      "Player": "Sam West",
+      "FPts": 4.7
+    },
+    {
+      "Player": "EJ Caminong",
+      "FPts": 4.65
+    },
+    {
+      "Player": "Luca Caldarella",
+      "FPts": 4.6
+    },
+    {
+      "Player": "Noble Johnson",
+      "FPts": 4.6
+    },
+    {
+      "Player": "Jake Merklinger",
+      "FPts": 4.6
+    },
+    {
+      "Player": "Krosse Johnson",
+      "FPts": 4.5
+    },
+    {
+      "Player": "Eli Wood",
+      "FPts": 4.5
+    },
+    {
+      "Player": "Makhi Frazier",
+      "FPts": 4.3
+    },
+    {
+      "Player": "Jadon Porter",
+      "FPts": 4.3
+    },
+    {
+      "Player": "Traville Frederick",
+      "FPts": 4.3
+    },
+    {
+      "Player": "Kyion Grayes",
+      "FPts": 4.2
+    },
+    {
+      "Player": "Donielle Hayes",
+      "FPts": 4.2
+    },
+    {
+      "Player": "Brady Hunt",
+      "FPts": 4.2
+    },
+    {
+      "Player": "Izaiah Williams",
+      "FPts": 4.2
+    },
+    {
+      "Player": "Jake Johnson",
+      "FPts": 4.1
+    },
+    {
+      "Player": "Alexander Capka-Jones",
+      "FPts": 4.1
+    },
+    {
+      "Player": "Parker Clark",
+      "FPts": 4.1
+    },
+    {
+      "Player": "Jaylan Hornsby",
+      "FPts": 4.1
+    },
+    {
+      "Player": "Braylon James",
+      "FPts": 4.1
+    },
+    {
+      "Player": "Jaden Hart",
+      "FPts": 3.9
+    },
+    {
+      "Player": "Jayden Ballard",
+      "FPts": 3.8
+    },
+    {
+      "Player": "Hunter Barnes",
+      "FPts": 3.8
+    },
+    {
+      "Player": "Benjamin Blackburn",
+      "FPts": 3.8
+    },
+    {
+      "Player": "Christopher Barnes",
+      "FPts": 3.8
+    },
+    {
+      "Player": "Ademola Faleye",
+      "FPts": 3.8
+    },
+    {
+      "Player": "Jaden Reddell",
+      "FPts": 3.8
+    },
+    {
+      "Player": "Chris Brooks",
+      "FPts": 3.7
+    },
+    {
+      "Player": "Brett Eskildsen",
+      "FPts": 3.7
+    },
+    {
+      "Player": "Audric Harris",
+      "FPts": 3.7
+    },
+    {
+      "Player": "Luke McLaughlin",
+      "FPts": 3.7
+    },
+    {
+      "Player": "Elijah Moore",
+      "FPts": 3.7
+    },
+    {
+      "Player": "Davis Sherwood",
+      "FPts": 3.6
+    },
+    {
+      "Player": "Rickie Collins",
+      "FPts": 3.55
+    },
+    {
+      "Player": "Dallen Bentley",
+      "FPts": 3.5
+    },
+    {
+      "Player": "Ashton Cozart",
+      "FPts": 3.4
+    },
+    {
+      "Player": "BJ Gibson",
+      "FPts": 3.4
+    },
+    {
+      "Player": "Jason Brown",
+      "FPts": 3.3
+    },
+    {
+      "Player": "Bryce Cain",
+      "FPts": 3.3
+    },
+    {
+      "Player": "Jeffrey Johnson",
+      "FPts": 3.3
+    },
+    {
+      "Player": "Andre Dollar",
+      "FPts": 3.3
+    },
+    {
+      "Player": "JayShon Ridgle",
+      "FPts": 3.3
+    },
+    {
+      "Player": "Koby Young",
+      "FPts": 3.3
+    },
+    {
+      "Player": "KJ Jackson",
+      "FPts": 3.25
+    },
+    {
+      "Player": "Elijah Brown",
+      "FPts": 3.2
+    },
+    {
+      "Player": "Gary Bryant Jr.",
+      "FPts": 3.2
+    },
+    {
+      "Player": "C.J. Charleston",
+      "FPts": 3.2
+    },
+    {
+      "Player": "Adam Moore",
+      "FPts": 3.2
+    },
+    {
+      "Player": "Johnny Thompson",
+      "FPts": 3.2
+    },
+    {
+      "Player": "Logan Diggs",
+      "FPts": 3.1
+    },
+    {
+      "Player": "Leon Haughton",
+      "FPts": 3.1
+    },
+    {
+      "Player": "Kyler Kasper",
+      "FPts": 3.1
+    },
+    {
+      "Player": "Dante Moore",
+      "FPts": 3.05
+    },
+    {
+      "Player": "Justin Fisher",
+      "FPts": 3.0
+    },
+    {
+      "Player": "Javarius Green",
+      "FPts": 3.0
+    },
+    {
+      "Player": "Taylor Spierto",
+      "FPts": 3.0
+    },
+    {
+      "Player": "Conor Talty",
+      "FPts": 3.0
+    },
+    {
+      "Player": "Jake Weinberg",
+      "FPts": 3.0
+    },
+    {
+      "Player": "Hunter Welcing",
+      "FPts": 3.0
+    },
+    {
+      "Player": "Micah Gifford",
+      "FPts": 2.9
+    },
+    {
+      "Player": "P.J. Prioleau",
+      "FPts": 2.9
+    },
+    {
+      "Player": "Jaden Richardson",
+      "FPts": 2.9
+    },
+    {
+      "Player": "Jamie Tremble",
+      "FPts": 2.9
+    },
+    {
+      "Player": "Ricky Johnson",
+      "FPts": 2.9
+    },
+    {
+      "Player": "Dylan Lonergan",
+      "FPts": 2.75
+    },
+    {
+      "Player": "Cameron Harpole",
+      "FPts": 2.7
+    },
+    {
+      "Player": "Jacob Knuth",
+      "FPts": 2.7
+    },
+    {
+      "Player": "Kenric Lanier",
+      "FPts": 2.7
+    },
+    {
+      "Player": "Trevor Rogers",
+      "FPts": 2.7
+    },
+    {
+      "Player": "Jarel Williams",
+      "FPts": 2.7
+    },
+    {
+      "Player": "Logan Blake",
+      "FPts": 2.6
+    },
+    {
+      "Player": "Shamar Easter",
+      "FPts": 2.6
+    },
+    {
+      "Player": "Brandon Frazier",
+      "FPts": 2.6
+    },
+    {
+      "Player": "Jake Tafelski",
+      "FPts": 2.6
+    },
+    {
+      "Player": "Jesse Watson",
+      "FPts": 2.6
+    },
+    {
+      "Player": "Matthew Fuller",
+      "FPts": 2.5
+    },
+    {
+      "Player": "Anthony Ivey",
+      "FPts": 2.5
+    },
+    {
+      "Player": "Nate Palmer",
+      "FPts": 2.5
+    },
+    {
+      "Player": "Alex Taylor",
+      "FPts": 2.5
+    },
+    {
+      "Player": "Quentin Moore",
+      "FPts": 2.4
+    },
+    {
+      "Player": "Harry Stewart",
+      "FPts": 2.4
+    },
+    {
+      "Player": "Solomon Vanhorse",
+      "FPts": 2.4
+    },
+    {
+      "Player": "Frank Bierman",
+      "FPts": 2.3
+    },
+    {
+      "Player": "Kahleil Jackson",
+      "FPts": 2.3
+    },
+    {
+      "Player": "Nathan Leacock",
+      "FPts": 2.3
+    },
+    {
+      "Player": "Zion Fowler",
+      "FPts": 2.2
+    },
+    {
+      "Player": "Victor Konopka",
+      "FPts": 2.2
+    },
+    {
+      "Player": "Dayton Sneed",
+      "FPts": 2.2
+    },
+    {
+      "Player": "Takye Heath",
+      "FPts": 2.1
+    },
+    {
+      "Player": "Justin Holmes",
+      "FPts": 2.1
+    },
+    {
+      "Player": "Roman Mangini",
+      "FPts": 2.1
+    },
+    {
+      "Player": "Charles Ross",
+      "FPts": 2.1
+    },
+    {
+      "Player": "Tripp Walsh",
+      "FPts": 2.1
+    },
+    {
+      "Player": "David Adolph",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Joey Beljan",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Caleb Carlson",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Michael Jackson",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Kayden Luke",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Will Stone",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Brandon Tullis",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Josh Turbyville",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Jackson Wade",
+      "FPts": 2.0
+    },
+    {
+      "Player": "Dominic Overby",
+      "FPts": 1.9
+    },
+    {
+      "Player": "Joe Taylor",
+      "FPts": 1.9
+    },
+    {
+      "Player": "David Washington",
+      "FPts": 1.9
+    },
+    {
+      "Player": "Wyatt Smalley",
+      "FPts": 1.8
+    },
+    {
+      "Player": "Hunter Andrews",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Christian Bentancur",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Kai Black",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Coben Bourguet",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Marcus Brown",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Jurrion Dickey",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Benny Haselrig",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Mack Moeller",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Mikey Pauley",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Devyn Zahursky",
+      "FPts": 1.7
+    },
+    {
+      "Player": "Stone Eby",
+      "FPts": 1.6
+    },
+    {
+      "Player": "Patrick Gurd",
+      "FPts": 1.6
+    },
+    {
+      "Player": "Joseph Hagman",
+      "FPts": 1.6
+    },
+    {
+      "Player": "Aeryn Hampton",
+      "FPts": 1.6
+    },
+    {
+      "Player": "SanFrisco Magee",
+      "FPts": 1.6
+    },
+    {
+      "Player": "Logan Muckey",
+      "FPts": 1.6
+    },
+    {
+      "Player": "Jack Nickel",
+      "FPts": 1.6
+    },
+    {
+      "Player": "Tyler Buchner",
+      "FPts": 1.55
+    },
+    {
+      "Player": "Jay Lindsey",
+      "FPts": 1.5
+    },
+    {
+      "Player": "Ty Lockwood",
+      "FPts": 1.5
+    },
+    {
+      "Player": "Wade Penn",
+      "FPts": 1.5
+    },
+    {
+      "Player": "Deuce Spann",
+      "FPts": 1.5
+    },
+    {
+      "Player": "Peyton Streko",
+      "FPts": 1.5
+    },
+    {
+      "Player": "Andrel Anthony",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Major Everhart",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Micah Kaapana",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Jack Sammarco",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Jaleel Skinner",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Keelan Smith",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Clay Swinney",
+      "FPts": 1.4
+    },
+    {
+      "Player": "Tyson Turner",
+      "FPts": 1.4
+    },
+    {
+      "Player": "George Burhenn",
+      "FPts": 1.3
+    },
+    {
+      "Player": "Markeston Douglas",
+      "FPts": 1.3
+    },
+    {
+      "Player": "Ohifame Ijeboi",
+      "FPts": 1.3
+    },
+    {
+      "Player": "Jaxon Potter",
+      "FPts": 1.3
+    },
+    {
+      "Player": "Trey Owens",
+      "FPts": 1.25
+    },
+    {
+      "Player": "Jordan Anderson",
+      "FPts": 1.2
+    },
+    {
+      "Player": "James Bomba",
+      "FPts": 1.2
+    },
+    {
+      "Player": "Sage Ennis",
+      "FPts": 1.2
+    },
+    {
+      "Player": "John Locke",
+      "FPts": 1.2
+    },
+    {
+      "Player": "Jackson McGohan",
+      "FPts": 1.2
+    },
+    {
+      "Player": "Pierce Clarkson",
+      "FPts": 1.15
+    },
+    {
+      "Player": "Quran Boyd",
+      "FPts": 1.1
+    },
+    {
+      "Player": "Travis Egan",
+      "FPts": 1.1
+    },
+    {
+      "Player": "Kalib Hicks",
+      "FPts": 1.1
+    },
+    {
+      "Player": "Jordan Onovughe",
+      "FPts": 1.1
+    },
+    {
+      "Player": "Zion Taylor",
+      "FPts": 1.1
+    },
+    {
+      "Player": "Chase Tyler",
+      "FPts": 1.1
+    },
+    {
+      "Player": "Tarik Ahmetbasic",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Mike Baker",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Samuel Carpenter",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Marcello Diomede",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Liam Evans",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Stone Harrington",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Zach Hernandez",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Gage Hurych",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Nick Keller",
+      "FPts": 1.0
+    },
+    {
+      "Player": "RJ Kocan",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Gavin Marshall",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Zane Minors",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Lucas Osada",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Cooper Ranvier",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Reid Schuback",
+      "FPts": 1.0
+    },
+    {
+      "Player": "Nate Bennett",
+      "FPts": 0.95
+    },
+    {
+      "Player": "Caleb Hampton",
+      "FPts": 0.9
+    },
+    {
+      "Player": "Coleson Fields",
+      "FPts": 0.8
+    },
+    {
+      "Player": "Jalyn Gramstad",
+      "FPts": 0.75
+    },
+    {
+      "Player": "Michael Johnson",
+      "FPts": 0.75
+    },
+    {
+      "Player": "Walker White",
+      "FPts": 0.7
+    },
+    {
+      "Player": "Easton Miller",
+      "FPts": 0.7
+    },
+    {
+      "Player": "Jordan Washington",
+      "FPts": 0.7
+    },
+    {
+      "Player": "Chris Wheatley-Humphrey",
+      "FPts": 0.7
+    },
+    {
+      "Player": "Franklin Estrada",
+      "FPts": 0.5
+    },
+    {
+      "Player": "Bryce Farrell",
+      "FPts": 0.5
+    },
+    {
+      "Player": "Daylon Gordon",
+      "FPts": 0.5
+    },
+    {
+      "Player": "Kenneth Williams",
+      "FPts": 0.5
+    },
+    {
+      "Player": "Kai Horton",
+      "FPts": 0.45
+    },
+    {
+      "Player": "Justin Jones",
+      "FPts": 0.4
+    },
+    {
+      "Player": "Antonio Harris",
+      "FPts": 0.4
+    },
+    {
+      "Player": "Gideon Ituka",
+      "FPts": 0.4
+    },
+    {
+      "Player": "Duke Scott",
+      "FPts": 0.4
+    },
+    {
+      "Player": "Braylon Burnside",
+      "FPts": 0.4
+    },
+    {
+      "Player": "Austin Novosad",
+      "FPts": 0.35
+    },
+    {
+      "Player": "Albert Kunickis",
+      "FPts": 0.3
+    },
+    {
+      "Player": "Michael Lorino",
+      "FPts": 0.3
+    },
+    {
+      "Player": "Mason Maggs",
+      "FPts": 0.3
+    },
+    {
+      "Player": "Jonathan Paylor",
+      "FPts": 0.3
+    },
+    {
+      "Player": "Elijah Reid",
+      "FPts": 0.3
+    },
+    {
+      "Player": "Tyrell Henry",
+      "FPts": 0.2
+    },
+    {
+      "Player": "Trever Jackson",
+      "FPts": 0.2
+    },
+    {
+      "Player": "Mekhi Nelson",
+      "FPts": 0.2
+    },
+    {
+      "Player": "JaMeer Thomas",
+      "FPts": 0.2
+    },
+    {
+      "Player": "David Lynch",
+      "FPts": 0.15
+    },
+    {
+      "Player": "Austin Acton",
+      "FPts": 0.1
+    },
+    {
+      "Player": "Deuce Adams",
+      "FPts": 0.1
+    },
+    {
+      "Player": "Tyler Chandler",
+      "FPts": 0.1
+    },
+    {
+      "Player": "Diore Hubbard",
+      "FPts": 0.1
+    },
+    {
+      "Player": "Davis Lane",
+      "FPts": 0.1
+    },
+    {
+      "Player": "Josiah Abdullah",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chance Ables",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rykar Acebo",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Adams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grady Adamson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Agyeman Addae",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Manny Adebi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Adkison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Amah Agwu",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ricky Ahumaraeze",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deji Ajose",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lawson Albright",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Alexander",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Roy Alexander",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andy Alfieri",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dillon Alfred",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Beau Allen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Allen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colton Allen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Allen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vernon Allen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaden Allen-Hendrix",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mackenzie Alleyne",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tuna Altahir",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Josh Altsman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rett Andersen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dakarai Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daniel Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Darrian Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Judd Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mitchell Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nic Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sawyer Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Stone Anderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Andrade",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Appel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wyatt Archer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Coleson Arends",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peyton Argent",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nick Armentano",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kiotti Armstrong",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rhett Armstrong",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hayden Arnold",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Clay Ash",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Ashenfelder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hamilton Atkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zach Atkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bear Bachmeier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Liam Badger",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Baird",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Beau Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryson Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gekyle Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jake Balis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aaron Ball",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameron Ball",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ethan Barbour",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tagert Bardin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peter Bario",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Barkate",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Barker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ridge Barker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameron Barmore",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Barnett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kayleb Barnett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Spencer Barnett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Markeis Barrett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Callen Barta",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Bartalotta",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Guytano Bartolomeo",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Paul Barton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andy Bass",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Bates",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Markeylin Batton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nolan Baudo",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rowdy Bauer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Titus Bautista",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cedric Baxter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremiah Beck",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lance Beeghley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dash Beierly",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Davi Belfort",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rich Belin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Demitrius Bell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacob Bell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremy Bell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Micah Bell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Phillip Bell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vince Benetti",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Israel Benjamin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Bennett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Larry Benton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blaze Berlowitz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Harlem Berry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tre Berry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kyan Berry-Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jerome Bettis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Laython Biddle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Bidwell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nash Biglin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kylan Billiot",
+      "FPts": 0.0
+    },
+    {
+      "Player": "London Bironas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Birtwistle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Bisesi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Bjorn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aiden Black",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DJ Black",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Easton Black",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ethan Black",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Stuart Blake",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Walter Blanchard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tory Blaylock",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Levi Blount",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Braden Blueitt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ty Boatright",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jan Bogdan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Boggs",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayvan Boggs",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wyatt Bohm",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jerel Bolder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nedrick Boldin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Bolender",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Bolton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vance Bolyard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lebron Bond",
+      "FPts": 0.0
+    },
+    {
+      "Player": "LJ Booker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Conor Booth",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joe Borchers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emmett Bork",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grover Bortolotti",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Karson Boschma",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Boscia",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Bost",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jimmar Boston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Treyson Bourguet",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cyncir Bowers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Bowers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Preston Bowman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Boyd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Boyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shaun Boykins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Braden",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hayden Bradley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah Braham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Braithwaite",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DaSaahn Brame",
+      "FPts": 0.0
+    },
+    {
+      "Player": "A.J. Brand",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carter Braugh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daniel Bray",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Bray",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Brecht",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Duke Brennan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chevalier Brenson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamauri Brice",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Brickhandler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordyn Bridgewater",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marek Briley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Brooking",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Karon Brookins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lotzeir Brooks",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Broome",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grayson Brousseau",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamar Browder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vernell Brown III",
+      "FPts": 0.0
+    },
+    {
+      "Player": "CharMar Brown",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaylin Brown",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Josiah Brown",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trey Brown",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Truitt Brown",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryder Brownstein",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Bruhn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Belay Brummel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vadin Bruot",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JJ Buchanan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nolan Buckman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Buetow",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caden Buhr",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rodney Bullard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Buntyn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ty Burd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christian Burnette",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Taizaun Burns",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aeron Burrell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Burress",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Burt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Burtin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brennan Burton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Burton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jace Burton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aaron Butler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cory Butler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Byrd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "J.T. Byrne",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daylin Caamano",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Caddle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jakorion Caffey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TC Caffrey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Calcagno",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeff Caldwell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Connor Calvert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zach Calzada",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Miguel Camboia",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ernest Campbell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Major Cantrell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryson Canty",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Royal Capell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Capriotti",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Johann Cardenas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Austin Carlisle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Carlson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lukes Carney",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Carpenter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "CJ Carr",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nathan Carr",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quaid Carr",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Atticus Carridine",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kevin Carrigan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Derrick Carroll",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cade Carruth",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mana Carvalho",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Carver",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Carver",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quinn Castner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kade Caton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Walker Catsavis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hudson Cedarland",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Chambers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trinidad Chambliss",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Davion Chandler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dean-Taylor Chapman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Waden Charles",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Reid Chauvin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kevin Check",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keaton Cheves",
+      "FPts": 0.0
+    },
+    {
+      "Player": "MJ Chirgwin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Manny Choice",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tommy Christakos",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Evans Chuba",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kaelan Chudzinski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ace Ciongoli",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Claiborne",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jace Clarizio",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carter Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christian Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Duke Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malik Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matt Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quinn Clark",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zachary Clay",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Drew Clemens",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Clement",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Clement",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Murphy Clement",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JaMario Clements",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Clough",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shanard Clower",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Teagan Cobb",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AnDarius Coffey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brock Coffman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Cohen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Cohoon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brycen Coleman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jabree Coleman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi Coleman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi Coleman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nason Coleman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ronald Coleman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Braylon Collier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Donald Collier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Colvin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quinton Conley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Martin Connington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Cook",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Cook",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bud Coombs",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalen Cooper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Cooper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aidan Corbello",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nerhus Corey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zaylen Cormier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tucker Cornelius",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Junior Coughlin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Weston Covey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Drew Cowart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Karson Cox",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Landon Craig",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quincy Craig",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tate Crane",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ronnie Crosby",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rico Crowder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Crowell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dametrious Crownover",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Courtney Crutchfield",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colby Cruz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caleb Cunningham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keagan Cunningham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Cunningham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Cuono",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Leyton Cure",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Linkon Cure",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Danny Curran",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dillon Curtis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lex Cyrus",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jovesa Damuni",
+      "FPts": 0.0
+    },
+    {
+      "Player": "KJ Daniels",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Asante Das",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aiden Daugherty",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gideon Davidson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hollis Davidson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marcos Davila",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aaron Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Amiel Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jadyn Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jemyri Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kellen Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marquise Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nizyi Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Seth Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Xay Davis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordon Davison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dominic DeLuca",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin DeVaughn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AK Dear",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sahnye Degraffenreidt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Degyansky",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Delp",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Denaburg",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jon Denman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chris Denson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Denson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deandre Desinor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Dever",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Devezin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Dewers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack DiSano",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Drew Dickey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Izaac Dickey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameran Dickson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jonathan Dimas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Markus Dixon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colton Dobson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Dodd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joseph Dodds",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brevin Doll",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chris Domercant",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Dopson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Dossett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Douglas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Preston Douglas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ethan Dowdy",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jhae Drummer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyshwan Dues",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dillon Duff",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Niki Dugandzic",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Duncan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matthias Dunn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi Durant",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trey Durbin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Dwyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameron Dyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Earle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christian Earls",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamai East",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joseph Ebun",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cayden Echternach",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daniel Edeni",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaden Edgecombe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Danny Edgehille",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nate Edwards",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tye Edwards",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Witt Edwards",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dane Efird",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Egbe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Eichmann",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brett Elliott",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Devin Ellison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Monterrio Elston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dube Enongene",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aaron Enterline",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ethan Erickson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alonzo Esparza",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Esparza",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Camden Etheredge",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dozie Ezukanma",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eni Falayi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cam Fane",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quanell Farrakhan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Farrell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Farrell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Collin Fasse",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cal Faulkner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Favrow",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JaKayden Ferguson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Ferrucci",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Van Fessler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaime Ffrench",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Byrd Ficklin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cade Fields",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gabe Fields",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Fletcher Fierro",
+      "FPts": 0.0
+    },
+    {
+      "Player": "William Fierro",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joseph Filardi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lucky Finau",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Fiser",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chance Fitzgerald",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah Flaskamp",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aidan Flintoft",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zane Flores",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shamus Florio",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nate Flower",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ian Flynt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Foley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Forbes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Ford",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Xavier Ford",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Forster",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Fortier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brock Foster",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shawn Foster",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DaMarion Fowlkes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peyton Fox",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Scotty Fox",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Frakes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jimmy Francis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TaRon Francis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brendan Franke",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Franklin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eddie Freauff",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Camdon Frier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Parker Fulghum",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Finn Furmanek",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jake Furtney",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Stacy Gage",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Gamble",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Gangi Jr.",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Owen Gardner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Garretson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Garrity",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chad Gasper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shammai Gates",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Debron Gatling",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peyton Gay",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Gayton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Gayton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Gebbia",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Geer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TaeShaun Gelsey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vincent Genatone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Greg Genross",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tristian Gentry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daniel Gerlach",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Maverick Geske",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Ghea",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JaVonnie Gibson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Gibson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quentin Gibson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordon Gidron",
+      "FPts": 0.0
+    },
+    {
+      "Player": "James Giggey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jace Gilbert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luka Gilbert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Micah Gilbert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colter Ginn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zion Gist",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Gister",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zach Giuliano",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rayshawn Glover",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eric Goins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Gonzales",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Gonzalez",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peter Gonzalez",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Gonzalez-Whitehouse",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Frankie Goodson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Channing Goodwin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Karson Gordon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zach Grace",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mylan Graham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Grant",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aidan Gray",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Gray",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Green",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Donovan Green",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dramekco Green",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kevin Green",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dillon Gresham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Grice",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Edward Griffin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joseph Griffin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tysean Griffin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mitch Griffis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tre Griffiths",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jon Grimmett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mark Gronowski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Grove",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Grover",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Patrick Grusser",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Edd Guerrier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Raycine Guillory",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colton Gumino",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Robert Gunn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Guthrie",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kallen Gutridge",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kilohana Haasenritter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hudson Habermehl",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Whit Hafer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TaRon Haile",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Israel Hairston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JaRicous Hairston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalen Hale",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalil Hall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JonAnthony Hall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trey Hall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cort Halsey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Hamilton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaren Hamilton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaden Hamm",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mark Hamper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DeBraun Hampton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "George Hamsley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ronan Hanafin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shane Hanafin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Hanchett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DeShawn Hanika",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Leo Hannan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brock Hansel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacob Hardie",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deon Hardin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cody Hardy",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Braylon Harmon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Harper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gracen Harris",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marcus Harris",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Harris",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TraMar Harris",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nathan Harris-Waynick",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Harrison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Preztynn Harrison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Garrett Harstad",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Hart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Hart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Izaiah Hartrup",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Hasselbeck",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Harry Hassman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cornell Hatcher",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marlon Hauck",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Haugo",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marcellous Hawkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ty Hawkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "CJ Hayden",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryson Hayes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacobe Hayes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryder Hayes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tikey Hayes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brendon Haygood",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gannon Hearst",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Hebert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremy Hecklinski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colton Heinrich",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Heintschel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Heis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cowinn Helaire",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Helms",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alvin Henderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaylen Henderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matt Henderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hutson Hendrix",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Henley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Henson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wyatt Herbel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Patrick Hester",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Drew Hickmott",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caden High",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Adam Hill",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Destyn Hill",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dierre Hill",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lebron Hill",
+      "FPts": 0.0
+    },
+    {
+      "Player": "McCae Hillstead",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eugene Hilton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Hinshaw",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Hinshaw",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Hoaglund",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Hobson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Hoffman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalen Hoffman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Teddy Hoffmann",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Hollar",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Case Holleron",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tanner Hollinger",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tucker Holloway",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trey Holly",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carter Holsworth",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chico Holt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Holzworth",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wyatt Hook",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Horn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "EJ Horton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi Hosley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Houser",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jourdin Houston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Adam Howanitz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Iverson Howard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Koby Howard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Huard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trent Hudson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Huggins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christian Hunt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Max Hunt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colin Hurley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hudson Hutcheson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Ia",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emeka Iloh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dominic Ingrassia",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eric Ingwerson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Scott Isacks",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shawqi Itraish",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Amir Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Beau Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bo Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daniel Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Davian Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Myles Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Radarious Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trey Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wils Jackson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "C.J. Jacobsen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack-Henry Jakobik",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jude James",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi James",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nolan James",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andy Jean",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Amari Jefferson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matt Jeffery",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carl Jenkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah Jennings",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Jensen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Roman Jensen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryland Jessee",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kelvin Jimenez",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Angel Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Billy Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Darius Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Darius Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Donovan Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Geron Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremiah Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Julian Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kelsey Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kelshaun Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Micah Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nate Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Qeanu Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ronny Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tate Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zion Johnson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ashton Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dane Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DeZie Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isiah Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremiah Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Josh Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lloyd Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Micah Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rohan Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Samaj Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Spencer Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tramell Jones",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Antonio Jordan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Camden Jordan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Waymond Jordan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Xavier Jordan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "William Joyce",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Judge",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Juergens",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Demon June",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Jung",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bjorn Jurgensen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daniel Kaelin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Karson Kairser",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cade Kaiser",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lafayette Kaiuway",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jarinn Kalama",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dino Kaliakmanis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Diezel Kamoku",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaren Kanak",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Kania",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eric Karner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Karnes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Kattus",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kannon Katzer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacob Kauwe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Scott Kean",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Derek Kee",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Monte Keener",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tucker Kelleher",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Keltner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Kemp",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Myles Kendrick",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kila Keone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Kern",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Paul Kessler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Paxon Kettering",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Kielmeyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lincoln Kienholz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Liam Kilcomons",
+      "FPts": 0.0
+    },
+    {
+      "Player": "CamRon King",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Danny King",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaedon King",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaylen King",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zane Kinsey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zebulin Kinsey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Kinsler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tony Kinsler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malcolm Kinzer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TeKai Kirby",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Kirkwood",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Klare",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deuce Knight",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caden Knighten",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Graham Knowles",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peter Knudson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaac Koch",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Kocher",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Kolb",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Kollock",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nick Konieczynski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Giyahni Kontosis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Kopetz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brian Kortovich",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameron Kossmann",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kason Krebs",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bekkem Kritza",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ousmane Kromah",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kyler Kropp",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keaton Kubecka",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Kuo",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shea Kuykendall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryson Kuzdzal",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JD LaFleur",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah LaPorte",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Greyson Labiad",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Karle Lacey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trevor Ladd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Lahm",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Corbin Laisure",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Lalaian",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Lambert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Paxton Land",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Preston Landis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Landolfi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi Lane",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Lane",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Akim Lanieux",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Lanter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Larsen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamezell Lassiter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Maddox Lassiter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TJ Lateef",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaxson Lavender",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chris Lawson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keli Lawson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Max LeBlanc",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Spencer Leadbetter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mitch Leigber",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Troy Leigber",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Leighton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Max Lemasters",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Clayton Leonard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gabe Leonards",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Addai Lewellen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Lewis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Danny Lewis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Julian Lewis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keontez Lewis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Myles Libman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JT Lindsey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Lines",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamien Little",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emazon Littlejohn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Parker Livingstone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jason Llewellyn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tommy Lock",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Locke",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kaliq Lockett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sterling Lockett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ashton Locklear",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shawn Lodge",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Loerzel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Loftin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "James London",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Husan Longstreet",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Longval",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jay Loper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cedric Lott",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Boone Lourd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Love",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kyle Lowe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Xavier Loyd",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Luchini",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kolby Luna",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Riply Luna",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matthew Lusardi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Legend Lyons",
+      "FPts": 0.0
+    },
+    {
+      "Player": "George MacIntyre",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Maddox",
+      "FPts": 0.0
+    },
+    {
+      "Player": "James Madison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Camp Magee",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Casey Magyar",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dan Mahan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Teriq Mallory",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dyllan Malone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Mann",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Manske",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Markey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mac Markway",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Marsh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gavin Marsh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Marshall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Marshall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shane Marshall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zack Marshall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Antonio Martin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaquise Martin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Khristian Martin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tristan Martinez",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bradley Martino",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Mason",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lance Mason",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bruno Massel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brandon Mathis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kaleb Mathis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Micah Matthews",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Walter Matthews",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deems May",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Mayers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DJ Mazzone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaylen Mbakwe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Collin McBee",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matt McCabe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaxon McCaig",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Riley McCann",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nate McCashland",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Simon McClannan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler McClure",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Thomas McCluskey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David McComb",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan McCord",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase McCracken",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan McCreery",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daylan McCutcheon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaylen McGill",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah McGough",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brayson McHenry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kade McIntyre",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cian McKelvey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dominique McKenzie",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Connor McLaughlin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Julian McMahan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hamilton McMartin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Treston McMillan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nathan McNeil",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TJ McWilliams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Derek Meadows",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Major Melson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cedric Melton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremiah Melvin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alberto Mendoza",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Merck",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bennett Meredith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gary Merrill",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quinn Merritt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Mesman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Metzger",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Meyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Robert Meyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Thomas Meyer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kamron Mikell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gabe Milbourn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Clay Millen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hezekiah Millender",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Miller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bodpegn Miller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DJ Miller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grayson Miller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hayes Miller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "King Miller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cortez Mills",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shekai Mills-Knight",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Mims",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Mini",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Mirer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charles Miska",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameron Mitchell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Davon Mitchell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Mitchell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Terrell Mitchell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Mizell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tovani Mizell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cody Mladenka",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah Moeaki",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Moga",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Adonis Moise",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Adam Molitor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Mollison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Monday",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Montanez",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cameron Monteiro",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Naeshaun Montgomery",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Montgomery",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryken Moon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dakorien Moore",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Fredrick Moore",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Moore",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joshua Moore",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Morcos",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emmett Morehead",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Morgan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Price Morgan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daune Morris",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamarion Morrow",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Morton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isreal Moses",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Akiva Mosse",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Mota",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Mozee",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Curtis Murillo",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Murphy",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Whit Muschamp",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jerome Myles",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tei Nacua",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tate Nagy",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Baron Naone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah Nash",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Donte Nastasi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keayen Nead",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Uriah Neloms",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AuTori Newkirk",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jershaun Newton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dillon Newton-Short",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jorge Diaz Nicholas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaylon Nichols",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Nickel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaden Nickens",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jett Niu",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chance Nixon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Noernberg",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Air Noland",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Langdon Nordgaard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "TK Norman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dallas Novicke",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hugh OBrien",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie OConnor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean OHaire",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tomas OMeara",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Garyt Odom",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijiah Oehlke",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caleb Ojeda",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Petey Olaleye",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Olesh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Olsen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joey Olsen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Donovan Olugbode",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Omohundro",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trent Osborn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Otton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Ousley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matt Outten",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeffrey Overton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mac Owen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Eli Owens",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Owens",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Samuel Padgitt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Liam Padron",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zack Palmer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gabe Panikowski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Pantelis",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrea Parisi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamarion Parker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Parker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "KJ Parker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matthew Parker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Parkes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zay Parks",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Remy Patson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cub Patton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Samuel Paxton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Apollo Payne",
+      "FPts": 0.0
+    },
+    {
+      "Player": "GiBran Payne",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Payne",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trent Pearman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ciaran Pedulla",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryver Peppers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Meyer Pereira",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Perret",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Perry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Perry-Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Petermann",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Peters",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Petersen",
+      "FPts": 0.0
+    },
+    {
+      "Player": "GiVanni Peterson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Peterson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Robert Petrich",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christ Petrucci",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jace Petty",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trey Petty",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joshua Pfeifer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brandon Phelps",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Holden Phillips",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Phillips",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emile Picarella",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Drew Pickett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caden Piening",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Pikus",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Owen Pisa",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Camdon Pitchford",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joe Pitchford",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dane Pizzaro",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Steele Pizzella",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Josh Placzek",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaden Platt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Vander Ploog",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Ploszay",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaiven Plummer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Polian",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Steve Polk",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hawkins Polley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dominiq Ponder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacob Porter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Larry Porter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quincy Porter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Potter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dawson Pough",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hudson Powell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "J.P. Powell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kam Powell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Powell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jahmari Powell-Wonson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Robby Preckel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Juju Preston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Devin Price",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JB Price",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Prieskorn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Girard Pringle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marshall Pritchett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luca Puccinelli",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Parker Puckett",
+      "FPts": 0.0
+    },
+    {
+      "Player": "A.J. Pugliano",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Puglisi",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Purkerson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andy Quinn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Montavin Quisenberry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brandon Rabasco",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sawyer Racanelli",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Clint Rachal",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Ragsdale",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rocco Rainone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Ramper",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chase Randall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Randle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Raney",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Andrew Rappleyea",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Corey Rashad",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rowan Reay",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Myles Reber",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Broderick Redden",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quentin Redding",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cooper Reed",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Samari Reed",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dashun Reeder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Reemsnyder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Reiman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Griffin Reimer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shaker Reisig",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jake Renda",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Ressler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Colin Reynolds",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Rezac",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dominic Rezac",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ethan Rhodes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Peyton Rice",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Claiborne Richards",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bredell Richardson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gio Richardson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Scrap Richardson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tre Richardson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deondrae Riden",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grayson Rigdon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caleb Rillos",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tripp Riordan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gus Ritchey",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chy Rivers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Robbins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nate Roberts",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nathan Roberts",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Robertson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chance Robinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Demarius Robinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Robinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jason Robinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Robinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zay Robinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Robles",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Rocha",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kevin Roche",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dezmen Roebuck",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Reno Roehm",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Rogers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Rogers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mason Rohmiller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Landon Roldan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caleb Rollerson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hayden Rollison",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marcus Romain",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Rooney",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Rosenblatt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keaton Roskop",
+      "FPts": 0.0
+    },
+    {
+      "Player": "John Ross Ashley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ben Rothhaar",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Connor Roush",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brian Rowe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gage Roy",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nick Rubino",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Max Runyon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Rusk",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Owen Ruskavich",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cam Russell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Keelon Russell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyshawn Russell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kelden Ryan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Johnny Ryder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaron-Keawe Sagapolutele",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalen Saint Paul",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cosme Salas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Logan Saldate",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Roger Saleapaga",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Salgado-Medina",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Neil Salvage",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zechariah Sample",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lyrick Samuel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mario Sanders",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Clark Sanderson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cam Sapp",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christian Sarem",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jake Sassic",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kaden Saunders",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Stone Saunders",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Gabe Sawchuk",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryon Sayeri",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Pat Schaller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Leo Scheidler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ian Schieffelin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joey Schlaffer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kaleb Schlecht",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Schmidt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Schneider",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zach Schnorrbusch",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Adam Schobel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brock Schott",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brennen Schramm",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Connor Schutt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charley Schwinger",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Scott",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Larry Scott",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Scullion",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamar Searcy",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Seidler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brett Seither",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jayden Sellers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cam Settles",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Omar Shah",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Spencer Shannon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Terry Shelton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nate Sheppard",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Max Shikenjanski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Luke Shorter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kasom Shrum",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Fuller Shurtz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Leyton Simmering",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Austin Simmons",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Simmons",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kavon Simmons",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quintin Simmons",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Corey Simms",
+      "FPts": 0.0
+    },
+    {
+      "Player": "James Simon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacob Simpson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Sims",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DJ Singleton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daylon Singleton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mikkel Skinner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joeseph Skipworth",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Slibeck",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ed Small",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Smikle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Travis Smith Jr.",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Akili Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caden Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carter Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emerson Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalen Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "KaMaurri Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nikao Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Synkwan Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tristan Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Yasir Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zymear Smith",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Smith-Brown",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaxon Smolik",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jakeb Snyder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jake Sock",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaivon Solomon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bode Soukup",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Xavier Southall",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Milos Spasojevic",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kevin Sperry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryan Spotwood",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacques Spradley-Demps",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jeremy St-Hilaire",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tavien St. Clair",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ezavier Staples",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Scott Starzyk",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Stec",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Stecker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Stevens",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Imarion Stewart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kade Stewart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quinton Stewart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ricky Stewart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Henry Stickler",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Davin Stoffel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah Stone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Leyton Stone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Stone",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brennan Storer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alexander Stoyanovich",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wesley Strobel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Stroud",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Stupin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Willy Suarez",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Suesue",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jimmy Sullivan",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Surace",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caleb Surber",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Meyer Swinney",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Taevion Swint",
+      "FPts": 0.0
+    },
+    {
+      "Player": "AJ Szymanski",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Tabaracci",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JT Taggart",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Marquis Taliulu",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charles Taplin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Joe Tatum",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Tau-Tolliver",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Taylor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JMari Taylor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kamario Taylor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Talyn Taylor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Taylor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Zach Taylor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Micah Tease",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hunter Teichman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dakotah Terrell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Josh Terrell",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Terry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Shaun Terry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cade Tessier",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Thiry",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brock Thomas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Thomas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaron Thomas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kaleb Thomas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Thomas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nick Thomas",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Davion Thomas-Kumpula",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jason Thompson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Miles Thornton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Liam Thorpe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Thurber",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacory Thurman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Thurman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ramarian Tillman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Hayden Timosciek",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jake Tiryakioglu",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Michael Tollefson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malachi Toney",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Deakon Tonielli",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaac Torres",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Famah Toure",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kalil Townes",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cyrus Traugh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brayden Trimble",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cade Trotter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jo Jo Troupe",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tetsuta Tsuyumine",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jalil Tucker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Madrid Tucker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Taniela Tupou",
+      "FPts": 0.0
+    },
+    {
+      "Player": "JaKyrian Turner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Turner",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trent Uhlir",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Underwood",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Daylyn Upshaw",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Upton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Miles Uter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kennedy Uzoma",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jimmy Valsin",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Blake Van Buren",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Van Dorselaer",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jonathan Vande Walle",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ian Ver Steeg",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Reginald Vick",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Raiden Vines-Bright",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Von Der Meder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DJ Vonnahme",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kirby Vorhees",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lukas Vozeh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Thomas Wadsworth",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Griffin Waiss",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Terrell Walden",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Beck Walker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bo Walker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rico Walker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Walker Wallace",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lamason Waller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Pierce Walsh",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brennen Ward",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Ward",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Triston Ward",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Nehemiah Warmate",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cornelius Warren",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Quinn Warren",
+      "FPts": 0.0
+    },
+    {
+      "Player": "David Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ellijah Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grant Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jessie Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jordan Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Malik Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Trynae Washington",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elijah Washington-Baker Washington-Baker",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Rubin Wasserman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jackson Wasserstrom",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lyviel Waters",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jelani Watkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Winston Watkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jacorey Watson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Wesley Watson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Armoni Weaver",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Weeter",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Russell Weir",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Seth Weller",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Levi Wentz",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Isaiah West",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean West",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyrone West",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Westbrook",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Noah Westbrook",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Javin Whatley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lane Whisenhunt",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Mekhai White",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Carson Whitehead",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Alex Whitman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chanz Wiggins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Haydon Wiginton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Indiana Wijay",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Wilcox",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Griffin Wilde",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jamarice Wilder",
+      "FPts": 0.0
+    },
+    {
+      "Player": "CJ Wiley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Wilhite",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Khalil Wilkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "VJ Wilkins",
+      "FPts": 0.0
+    },
+    {
+      "Player": "William Wilkinson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Aaron Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "CJ Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Caleb Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cam Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Chris Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dorian Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Elyiss Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jakhari Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justice Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kamare Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Taz Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Xavier Williams",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Adrian Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cole Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dallas Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Grayson Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaedon Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jaxson Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kolin Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Max Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Wilson",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ezekiel Wimbush",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Charlie Wingfield",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Emaree Winston",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sean Winton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tommy Winton",
+      "FPts": 0.0
+    },
+    {
+      "Player": "DaMari Witherspoon",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Damarion Witten",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dylan Wittke",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Donovan Wood",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Kale Woodburn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Anthony Woods",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cutter Woods",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Maxwell Woods",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tripp Woody",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Riley Wormley",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Dwartney Wortham",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Tyler Wrenn",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Landon Wright",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Lawrence Wright",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Phillip Wright",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Cedric Wyche",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jack Yanachik",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Bryce Yates",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Makhilyn Young",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Young",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Christian Zachary",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Justin Zames",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ismael Zamor",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Josiah Zamora",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Seth Zamora",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Reiman Zebert",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Sam Zelenovich",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Ryan Zimmerman",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Jared Zirkel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Matt Zollers",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Will Zundel",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brendan Zurbrugg",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Owen van Loben Sels",
+      "FPts": 0.0
+    },
+    {
+      "Player": "Brady Lichtenberg",
+      "FPts": -0.05
+    },
+    {
+      "Player": "Devon Rice",
+      "FPts": -0.1
+    },
+    {
+      "Player": "Ethan Grunkemeyer",
+      "FPts": -1.55
+    },
+    {
+      "Player": "Ryan Staub",
+      "FPts": -1.6
+    },
+    {
+      "Player": "Ricardo Cooper",
+      "FPts": -2.0
+    },
+    {
+      "Player": "Alessio Milivojevic",
+      "FPts": -2.0
+    },
+    {
+      "Player": "Ryan Boe",
+      "FPts": -3.4
+    }
+  ]
+}
