@@ -6,18 +6,46 @@
     },
     {
       "golfer": "Rory McIlroy",
+      "odds": "+2000"
+    },
+    {
+      "golfer": "Jon Rahm",
       "odds": "+2500"
+    },
+    {
+      "golfer": "Bryson DeChambeau",
+      "odds": "+3000"
+    },
+    {
+      "golfer": "Ludvig Aberg",
+      "odds": "+3500"
     },
     {
       "golfer": "Xander Schauffele",
       "odds": "+3500"
     },
     {
+      "golfer": "Viktor Hovland",
+      "odds": "+3500"
+    },
+    {
+      "golfer": "Shane Lowry",
+      "odds": "+4000"
+    },
+    {
+      "golfer": "Tyrrell Hatton",
+      "odds": "+4000"
+    },
+    {
+      "golfer": "Tommy Fleetwood",
+      "odds": "+4500"
+    },
+    {
       "golfer": "Collin Morikawa",
       "odds": "+4500"
     },
     {
-      "golfer": "Tommy Fleetwood",
+      "golfer": "Robert MacIntyre",
       "odds": "+4500"
     },
     {
@@ -25,23 +53,35 @@
       "odds": "+5000"
     },
     {
-      "golfer": "Robert Macintyre",
+      "golfer": "Jordan Spieth",
       "odds": "+5000"
     },
     {
-      "golfer": "Ludvig Aberg",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Sam Burns",
+      "golfer": "Joaquin Niemann",
       "odds": "+5500"
     },
     {
-      "golfer": "Viktor Hovland",
+      "golfer": "Sepp Straka",
+      "odds": "+5500"
+    },
+    {
+      "golfer": "Patrick Cantlay",
       "odds": "+5500"
     },
     {
       "golfer": "Matt Fitzpatrick",
+      "odds": "+5500"
+    },
+    {
+      "golfer": "Brooks Koepka",
+      "odds": "+5500"
+    },
+    {
+      "golfer": "Sam Burns",
+      "odds": "+6000"
+    },
+    {
+      "golfer": "Justin Rose",
       "odds": "+6000"
     },
     {
@@ -49,7 +89,11 @@
       "odds": "+6000"
     },
     {
-      "golfer": "Sepp Straka",
+      "golfer": "Cameron Young",
+      "odds": "+6000"
+    },
+    {
+      "golfer": "Russell Henley",
       "odds": "+6500"
     },
     {
@@ -57,27 +101,43 @@
       "odds": "+6500"
     },
     {
-      "golfer": "Wyndham Clark",
+      "golfer": "Cameron Smith",
+      "odds": "+6500"
+    },
+    {
+      "golfer": "Ben Griffin",
       "odds": "+7000"
     },
     {
-      "golfer": "J.J. Spaun",
+      "golfer": "Jason Day",
+      "odds": "+7000"
+    },
+    {
+      "golfer": "Maverick McNealy",
+      "odds": "+7000"
+    },
+    {
+      "golfer": "Chris Gotterup",
       "odds": "+7000"
     },
     {
       "golfer": "Ryan Fox",
-      "odds": "+7000"
-    },
-    {
-      "golfer": "Aaron Rai",
       "odds": "+7500"
     },
     {
-      "golfer": "Harris English",
+      "golfer": "Marco Penge",
       "odds": "+7500"
     },
     {
-      "golfer": "Rasmus Hojgaard",
+      "golfer": "Keegan Bradley",
+      "odds": "+7500"
+    },
+    {
+      "golfer": "Hideki Matsuyama",
+      "odds": "+7500"
+    },
+    {
+      "golfer": "Patrick Reed",
       "odds": "+7500"
     },
     {
@@ -85,27 +145,43 @@
       "odds": "+7500"
     },
     {
-      "golfer": "Maverick McNealy",
+      "golfer": "Nicolai Hojgaard",
       "odds": "+7500"
     },
     {
+      "golfer": "J.J. Spaun",
+      "odds": "+8000"
+    },
+    {
       "golfer": "Harry Hall",
-      "odds": "+7500"
+      "odds": "+8000"
+    },
+    {
+      "golfer": "Tom McKibbin",
+      "odds": "+8000"
+    },
+    {
+      "golfer": "Min Woo Lee",
+      "odds": "+8000"
+    },
+    {
+      "golfer": "Aaron Rai",
+      "odds": "+8000"
     },
     {
       "golfer": "Max Greyserman",
       "odds": "+8000"
     },
     {
-      "golfer": "Sungjae Im",
+      "golfer": "Wyndham Clark",
       "odds": "+8000"
     },
     {
-      "golfer": "Luke Clanton",
+      "golfer": "Dustin Johnson",
       "odds": "+8000"
     },
     {
-      "golfer": "Alex Noren",
+      "golfer": "Harris English",
       "odds": "+8000"
     },
     {
@@ -113,51 +189,23 @@
       "odds": "+8000"
     },
     {
-      "golfer": "Daniel Berger",
-      "odds": "+8000"
+      "golfer": "Nick Taylor",
+      "odds": "+9000"
     },
     {
-      "golfer": "Rasmus Neergaard-Petersen",
-      "odds": "+8000"
+      "golfer": "Akshay Bhatia",
+      "odds": "+9000"
     },
     {
-      "golfer": "Thomas Detry",
-      "odds": "+8000"
+      "golfer": "Rickie Fowler",
+      "odds": "+9000"
     },
     {
-      "golfer": "Chris Gotterup",
-      "odds": "+8000"
-    },
-    {
-      "golfer": "Nicolai Hojgaard",
-      "odds": "+8000"
-    },
-    {
-      "golfer": "Jake Knapp",
-      "odds": "+8000"
-    },
-    {
-      "golfer": "Denny McCarthy",
-      "odds": "+8000"
+      "golfer": "Rasmus Hojgaard",
+      "odds": "+9000"
     },
     {
       "golfer": "Tom Kim",
-      "odds": "+8000"
-    },
-    {
-      "golfer": "Justin Rose",
-      "odds": "+8000"
-    },
-    {
-      "golfer": "Byeong Hun An",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Hao-Tong Li",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Lee Hodges",
       "odds": "+9000"
     },
     {
@@ -165,75 +213,15 @@
       "odds": "+9000"
     },
     {
-      "golfer": "Samuel Stevens",
+      "golfer": "Daniel Berger",
       "odds": "+9000"
-    },
-    {
-      "golfer": "Niklas Norgaard",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Keith Mitchell",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Kevin Yu",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Aldrich Potgieter",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Nick Taylor",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Ryan Gerard",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Marco Penge",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Thorbjorn Olesen",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Thriston Lawrence",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Matt Wallace",
-      "odds": "+9000"
-    },
-    {
-      "golfer": "Michael Kim",
-      "odds": "+10000"
-    },
-    {
-      "golfer": "Jesper Svensson",
-      "odds": "+10000"
     },
     {
       "golfer": "Andrew Novak",
-      "odds": "+10000"
+      "odds": "+9000"
     },
     {
-      "golfer": "Victor Perez",
-      "odds": "+10000"
-    },
-    {
-      "golfer": "Alex Smalley",
-      "odds": "+10000"
-    },
-    {
-      "golfer": "Jordan Smith",
-      "odds": "+10000"
-    },
-    {
-      "golfer": "Jacob Bridgeman",
+      "golfer": "Tony Finau",
       "odds": "+10000"
     },
     {
@@ -241,31 +229,83 @@
       "odds": "+10000"
     },
     {
-      "golfer": "Erik Van Rooyen",
+      "golfer": "Sergio Garcia",
       "odds": "+10000"
     },
     {
-      "golfer": "Eugenio Lopez-Chacarra",
+      "golfer": "Byeong Hun An",
       "odds": "+10000"
     },
     {
-      "golfer": "Kristoffer Reitan",
+      "golfer": "Davis Thompson",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Michael Kim",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Jordan Smith",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Sungjae Im",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Dean Burmester",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Carlos Ortiz",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Matt Wallace",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Louis Oosthuizen",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Kevin Yu",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Thomas Detry",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Lucas Herbert",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Aldrich Potgieter",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Niklas Norgaard",
+      "odds": "+10000"
+    },
+    {
+      "golfer": "Daniel Brown",
       "odds": "+11000"
     },
     {
-      "golfer": "Matti Schmid",
+      "golfer": "J.T. Poston",
       "odds": "+11000"
     },
     {
-      "golfer": "Taylor Moore",
+      "golfer": "Thriston Lawrence",
       "odds": "+11000"
     },
     {
-      "golfer": "Matt McCarty",
+      "golfer": "Thorbjorn Olesen",
       "odds": "+11000"
     },
     {
-      "golfer": "Gary Woodland",
+      "golfer": "Lucas Glover",
       "odds": "+11000"
     },
     {
@@ -273,87 +313,11 @@
       "odds": "+11000"
     },
     {
-      "golfer": "Mackenzie Hughes",
+      "golfer": "Denny McCarthy",
       "odds": "+11000"
     },
     {
-      "golfer": "Laurie Canter",
-      "odds": "+11000"
-    },
-    {
-      "golfer": "Daniel Brown",
-      "odds": "+11000"
-    },
-    {
-      "golfer": "Nicolas Echavarria",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Ewen Ferguson",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Romain Langasque",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Tom Hoge",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Patrick Rodgers",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Karl Vilips",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Francesco Laporta",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Matteo Manassero",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Matthew Jordan",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Ryo Hisatsune",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Antoine Rozner",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Martin Couvra",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Brandon Stone",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Andrew Putnam",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Richard Mansell",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Davis Riley",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Isaiah Salinda",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Sami Valimaki",
+      "golfer": "Chris Kirk",
       "odds": "+12000"
     },
     {
@@ -361,19 +325,71 @@
       "odds": "+12000"
     },
     {
+      "golfer": "Laurie Canter",
+      "odds": "+12000"
+    },
+    {
       "golfer": "Jhonattan Vegas",
       "odds": "+12000"
     },
     {
-      "golfer": "John Parry",
+      "golfer": "Kristoffer Reitan",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Mackenzie Hughes",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Martin Couvra",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Matt McCarty",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Phil Mickelson",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Marc Leishman",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Tom Hoge",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Matthew Jordan",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Stephan Jaeger",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Nico Echavarria",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Haotong Li",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Matti Schmid",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Jesper Svensson",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Davis Riley",
       "odds": "+15000"
     },
     {
-      "golfer": "Keita Nakajima",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Alejandro Tosti",
+      "golfer": "Sahith Theegala",
       "odds": "+15000"
     },
     {
@@ -381,7 +397,7 @@
       "odds": "+15000"
     },
     {
-      "golfer": "Daniel Hillier",
+      "golfer": "Matteo Manassero",
       "odds": "+15000"
     },
     {
@@ -389,51 +405,19 @@
       "odds": "+15000"
     },
     {
-      "golfer": "Alex Fitzpatrick",
+      "golfer": "Lee Westwood",
       "odds": "+15000"
     },
     {
-      "golfer": "Matthieu Pavon",
+      "golfer": "Antoine Rozner",
       "odds": "+15000"
     },
     {
-      "golfer": "Calum Hill",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Marcel Schneider",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Sam Bairstow",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Connor Syme",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Joe Highsmith",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Jacques Kruyswijk",
+      "golfer": "Zach Johnson",
       "odds": "+17000"
     },
     {
-      "golfer": "Sebastian Soderberg",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Ugo Coussaud",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Shaun Norris",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Johannes Veerman",
+      "golfer": "John Parry",
       "odds": "+17000"
     },
     {
@@ -441,87 +425,59 @@
       "odds": "+17000"
     },
     {
-      "golfer": "Henrik Norlander",
+      "golfer": "Takumi Kanaya",
       "odds": "+17000"
     },
     {
-      "golfer": "Bernd Wiesberger",
+      "golfer": "Matthieu Pavon",
       "odds": "+17000"
     },
     {
-      "golfer": "Frederic Lacroix",
+      "golfer": "Henrik Stenson",
       "odds": "+17000"
     },
     {
-      "golfer": "Grant Forrest",
+      "golfer": "Jason Kokrak",
       "odds": "+17000"
     },
     {
-      "golfer": "Alejandro Del Rey",
+      "golfer": "Daniel Hillier",
       "odds": "+17000"
     },
     {
-      "golfer": "Francesco Molinari",
-      "odds": "+17000"
+      "golfer": "Shaun Norris",
+      "odds": "+20000"
     },
     {
-      "golfer": "Andy Sullivan",
-      "odds": "+17000"
+      "golfer": "Romain Langasque",
+      "odds": "+20000"
     },
     {
-      "golfer": "David Ford",
-      "odds": "+17000"
+      "golfer": "Ethan Fang",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Oliver Lindell",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Sebastian Soderberg",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Nathan Kimsey",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Jacob Skov Olesen",
+      "odds": "+20000"
     },
     {
       "golfer": "Julien Guerrier",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Max McGreevy",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Joel Dahmen",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Danny Walker",
-      "odds": "+17000"
-    },
-    {
-      "golfer": "Yannik Paul",
       "odds": "+20000"
     },
     {
-      "golfer": "Todd Clements",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Dan Bradbury",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Jorge Campillo",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Joe Dean",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Nicolai von Dellingshausen",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Marcel Siem",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Sean Crocker",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Richie Ramsay",
+      "golfer": "John Catlin",
       "odds": "+20000"
     },
     {
@@ -529,51 +485,47 @@
       "odds": "+20000"
     },
     {
+      "golfer": "Stewart Cink",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Daniel van Tonder",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Francesco Molinari",
+      "odds": "+20000"
+    },
+    {
+      "golfer": "Sadom Kaewkanjana",
+      "odds": "+20000"
+    },
+    {
       "golfer": "Elvis Smylie",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Paul Waring",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Yuto Katsuragawa",
-      "odds": "+20000"
-    },
-    {
-      "golfer": "Ashun Wu",
       "odds": "+25000"
     },
     {
-      "golfer": "Brandt Snedeker",
+      "golfer": "Justin Hastings",
       "odds": "+25000"
     },
     {
-      "golfer": "Danny Willett",
+      "golfer": "Curtis Luck",
       "odds": "+25000"
     },
     {
-      "golfer": "Dylan Frittelli",
+      "golfer": "Filip Jakubcik",
       "odds": "+25000"
     },
     {
-      "golfer": "Aaron Cockerill",
-      "odds": "+25000"
+      "golfer": "Riki Kawamoto",
+      "odds": "+30000"
     },
     {
-      "golfer": "Nacho Elvira",
-      "odds": "+25000"
+      "golfer": "Cameron Adam",
+      "odds": "+30000"
     },
     {
-      "golfer": "Adrian Otaegui",
-      "odds": "+25000"
-    },
-    {
-      "golfer": "David Ravetto",
-      "odds": "+25000"
-    },
-    {
-      "golfer": "Ryggs Johnston",
+      "golfer": "Justin Suh",
       "odds": "+30000"
     },
     {
@@ -581,19 +533,43 @@
       "odds": "+30000"
     },
     {
-      "golfer": "Pablo Larrazabal",
+      "golfer": "Daniel Young",
       "odds": "+30000"
     },
     {
-      "golfer": "Darius Van Driel",
-      "odds": "+30000"
-    },
-    {
-      "golfer": "Simon Forsstrom",
+      "golfer": "Richard Teder",
       "odds": "+35000"
     },
     {
-      "golfer": "Dale Whitnell",
+      "golfer": "Justin Walters",
+      "odds": "+35000"
+    },
+    {
+      "golfer": "Connor Graham",
+      "odds": "+35000"
+    },
+    {
+      "golfer": "Younghan Song",
+      "odds": "+35000"
+    },
+    {
+      "golfer": "Seb Cave",
+      "odds": "+40000"
+    },
+    {
+      "golfer": "Darren Fichardt",
+      "odds": "+40000"
+    },
+    {
+      "golfer": "Shugo Imahira",
+      "odds": "+40000"
+    },
+    {
+      "golfer": "Ryggs Johnston",
+      "odds": "+40000"
+    },
+    {
+      "golfer": "Sampson Yunhe Zheng",
       "odds": "+40000"
     },
     {
@@ -601,24 +577,49 @@
       "odds": "+40000"
     },
     {
-      "golfer": "Junghwan Lee",
+      "golfer": "Darren Clarke",
       "odds": "+40000"
     },
     {
-      "golfer": "Hongtaek Kim",
+      "golfer": "George Bloor",
+      "odds": "+40000"
+    },
+    {
+      "golfer": "K.J. Choi",
+      "odds": "+40000"
+    },
+    {
+      "golfer": "Justin Leonard",
       "odds": "+50000"
     },
     {
-      "golfer": "Luke Donald",
+      "golfer": "Mikiya Akutsu",
       "odds": "+50000"
     },
     {
-      "golfer": "Jordan Gumberg",
+      "golfer": "John Axelsen",
       "odds": "+50000"
     },
     {
-      "golfer": "Ockie Strydom",
+      "golfer": "Jesper Sandborg",
       "odds": "+60000"
+    },
+    {
+      "golfer": "Ryan Peake",
+      "odds": "+60000"
+    },
+    {
+      "golfer": "Frazer Jones",
+      "odds": "+60000"
+    },
+    {
+      "golfer": "OJ Farrell",
+      "odds": "+70000"
+    },
+    {
+      "golfer": "Curtis Knipes",
+      "odds": "+70000"
     }
   ]
 }
+
