@@ -10,7 +10,7 @@
     },
     {
       "golfer": "Maverick McNealy",
-      "odds": "+4000"
+      "odds": "+3500"
     },
     {
       "golfer": "Wyndham Clark",
@@ -21,23 +21,15 @@
       "odds": "+4500"
     },
     {
+      "golfer": "Taylor Pendrith",
+      "odds": "+4500"
+    },
+    {
       "golfer": "Jake Knapp",
       "odds": "+5000"
     },
     {
-      "golfer": "Taylor Pendrith",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Tony Finau",
-      "odds": "+5000"
-    },
-    {
       "golfer": "Michael Thorbjornsen",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Si Woo Kim",
       "odds": "+5000"
     },
     {
@@ -57,20 +49,20 @@
       "odds": "+5500"
     },
     {
+      "golfer": "Tony Finau",
+      "odds": "+5500"
+    },
+    {
       "golfer": "Max Homa",
       "odds": "+5500"
     },
     {
-      "golfer": "Rickie Fowler",
+      "golfer": "Si Woo Kim",
       "odds": "+5500"
     },
     {
       "golfer": "Luke Clanton",
       "odds": "+5500"
-    },
-    {
-      "golfer": "Jesper Svensson",
-      "odds": "+6000"
     },
     {
       "golfer": "Kevin Yu",
@@ -93,8 +85,8 @@
       "odds": "+6000"
     },
     {
-      "golfer": "Matt Wallace",
-      "odds": "+6500"
+      "golfer": "Rickie Fowler",
+      "odds": "+6000"
     },
     {
       "golfer": "Rico Hoey",
@@ -105,12 +97,16 @@
       "odds": "+6500"
     },
     {
-      "golfer": "Niklas Norgaard",
+      "golfer": "Haotong Li",
       "odds": "+6500"
     },
     {
-      "golfer": "Haotong Li",
-      "odds": "+6500"
+      "golfer": "Jesper Svensson",
+      "odds": "+7000"
+    },
+    {
+      "golfer": "Matt Wallace",
+      "odds": "+7000"
     },
     {
       "golfer": "Patrick Fishburn",
@@ -133,7 +129,15 @@
       "odds": "+7000"
     },
     {
-      "golfer": "Taylor Moore",
+      "golfer": "Niklas Norgaard",
+      "odds": "+7000"
+    },
+    {
+      "golfer": "Sam Stevens",
+      "odds": "+7000"
+    },
+    {
+      "golfer": "Sahith Theegala",
       "odds": "+7500"
     },
     {
@@ -165,11 +169,7 @@
       "odds": "+7500"
     },
     {
-      "golfer": "Sam Stevens",
-      "odds": "+7500"
-    },
-    {
-      "golfer": "Sahith Theegala",
+      "golfer": "Taylor Moore",
       "odds": "+8000"
     },
     {
@@ -361,6 +361,14 @@
       "odds": "+12000"
     },
     {
+      "golfer": "Mac Meissner",
+      "odds": "+12000"
+    },
+    {
+      "golfer": "Brendan Valdes",
+      "odds": "+12000"
+    },
+    {
       "golfer": "Will Gordon",
       "odds": "+12000"
     },
@@ -386,10 +394,6 @@
     },
     {
       "golfer": "Adam Hadwin",
-      "odds": "+12000"
-    },
-    {
-      "golfer": "Alejandro Tosti",
       "odds": "+12000"
     },
     {
@@ -461,14 +465,6 @@
       "odds": "+15000"
     },
     {
-      "golfer": "Mac Meissner",
-      "odds": "+15000"
-    },
-    {
-      "golfer": "Brendan Valdes",
-      "odds": "+15000"
-    },
-    {
       "golfer": "Harry Higgs",
       "odds": "+15000"
     },
@@ -497,8 +493,16 @@
       "odds": "+15000"
     },
     {
+      "golfer": "Ben Martin",
+      "odds": "+15000"
+    },
+    {
       "golfer": "Paul Peterson",
       "odds": "+15000"
+    },
+    {
+      "golfer": "Patton Kizzire",
+      "odds": "+17000"
     },
     {
       "golfer": "Hayden Buckley",
@@ -515,10 +519,6 @@
     {
       "golfer": "Carson Herron",
       "odds": "+17000"
-    },
-    {
-      "golfer": "Patton Kizzire",
-      "odds": "+20000"
     },
     {
       "golfer": "Josh Radcliff",
