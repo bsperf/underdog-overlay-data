@@ -1,53 +1,259 @@
 {
-  "Adam Hadwin": { "Exposure(%)": 4.17 },
-  "Adam Scott": { "Exposure(%)": 4.17 },
-  "Akshay Bhatia": { "Exposure(%)": 16.67 },
-  "Alex Noren": { "Exposure(%)": 12.5 },
-  "Alex Smalley": { "Exposure(%)": 8.33 },
-  "Austin Eckroat": { "Exposure(%)": 8.33 },
-  "Ben Silverman": { "Exposure(%)": 8.33 },
-  "Cameron Champ": { "Exposure(%)": 16.67 },
-  "Carson Young": { "Exposure(%)": 16.67 },
-  "Chris Gotterup": { "Exposure(%)": 16.67 },
-  "Chris Kirk": { "Exposure(%)": 8.33 },
-  "Christiaan Bezuidenhout": { "Exposure(%)": 12.5 },
-  "David Lipsky": { "Exposure(%)": 4.17 },
-  "Emiliano Grillo": { "Exposure(%)": 12.5 },
-  "Garrick Higgo": { "Exposure(%)": 8.33 },
-  "Gary Woodland": { "Exposure(%)": 16.67 },
-  "Greyson Sigg": { "Exposure(%)": 8.33 },
-  "Henrik Norlander": { "Exposure(%)": 25.0 },
-  "Isaiah Salinda": { "Exposure(%)": 4.17 },
-  "Jake Knapp": { "Exposure(%)": 12.5 },
-  "Jesper Svensson": { "Exposure(%)": 12.5 },
-  "Jhonattan Vegas": { "Exposure(%)": 4.17 },
-  "Joseph Bramlett": { "Exposure(%)": 4.17 },
-  "Kevin Roy": { "Exposure(%)": 16.67 },
-  "Kurt Kitayama": { "Exposure(%)": 20.83 },
-  "Luke Clanton": { "Exposure(%)": 12.5 },
-  "Mac Meissner": { "Exposure(%)": 16.67 },
-  "Mark Hubbard": { "Exposure(%)": 12.5 },
-  "Matt McCarty": { "Exposure(%)": 16.67 },
-  "Matt Wallace": { "Exposure(%)": 16.67 },
-  "Nate Lashley": { "Exposure(%)": 8.33 },
-  "Niklas Norgaard": { "Exposure(%)": 4.17 },
-  "Noah Goodwin": { "Exposure(%)": 4.17 },
-  "Patrick Fishburn": { "Exposure(%)": 8.33 },
-  "Pierceson Coody": { "Exposure(%)": 12.5 },
-  "Rickie Fowler": { "Exposure(%)": 25.0 },
-  "Rico Hoey": { "Exposure(%)": 16.67 },
-  "Sam Burns": { "Exposure(%)": 25.0 },
-  "Sam Ryder": { "Exposure(%)": 12.5 },
-  "Sam Stevens": { "Exposure(%)": 4.17 },
-  "Seamus Power": { "Exposure(%)": 20.83 },
-  "Takumi Kanaya": { "Exposure(%)": 4.17 },
-  "Taylor Moore": { "Exposure(%)": 16.67 },
-  "Taylor Pendrith": { "Exposure(%)": 20.83 },
-  "Thomas Rosenmueller": { "Exposure(%)": 4.17 },
-  "Thorbjorn Olesen": { "Exposure(%)": 8.33 },
-  "Tom Kim": { "Exposure(%)": 4.17 },
-  "Victor Perez": { "Exposure(%)": 4.17 },
-  "Vince Whaley": { "Exposure(%)": 20.83 },
-  "William Mouw": { "Exposure(%)": 8.33 },
-  "Wyndham Clark": { "Exposure(%)": 8.33 }
+  "scores": [
+    {
+      "name": "Adam Hadwin",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Adam Scott",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Akshay Bhatia",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Alex Noren",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Alex Smalley",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Austin Eckroat",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Ben Silverman",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Cameron Champ",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Carson Young",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Chris Gotterup",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Chris Kirk",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Christiaan Bezuidenhout",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "David Lipsky",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Emiliano Grillo",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Garrick Higgo",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Gary Woodland",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Greyson Sigg",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Henrik Norlander",
+      "score": 0,
+      "exposure": 25.0
+    },
+    {
+      "name": "Isaiah Salinda",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Jake Knapp",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Jesper Svensson",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Jhonattan Vegas",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Joseph Bramlett",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Kevin Roy",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Kurt Kitayama",
+      "score": 0,
+      "exposure": 20.83
+    },
+    {
+      "name": "Luke Clanton",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Mac Meissner",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Mark Hubbard",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Matt McCarty",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Matt Wallace",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Nate Lashley",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Niklas Norgaard",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Noah Goodwin",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Patrick Fishburn",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Pierceson Coody",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Rickie Fowler",
+      "score": 0,
+      "exposure": 25.0
+    },
+    {
+      "name": "Rico Hoey",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Sam Burns",
+      "score": 0,
+      "exposure": 25.0
+    },
+    {
+      "name": "Sam Ryder",
+      "score": 0,
+      "exposure": 12.5
+    },
+    {
+      "name": "Sam Stevens",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Seamus Power",
+      "score": 0,
+      "exposure": 20.83
+    },
+    {
+      "name": "Takumi Kanaya",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Taylor Moore",
+      "score": 0,
+      "exposure": 16.67
+    },
+    {
+      "name": "Taylor Pendrith",
+      "score": 0,
+      "exposure": 20.83
+    },
+    {
+      "name": "Thomas Rosenmueller",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Thorbjorn Olesen",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Tom Kim",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Victor Perez",
+      "score": 0,
+      "exposure": 4.17
+    },
+    {
+      "name": "Vince Whaley",
+      "score": 0,
+      "exposure": 20.83
+    },
+    {
+      "name": "William Mouw",
+      "score": 0,
+      "exposure": 8.33
+    },
+    {
+      "name": "Wyndham Clark",
+      "score": 0,
+      "exposure": 8.33
+    }
+  ]
 }
