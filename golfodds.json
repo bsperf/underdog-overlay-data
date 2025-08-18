@@ -1,201 +1,124 @@
+{
   "odds": [
     {
       "golfer": "Scottie Scheffler",
-      "odds": "+800"
+      "odds": "+500"
     },
     {
       "golfer": "Rory McIlroy",
-      "odds": "+1400"
-    },
-    {
-      "golfer": "Xander Schauffele",
-      "odds": "+2200"
-    },
-    {
-      "golfer": "Ludvig Aberg",
-      "odds": "+2500"
-    },
-    {
-      "golfer": "Patrick Cantlay",
-      "odds": "+2500"
-    },
-    {
-      "golfer": "Justin Thomas",
-      "odds": "+2500"
+      "odds": "+1100"
     },
     {
       "golfer": "Tommy Fleetwood",
-      "odds": "+2500"
+      "odds": "+1600"
     },
     {
-      "golfer": "Cameron Young",
-      "odds": "+2800"
+      "golfer": "Ludvig Aberg",
+      "odds": "+1600"
     },
     {
-      "golfer": "J.J. Spaun",
-      "odds": "+2800"
+      "golfer": "Justin Thomas",
+      "odds": "+1800"
     },
     {
-      "golfer": "Collin Morikawa",
-      "odds": "+3000"
-    },
-    {
-      "golfer": "Russell Henley",
-      "odds": "+3000"
-    },
-    {
-      "golfer": "Matt Fitzpatrick",
-      "odds": "+3000"
-    },
-    {
-      "golfer": "Ben Griffin",
-      "odds": "+3000"
+      "golfer": "Patrick Cantlay",
+      "odds": "+1800"
     },
     {
       "golfer": "Viktor Hovland",
-      "odds": "+3000"
+      "odds": "+2000"
+    },
+    {
+      "golfer": "J.J. Spaun",
+      "odds": "+2000"
     },
     {
       "golfer": "Sam Burns",
-      "odds": "+3000"
+      "odds": "+2000"
     },
     {
-      "golfer": "Chris Gotterup",
-      "odds": "+3000"
-    },
-    {
-      "golfer": "Maverick McNealy",
-      "odds": "+3500"
-    },
-    {
-      "golfer": "Akshay Bhatia",
-      "odds": "+3500"
-    },
-    {
-      "golfer": "Justin Rose",
-      "odds": "+3500"
-    },
-    {
-      "golfer": "Keegan Bradley",
-      "odds": "+3500"
-    },
-    {
-      "golfer": "Kurt Kitayama",
-      "odds": "+3500"
-    },
-    {
-      "golfer": "Corey Conners",
-      "odds": "+3500"
-    },
-    {
-      "golfer": "Harris English",
-      "odds": "+3500"
+      "golfer": "Cameron Young",
+      "odds": "+2000"
     },
     {
       "golfer": "Robert MacIntyre",
-      "odds": "+3500"
+      "odds": "+2200"
+    },
+    {
+      "golfer": "Ben Griffin",
+      "odds": "+2200"
+    },
+    {
+      "golfer": "Russell Henley",
+      "odds": "+2200"
+    },
+    {
+      "golfer": "Collin Morikawa",
+      "odds": "+2200"
+    },
+    {
+      "golfer": "Sepp Straka",
+      "odds": "+2200"
+    },
+    {
+      "golfer": "Maverick McNealy",
+      "odds": "+2500"
+    },
+    {
+      "golfer": "Chris Gotterup",
+      "odds": "+2500"
+    },
+    {
+      "golfer": "Keegan Bradley",
+      "odds": "+2500"
     },
     {
       "golfer": "Hideki Matsuyama",
+      "odds": "+2500"
+    },
+    {
+      "golfer": "Corey Conners",
+      "odds": "+2500"
+    },
+    {
+      "golfer": "Harry Hall",
+      "odds": "+2500"
+    },
+    {
+      "golfer": "Harris English",
+      "odds": "+2500"
+    },
+    {
+      "golfer": "Justin Rose",
+      "odds": "+2800"
+    },
+    {
+      "golfer": "Akshay Bhatia",
+      "odds": "+2800"
+    },
+    {
+      "golfer": "Shane Lowry",
+      "odds": "+3000"
+    },
+    {
+      "golfer": "Brian Harman",
+      "odds": "+3000"
+    },
+    {
+      "golfer": "Jacob Bridgeman",
       "odds": "+3500"
     },
     {
       "golfer": "Sungjae Im",
-      "odds": "+4000"
-    },
-    {
-      "golfer": "Taylor Pendrith",
-      "odds": "+4000"
-    },
-    {
-      "golfer": "Rickie Fowler",
-      "odds": "+4000"
-    },
-    {
-      "golfer": "Shane Lowry",
-      "odds": "+4000"
-    },
-    {
-      "golfer": "Harry Hall",
-      "odds": "+4000"
-    },
-    {
-      "golfer": "Si Woo Kim",
-      "odds": "+4000"
-    },
-    {
-      "golfer": "Jason Day",
-      "odds": "+4500"
-    },
-    {
-      "golfer": "Brian Harman",
-      "odds": "+4500"
+      "odds": "+3500"
     },
     {
       "golfer": "Andrew Novak",
-      "odds": "+4500"
-    },
-    {
-      "golfer": "Denny McCarthy",
-      "odds": "+4500"
-    },
-    {
-      "golfer": "Ryan Fox",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Sam Stevens",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Daniel Berger",
-      "odds": "+5000"
+      "odds": "+3500"
     },
     {
       "golfer": "Nick Taylor",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Jhonattan Vegas",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "J.T. Poston",
-      "odds": "+5000"
-    },
-    {
-      "golfer": "Jacob Bridgeman",
-      "odds": "+5500"
-    },
-    {
-      "golfer": "Ryan Gerard",
-      "odds": "+5500"
-    },
-    {
-      "golfer": "Bud Cauley",
-      "odds": "+5500"
-    },
-    {
-      "golfer": "Michael Kim",
-      "odds": "+5500"
-    },
-    {
-      "golfer": "Lucas Glover",
-      "odds": "+5500"
-    },
-    {
-      "golfer": "Thomas Detry",
-      "odds": "+6000"
-    },
-    {
-      "golfer": "Tom Hoge",
-      "odds": "+10000"
-    },
-    {
-      "golfer": "Brian Campbell",
-      "odds": "+11000"
+      "odds": "+3500"
     }
   ]
 }
-
-
