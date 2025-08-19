@@ -1,5 +1,4 @@
-{
-  "odds": [
+ "odds": [
     {
       "golfer": "Scottie Scheffler",
       "odds": "+500"
@@ -17,11 +16,7 @@
       "odds": "+1600"
     },
     {
-      "golfer": "Justin Thomas",
-      "odds": "+1800"
-    },
-    {
-      "golfer": "Patrick Cantlay",
+      "golfer": "Russell Henley",
       "odds": "+1800"
     },
     {
@@ -37,19 +32,27 @@
       "odds": "+2000"
     },
     {
-      "golfer": "Cameron Young",
+      "golfer": "Justin Thomas",
       "odds": "+2000"
+    },
+    {
+      "golfer": "Patrick Cantlay",
+      "odds": "+2000"
+    },
+    {
+      "golfer": "Maverick McNealy",
+      "odds": "+2200"
     },
     {
       "golfer": "Robert MacIntyre",
       "odds": "+2200"
     },
     {
-      "golfer": "Ben Griffin",
+      "golfer": "Cameron Young",
       "odds": "+2200"
     },
     {
-      "golfer": "Russell Henley",
+      "golfer": "Hideki Matsuyama",
       "odds": "+2200"
     },
     {
@@ -61,10 +64,6 @@
       "odds": "+2200"
     },
     {
-      "golfer": "Maverick McNealy",
-      "odds": "+2500"
-    },
-    {
       "golfer": "Chris Gotterup",
       "odds": "+2500"
     },
@@ -73,7 +72,7 @@
       "odds": "+2500"
     },
     {
-      "golfer": "Hideki Matsuyama",
+      "golfer": "Ben Griffin",
       "odds": "+2500"
     },
     {
@@ -113,12 +112,12 @@
       "odds": "+3500"
     },
     {
-      "golfer": "Andrew Novak",
+      "golfer": "Nick Taylor",
       "odds": "+3500"
     },
     {
-      "golfer": "Nick Taylor",
-      "odds": "+3500"
+      "golfer": "Andrew Novak",
+      "odds": "+4000"
     }
   ]
 }
