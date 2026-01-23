@@ -1,2477 +1,6910 @@
 {
-  "Ja'Marr Chase": {
-    "Proj": 266.0,
-    "Exposure": 7.31,
-    "Age": 25.51
-  },
-  "Saquon Barkley": {
-    "Proj": 250.0,
-    "Exposure": 8.22,
-    "Age": 28.57
-  },
   "Bijan Robinson": {
-    "Proj": 256.1,
-    "Exposure": 8.68,
-    "Age": 23.59
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Puka Nacua": {
-    "Proj": 247.8,
-    "Exposure": 11.42,
-    "Age": 24.27
+    "Age": 25.3,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "CeeDee Lamb": {
-    "Proj": 255.5,
-    "Exposure": 10.05,
-    "Age": 26.41
-  },
-  "Justin Jefferson": {
-    "Proj": 233.3,
-    "Exposure": 11.42,
-    "Age": 26.22
-  },
-  "Ashton Jeanty": {
-    "Proj": 221.2,
-    "Exposure": 4.11,
-    "Age": 21.7
-  },
-  "Jahmyr Gibbs": {
-    "Proj": 238.2,
-    "Exposure": 7.76,
-    "Age": 23.46
-  },
-  "Brian Thomas": {
-    "Proj": 224.3,
-    "Exposure": 10.05,
-    "Age": 22.91
-  },
-  "Nico Collins": {
-    "Proj": 224.1,
-    "Exposure": 9.13,
-    "Age": 26.46
-  },
-  "Amon-Ra St. Brown": {
-    "Proj": 226.9,
-    "Exposure": 9.13,
-    "Age": 25.86
-  },
-  "Derrick Henry": {
-    "Proj": 229.1,
-    "Exposure": 7.76,
-    "Age": 31.67
-  },
-  "Malik Nabers": {
-    "Proj": 230.2,
-    "Exposure": 6.39,
-    "Age": 22.11
-  },
-  "A.J. Brown": {
-    "Proj": 218.3,
-    "Exposure": 9.59,
-    "Age": 28.18
-  },
-  "De'Von Achane": {
-    "Proj": 234.2,
-    "Exposure": 5.02,
-    "Age": 23.89
-  },
-  "Jonathan Taylor": {
-    "Proj": 205.0,
-    "Exposure": 12.79,
-    "Age": 26.63
-  },
-  "Kyren Williams": {
-    "Proj": 219.0,
-    "Exposure": 10.05,
-    "Age": 25.02
-  },
-  "Drake London": {
-    "Proj": 194.0,
-    "Exposure": 10.05,
-    "Age": 24.11
-  },
-  "Ladd McConkey": {
-    "Proj": 209.2,
-    "Exposure": 8.22,
-    "Age": 23.81
-  },
-  "Bucky Irving": {
-    "Proj": 202.8,
-    "Exposure": 8.22,
-    "Age": 22.82
-  },
-  "Josh Jacobs": {
-    "Proj": 213.8,
-    "Exposure": 6.39,
-    "Age": 27.56
-  },
-  "Joe Mixon": {
-    "Proj": 187.4,
-    "Exposure": 11.42,
-    "Age": 29.11
-  },
-  "Tyreek Hill": {
-    "Proj": 215.5,
-    "Exposure": 9.59,
-    "Age": 31.51
-  },
-  "Christian McCaffrey": {
-    "Proj": 230.5,
-    "Exposure": 3.2,
-    "Age": 29.24
-  },
-  "Mike Evans": {
-    "Proj": 202.3,
-    "Exposure": 10.96,
-    "Age": 32.04
-  },
-  "Chase Brown": {
-    "Proj": 202.5,
-    "Exposure": 9.59,
-    "Age": 25.46
-  },
-  "Tee Higgins": {
-    "Proj": 195.2,
-    "Exposure": 7.76,
-    "Age": 26.63
-  },
-  "Davante Adams": {
-    "Proj": 200.0,
-    "Exposure": 6.39,
-    "Age": 32.7
+  "Ja'Marr Chase": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Jaxon Smith-Njigba": {
-    "Proj": 186.1,
-    "Exposure": 2.28,
-    "Age": 23.55
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Alvin Kamara": {
-    "Proj": 208.7,
-    "Exposure": 7.76,
-    "Age": 30.11
+  "Jahmyr Gibbs": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Terry McLaurin": {
-    "Proj": 188.9,
-    "Exposure": 9.59,
-    "Age": 29.97
+  "CeeDee Lamb": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "DeVonta Smith": {
-    "Proj": 192.3,
-    "Exposure": 12.33,
-    "Age": 26.81
+  "Jonathan Taylor": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "D.J. Moore": {
-    "Proj": 187.1,
-    "Exposure": 14.61,
-    "Age": 28.39
-  },
-  "Breece Hall": {
-    "Proj": 198.9,
-    "Exposure": 4.57,
-    "Age": 24.26
-  },
-  "Chuba Hubbard": {
-    "Proj": 178.1,
-    "Exposure": 3.65,
-    "Age": 26.23
-  },
-  "D'Andre Swift": {
-    "Proj": 188.3,
-    "Exposure": 4.57,
-    "Age": 26.64
-  },
-  "Brock Bowers": {
-    "Proj": 186.4,
-    "Exposure": 5.94,
-    "Age": 22.73
-  },
-  "George Pickens": {
-    "Proj": 176.9,
-    "Exposure": 10.05,
-    "Age": 24.5
-  },
-  "Marvin Harrison": {
-    "Proj": 182.8,
-    "Exposure": 11.87,
-    "Age": 23.07
-  },
-  "Zay Flowers": {
-    "Proj": 167.2,
-    "Exposure": 5.94,
-    "Age": 24.98
-  },
-  "Trey McBride": {
-    "Proj": 170.7,
-    "Exposure": 8.22,
-    "Age": 25.79
+  "Christian McCaffrey": {
+    "Age": 30.2,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "James Cook": {
-    "Proj": 193.6,
-    "Exposure": 8.22,
-    "Age": 25.94
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "DK Metcalf": {
-    "Proj": 186.8,
-    "Exposure": 7.31,
-    "Age": 27.72
+  "De'Von Achane": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Xavier Worthy": {
-    "Proj": 173.0,
-    "Exposure": 19.18,
-    "Age": 22.36
+  "Amon-Ra St. Brown": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jaylen Waddle": {
-    "Proj": 179.2,
-    "Exposure": 8.68,
-    "Age": 26.78
+  "Trey McBride": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jakobi Meyers": {
-    "Proj": 173.0,
-    "Exposure": 3.65,
-    "Age": 28.82
+  "Drake London": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Courtland Sutton": {
-    "Proj": 168.2,
-    "Exposure": 3.65,
-    "Age": 29.9
+  "Malik Nabers": {
+    "Age": 23.1,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Aaron Jones": {
-    "Proj": 182.7,
-    "Exposure": 9.13,
-    "Age": 30.76
+  "Justin Jefferson": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "James Conner": {
-    "Proj": 174.7,
-    "Exposure": 7.31,
-    "Age": 30.34
+  "Saquon Barkley": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ashton Jeanty": {
+    "Age": 22.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Omarion Hampton": {
-    "Proj": 155.8,
-    "Exposure": 5.02,
-    "Age": 22.14
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Khalil Shakir": {
-    "Proj": 170.6,
-    "Exposure": 5.48,
-    "Age": 25.59
+  "Brock Bowers": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Tetairoa McMillan": {
-    "Proj": 162.9,
-    "Exposure": 12.79,
-    "Age": 22.27
+  "George Pickens": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "Jerry Jeudy": {
-    "Proj": 181.3,
-    "Exposure": 9.13,
-    "Age": 26.37
+  "Derrick Henry": {
+    "Age": 32.7,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Kenneth Walker III": {
-    "Proj": 168.3,
-    "Exposure": 10.96,
-    "Age": 24.87
+  "Jeremiyah Love": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 318.2
   },
-  "Jameson Williams": {
-    "Proj": 164.6,
-    "Exposure": 10.05,
-    "Age": 24.44
+  "Nico Collins": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Calvin Ridley": {
-    "Proj": 165.8,
-    "Exposure": 10.96,
-    "Age": 30.71
-  },
-  "Quinshon Judkins": {
-    "Proj": 164.1,
-    "Exposure": 9.13,
-    "Age": 21.85
-  },
-  "Rashee Rice": {
-    "Proj": 165.0,
-    "Exposure": 11.87,
-    "Age": 25.37
-  },
-  "Chris Godwin": {
-    "Proj": 154.2,
-    "Exposure": 6.85,
-    "Age": 29.52
-  },
-  "Garrett Wilson": {
-    "Proj": 165.1,
-    "Exposure": 5.48,
-    "Age": 25.12
-  },
-  "Travis Hunter": {
-    "Proj": 155.3,
-    "Exposure": 10.05,
-    "Age": 22.3
-  },
-  "George Kittle": {
-    "Proj": 164.8,
-    "Exposure": 9.59,
-    "Age": 31.9
-  },
-  "David Montgomery": {
-    "Proj": 167.7,
-    "Exposure": 17.81,
-    "Age": 28.24
-  },
-  "Jaylen Warren": {
-    "Proj": 146.8,
-    "Exposure": 12.79,
-    "Age": 26.84
-  },
-  "Rashid Shaheed": {
-    "Proj": 145.4,
-    "Exposure": 8.68,
-    "Age": 27.01
+  "Chase Brown": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Chris Olave": {
-    "Proj": 155.2,
-    "Exposure": 3.65,
-    "Age": 25.19
-  },
-  "Brian Robinson Jr.": {
-    "Proj": 157.2,
-    "Exposure": 5.02,
-    "Age": 26.46
-  },
-  "Deebo Samuel": {
-    "Proj": 158.3,
-    "Exposure": 3.65,
-    "Age": 29.64
-  },
-  "Kaleb Johnson": {
-    "Proj": 153.6,
-    "Exposure": 4.57,
-    "Age": 21.58
-  },
-  "RJ Harvey": {
-    "Proj": 149.4,
-    "Exposure": 9.59,
-    "Age": 25.26
-  },
-  "Sam LaPorta": {
-    "Proj": 147.4,
-    "Exposure": 15.53,
-    "Age": 24.64
-  },
-  "Tony Pollard": {
-    "Proj": 169.3,
-    "Exposure": 10.96,
-    "Age": 28.35
-  },
-  "Tyrone Tracy": {
-    "Proj": 145.8,
-    "Exposure": 2.74,
-    "Age": 25.77
-  },
-  "Jordan Addison": {
-    "Proj": 143.6,
-    "Exposure": 7.31,
-    "Age": 23.6
-  },
-  "David Njoku": {
-    "Proj": 157.4,
-    "Exposure": 11.42,
-    "Age": 29.15
-  },
-  "Jauan Jennings": {
-    "Proj": 137.7,
-    "Exposure": 3.65,
-    "Age": 28.15
-  },
-  "Travis Kelce": {
-    "Proj": 158.3,
-    "Exposure": 7.31,
-    "Age": 35.92
-  },
-  "Tyjae Spears": {
-    "Proj": 140.4,
-    "Exposure": 9.59,
-    "Age": 24.22
-  },
-  "Javonte Williams": {
-    "Proj": 138.0,
-    "Exposure": 5.94,
-    "Age": 25.36
-  },
-  "Jayden Reed": {
-    "Proj": 151.9,
-    "Exposure": 22.37,
-    "Age": 25.35
-  },
-  "Rome Odunze": {
-    "Proj": 135.0,
-    "Exposure": 6.85,
-    "Age": 23.26
-  },
-  "Matthew Golden": {
-    "Proj": 150.0,
-    "Exposure": 10.5,
-    "Age": 21.51
-  },
-  "Darnell Mooney": {
-    "Proj": 133.1,
-    "Exposure": 4.11,
-    "Age": 27.85
-  },
-  "Cooper Kupp": {
-    "Proj": 148.8,
-    "Exposure": 2.28,
-    "Age": 32.22
-  },
-  "Stefon Diggs": {
-    "Proj": 148.7,
-    "Exposure": 5.02,
-    "Age": 31
-  },
-  "Isiah Pacheco": {
-    "Proj": 144.1,
-    "Exposure": 6.85,
-    "Age": 26
-  },
-  "TreVeyon Henderson": {
-    "Proj": 131.8,
-    "Exposure": 10.05,
-    "Age": 22
-  },
-  "Rhamondre Stevenson": {
-    "Proj": 139.8,
-    "Exposure": 10.05,
-    "Age": 27
-  },
-  "Evan Engram": {
-    "Proj": 129.5,
-    "Exposure": 14.61,
-    "Age": 30
-  },
-  "Cedric Tillman": {
-    "Proj": 128.6,
-    "Exposure": 11.42,
-    "Age": 24
-  },
-  "Mark Andrews": {
-    "Proj": 135.7,
-    "Exposure": 12.33,
-    "Age": 29
-  },
-  "Ricky Pearsall": {
-    "Proj": 119.9,
-    "Exposure": 6.39,
-    "Age": 24
-  },
-  "Wan'Dale Robinson": {
-    "Proj": 124.1,
-    "Exposure": 1.83,
-    "Age": 24
-  },
-  "T.J. Hockenson": {
-    "Proj": 125.5,
-    "Exposure": 15.98,
-    "Age": 27
-  },
-  "Jonnu Smith": {
-    "Proj": 91.8,
-    "Exposure": 6.85,
-    "Age": 29
-  },
-  "Josh Downs": {
-    "Proj": 131.4,
-    "Exposure": 3.65,
-    "Age": 23
-  },
-  "Emeka Egbuka": {
-    "Proj": 114.9,
-    "Exposure": 9.13,
-    "Age": 22
-  },
-  "Michael Pittman Jr.": {
-    "Proj": 124.7,
-    "Exposure": 10.96,
-    "Age": 27
-  },
-  "Marvin Mims Jr.": {
-    "Proj": 124.3,
-    "Exposure": 6.39,
-    "Age": 23
-  },
-  "Tucker Kraft": {
-    "Proj": 114.8,
-    "Exposure": 5.48,
-    "Age": 24
-  },
-  "Christian Kirk": {
-    "Proj": 130.0,
-    "Exposure": 3.65,
-    "Age": 29
-  },
-  "Zach Charbonnet": {
-    "Proj": 113.5,
-    "Exposure": 8.22,
-    "Age": 24
-  },
-  "Austin Ekeler": {
-    "Proj": 125.0,
-    "Exposure": 1.37,
-    "Age": 30
-  },
-  "Najee Harris": {
-    "Proj": 127.3,
-    "Exposure": 10.05,
-    "Age": 27
-  },
-  "Darius Slayton": {
-    "Proj": 112.7,
-    "Exposure": 2.28,
-    "Age": 28.64
-  },
-  "Jack Bech": {
-    "Proj": 84.6,
-    "Exposure": 4.57,
-    "Age": 22.95
-  },
-  "Jake Ferguson": {
-    "Proj": 112.8,
-    "Exposure": 7.76,
-    "Age": 26.63
-  },
-  "Luther Burden": {
-    "Proj": 104.2,
-    "Exposure": 6.39,
-    "Age": 21.89
-  },
-  "Keon Coleman": {
-    "Proj": 112.6,
-    "Exposure": 3.2,
-    "Age": 22.3
-  },
-  "Jayden Higgins": {
-    "Proj": 100.5,
-    "Exposure": 7.31,
-    "Age": 24.87
-  },
-  "Colston Loveland": {
-    "Proj": 110.0,
-    "Exposure": 8.22,
-    "Age": 21.4
-  },
-  "Dalton Kincaid": {
-    "Proj": 112.1,
-    "Exposure": 5.02,
-    "Age": 25.88
-  },
-  "Tre Harris": {
-    "Proj": 103.2,
-    "Exposure": 6.85,
-    "Age": 23.33
-  },
-  "Romeo Doubs": {
-    "Proj": 106.4,
-    "Exposure": 15.53,
-    "Age": 25.39
-  },
-  "Dallas Goedert": {
-    "Proj": 113.7,
-    "Exposure": 14.61,
-    "Age": 30.67
-  },
-  "Travis Etienne Jr.": {
-    "Proj": 108.5,
-    "Exposure": 5.94,
-    "Age": 26.61
-  },
-  "Hollywood Brown": {
-    "Proj": 120.3,
-    "Exposure": 15.98,
-    "Age": 28.25
-  },
-  "Trey Benson": {
-    "Proj": 97.1,
-    "Exposure": 6.85,
-    "Age": 23.12
-  },
-  "Pat Freiermuth": {
-    "Proj": 89.7,
-    "Exposure": 5.48,
-    "Age": 26.86
-  },
-  "Ray-Ray McCloud III": {
-    "Proj": 105.4,
-    "Exposure": 4.11,
-    "Age": 28.89
-  },
-  "Xavier Legette": {
-    "Proj": 93.9,
-    "Exposure": 5.02,
-    "Age": 25.63
-  },
-  "Michael Wilson": {
-    "Proj": 107.2,
-    "Exposure": 5.48,
-    "Age": 25.53
-  },
-  "Hunter Henry": {
-    "Proj": 101.1,
-    "Exposure": 9.59,
-    "Age": 30.74
-  },
-  "Rashod Bateman": {
-    "Proj": 108.4,
-    "Exposure": 5.02,
-    "Age": 25.77
-  },
-  "Bhayshul Tuten": {
-    "Proj": 95.6,
-    "Exposure": 11.42,
-    "Age": 23.62
-  },
-  "Kyle Pitts": {
-    "Proj": 105.9,
-    "Exposure": 9.13,
-    "Age": 24.91
-  },
-  "Adam Thielen": {
-    "Proj": 110.9,
-    "Exposure": 10.5,
-    "Age": 35.04
-  },
-  "Tyler Warren": {
-    "Proj": 101.5,
-    "Exposure": 7.76,
-    "Age": 23.92
-  },
-  "Isaiah Likely": {
-    "Proj": 98.6,
-    "Exposure": 7.31,
-    "Age": 25.38
-  },
-  "Audric Estime": {
-    "Proj": 20.0,
-    "Exposure": 9.59,
-    "Age": 22.0
-  },
-  "Kyle Williams": {
-    "Proj": 98.4,
-    "Exposure": 2.28,
-    "Age": 23.7
-  },
-  "Zach Ertz": {
-    "Proj": 107.6,
-    "Exposure": 10.05,
-    "Age": 34.82
-  },
-  "Jaylen Wright": {
-    "Proj": 82.6,
-    "Exposure": 11.87,
-    "Age": 22.77
-  },
-  "Dalton Schultz": {
-    "Proj": 98.3,
-    "Exposure": 12.33,
-    "Age": 29.15
-  },
-  "Jaydon Blue": {
-    "Proj": 114.2,
-    "Exposure": 11.42,
-    "Age": 22.04
-  },
-  "Isaac Guerendo": {
-    "Proj": 98.7,
-    "Exposure": 7.76,
-    "Age": 25.89
-  },
-  "Brenton Strange": {
-    "Proj": 92.2,
-    "Exposure": 7.31,
-    "Age": 24.69
-  },
-  "Jordan Mason": {
-    "Proj": 96.5,
-    "Exposure": 2.74,
-    "Age": 26.29
-  },
-  "Roschon Johnson": {
-    "Proj": 84.0,
-    "Exposure": 9.59,
-    "Age": 24.6
-  },
-  "Brandon Aiyuk": {
-    "Proj": 102.2,
-    "Exposure": 3.2,
-    "Age": 27.48
-  },
-  "Tyler Allgeier": {
-    "Proj": 101.3,
-    "Exposure": 10.96,
-    "Age": 25.4
-  },
-  "Jerome Ford": {
-    "Proj": 76.5,
-    "Exposure": 3.2,
-    "Age": 25.99
-  },
-  "Mike Gesicki": {
-    "Proj": 96.7,
-    "Exposure": 10.5,
-    "Age": 29.93
-  },
-  "Allen Lazard": {
-    "Proj": 90.9,
-    "Exposure": 0.0,
-    "Age": 29.74
-  },
-  "Blake Corum": {
-    "Proj": 55.3,
-    "Exposure": 10.05,
-    "Age": 24.78
-  },
-  "Quentin Johnston": {
-    "Proj": 119.7,
-    "Exposure": 7.76,
-    "Age": 24.0
-  },
-  "Chig Okonkwo": {
-    "Proj": 95.8,
-    "Exposure": 3.2,
-    "Age": 26.0
-  },
-  "Joshua Palmer": {
-    "Proj": 88.7,
-    "Exposure": 3.65,
-    "Age": 25.96
-  },
-  "Theo Johnson": {
-    "Proj": 78.3,
-    "Exposure": 3.2,
-    "Age": 24.53
-  },
-  "Rico Dowdle": {
-    "Proj": 82.0,
-    "Exposure": 21.46,
-    "Age": 27.23
-  },
-  "Dyami Brown": {
-    "Proj": 91.2,
-    "Exposure": 5.02,
-    "Age": 25.85
-  },
-  "Raheem Mostert": {
-    "Proj": 72.0,
-    "Exposure": 0.0,
-    "Age": 33.41
-  },
-  "Cade Otton": {
-    "Proj": 90.0,
-    "Exposure": 7.31,
-    "Age": 26.4
-  },
-  "Tank Bigsby": {
-    "Proj": 89.5,
-    "Exposure": 4.11,
-    "Age": 24.02
-  },
-  "Juwan Johnson": {
-    "Proj": 84.7,
-    "Exposure": 2.28,
-    "Age": 28.98
-  },
-  "Andrei Iosivas": {
-    "Proj": 83.2,
-    "Exposure": 4.11,
-    "Age": 25.9
-  },
-  "Ray Davis": {
-    "Proj": 86.2,
-    "Exposure": 12.79,
-    "Age": 25.82
-  },
-  "Roman Wilson": {
-    "Proj": 68.3,
-    "Exposure": 0.0,
-    "Age": 24.22
-  },
-  "Rachaad White": {
-    "Proj": 106.6,
-    "Exposure": 5.94,
-    "Age": 26.65
-  },
-  "Kareem Hunt": {
-    "Proj": 79.4,
-    "Exposure": 0.46,
-    "Age": 30.09
-  },
-  "DeAndre Hopkins": {
-    "Proj": 86.0,
-    "Exposure": 5.94,
-    "Age": 33.25
-  },
-  "Zack Moss": {
-    "Proj": 75.2,
-    "Exposure": 0.91,
-    "Age": 27.73
-  },
-  "Tyler Conklin": {
-    "Proj": 80.3,
-    "Exposure": 0.46,
-    "Age": 30.11
-  },
-  "Diontae Johnson": {
-    "Proj": 107.2,
-    "Exposure": 0.46,
-    "Age": 29.17
-  },
-  "Woody Marks": {
-    "Proj": 77.9,
-    "Exposure": 3.2,
-    "Age": null
-  },
-  "Tyler Lockett": {
-    "Proj": 103.9,
-    "Exposure": 0.0,
-    "Age": 32.94
-  },
-  "Braelon Allen": {
-    "Proj": 75.4,
-    "Exposure": 13.24,
-    "Age": 21.63
-  },
-  "Mike Williams": {
-    "Proj": 76.1,
-    "Exposure": 0.0,
-    "Age": 30.93
-  },
-  "MarShawn Lloyd": {
-    "Proj": 60.1,
-    "Exposure": 6.85,
-    "Age": 24.67
-  },
-  "Pat Bryant": {
-    "Proj": 73.7,
-    "Exposure": 4.57,
-    "Age": null
-  },
-  "Mason Taylor": {
-    "Proj": 75.7,
-    "Exposure": 7.76,
-    "Age": null
-  },
-  "Justice Hill": {
-    "Proj": 78.0,
-    "Exposure": 4.11,
-    "Age": 27.81
-  },
-  "KaVontae Turpin": {
-    "Proj": 56.0,
-    "Exposure": 2.28,
-    "Age": 29.1
-  },
-  "DeMario Douglas": {
-    "Proj": 85.7,
-    "Exposure": 5.02,
-    "Age": 24.75
-  },
-  "Alec Pierce": {
-    "Proj": 77.9,
-    "Exposure": 4.11,
-    "Age": 25.35
-  },
-  "Jalen Coker": {
-    "Proj": 56.1,
-    "Exposure": 1.83,
-    "Age": 23.85
-  },
-  "Noah Fant": {
-    "Proj": 66.2,
-    "Exposure": 0.0,
-    "Age": 27.8
-  },
-  "Tre Tucker": {
-    "Proj": 61.6,
-    "Exposure": 2.74,
-    "Age": 24.5
-  },
-  "Ty Johnson": {
-    "Proj": 61.3,
-    "Exposure": 1.37,
-    "Age": 27.97
-  },
-  "Devin Neal": {
-    "Proj": 51.9,
-    "Exposure": 4.11,
-    "Age": null
-  },
-  "Tutu Atwell": {
-    "Proj": 74.3,
-    "Exposure": 4.11,
-    "Age": 25.92
-  },
-  "Ja'Tavion Sanders": {
-    "Proj": 59.4,
-    "Exposure": 5.02,
-    "Age": 22.45
-  },
-  "Noah Brown": {
-    "Proj": 79.2,
-    "Exposure": 0.46,
-    "Age": 29.67
-  },
-  "Adonai Mitchell": {
-    "Proj": 60.2,
-    "Exposure": 8.22,
-    "Age": 22.92
-  },
-  "Tyler Higbee": {
-    "Proj": 69.7,
-    "Exposure": 0.46,
-    "Age": 32.68
-  },
-  "Dylan Sampson": {
-    "Proj": 85.3,
-    "Exposure": 4.57,
-    "Age": null
-  },
-  "Cam Skattebo": {
-    "Proj": 109.2,
-    "Exposure": 5.94,
-    "Age": null
-  },
-  "Brandin Cooks": {
-    "Proj": 66.8,
-    "Exposure": 0.0,
-    "Age": 31.95
-  },
-  "Devin Singletary": {
-    "Proj": 41.3,
-    "Exposure": 2.28,
-    "Age": 28.01
-  },
-  "Jalen McMillan": {
-    "Proj": 63.1,
-    "Exposure": 9.13,
-    "Age": 23.75
-  },
-  "Josh Reynolds": {
-    "Proj": 55.1,
-    "Exposure": 0.0,
-    "Age": 30.56
-  },
-  "Devaughn Vele": {
-    "Proj": 54.1,
-    "Exposure": 0.91,
-    "Age": 27.74
-  },
-  "Greg Dortch": {
-    "Proj": 64.6,
-    "Exposure": 0.0,
-    "Age": 27.28
-  },
-  "Calvin Austin III": {
-    "Proj": 57.4,
-    "Exposure": 6.85,
-    "Age": 26.46
-  },
-  "Cole Kmet": {
-    "Proj": 58.5,
-    "Exposure": 2.74,
-    "Age": 26.5
-  },
-  "Noah Gray": {
-    "Proj": 58.8,
-    "Exposure": 0.0,
-    "Age": 26.36
-  },
-  "Marquez Valdes-Scantling": {
-    "Proj": 67.8,
-    "Exposure": 1.37,
-    "Age": 30.91
-  },
-  "Sean Tucker": {
-    "Proj": 52.2,
-    "Exposure": 0.46,
-    "Age": 23.87
-  },
-  "Malik Washington": {
-    "Proj": 49.2,
-    "Exposure": 0.46,
-    "Age": 24.67
-  },
-  "Dontayvion Wicks": {
-    "Proj": 63.5,
-    "Exposure": 9.13,
-    "Age": 24.23
-  },
-  "Will Shipley": {
-    "Proj": 50.7,
-    "Exposure": 11.87,
-    "Age": 23.03
-  },
-  "Miles Sanders": {
-    "Proj": 44.0,
-    "Exposure": 3.65,
-    "Age": 28.35
-  },
-  "Demarcus Robinson": {
-    "Proj": 47.2,
-    "Exposure": 0.46,
-    "Age": 30.96
-  },
-  "Elijah Mitchell": {
-    "Proj": 44.7,
-    "Exposure": 5.94,
-    "Age": 27.35
-  },
-  "Michael Mayer": {
-    "Proj": 48.0,
-    "Exposure": 0.0,
-    "Age": 24.17
-  },
-  "Austin Hooper": {
-    "Proj": 46.0,
-    "Exposure": 0.0,
-    "Age": 30.86
-  },
-  "Treylon Burks": {
-    "Proj": 32.8,
-    "Exposure": 0.0,
-    "Age": 25.46
-  },
-  "Will Dissly": {
-    "Proj": 56.2,
-    "Exposure": 0.46,
-    "Age": 29.17
-  },
-  "Elijah Arroyo": {
-    "Proj": 63.2,
-    "Exposure": 2.74,
-    "Age": null
-  },
-  "Nick Westbrook-Ikhine": {
-    "Proj": 68.4,
-    "Exposure": 0.46,
-    "Age": 28.47
-  },
-  "Luke McCaffrey": {
-    "Proj": 43.8,
-    "Exposure": 0.0,
-    "Age": 24.43
-  },
-  "Curtis Samuel": {
-    "Proj": 60.5,
-    "Exposure": 0.46,
-    "Age": 29.07
-  },
-  "Jalen Nailor": {
-    "Proj": 56.2,
-    "Exposure": 2.28,
-    "Age": 26.52
-  },
-  "Elic Ayomanor": {
-    "Proj": 30.6,
-    "Exposure": 6.85,
-    "Age": null
-  },
-  "Terrance Ferguson": {
-    "Proj": 43.6,
-    "Exposure": 2.28,
-    "Age": null
-  },
-  "Kayshon Boutte": {
-    "Proj": 29.8,
-    "Exposure": 0.0,
-    "Age": 23.34
-  },
-  "Jordan Whittington": {
-    "Proj": 37.8,
-    "Exposure": 0.46,
-    "Age": 24.93
-  },
-  "Dawson Knox": {
-    "Proj": 47.7,
-    "Exposure": 0.0,
-    "Age": 28.81
-  },
-  "Foster Moreau": {
-    "Proj": 48.6,
-    "Exposure": 0.0,
-    "Age": 28.34
-  },
-  "Kendre Miller": {
-    "Proj": 33.1,
-    "Exposure": 1.37,
-    "Age": 23.24
-  },
-  "Harold Fannin": {
-    "Proj": 39.3,
-    "Exposure": 5.02,
-    "Age": null
-  },
-  "Zay Jones": {
-    "Proj": 43.0,
-    "Exposure": 0.0,
-    "Age": 30.44
-  },
-  "Samaje Perine": {
-    "Proj": 42.4,
-    "Exposure": 0.0,
-    "Age": 29.98
-  },
-  "Luke Schoonmaker": {
-    "Proj": 35.3,
-    "Exposure": 0.0,
-    "Age": 26.94
-  },
-  "Troy Franklin": {
-    "Proj": 47.3,
-    "Exposure": 12.79,
-    "Age": 22.58
-  },
-  "Tim Patrick": {
-    "Proj": 49.6,
-    "Exposure": 0.0,
-    "Age": 31.79
-  },
-  "Kalif Raymond": {
-    "Proj": 38.2,
-    "Exposure": 0.0,
-    "Age": 31.08
-  },
-  "Jaylin Noel": {
-    "Proj": 27.2,
-    "Exposure": 8.68,
-    "Age": null
-  },
-  "Isaac TeSlaa": {
-    "Proj": 44.4,
-    "Exposure": 1.83,
-    "Age": null
-  },
-  "Parker Washington": {
-    "Proj": 48.0,
-    "Exposure": 1.37,
-    "Age": 23.47
-  },
-  "Luke Musgrave": {
-    "Proj": 38.0,
-    "Exposure": 0.0,
-    "Age": 25.01
-  },
-  "Chimere Dike": {
-    "Proj": 32.3,
-    "Exposure": 0.91,
-    "Age": null
-  },
-  "Tommy Tremble": {
-    "Proj": 39.9,
-    "Exposure": 0.0,
-    "Age": 25.26
-  },
-  "Jalen Tolbert": {
-    "Proj": 53.7,
-    "Exposure": 0.0,
-    "Age": 26.53
-  },
-  "Jordan James": {
-    "Proj": 35.5,
-    "Exposure": 5.48,
-    "Age": null
-  },
-  "Jaleel McLaughlin": {
-    "Proj": 37.3,
-    "Exposure": 1.37,
-    "Age": 24.98
-  },
-  "Tory Horton": {
-    "Proj": 37.2,
-    "Exposure": 1.83,
-    "Age": null
-  },
-  "Khalil Herbert": {
-    "Proj": 30.5,
-    "Exposure": 0.0,
-    "Age": 27.38
-  },
-  "Van Jefferson": {
-    "Proj": 45.8,
-    "Exposure": 0.46,
-    "Age": 29.12
-  },
-  "Ben Sinnott": {
-    "Proj": 24.8,
-    "Exposure": 0.0,
-    "Age": 23.23
-  },
-  "Gunnar Helm": {
-    "Proj": 26.9,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Isaiah Davis": {
-    "Proj": 26.9,
-    "Exposure": 0.0,
-    "Age": 23.54
-  },
-  "JuJu Smith-Schuster": {
-    "Proj": 32.3,
-    "Exposure": 0.0,
-    "Age": 28.79
-  },
-  "Savion Williams": {
-    "Proj": 31.4,
-    "Exposure": 2.28,
-    "Age": null
-  },
-  "Emanuel Wilson": {
-    "Proj": 37.1,
-    "Exposure": 1.83,
-    "Age": 26.34
-  },
-  "Johnny Mundt": {
-    "Proj": 32.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "DJ Giddens": {
-    "Proj": 32.6,
-    "Exposure": 9.13,
-    "Age": null
-  },
-  "Malachi Corley": {
-    "Proj": 22.2,
-    "Exposure": 0.0,
-    "Age": 23.47
-  },
-  "Josh Oliver": {
-    "Proj": 33.7,
-    "Exposure": 0.0,
-    "Age": 28.47
-  },
-  "Tai Felton": {
-    "Proj": 30.2,
-    "Exposure": 1.37,
-    "Age": null
-  },
-  "Keaton Mitchell": {
-    "Proj": 19.5,
-    "Exposure": 3.2,
-    "Age": 23.64
-  },
-  "Drew Sample": {
-    "Proj": 27.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Mack Hollins": {
-    "Proj": 24.3,
-    "Exposure": 0.0,
-    "Age": 31.98
-  },
-  "Kenneth Gainwell": {
-    "Proj": 32.2,
-    "Exposure": 0.0,
-    "Age": 26.49
-  },
-  "Casey Washington": {
-    "Proj": 14.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jermaine Burton": {
-    "Proj": 33.6,
-    "Exposure": 1.83,
-    "Age": 24.19
-  },
-  "Jeremy Ruckert": {
-    "Proj": 25.2,
-    "Exposure": 0.0,
-    "Age": 25.07
-  },
-  "Adam Trautman": {
-    "Proj": 25.6,
-    "Exposure": 0.0,
-    "Age": 28.59
-  },
-  "Darnell Washington": {
-    "Proj": 16.6,
-    "Exposure": 0.0,
-    "Age": 24.06
-  },
-  "Jahan Dotson": {
-    "Proj": 35.0,
-    "Exposure": 0.0,
-    "Age": 25.46
-  },
-  "Tanner Hudson": {
-    "Proj": 28.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "A.J. Dillon": {
-    "Proj": 24.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Brevin Jordan": {
-    "Proj": 28.2,
-    "Exposure": 0.0,
-    "Age": 25.14
-  },
-  "Tylan Wallace": {
-    "Proj": 16.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Bub Means": {
-    "Proj": 20.9,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Elijah Moore": {
-    "Proj": 27.4,
-    "Exposure": 0.46,
-    "Age": 25.45
-  },
-  "Antonio Gibson": {
-    "Proj": 35.2,
-    "Exposure": 0.0,
-    "Age": 27.21
-  },
-  "Michael Woods": {
-    "Proj": 15.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jonathan Mingo": {
-    "Proj": 28.1,
-    "Exposure": 0.0,
-    "Age": 24.38
-  },
-  "Dont'e Thornton": {
-    "Proj": 60.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jalen Royals": {
-    "Proj": 18.7,
-    "Exposure": 4.11,
-    "Age": null
-  },
-  "Brock Wright": {
-    "Proj": 22.7,
-    "Exposure": 0.0,
-    "Age": 26.78
-  },
-  "Trevor Etienne": {
-    "Proj": 31.0,
-    "Exposure": 7.76,
-    "Age": null
-  },
-  "Cordarrelle Patterson": {
-    "Proj": 33.7,
-    "Exposure": 0.0,
-    "Age": 34.48
-  },
-  "Julian Hill": {
-    "Proj": 21.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Travis Homer": {
-    "Proj": 13.1,
-    "Exposure": 0.0,
-    "Age": 27.09
-  },
-  "Craig Reynolds": {
-    "Proj": 23.2,
-    "Exposure": 0.0,
-    "Age": 29.23
-  },
-  "Rondale Moore": {
-    "Proj": 20.1,
-    "Exposure": 0.0,
-    "Age": 25.25
-  },
-  "Scotty Miller": {
-    "Proj": 20.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jeremy McNichols": {
-    "Proj": 18.7,
-    "Exposure": 0.0,
-    "Age": 29.7
-  },
-  "Charlie Kolar": {
-    "Proj": 18.8,
-    "Exposure": 0.0,
-    "Age": 26.57
-  },
-  "Tip Reiman": {
-    "Proj": 15.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Dare Ogunbowale": {
-    "Proj": 8.2,
-    "Exposure": 0.0,
-    "Age": 31.35
-  },
-  "Emari Demercado": {
-    "Proj": 22.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Devontez Walker": {
-    "Proj": 7.4,
-    "Exposure": 0.0,
-    "Age": 24.22
-  },
-  "AJ Barner": {
-    "Proj": 35.9,
-    "Exposure": 0.0,
-    "Age": 23.35
-  },
-  "Payne Durham": {
-    "Proj": 17.1,
-    "Exposure": 0.0,
-    "Age": 25.23
-  },
-  "Josh Whyle": {
-    "Proj": 31.8,
-    "Exposure": 0.0,
-    "Age": 26.0
-  },
-  "Luke Farrell": {
-    "Proj": 13.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jalin Hyatt": {
-    "Proj": 18.4,
-    "Exposure": 0.0,
-    "Age": 23.95
-  },
-  "Arian Smith": {
-    "Proj": 24.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "KhaDarel Hodge": {
-    "Proj": 22.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Daniel Bellinger": {
-    "Proj": 15.8,
-    "Exposure": 0.0,
-    "Age": 24.96
-  },
-  "Ty Chandler": {
-    "Proj": 16.1,
-    "Exposure": 0.0,
-    "Age": 27.32
-  },
-  "Alexander Mattison": {
-    "Proj": 14.7,
-    "Exposure": 0.46,
-    "Age": 27.22
-  },
-  "Ollie Gordon": {
-    "Proj": 36.5,
-    "Exposure": 5.02,
-    "Age": null
-  },
-  "Jamari Thrash": {
-    "Proj": 8.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Konata Mumpfield": {
-    "Proj": 7.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Derius Davis": {
-    "Proj": 19.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Erik Ezukanma": {
-    "Proj": 11.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Grant Calcaterra": {
-    "Proj": 17.5,
-    "Exposure": 0.0,
-    "Age": 26.76
-  },
-  "Jarquez Hunter": {
-    "Proj": 41.3,
-    "Exposure": 3.65,
-    "Age": null
-  },
-  "Jaylin Lane": {
-    "Proj": 14.3,
-    "Exposure": 0.91,
-    "Age": null
-  },
-  "Johnny Wilson": {
-    "Proj": 12.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Charlie Jones": {
-    "Proj": 8.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jacob Cowing": {
-    "Proj": 6.8,
-    "Exposure": 0.0,
-    "Age": 24.59
-  },
-  "Elijah Higgins": {
-    "Proj": 21.6,
-    "Exposure": 0.0,
-    "Age": 24.86
-  },
-  "Jake Bobo": {
-    "Proj": 13.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Drew Ogletree": {
-    "Proj": 12.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Colby Parkinson": {
-    "Proj": 17.9,
-    "Exposure": 0.0,
-    "Age": 26.66
-  },
-  "Kendrick Bourne": {
-    "Proj": 16.9,
-    "Exposure": 0.0,
-    "Age": 30.09
-  },
-  "Charlie Woerner": {
-    "Proj": 9.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Olamide Zaccheaus": {
-    "Proj": 16.7,
-    "Exposure": 0.0,
-    "Age": 28.13
-  },
-  "Lil'Jordan Humphrey": {
-    "Proj": 17.9,
-    "Exposure": 0.0,
-    "Age": 27.39
-  },
-  "Jamal Agnew": {
-    "Proj": 30.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Stone Smartt": {
-    "Proj": 9.3,
-    "Exposure": 0.46,
-    "Age": 26.93
-  },
-  "Oronde Gadsden": {
-    "Proj": 15.7,
-    "Exposure": 0.46,
-    "Age": null
-  },
-  "Connor Hey": {
-    "Proj": 7.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Ainias Smith": {
-    "Proj": 8.9,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "John Bates": {
-    "Proj": 9.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Kenny Yeboah": {
-    "Proj": 9.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Kimani Vidal": {
-    "Proj": 10.5,
-    "Exposure": 1.83,
-    "Age": 24.03
-  },
-  "Joshua Cephus": {
-    "Proj": 2.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Kenny McIntosh": {
-    "Proj": 6.9,
-    "Exposure": 0.0,
-    "Age": 25.51
-  },
-  "Ryan Flournoy": {
-    "Proj": 6.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Laviska Shenault": {
-    "Proj": 5.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Christian Watson": {
-    "Proj": 9.4,
-    "Exposure": 0.0,
-    "Age": 26.32
-  },
-  "Cade Stover": {
-    "Proj": 10.8,
-    "Exposure": 0.0,
-    "Age": 25.24
-  },
-  "Brevyn Spann-Ford": {
-    "Proj": 10.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Cedrick Wilson": {
-    "Proj": 9.7,
-    "Exposure": 0.0,
-    "Age": 29.8
-  },
-  "Trent Sherfield": {
-    "Proj": 2.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Darrynton Evans": {
-    "Proj": 1.2,
-    "Exposure": 0.0,
-    "Age": 27.16
-  },
-  "Kevin Austin": {
-    "Proj": 7.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tahj Brooks": {
-    "Proj": 19.1,
-    "Exposure": 4.11,
-    "Age": null
-  },
-  "Lucas Krull": {
-    "Proj": 17.7,
-    "Exposure": 0.0,
-    "Age": 27.16
-  },
-  "Jared Wiley": {
-    "Proj": 4.3,
-    "Exposure": 0.0,
-    "Age": 24.85
-  },
-  "Isaiah Williams": {
-    "Proj": 2.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "John Metchie": {
-    "Proj": 12.9,
-    "Exposure": 0.0,
-    "Age": 25.14
-  },
-  "Bo Melton": {
-    "Proj": 8.5,
-    "Exposure": 0.0,
-    "Age": 26.31
-  },
-  "Blake Whiteheart": {
-    "Proj": 8.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Brashard Smith": {
-    "Proj": 8.9,
-    "Exposure": 8.68,
-    "Age": null
-  },
-  "Julius Chestnut": {
-    "Proj": 3.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tyler Johnson": {
-    "Proj": 13.4,
-    "Exposure": 0.0,
-    "Age": 27.04
-  },
-  "Malik Heath": {
-    "Proj": 9.0,
-    "Exposure": 0.0,
-    "Age": 25.51
-  },
-  "Sione Vaki": {
-    "Proj": 6.2,
-    "Exposure": 0.0,
-    "Age": 24.11
-  },
-  "Javon Baker": {
-    "Proj": 2.2,
-    "Exposure": 0.0,
-    "Age": 23.55
-  },
-  "Ben Skowronek": {
-    "Proj": 9.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Ja'Lynn Polk": {
-    "Proj": 8.9,
-    "Exposure": 0.91,
-    "Age": 23.41
-  },
-  "Simi Fehoko": {
-    "Proj": 4.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jaheim Bell": {
-    "Proj": 3.6,
-    "Exposure": 0.0,
-    "Age": 24.23
-  },
-  "LaJohntay Wester": {
-    "Proj": 5.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Phil Mafah": {
-    "Proj": 6.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Zach Pascal": {
-    "Proj": 2.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Clyde Eds-Helaire": {
-    "Proj": 5.1,
-    "Exposure": 0.0,
-    "Age": 26.41
-  },
-  "Greg Dulcich": {
-    "Proj": 2.0,
-    "Exposure": 0.0,
-    "Age": 25.45
-  },
-  "Sterling Shepard": {
-    "Proj": 16.0,
-    "Exposure": 0.0,
-    "Age": 32.57
-  },
-  "Dee Eskridge": {
-    "Proj": 4.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "David Moore": {
-    "Proj": 13.2,
-    "Exposure": 0.0,
-    "Age": 30.64
-  },
-  "Harrison Bryant": {
-    "Proj": 5.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Zach Davidson": {
-    "Proj": 2.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Ricky White": {
-    "Proj": 7.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Damien Martinez": {
-    "Proj": 7.5,
-    "Exposure": 1.83,
-    "Age": null
-  },
-  "K.J. Osborn": {
-    "Proj": 15.7,
-    "Exposure": 0.0,
-    "Age": 28.24
-  },
-  "Kristian Wilkerson": {
-    "Proj": 4.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tommy Mellott": {
-    "Proj": 6.9,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jelani Woods": {
-    "Proj": 5.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Gavin Bartholomew": {
-    "Proj": 7.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Durham Smythe": {
-    "Proj": 4.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Ian Thomas": {
-    "Proj": 8.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Xavier Restrepo": {
-    "Proj": 7.2,
-    "Exposure": 2.74,
-    "Age": null
-  },
-  "Xavier Weaver": {
-    "Proj": 2.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Ashton Dulin": {
-    "Proj": 7.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Rasheen Ali": {
-    "Proj": 3.3,
-    "Exposure": 0.0,
-    "Age": 24.56
-  },
-  "Jase McClellan": {
-    "Proj": 3.3,
-    "Exposure": 0.0,
-    "Age": 23.2
-  },
-  "Sincere McCormick": {
-    "Proj": 18.5,
-    "Exposure": 0.0,
-    "Age": 24.99
-  },
-  "Anthony Gould": {
-    "Proj": 2.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Hunter Long": {
-    "Proj": 4.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "DeeJay Dallas": {
-    "Proj": 4.5,
-    "Exposure": 0.0,
-    "Age": 26.98
-  },
-  "Kalel Mullings": {
-    "Proj": 8.0,
-    "Exposure": 0.46,
-    "Age": null
-  },
-  "Xavier Smith": {
-    "Proj": 2.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Dameon Pierce": {
-    "Proj": 3.0,
-    "Exposure": 0.0,
-    "Age": 25.55
-  },
-  "Cam Grandy": {
-    "Proj": 4.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Kylen Granson": {
-    "Proj": 3.1,
-    "Exposure": 0.0,
-    "Age": 27.45
-  },
-  "KeAndre Lambert-Smith": {
-    "Proj": 8.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Davis Allen": {
-    "Proj": 4.2,
-    "Exposure": 0.0,
-    "Age": 24.59
-  },
-  "Austin Trammell": {
-    "Proj": 1.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jacory Croskey-Merritt": {
-    "Proj": 5.1,
-    "Exposure": 4.57,
-    "Age": null
-  },
-  "Carson Steele": {
-    "Proj": 4.1,
-    "Exposure": 0.0,
-    "Age": 22.88
-  },
-  "Teagan Quitoriano": {
-    "Proj": 3.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Trey Palmer": {
-    "Proj": 4.8,
-    "Exposure": 0.0,
-    "Age": 24.43
-  },
-  "Patrick Taylor": {
-    "Proj": 4.1,
-    "Exposure": 0.0,
-    "Age": 27.36
-  },
-  "Mason Tipton": {
-    "Proj": 2.4,
-    "Exposure": 0.0,
-    "Age": 24.94
-  },
-  "David Bell": {
-    "Proj": 5.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tyler Scott": {
-    "Proj": 2.1,
-    "Exposure": 0.0,
-    "Age": 23.9
-  },
-  "Tyler Badie": {
-    "Proj": 2.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Kyle Monangai": {
-    "Proj": 21.4,
-    "Exposure": 3.2,
-    "Age": null
-  },
-  "Keilan Robinson": {
-    "Proj": 4.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Will Mallory": {
-    "Proj": 4.0,
-    "Exposure": 0.0,
-    "Age": 26.21
-  },
-  "Brayden Willis": {
-    "Proj": 1.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Eric Saubert": {
-    "Proj": 6.7,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Ben Sims": {
-    "Proj": 2.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jimmy Horn": {
-    "Proj": 3.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Mecole Hardman": {
-    "Proj": 3.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "DeAndre Carter": {
-    "Proj": 3.9,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Parris Campbell": {
-    "Proj": 0.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Chris Brooks": {
-    "Proj": 6.5,
-    "Exposure": 0.0,
-    "Age": 25.66
-  },
-  "Hunter Renfrow": {
-    "Proj": 6.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jalen Brooks": {
-    "Proj": 0.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Brenden Rice": {
-    "Proj": 0.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Kaden Prather": {
-    "Proj": 1.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "A.T. Perry": {
-    "Proj": 0.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jalen Virgil": {
-    "Proj": 0.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jordan Watkins": {
-    "Proj": 3.5,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Alex Bachman": {
-    "Proj": 0.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Danny Gray": {
-    "Proj": 0.3,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tez Johnson": {
-    "Proj": 4.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Jordan Matthews": {
-    "Proj": 0.4,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Devin Duvernay": {
-    "Proj": 5.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Michael Bandy": {
-    "Proj": 0.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Skyy Moore": {
-    "Proj": 3.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Zack Kuntz": {
-    "Proj": 1.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Lucky Jackson": {
-    "Proj": 0.2,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Xavier Hutchinson": {
-    "Proj": 3.6,
-    "Exposure": 0.0,
-    "Age": 25.27
-  },
-  "Ko Kieft": {
-    "Proj": 0.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tim Jones": {
-    "Proj": 0.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Terrace Marshall": {
-    "Proj": 1.7,
-    "Exposure": 0.0,
-    "Age": null
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rashee Rice": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Josh Allen": {
-    "Proj": 370.7,
-    "Exposure": 7.31,
-    "Age": 29.29
+    "Age": 34.7,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Lamar Jackson": {
-    "Proj": 372.9,
-    "Exposure": 8.68,
-    "Age": 28.66
+  "Tee Higgins": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jalen Hurts": {
-    "Proj": 361.8,
-    "Exposure": 5.94,
-    "Age": 27.08
+  "Tetairoa McMillan": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jayden Daniels": {
-    "Proj": 354.0,
-    "Exposure": 6.39,
-    "Age": 24.71
+  "Josh Jacobs": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Joe Burrow": {
-    "Proj": 334.3,
-    "Exposure": 4.57,
-    "Age": 28.73
+  "A.J. Brown": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Patrick Mahomes": {
-    "Proj": 308.9,
-    "Exposure": 14.61,
-    "Age": 29.97
+  "Bucky Irving": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Kyler Murray": {
-    "Proj": 294.9,
-    "Exposure": 12.33,
-    "Age": 28.08
+  "Kyren Williams": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Dak Prescott": {
-    "Proj": 281.2,
-    "Exposure": 8.22,
-    "Age": 32.1
+  "Jameson Williams": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Caleb Williams": {
-    "Proj": 291.0,
-    "Exposure": 10.96,
-    "Age": 23.79
+  "Travis Etienne Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Brock Purdy": {
-    "Proj": 281.9,
-    "Exposure": 6.39,
-    "Age": 25.69
+  "Breece Hall": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "C.J. Stroud": {
-    "Proj": 267.1,
-    "Exposure": 5.94,
-    "Age": 23.92
-  },
-  "Jordan Love": {
-    "Proj": 282.3,
-    "Exposure": 16.44,
-    "Age": 26.84
-  },
-  "Trevor Lawrence": {
-    "Proj": 280.8,
-    "Exposure": 10.96,
-    "Age": 25.91
-  },
-  "Baker Mayfield": {
-    "Proj": 297.9,
-    "Exposure": 11.87,
-    "Age": 30.39
-  },
-  "Jared Goff": {
-    "Proj": 288.8,
-    "Exposure": 11.42,
-    "Age": 30.89
-  },
-  "Justin Herbert": {
-    "Proj": 271.5,
-    "Exposure": 7.76,
-    "Age": 27.49
-  },
-  "Tua Tagovailoa": {
-    "Proj": 259.6,
-    "Exposure": 8.22,
-    "Age": 27.51
-  },
-  "J.J. McCarthy": {
-    "Proj": 276.1,
-    "Exposure": 11.87,
-    "Age": 22.62
-  },
-  "Bo Nix": {
-    "Proj": 298.3,
-    "Exposure": 14.16,
-    "Age": 25.52
-  },
-  "Michael Penix": {
-    "Proj": 242.3,
-    "Exposure": 6.39,
-    "Age": 25.33
-  },
-  "Geno Smith": {
-    "Proj": 270.4,
-    "Exposure": 2.74,
-    "Age": 34.9
-  },
-  "Matthew Stafford": {
-    "Proj": 246.5,
-    "Exposure": 7.76,
-    "Age": 37.57
-  },
-  "Sam Darnold": {
-    "Proj": 269.5,
-    "Exposure": 2.28,
-    "Age": 28.25
-  },
-  "Cameron Ward": {
-    "Proj": 257.4,
-    "Exposure": 4.57,
-    "Age": 23.31
-  },
-  "Anthony Richardson": {
-    "Proj": 167.3,
-    "Exposure": 8.68,
-    "Age": 23.29
-  },
-  "Bryce Young": {
-    "Proj": 248.1,
-    "Exposure": 5.48,
-    "Age": 24.11
+  "Ladd McConkey": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Drake Maye": {
-    "Proj": 281.8,
-    "Exposure": 4.11,
-    "Age": 23.01
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Tyler Shough": {
-    "Proj": 241.6,
-    "Exposure": 1.83,
-    "Age": 25.94
+  "Davante Adams": {
+    "Age": 33.7,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Mason Rudolph": {
-    "Proj": 15.7,
-    "Exposure": 0.0,
-    "Age": 30.14
+  "Kenneth Walker III": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "Justin Fields": {
-    "Proj": 294.7,
-    "Exposure": 7.31,
-    "Age": 26.5
+  "Kyle Pitts": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "Daniel Jones": {
-    "Proj": 138.2,
-    "Exposure": 6.39,
-    "Age": 28.27
+  "DeVonta Smith": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Russell Wilson": {
-    "Proj": 156.8,
-    "Exposure": 2.74,
-    "Age": 36.76
+  "Colston Loveland": {
+    "Age": 22.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Garrett Wilson": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zay Flowers": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "RJ Harvey": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "TreVeyon Henderson": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordyn Tyson": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 188.5
+  },
+  "Cam Skattebo": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lamar Jackson": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Carnell Tate": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 194.1
+  },
+  "Caleb Williams": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Christian Watson": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Alec Pierce": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "D'Andre Swift": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rome Odunze": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Courtland Sutton": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Emeka Egbuka": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luther Burden": {
+    "Age": 22.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justin Herbert": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stefon Diggs": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DK Metcalf": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Makai Lemon": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 278.2
+  },
+  "Quinshon Judkins": {
+    "Age": 22.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mike Evans": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyler Warren": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Wilson": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Harold Fannin": {
+    "Age": 22.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rhamondre Stevenson": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Jaxson Dart": {
-    "Proj": 129.3,
-    "Exposure": 6.85,
-    "Age": null
+    "Age": 23.3,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Kirk Cousins": {
-    "Proj": 23.6,
-    "Exposure": 1.83,
-    "Age": 37.04
+  "Terry McLaurin": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Will Levis": {
-    "Proj": 14.7,
-    "Exposure": 0.0,
-    "Age": 26.19
+  "Jaylen Warren": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Joe Flacco": {
-    "Proj": 188.1,
-    "Exposure": 1.37,
-    "Age": 40.63
+  "Trevor Lawrence": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Gardner Minshew": {
-    "Proj": 15.3,
-    "Exposure": 0.0,
-    "Age": 29.3
+  "Joe Burrow": {
+    "Age": 29.7,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Will Howard": {
-    "Proj": 0.0,
-    "Exposure": 0.0,
-    "Age": 23.95
+  "Jayden Daniels": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Dillon Gabriel": {
-    "Proj": 23.9,
-    "Exposure": 0.0,
-    "Age": 24.68
+  "Denzel Boston": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 220.8
   },
-  "Aidan O'Connell": {
-    "Proj": 14.3,
-    "Exposure": 0.0,
-    "Age": 27.01
+  "Javonte Williams": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "Kenny Pickett": {
-    "Proj": 29.9,
-    "Exposure": 0.0,
-    "Age": 27.25
+  "Marvin Harrison": {
+    "Age": 24.1,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jacoby Brissett": {
-    "Proj": 18.5,
-    "Exposure": 0.0,
-    "Age": 32.73
+  "Jaylen Waddle": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Joe Milton": {
-    "Proj": 30.5,
-    "Exposure": 0.46,
-    "Age": 25.5
+  "Tony Pollard": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Tyrod Taylor": {
-    "Proj": 31.9,
-    "Exposure": 0.0,
-    "Age": 36.09
+  "Jalen Hurts": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Spencer Rattler": {
-    "Proj": 19.5,
-    "Exposure": 0.0,
-    "Age": 24.93
+  "Michael Pittman Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Zach Wilson": {
-    "Proj": 28.7,
-    "Exposure": 0.0,
-    "Age": 26.09
+  "Matthew Stafford": {
+    "Age": 38.6,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Nick Mullens": {
-    "Proj": 15.5,
-    "Exposure": 0.0,
-    "Age": 30.46
+  "Quentin Johnston": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jarrett Stidham": {
-    "Proj": 15.0,
-    "Exposure": 0.0,
-    "Age": 29.07
+  "Brian Thomas": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Sam Howell": {
-    "Proj": 14.9,
-    "Exposure": 0.0,
-    "Age": 24.97
+  "D.J. Moore": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Drew Lock": {
-    "Proj": 6.1,
-    "Exposure": 0.0,
-    "Age": 28.82
+  "Kyle Monangai": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Marcus Mariota": {
-    "Proj": 19.6,
-    "Exposure": 0.0,
-    "Age": 31.85
+  "Blake Corum": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jalen Milroe": {
-    "Proj": 22.0,
-    "Exposure": 1.83,
-    "Age": null
+  "Ricky Pearsall": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jimmy Garoppolo": {
-    "Proj": 20.3,
-    "Exposure": 0.0,
-    "Age": null
+  "Dalton Kincaid": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tucker Kraft": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Parker Washington": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chuba Hubbard": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jakobi Meyers": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jadarian Price": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 156.1
+  },
+  "Bhayshul Tuten": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Patrick Mahomes": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijah Sarratt": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 234.6
+  },
+  "Sam LaPorta": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dak Prescott": {
+    "Age": 33.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Khalil Shakir": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kayshon Boutte": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Wan'Dale Robinson": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Romeo Doubs": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Bo Nix": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brenton Strange": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rico Dowdle": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jayden Reed": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jonah Coleman": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 242.2
+  },
+  "Xavier Worthy": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brock Purdy": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dallas Goedert": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jalen Coker": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Woody Marks": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Addison": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jayden Higgins": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Oronde Gadsden": {
+    "Age": 23.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Godwin": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kaytron Allen": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 243.1
+  },
+  "Jerry Jeudy": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Downs": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Pat Bryant": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Love": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matthew Golden": {
+    "Age": 23.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jared Goff": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deebo Samuel": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kenyon Sadiq": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 155.6
+  },
+  "Ja'Kobi Lane": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 149.5
+  },
+  "Mark Andrews": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Travis Hunter": {
+    "Age": 23.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacory Croskey-Merritt": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Aiyuk": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kenneth Gainwell": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "David Montgomery": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "George Kittle": {
+    "Age": 32.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen McMillan": {
+    "Age": 24.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jauan Jennings": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyjae Spears": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Emmett Johnson": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 316.1
+  },
+  "Rashid Shaheed": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyler Allgeier": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kimani Vidal": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jake Ferguson": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Baker Mayfield": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Aaron Jones": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kyler Murray": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Bell": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 199.7
+  },
+  "Hunter Henry": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "AJ Barner": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zach Charbonnet": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyreek Hill": {
+    "Age": 32.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sean Tucker": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Adonai Mitchell": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyrone Tracy": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Mason": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Shough": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dalton Schultz": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tank Dell": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Calvin Ridley": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Demond Claiborne": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 184.7
+  },
+  "Bryce Young": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "James Conner": {
+    "Age": 31.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Darnold": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Fernando Mendoza": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 398.4
+  },
+  "Rachaad White": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Isaiah Likely": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Alvin Kamara": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "C.J. Stroud": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tank Bigsby": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Colby Parkinson": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "J.K. Dobbins": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Troy Franklin": {
+    "Age": 23.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Terrance Ferguson": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dylan Sampson": {
+    "Age": 22.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Theo Johnson": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Germie Bernard": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 215.1
+  },
+  "T.J. Hockenson": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cam Ward": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Malik Willis": {
-    "Proj": 15.7,
-    "Exposure": 0.0,
-    "Age": 26.29
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "Andy Dalton": {
-    "Proj": 19.8,
-    "Exposure": 0.0,
-    "Age": 37.86
+  "Kyle Williams": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Jake Browning": {
-    "Proj": 15.9,
-    "Exposure": 0.0,
-    "Age": 29.41
+  "Zachariah Branch": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 200.8
+  },
+  "Cooper Kupp": {
+    "Age": 33.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Juwan Johnson": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devaughn Vele": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chimere Dike": {
+    "Age": 24.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre Tucker": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rashod Bateman": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daniel Jones": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "J.J. McCarthy": {
+    "Age": 23.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Penix": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Christian Kirk": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Darnell Mooney": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jack Bech": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cade Otton": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Xavier Legette": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keon Coleman": {
+    "Age": 23.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keenan Allen": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tory Horton": {
+    "Age": 23.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaac TeSlaa": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacoby Brissett": {
+    "Age": 33.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dontayvion Wicks": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaylin Noel": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mason Taylor": {
+    "Age": 22.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Travis Kelce": {
+    "Age": 36.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Emanuel Wilson": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Eli Stowers": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 161.7
+  },
+  "Kaleb Johnson": {
+    "Age": 33.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Max Klare": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 99.8
+  },
+  "Braelon Allen": {
+    "Age": 22.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Trigg": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 155.4
+  },
+  "Kirk Cousins": {
+    "Age": 38.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ty Simpson": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 291.6
+  },
+  "Pat Freiermuth": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ray Davis": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isiah Pacheco": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Evan Engram": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijah Arroyo": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Njoku": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Keaton Mitchell": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Chris Rodriguez": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Darren Waller": {
+    "Age": 34.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Najee Harris": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Hollywood Brown": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Tonges": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Darius Slayton": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elic Ayomanor": {
+    "Age": 23.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cole Kmet": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ja'Tavion Sanders": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Shedeur Sanders": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joe Mixon": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mike Gesicki": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Washington": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marcus Mariota": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyler Higbee": {
+    "Age": 33.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Aaron Rodgers": {
+    "Age": 42.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tua Tagovailoa": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dawson Knox": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marvin Mims Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ollie Gordon": {
+    "Age": 22.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trey Benson": {
+    "Age": 24.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaydon Blue": {
+    "Age": 22.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre' Harris": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Bond": {
+    "Age": 22.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Nailor": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Cedric Tillman": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chig Okonkwo": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Brian Robinson": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jordan Whittington": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeMario Douglas": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jahan Dotson": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Xavier Hutchinson": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Andrei Iosivas": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaylen Wright": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyrell Shavers": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Noah Gray": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deshaun Watson": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Tolbert": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Mack Hollins": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lil'Jordan Humphrey": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dont'e Thornton": {
+    "Age": 23.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tommy Tremble": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Quinn Ewers": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony Richardson": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jonnu Smith": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "KaVontae Turpin": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justice Hill": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Roman Wilson": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Calvin Austin III": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DJ Giddens": {
+    "Age": 23.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justin Fields": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brashard Smith": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Will Shipley": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devin Neal": {
+    "Age": 23.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Musgrave": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "KeAndre Lambert-Smith": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ben Sinnott": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Darius Cooper": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Audric Estime": {
+    "Age": 23.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "CJ Daniels": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 149.7
+  },
+  "Kendre Miller": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Noah Fant": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Demarcus Robinson": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Royals": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Will Dissly": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Mayer": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jarquez Hunter": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Ekeler": {
+    "Age": 31.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Konata Mumpfield": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Geno Smith": {
+    "Age": 35.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Reynolds": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Gunnar Helm": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jonathon Brooks": {
+    "Age": 23.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tez Johnson": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ty Johnson": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Samaje Perine": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaac Guerendo": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tahj Brooks": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Shane Zylstra": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jalin Hyatt": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Efton Chism": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaleel McLaughlin": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "John Metchie III": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kareem Hunt": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Olamide Zaccheaus": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Devontez Walker": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Treylon Burks": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaylin Lane": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joshua Palmer": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zamir White": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Austin Hooper": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Antonio Gibson": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Greg Dortch": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Roschon Johnson": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kendrick Bourne": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tai Felton": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ryan Flournoy": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Conklin": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Noah Brown": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jawhar Jordan": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tylan Wallace": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Elijah Higgins": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Raheem Mostert": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Devin Singletary": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Bobo": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Mo Alie-Cox": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tutu Atwell": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Hassan Haskins": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nick Chubb": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Foster Moreau": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": true
   },
   "Jameis Winston": {
-    "Proj": 7.8,
-    "Exposure": 0.46,
-    "Age": 31.67
-  },
-  "Joshua Dobbs": {
-    "Proj": 15.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Taylor Heinicke": {
-    "Proj": 14.8,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Mitchell Trubisky": {
-    "Proj": 15.1,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tyson Bagent": {
-    "Proj": 14.6,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Davis Mills": {
-    "Proj": 14.0,
-    "Exposure": 0.0,
-    "Age": null
-  },
-  "Tanner McKee": {
-    "Proj": 17.3,
-    "Exposure": 0.0,
-    "Age": null
+    "Age": 32.6,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Mac Jones": {
-    "Proj": 16.2,
-    "Exposure": 0.0,
-    "Age": 27.01
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Kyle Trask": {
-    "Proj": 13.3,
-    "Exposure": 0.0,
-    "Age": null
+  "Chris Brooks": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": true
   },
-  "Brett Rypien": {
-    "Proj": 13.1,
-    "Exposure": 0.0,
-    "Age": null
+  "Bam Knight": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
   },
-  "Hendon Hooker": {
-    "Proj": 10.0,
-    "Exposure": 0.0,
-    "Age": 27.65
+  "Jamari Thrash": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Brandin Cooks": {
+    "Age": 32.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Sterling Shepard": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kalif Raymond": {
+    "Age": 32.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Emari Demercado": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Dameon Pierce": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Trevor Etienne": {
+    "Age": 22.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Schoonmaker": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Davis": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "KhaDarel Hodge": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Moore": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "George Holani": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jimmy Horn": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke McCaffrey": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zay Jones": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Darnell Washington": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "MarShawn Lloyd": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Julian Hill": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Greg Dulcich": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyler Badie": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jonathan Mingo": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Van Jefferson": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tim Patrick": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jerome Ford": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nick Westbrook-Ikhine": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dyami Brown": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Adam Trautman": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "AJ Dillon": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyquan Thornton": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Casey Washington": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brevyn Spann-Ford": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Oliver": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daniel Bellinger": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kalel Mullings": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Johnny Mundt": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Julius Chestnut": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jalen Milroe": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Savion Williams": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "JuJu Smith-Schuster": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Phil Mafah": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Drew Sample": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Charlie Woerner": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marquez Valdes-Scantling": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Erick All": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zavier Scott": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Curtis Samuel": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Miles Sanders": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "DeAndre Hopkins": {
+    "Age": 34.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Grant Calcaterra": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jeremy McNichols": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Brock Wright": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Payne Durham": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devin Culp": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Taysom Hill": {
+    "Age": 36.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Sam Howell": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "John Bates": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jimmy Garoppolo": {
+    "Age": 34.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kyle Juszczyk": {
+    "Age": 35.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Arian Smith": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trey Lance": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyler Goodson": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Alec Ingold": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "LeQuint Allen": {
+    "Age": 22.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joshua Dobbs": {
+    "Age": 31.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dare Ogunbowale": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jake Browning": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kenny Pickett": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nick Mullens": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyson Bagent": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gardner Minshew II": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mason Rudolph": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Johnson": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Drew Lock": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Andy Dalton": {
+    "Age": 38.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mitchell Trubisky": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Zach Wilson": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jarrett Stidham": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Xavier Restrepo": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Allen": {
+    "Age": 34.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Davis Mills": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Cooper Rush": {
-    "Proj": 12.3,
-    "Exposure": 0.0,
-    "Age": 31.79
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Patrick Ricard": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Trey Palmer": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeAndre Carter": {
+    "Age": 33.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Myles Price": {
+    "Age": 24.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mitchell Evans": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Farrell": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dylan Laube": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Carter": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Xavier Gipson": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hunter Luepke": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tip Reiman": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eric Saubert": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Charlie Kolar": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Rasheen Ali": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Bell": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Heath": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tucker Fisk": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Drew Ogletree": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jackson Hawes": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Whyle": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Lucas Krull": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Scotty Miller": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Malachi Corley": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Travis Homer": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Derius Davis": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeeJay Dallas": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nick Nash": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jack Stoll": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eric Gray": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Durham Smythe": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Russell Wilson": {
+    "Age": 37.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Lan Larison": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mitch Tinsley": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stone Smartt": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Pierre Strong Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ian Thomas": {
+    "Age": 30.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Anthony Gould": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cedrick Wilson": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Carlos Washington": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devin Duvernay": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Dante Pettis": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Xavier Smith": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ashton Dulin": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Charlie Jones": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nick Vannett": {
+    "Age": 33.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Justin Watson": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Skyy Moore": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Davis Allen": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Parris Campbell": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Blake Whiteheart": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Will Mallory": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Watkins": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Manhertz": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Hunter Long": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan James": {
+    "Age": 22.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cam Akers": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Robert Tonyan": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner Hudson": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "LaJohntay Wester": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jared Wiley": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Khalil Herbert": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Braxton Berrios": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Damien Martinez": {
+    "Age": 22.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Quintin Morris": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nikko Remigio": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ronnie Rivers": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Sione Vaki": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Carson Steele": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Patrick Taylor": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jacob Cowing": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Williams": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Harrison Bryant": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Dee Eskridge": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kylen Granson": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ihmir Smith-Marsette": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Ford": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Darrynton Evans": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Davis": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Fromm": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gary Brightwell": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Brazzell II": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 217.7
+  },
+  "Emani Bailey": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lew Nichols": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hassan Hall": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kwamie Lassiter": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jack Doyle": {
+    "Age": 36.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trey Burton": {
+    "Age": 34.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cody White": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Ehlinger": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Austin Allen": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brenen Thompson": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 205.8
+  },
+  "Tyler Scott": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cam Camper": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sage Surratt": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jason Cabinda": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deuce Vaughn": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rakim Jarrett": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Reggie Gilliam": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Andrew Armstrong": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cade Johnson": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijhah Badger": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kobe Hudson": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mitchell Wilcox": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mike Harley": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Frank Darby": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jashaun Corbin": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Watkins": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ray-Ray McCloud III": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Donovan Edwards": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Erik Krommenhoek": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joel Wilson": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Le'Veon Moss": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 78.7
+  },
+  "Kendall Blanton": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Squirrel White": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 8.8
+  },
+  "Dillon Johnson": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Blaine Gabbert": {
+    "Age": 36.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Allen Lazard": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "CJ Dippre": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justin Shorter": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nick Boyle": {
+    "Age": 33.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brenden Rice": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zach Ertz": {
+    "Age": 35.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Clyde Edwards-Helaire": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Moore": {
+    "Age": 33.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Treyton Welch": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Irv Smith Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bryce Ford-Wheaton": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Beaux Collins": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kaden Davis": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Shi Smith": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "D.J. Montgomery": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dede Westbrook": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jadon Janke": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keaontay Ingram": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Deonte Harty": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kevin White": {
+    "Age": 34.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Camp": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Latavius Murray": {
+    "Age": 36.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Davis": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Clayton Tune": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Terique Owens": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John Samuel Shenker": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daewood Davis": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Pharaoh Brown": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Deon Cain": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "KJ Hamler": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trebor Pena": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 125.1
+  },
+  "Zack Moss": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Sills": {
+    "Age": 30.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Raheim Sanders": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Myarick": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Gallup": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ja'Corey Brooks": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "J.J. Taylor": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ty Chandler": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Chris Hilton Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dane Key": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 114.2
+  },
+  "Josh Kelly": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dymere Miller": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marcus Yarns": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Allen Robinson II": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Wayne": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Quez Watkins": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Thomas Odukoya": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Moore": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "D'Onta Foreman": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeMeer Blankumsee": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "J.Michael Sturdivant": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kevin Rader": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaren Hall": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tommy Sweeney": {
+    "Age": 31.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ethan Fernea": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "SaRodorick Thompson": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Xazavian Valladay": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyrie Cleveland": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John Wolford": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kayron Lynch-Adams": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah McKenzie": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ty Montgomery": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nate Sudfeld": {
+    "Age": 32.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tay Martin": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trinity Benson": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Duece Watts": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Holton Ahlers": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Princeton Fant": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lee Smith": {
+    "Age": 38.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Russell Gage": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Robert Woods": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trayveon Williams": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jordan Akins": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Johnny Johnson": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trenton Irwin": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kole Taylor": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaydon Mickens": {
+    "Age": 32.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kristian Wilkerson": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jesse James": {
+    "Age": 32.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijah Moore": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacques Patrick": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deontay Burnett": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matt Landers": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nick Williams": {
+    "Age": 36.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joe Flacco": {
+    "Age": 41.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ainias Smith": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Amari Rodgers": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rahsul Faison": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 95.8
+  },
+  "Jamaal Williams": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bryson Nesbit": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kyle Philips": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Evan Hull": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jack Endries": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 85.6
+  },
+  "Gerald Everett": {
+    "Age": 32.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mason Fairchild": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Emory Jones": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "A.T. Perry": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Kahmann": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dontrell Hilliard": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Doctson": {
+    "Age": 33.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Evans": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Hartman": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Troy Fumagalli": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner Taula": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Aaron Shampklin": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Derrick Gore": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Johnny Wilson": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Izaiah Gathings": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Stocker": {
+    "Age": 38.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Jacobson": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Penny Hart": {
+    "Age": 30.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rodney Smith": {
+    "Age": 36.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Quali Conley": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marlon Mack": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Israel Abanikanda": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Feleipe Franks": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Colson Yankoff": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Britain Covey": {
+    "Age": 29.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ko Kieft": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Trishton Jackson": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Cuevas": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 106.6
+  },
+  "Cornell Powell": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jason Bean": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brittain Brown": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "James Mitchell": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tayvion Robinson": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daniel Arias": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lawrence Cager": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sammis Reyes": {
+    "Age": 30.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Parker Hesse": {
+    "Age": 31.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dez Fitzpatrick": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sal Cannella": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keelan Doss": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lucky Jackson": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joe Milton": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Johnson": {
+    "Age": 40.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Dresser Winn": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Oladokun": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "P.J. Walker": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jamaal Pritchett": {
+    "Age": 23.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Taylor Heinicke": {
+    "Age": 33.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malcolm Brown": {
+    "Age": 33.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brett Rypien": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kendric Pryor": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dontay Demus": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Harrison Wallace III": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Cole Beasley": {
+    "Age": 37.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Briningstool": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tru Edwards": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Drew Allar": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 107.7
+  },
+  "Trevon Wesco": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaelon Darden": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deon Jackson": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matt Barkley": {
+    "Age": 36.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Leonard Taylor": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devonte Ross": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Shedrick Jackson": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaydn Ott": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 9.8
+  },
+  "Dominique Dafney": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Ezeike": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hal Presley": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "D'Ernest Johnson": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Blake Jarwin": {
+    "Age": 32.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Luton": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Thyrick Pitts": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marvin Jones Jr.": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "John Kelly": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jamal Agnew": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre'Shaun Harrison": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "K.J. Osborn": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Stogner": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matthew Slater": {
+    "Age": 41.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen White": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Altmyer": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 287.9
+  },
+  "Jalon Daniels": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 260.1
+  },
+  "Paul Richardson": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cade Klubnik": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Dae'Quan Wright": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Ja'Lynn Polk": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Haener": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Neal Johnson": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Richard": {
+    "Age": 32.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Wells": {
+    "Age": 31.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ellis Merriweather": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Caleb Douglas": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 181.5
+  },
+  "Darrel Williams": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dwayne Washington": {
+    "Age": 32.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "AJ McCarron": {
+    "Age": 36.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jahmal Banks": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Je'Quan Burton": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jakeem Grant": {
+    "Age": 33.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John Michael Gyllenborg": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Tommy DeVito": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "J.P. Holtz": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Donovan Peoples-Jones": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Lachey": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mike Williams": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rashod Owens": {
+    "Age": 24.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Spencer Brown": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Turner": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kenny Yeboah": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Blair": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justin Johnson": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nate McCrary": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Quentin Skinner": {
+    "Age": 24.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Terrace Marshall Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kyle Allen": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kelvin Harmon": {
+    "Age": 29.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ameer Abdullah": {
+    "Age": 33.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Messiah Swinson": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre Nixon": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Strachan": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Desmond Reid": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "O.J. Howard": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Huntley": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Alex Armah": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Mack": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "JP Richardson": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Greg Bell": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zach Davidson": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Greg Ward": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "James Proche": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dayton Wade": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ben Yurosek": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marquise Goodwin": {
+    "Age": 35.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mecole Hardman Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jamison Crowder": {
+    "Age": 33.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Murray": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Quintez Cephus": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Leroy Watson": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Xavier Guillory": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tommy Mellott": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Warren": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John Ross": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deion Burks": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Easton Stick": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Michael Burton": {
+    "Age": 34.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "James Washington": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cody Thompson": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Mims": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mohamed Ibrahim": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justin Hall": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ryan Jones": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Will Grier": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Traeshon Holden": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Carter Bradley": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Pederson": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marlin Klein": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 54.8
+  },
+  "Cody Latimer": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Robbie Ouzts": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devin Leary": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kaden Smith": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Teagan Quitoriano": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "James Robinson": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jack Colletto": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mark Redman": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daijun Edwards": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Damiere Byrd": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zack Annexstad": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kedon Slovis": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ryan Miller": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jalon Calhoun": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ty'Son Williams": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Desmond Ridder": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Aidan Robbins": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Drew Plitt": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ross Dwelley": {
+    "Age": 31.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Clive Walford": {
+    "Age": 34.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chase Cota": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Collier": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Lockett": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kendall Milton": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Steven Sims": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Danny Gray": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justyn Ross": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "C.J. Ham": {
+    "Age": 33.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Aaron Anderson": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 73.0
+  },
+  "Ulysses Bentley": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Roc Taylor": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Bandy": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Duke Williams": {
+    "Age": 35.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Slade Bolden": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dalvin Cook": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Virgil": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nate Adkins": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "JaQuae Jackson": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trestan Ebner": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trey Sermon": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dontae Fleming": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kearis Jackson": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trevor Siemian": {
+    "Age": 34.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Saylors": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kenny Golladay": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bryce Lance": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Joshua Cephus": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Marquez Callaway": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dan Chisena": {
+    "Age": 29.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brady Cook": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jakobie Keeney-James": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Durden": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dalton Keene": {
+    "Age": 32.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Case Keenum": {
+    "Age": 38.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Khari Blasingame": {
+    "Age": 30.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Griffin Hebert": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dylan Drummond": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kadarius Toney": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gerrid Doaks": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaylon Moore": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jason Brownlee": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zakhari Franklin": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Conley": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ronald Jones": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stevo Klotz": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaxon Janke": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Spencer Rattler": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Funk": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Derek Wright": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dominic Lovett": {
+    "Age": 23.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Abram Smith": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cole Fotheringham": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Breshad Perriman": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jason Huntley": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stephen Carlson": {
+    "Age": 29.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Brooks": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner Koziol": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 182.7
+  },
+  "Alex Erickson": {
+    "Age": 33.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kenny McIntosh": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Guyton": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keleki Latu": {
+    "Age": 24.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Moliki Matavao": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Waters": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaret Patterson": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Junior Bergen": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jelani Woods": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Phillip Lindsay": {
+    "Age": 32.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sean Mannion": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chip Trayanum": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Byron Pringle": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nick Bowers": {
+    "Age": 30.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner Conner": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ian Book": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "C.J. Saunders": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rondale Moore": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyrod Taylor": {
+    "Age": 37.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Trent Sherfield": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devine Ozigbo": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jack Plummer": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stetson Bennett": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Godwin Igwebuike": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Leonard Fournette": {
+    "Age": 31.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bernhard Seikovits": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tom Kennedy": {
+    "Age": 30.1,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Kalen Ballage": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eli Raridon": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 80.2
+  },
+  "Laviska Shenault Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Alex Bachman": {
+    "Age": 30.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jesper Horsted": {
+    "Age": 29.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Carson Wentz": {
+    "Age": 33.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Pharoh Cooper": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rocky Lombardi": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kevin Austin": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tim Jones": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ayir Asante": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Woods": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hakeem Butler": {
+    "Age": 30.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "La'Michael Pettway": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Robbie Chosen": {
+    "Age": 33.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Spiller": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Damien Harris": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Harris": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nathan Rourke": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Derek Carr": {
+    "Age": 35.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyrone Broden": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Christian Wade": {
+    "Age": 35.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John Stephens": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Randall Cobb": {
+    "Age": 36.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kaden Prather": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Connor Heyward": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tanner Morgan": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Montrell Washington": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Ali": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyreik McAllister": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Noah Whittington": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 153.7
+  },
+  "AJ Henning": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dallin Holker": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Travis Vokolek": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Richie James Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kurtis Rourke": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dean Conners": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Ja'Quinden Jackson": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Wydermyer": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eric Rivers": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 131.7
+  },
+  "Antonio Williams": {
+    "Age": 28.9,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Reid Sinnett": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Bolden": {
+    "Age": 36.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cordarrelle Patterson": {
+    "Age": 35.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "KC Concepcion": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mario Williams": {
+    "Age": 41.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony Schwartz": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Larry Rountree": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Darrell Daniels": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Alfonzo Graham": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Benny Snell": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gus Edwards": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Patrick Laird": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaac Rex": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jackson Meeks": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Justin Joly": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 139.9
+  },
+  "Corey Davis": {
+    "Age": 31.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jha'Quan Jackson": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tony Jones Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kenyan Drake": {
+    "Age": 32.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jeff Driskel": {
+    "Age": 33.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tarik Cohen": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Geoff Swaim": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Smith": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dareke Young": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Cade Stover": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devin Asiasi": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "E.J. Perry": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Corey Clement": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony Tyus": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Wiglusz": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Khalan Laborn": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "C.J. Beathard": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Andrew Beck": {
+    "Age": 30.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Elijah Dotson": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Wilkins": {
+    "Age": 32.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ted Hurst": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Caden Prieskorn": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Boyd": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Easop Winston": {
+    "Age": 29.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Alex McGough": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Monaray Baldwin": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Herndon": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keith Smith": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Johnny Lumpkin": {
+    "Age": 29.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eric Tomlinson": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Adam Randall": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 216.8
+  },
+  "Malachi Fields": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 127.0
+  },
+  "Diego Pavia": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 421.1
+  },
+  "Cam Sims": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joshua Kelley": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Adam Prentice": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kevin Coleman Jr.": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Willie Snead": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lorenzo Lingard": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hunter Renfrow": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tyree Jackson": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Antoine Green": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marvin Hall": {
+    "Age": 33.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Frank Gore": {
+    "Age": 43.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Copeland": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Reggie Virgil": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Jerjuan Newton": {
+    "Age": 25.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kyle Trask": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jabari Small": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jeremy Ruckert": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tarik Black": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeAndre Washington": {
+    "Age": 33.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ke'Shawn Vaughn": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Miller Forristall": {
+    "Age": 28.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ben Sims": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Myles Gaskin": {
+    "Age": 29.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Racey McMath": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cam Miller": {
+    "Age": 25.2,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Brycen Hopkins": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Thayer Thomas": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Donald Parham Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zach Pascal": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Davion Davis": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joe Royer": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 94.6
+  },
+  "Matt Bushman": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ronnie Bell": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mathew Sexton": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Pooka Williams": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brian Hill": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gunner Olszewski": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ben DiNucci": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Giovanni Ricci": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Teddy Bridgewater": {
+    "Age": 33.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Keilan Robinson": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lewis Bond": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 194.3
+  },
+  "Jacolby George": {
+    "Age": 23.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Irvin Charles": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "De'Anthony Thomas": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Aidan O'Connell": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Freddie Swain": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hayden Hurst": {
+    "Age": 33.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner McLachlan": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ricky White": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jerick McKinnon": {
+    "Age": 34.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jam Miller": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 98.3
+  },
+  "Graham Mertz": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Colbie Young": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 66.3
+  },
+  "Da'Quan Felton": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Antwane Wells": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Phillip Dorsett": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sean Ryan": {
+    "Age": 46.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sincere McCormick": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijah Collins": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Noah Cain": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyler Kroft": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Caleb Lohner": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Hollister": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brayden Willis": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keith Kirkwood": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trent Taylor": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nathaniel Peat": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kellen Mond": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tyrion Davis-Price": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mason Tipton": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dorian Singer": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Donavon Greene": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chase Claypool": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Odell Beckham Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chester Rogers": {
+    "Age": 32.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tulu Griffin": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Duke Johnson": {
+    "Age": 32.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Miles Boykin": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Javon Baker": {
+    "Age": 24.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John Copenhaver": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ahmani Marshall": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brennan Presley": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jesse Matthews": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Terrell Bynum": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Julio Jones": {
+    "Age": 37.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eno Benjamin": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mike Boone": {
+    "Age": 31.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jake Kumerow": {
+    "Age": 34.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sean Clifford": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Makai Polk": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Juwann Winfree": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hayden Rucci": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Cunningham": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bailey Gaither": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Richard Rodgers": {
+    "Age": 34.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Boston Scott": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "D.J. Williams": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marcedes Lewis": {
+    "Age": 42.3,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Ra'Shaun Henry": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rivaldo Fairweather": {
+    "Age": 24.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trace McSorley": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "McCallan Castles": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bryan Thompson": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Blough": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Adrian Martinez": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Montorie Foster": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tony Brown": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Will Levis": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "N'Keal Harry": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Pete Guerriero": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Albert Okwuegbunam": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Cropper": {
+    "Age": 25.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kene Nwangwu": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Dillon Gabriel": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Will Howard": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dax Milne": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nate Noel": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marcus Rosemy-Jacksaint": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cephus Johnson": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rashard Higgins": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Phillip Brooks": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Roush": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 115.5
+  },
+  "Deneric Prince": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Eason": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cameron Latu": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zander Horvath": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deshaun Fenwick": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Qadree Ollison": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "John FitzPatrick": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Zaire Mitchell-Paden": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "DeVante Parker": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Giles Jackson": {
+    "Age": 24.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Darrell Henderson Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brycen Tremayne": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Armani Rogers": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Carson Beck": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 311.4
+  },
+  "Luis Perez": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matt LaCosse": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Samori Toure": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hendon Hooker": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ricky Seals-Jones": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Corey Kiner": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nikola Kalinic": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Colton Dowell": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matt Corral": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Diontae Johnson": {
+    "Age": 30.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Raheem Blackshear": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Omar Cooper Jr.": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Grant DuBose": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Johnson": {
+    "Age": 23.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hunter Bryant": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cornelius Johnson": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony Firkser": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Dylan Parham": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Zavion Thomas": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre Stewart": {
+    "Age": 23.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kyric McGowan": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Equanimeous St. Brown": {
+    "Age": 29.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joshua Simon": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jody Fortson": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "CJ Donaldson": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Caleb Huntley": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
   },
   "Dorian Thompson-Robinson": {
-    "Proj": 3.4,
-    "Exposure": 0.0,
-    "Age": 25.82
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mason Kinsey": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Xavier Weaver": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Noah Togiai": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Landon Parker": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ramel Keyton": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Blake Bell": {
+    "Age": 35.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bub Means": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Garrett Nussmeier": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 136.6
+  },
+  "Montrell Johnson": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Snoop Conner": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daylen Baldwin": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Raleigh Webb": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Wiley": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Noah Thomas": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 65.4
+  },
+  "Lynn Bowden": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mac Dalena": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Blake Watson": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jase McClellan": {
+    "Age": 24.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jalen Reagor": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Neyor": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mike Washington Jr.": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "E.J. Jenkins": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mason Pline": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nelson Agholor": {
+    "Age": 33.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nathan Peterman": {
+    "Age": 32.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner McKee": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre' McKitty": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sammy Watkins": {
+    "Age": 33.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Mel Brown": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Travis": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lawrence Keys": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Luke Grimm": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Lance McCutcheon": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Roman Hemby": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 187.5
+  },
+  "Stephen Sullivan": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Avery Williams": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Thomas Yassmin": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kaelon Black": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ethan Garbers": {
+    "Age": 24.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zach Evans": {
+    "Age": 25.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Silas Bolden": {
+    "Age": 24.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rodney Adams": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeAngelo Hardy": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Samson Nacua": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chase Edmonds": {
+    "Age": 30.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tahj Washington": {
+    "Age": 25.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Maurice Alexander": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Rashaad Penny": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gavin Bartholomew": {
+    "Age": 23.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kahale Warring": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trent Pennix": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bryant Koback": {
+    "Age": 28.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tanner Mordecai": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ben Mason": {
+    "Age": 27.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Royce Freeman": {
+    "Age": 30.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Shane Buechele": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Collin Johnson": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jordan Matthews": {
+    "Age": 34.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jacob Kibodi": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Theo Wease": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Max Brosmer": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "De'Zhaun Stribling": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Demetric Felton": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "River Cracraft": {
+    "Age": 31.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tejhaun Palmer": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kazmeir Allen": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaheim Bell": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Andy Isabella": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "J'Mari Taylor": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Ben Skowronek": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaden Shirden": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nsimba Webster": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trey Knox": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stephen Anderson": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Barion Brown": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 115.5
+  },
+  "Mike White": {
+    "Age": 31.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Derek Parish": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Robert Burns": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nicholas Singleton": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matt Breida": {
+    "Age": 31.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Knowles": {
+    "Age": 26.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "JaMycal Hasty": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brevin Jordan": {
+    "Age": 26.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Andre Roberts": {
+    "Age": 38.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Will Sheppard": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "MyCole Pruitt": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jermar Jefferson": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zack Kuntz": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Zach Gentry": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trey Quinn": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Bailey Zappe": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Alexander Mattison": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jermaine Burton": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chandler Brayboy": {
+    "Age": 25.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kyle McCord": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kevin Harris": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Pitz": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eli Pancol": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jaray Jenkins": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brevin Easton": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Thomas": {
+    "Age": 33.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Max Duggan": {
+    "Age": 25.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Daurice Fountain": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Dillon": {
+    "Age": 29.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brian Hoyer": {
+    "Age": 40.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony McFarland": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nyheim Miller-Hines": {
+    "Age": 29.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Drake Stoops": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brady Russell": {
+    "Age": 28.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Jonathan Ward": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Seth Henigan": {
+    "Age": 23.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ty Scott": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kelly Akharaiyi": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Winstead": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Kirk Merritt": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Skylar Thompson": {
+    "Age": 29.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Tommy Hudson": {
+    "Age": 29.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijah Cooks": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dezmon Patmon": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Laquon Treadwell": {
+    "Age": 31.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Seth McGowan": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 174.1
+  },
+  "Nick Muse": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Washington": {
+    "Age": 25.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josiah Deguara": {
+    "Age": 29.5,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Joseph Ngata": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Velus Jones Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Wayne Gallman": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jack Westover": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Scotty Washington": {
+    "Age": 29.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gee Scott": {
+    "Age": 25.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Craig Reynolds": {
+    "Age": 30.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Braylon Sanders": {
+    "Age": 27.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jeff Smith": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DeWayne McBride": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Carson": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Adam Thielen": {
+    "Age": 36.0,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Payton Thorne": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Jones": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Seth Williams": {
+    "Age": 26.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Marcell Ateman": {
+    "Age": 32.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ezekiel Elliott": {
+    "Age": 31.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tim Boyle": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jeshaun Jones": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Deven Thompkins": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Logan Woodside": {
+    "Age": 31.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Brown": {
+    "Age": 34.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Terion Stewart": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 52.8
+  },
+  "Skyler Bell": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false
+  },
+  "Logan Thomas": {
+    "Age": 35.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Taylor": {
+    "Age": 30.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Joe Reed": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eric Ebron": {
+    "Age": 33.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Troy Hairston": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony Miller": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Charleston Rambo": {
+    "Age": 27.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "T.J. Luther": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Elijah Mitchell": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brandon Powell": {
+    "Age": 31.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Josh Cameron": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 208.2
+  },
+  "Dillon Bell": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Ricky Person": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Brenden Bates": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Taiwan Jones": {
+    "Age": 32.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Shaquan Davis": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Owen Wright": {
+    "Age": 27.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dennis Houston": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Tre'Quan Smith": {
+    "Age": 30.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Adam Shaheen": {
+    "Age": 31.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "DJ Turner": {
+    "Age": 25.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Reed": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Thomas Fidone": {
+    "Age": 23.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Keilahn Harris": {
+    "Age": 25.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cam Grandy": {
+    "Age": 26.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Caullin Lacy": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 142.9
+  },
+  "Ryan Tannehill": {
+    "Age": 38.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Michael Pratt": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jarvis Landry": {
+    "Age": 33.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cole Turner": {
+    "Age": 26.5,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "James O'Shaughnessy": {
+    "Age": 34.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sean McKeon": {
+    "Age": 28.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Denzel Mims": {
+    "Age": 28.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sawyer Robertson": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 309.8
+  },
+  "Jalin Conyers": {
+    "Age": 25.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Eric McAlister": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 251.0
+  },
+  "Hayden Hatten": {
+    "Age": 26.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "La'Mical Perine": {
+    "Age": 28.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Peyton Hendershot": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jared Wayne": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Gabe Davis": {
+    "Age": 27.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Oscar Delp": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 52.1
+  },
+  "Patrick Herbert": {
+    "Age": 25.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Robert Lewis": {
+    "Age": 24.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jakob Johnson": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Salvon Ahmed": {
+    "Age": 27.7,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Nathan Carter": {
+    "Age": 24.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Dai'Jean Dixon": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Melvin Gordon III": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chase Roberts": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 170.2
+  },
+  "Dalen Cambre": {
+    "Age": 25.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Andre Baccellia": {
+    "Age": 29.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Austin Trammell": {
+    "Age": 28.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Hank Beatty": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 190.6
+  },
+  "Josh Williams": {
+    "Age": 25.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Thaddeus Moss": {
+    "Age": 28.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Xavier Grimble": {
+    "Age": 33.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Anthony Brown": {
+    "Age": 28.1,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Riley Leonard": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Jeff Wilson Jr.": {
+    "Age": null,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malik Flowers": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Wooden": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Theo Riddick": {
+    "Age": 35.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Matt Sokol": {
+    "Age": 30.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Curtis Hodges": {
+    "Age": 27.2,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "David Martin-Robinson": {
+    "Age": 26.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Erik Ezukanma": {
+    "Age": 26.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Chris Pierce": {
+    "Age": 27.8,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Isaiah Hodgins": {
+    "Age": 27.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Malcolm Perry": {
+    "Age": 29.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Nate Boerkircher": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 64.9
+  },
+  "Jamoi Mayes": {
+    "Age": 24.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Cody Schrader": {
+    "Age": 27.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Taylor Elgersma": {
+    "Age": 24.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Devon Allen": {
+    "Age": 31.7,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "C.J. Uzomah": {
+    "Age": 33.6,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Sam Pinckney": {
+    "Age": 26.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Damien Williams": {
+    "Age": 34.4,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Simi Fehoko": {
+    "Age": 28.8,
+    "Rookie": false,
+    "FreeAgent": true
+  },
+  "Gavin Hardison": {
+    "Age": 26.3,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Trinidad Chambliss": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 387.4
+  },
+  "Micah Bernard": {
+    "Age": 24.9,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Stanley Morgan": {
+    "Age": 30.0,
+    "Rookie": false,
+    "FreeAgent": false
+  },
+  "Miles Kitselman": {
+    "Age": null,
+    "Rookie": true,
+    "FreeAgent": false,
+    "FantraxPts": 63.5
   }
 }
