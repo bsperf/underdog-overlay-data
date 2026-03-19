@@ -1,240 +1,1177 @@
 {
-  "Cameron Boozer": 40.82,
-  "AJ Dybantsa": 38.96,
-  "Christian Anderson": 35.83,
-  "Darius Acuff": 34.9,
-  "Graham Ike": 33.41,
-  "Joshua Jefferson": 33.4,
-  "Labaron Philon": 32.59,
-  "Braden Smith": 32.56,
-  "Bruce Thornton": 32.06,
-  "Jeremy Fears": 31.43,
-  "Paulius Murauskas": 31.14,
-  "Keaton Wagler": 30.75,
-  "Malik Reneau": 30.67,
-  "Tyler Tanner": 30.5,
-  "Bennett Stirtz": 30.33,
-  "Nick Boyd": 30.25,
-  "Mikel Brown": 30.18,
-  "Ja'Kobi Gillespie": 29.98,
-  "Tre Donaldson": 29.89,
-  "Izaiyah Nelson": 29.68,
-  "Henri Veesaar": 29.35,
-  "Mark Mitchell": 29.31,
-  "Zuby Ejiofor": 29.22,
-  "Alex Condon": 29.16,
-  "Kingston Flemings": 28.81,
-  "Nate Ament": 28.68,
-  "TJ Power": 28.52,
-  "Ryan Conwell": 28.04,
-  "John Blackwell": 28.03,
-  "Yaxel Lendeborg": 28.01,
-  "Trey Kaufman-Renn": 27.96,
-  "Flory Bidunga": 27.89,
-  "Donovan Dent": 27.82,
-  "Thomas Haugh": 27.3,
-  "Otega Oweh": 27.03,
-  "Melvin Council": 26.91,
-  "Braden Huff": 26.77,
-  "Tarris Reed": 26.61,
-  "Pryce Sandfort": 26.51,
-  "Silas Demary": 26.42,
-  "Rueben Chinyelu": 26.39,
-  "Nolan Winter": 26.34,
-  "Tyler Bilodeau": 26.24,
-  "Duke Miles": 26.2,
-  "Darryn Peterson": 26.16,
-  "Tamin Lipsey": 25.96,
-  "David Mirkovic": 25.96,
-  "Thijs De Ridder": 25.96,
-  "Amari Allen": 25.81,
-  "Rienk Mast": 25.77,
-  "Jaden Bradley": 25.27,
-  "Brayden Burries": 24.92,
-  "Jaxon Kohler": 24.82,
-  "Robbie Avila": 24.7,
-  "Kylan Boswell": 24.31,
-  "Koa Peat": 24.18,
-  "Bryce Hopkins": 24.15,
-  "Morez Johnson": 24.08,
-  "Trevon Brazile": 23.32,
-  "Meleek Thomas": 23.31,
-  "Aday Mara": 23.28,
-  "Sam Hoiberg": 22.98,
-  "Milan Momcilovic": 22.74,
-  "Alex Karaban": 22.66,
-  "Tobe Awaka": 22.47,
-  "Emanuel Sharp": 22.45,
-  "Motiejus Krivas": 22.33,
-  "Allen Graves": 22.0,
-  "Xaivian Lee": 21.84,
-  "Elliot Cadeau": 21.59,
-  "Carson Cooper": 21.36,
-  "Dillon Mitchell": 21.27,
-  "Patrick Ngongba": 21.02,
-  "Oscar Cluff": 21.02,
-  "Solo Ball": 20.58,
-  "Devin McGlockton": 20.46,
-  "Chris Cenac": 20.21,
-  "J'Vonne Hadley": 20.09,
-  "Milos Uzan": 20.0,
-  "Aiden Sherrell": 19.94,
-  "Isaiah Evans": 19.9,
-  "Andrej Stojakovic": 19.86,
-  "Boogie Fland": 19.82,
-  "Malik Thomas": 19.77,
-  "Tomislav Ivisic": 19.72,
-  "Tyler Nickel": 19.65,
-  "Malachi Moreno": 19.02,
-  "Tyon Grant-Foster": 18.97,
-  "Ernest Udeh": 18.93,
-  "Fletcher Loyer": 18.89,
-  "Ivan Kharchenko": 18.5,
-  "Billy Richmond": 18.49,
-  "Braylon Mullins": 18.35,
-  "Bryson Tiller": 18.14,
-  "Sam Lewis": 17.32,
-  "Jalen Washington": 17.29,
-  "Blake Buchanan": 17.27,
-  "Mario Saint-Supery": 17.04,
-  "Malique Ewin": 17.04,
-  "Dallin Hall": 16.64,
-  "Killyan Toure": 16.58,
-  "Johann Grunloh": 15.72,
-  "Joseph Tugler": 15.51,
-  "Keba Keita": 15.03,
-  "Anthony Dell'Orso": 14.67,
-  "Braeden Smith": 14.23,
-  "Trey McKenney": 14.05,
-  "Urban Klavzar": 13.95,
-  "Roddy Gayle": 13.26,
-  "Cayden Boozer": 13.25,
-  "Davis Fogle": 13.14,
-  "Zvonimir Ivisic": 13.11,
-  "Nimari Burnett": 13.09,
-  "Ugonna Onyenso": 12.96,
-  "Maliq Brown": 12.82,
-  "C.J. Cox": 12.73,
-  "Emmanuel Innocenti": 12.72,
-  "Eric Reibe": 12.6,
-  "Joson Sanon": 12.2,
-  "Micah Handlogten": 12.08,
-  "Daniel Jacobsen": 12.06,
-  "Dame Sarr": 11.5,
-  "Nikolas Khamenia": 11.19,
-  "Aly Khalifa": 9.8,
-  "Isaiah Brown": 9.28,
-  "Isiah Harwell": 8.33,
-  "Dwayne Aristode": 8.3,
-  "Jayden Ross": 7.99,
-  "Will Tschetter": 7.51,
-  "Chase McCarty": 5.94,
-  "Kalifa Sakho": 5.79,
-  "Coen Carr": 19.91,
-  "Matas Vokietaitis": 24.63,
-  "Jack Benter": 9.68,
-  "Dylan Darling": 13.3,
-  "Jamarques Lawrence": 19.15,
-  "Donovan Atwell": 18.16,
-  "Mercy Miller": 6.58,
-  "Dominique Daniels": 31.93,
-  "LeJuan Watts": 23.15,
-  "Darrion Williams": 24.43,
-  "Malachi Smith": 9.97,
-  "Dailyn Swain": 31.56,
-  "Austin Rapp": 16.48,
-  "Andrew McKeever": 21.77,
-  "Trent Perry": 20.08,
-  "Cruz Davis": 32.09,
-  "Wes Enis": 23.12,
-  "Jayden Quaintance": 11.75,
-  "Adam Miller": 11.22,
-  "Seth Trimble": 22.36,
-  "Pop Isaacs": 15.94,
-  "Jordan Pope": 18.4,
-  "Cam Manyawu": 13.47,
-  "Harry Wessels": 12.36,
-  "Denzel Aberdeen": 20.83,
-  "Tavari Johnson": 31.6,
-  "Dontae Horne": 30.42,
-  "Cam Ward": 10.71,
-  "Blue Cain": 23.67,
-  "Jordan Scott": 11.59,
-  "Andrew Rohde": 12.9,
-  "Jeremiah Wilkinson": 23.07,
-  "Lazar Djokovic": 22.17,
-  "Chance Mallory": 20.55,
-  "Tyler Harris": 9.35,
-  "Jalen Warley": 15.47,
-  "Felix Okpara": 15.25,
-  "Tramon Mark": 20.15,
-  "Mouhamed Dioubate": 15.83,
-  "Duke Brennan": 27.23,
-  "Corey Washington": 18.8,
-  "Kanon Catchings": 18.07,
-  "Oziyah Sellers": 17.15,
-  "Christoph Tilly": 20.51,
-  "Bishop Boswell": 16.93,
-  "Jaron Pierre": 26.45,
-  "Khani Rooths": 13.75,
-  "Jarin Stevenson": 14.05,
-  "David Punch": 24.82,
-  "Collin Chandler": 17.28,
-  "John Bol": 12.44,
-  "Isaac Johnson": 22.16,
-  "Ben Humrichous": 12.54,
-  "Nate Heise": 12.5,
-  "Boopie Miller": 33.27,
-  "Tre White": 24.77,
-  "Taylor Bol Bowen": 12.72,
-  "Alvaro Folgueiras": 16.68,
-  "Jaylen Petty": 16.59,
-  "John Mobley": 22.18,
-  "Mikey Lewis": 20.44,
-  "Kennard Davis": 12.96,
-  "Rashaun Agee": 28.46,
-  "Xavier Edmonds": 21.78,
-  "Joshua Dent": 24.7,
-  "Amani Lyles": 27.1,
-  "Preston Edmead": 26.25,
-  "Eric Dailey": 18.86,
-  "Latrell Wrightsell": 19.81,
-  "B.J. Edwards": 27.13,
-  "D.J. Wagner": 12.41,
-  "Devin Askew": 15.19,
-  "Devin Royal": 23.25,
-  "Nick Davidson": 15.68,
-  "Devin Tillis": 10.6,
-  "Garry Clark": 14.09,
-  "Karter Knox": 15.3,
-  "Dominick Nelson": 6.34,
-  "Jacari White": 13.91,
-  "Elijah Mahi": 23.45,
-  "Jaylen Carey": 17.11,
-  "Adrian Wooley": 14.81,
-  "Tyeree Bryan": 7.84,
-  "Tyrell Ward": 9.57,
-  "Karson Templin": 15.41,
-  "Tyler Perkins": 22.97,
-  "Ven-Allen Lubin": 23.4,
-  "Luke Bamgboye": 9.46,
-  "Ian Jackson": 14.93,
-  "Trey Fort": 6.24,
-  "Skyy Clark": 18.16,
-  "Acaden Lewis": 24.54,
-  "Quadir Copeland": 28.0,
-  "Shelton Henderson": 23.18,
-  "Dillon Hunter": 16.88,
-  "Mackenzie Mgbako": 18.23,
-  "Barry Evans": 16.94,
-  "Elmarko Jackson": 9.58,
-  "Kur Teng": 11.22,
-  "Kyan Evans": 10.26,
-  "Jalil Bethea": 7.78,
-  "Tavion Banks": 17.92,
-  "Brandon Noel": 13.82,
-  "Gicarri Harris": 8.71,
-  "Kam Williams": 11.4,
-  "Isaac McKneely": 15.64,
-  "Nick Pringle": 10.4
+  "Cameron Boozer": {
+    "fp": 40.82,
+    "region": "East",
+    "seed": 1
+  },
+  "AJ Dybantsa": {
+    "fp": 38.96,
+    "region": "West",
+    "seed": 6
+  },
+  "Christian Anderson": {
+    "fp": 35.83,
+    "region": "MW",
+    "seed": 5
+  },
+  "Darius Acuff": {
+    "fp": 34.9,
+    "region": "West",
+    "seed": 4
+  },
+  "Graham Ike": {
+    "fp": 33.41,
+    "region": "West",
+    "seed": 3
+  },
+  "Joshua Jefferson": {
+    "fp": 33.4,
+    "region": "MW",
+    "seed": 2
+  },
+  "Labaron Philon": {
+    "fp": 32.59,
+    "region": "MW",
+    "seed": 4
+  },
+  "Braden Smith": {
+    "fp": 32.56,
+    "region": "West",
+    "seed": 2
+  },
+  "Bruce Thornton": {
+    "fp": 32.06,
+    "region": "East",
+    "seed": 8
+  },
+  "Jeremy Fears Jr.": {
+    "fp": 31.43,
+    "region": "East",
+    "seed": 3
+  },
+  "Paulius Murauskas": {
+    "fp": 31.14,
+    "region": "South",
+    "seed": 7
+  },
+  "Keaton Wagler": {
+    "fp": 30.75,
+    "region": "South",
+    "seed": 3
+  },
+  "Malik Reneau": {
+    "fp": 30.67,
+    "region": "West",
+    "seed": 7
+  },
+  "Tyler Tanner": {
+    "fp": 30.5,
+    "region": "South",
+    "seed": 5
+  },
+  "Bennett Stirtz": {
+    "fp": 30.33,
+    "region": "South",
+    "seed": 9
+  },
+  "Nick Boyd": {
+    "fp": 30.25,
+    "region": "West",
+    "seed": 5
+  },
+  "Mikel Brown": {
+    "fp": 30.18,
+    "region": "East",
+    "seed": 6
+  },
+  "Ja'Kobi Gillespie": {
+    "fp": 29.98,
+    "region": "MW",
+    "seed": 6
+  },
+  "Tre Donaldson": {
+    "fp": 29.89,
+    "region": "West",
+    "seed": 7
+  },
+  "Izaiyah Nelson": {
+    "fp": 29.68,
+    "region": "East",
+    "seed": 11
+  },
+  "Henri Veesaar": {
+    "fp": 29.35,
+    "region": "South",
+    "seed": 6
+  },
+  "Mark Mitchell": {
+    "fp": 29.31,
+    "region": "West",
+    "seed": 10
+  },
+  "Zuby Ejiofor": {
+    "fp": 29.22,
+    "region": "East",
+    "seed": 5
+  },
+  "Alex Condon": {
+    "fp": 29.16,
+    "region": "South",
+    "seed": 1
+  },
+  "Kingston Flemings": {
+    "fp": 28.81,
+    "region": "South",
+    "seed": 2
+  },
+  "Nate Ament": {
+    "fp": 28.68,
+    "region": "MW",
+    "seed": 6
+  },
+  "TJ Power": {
+    "fp": 28.52,
+    "region": "South",
+    "seed": 14
+  },
+  "Ryan Conwell": {
+    "fp": 28.04,
+    "region": "East",
+    "seed": 6
+  },
+  "John Blackwell": {
+    "fp": 28.03,
+    "region": "West",
+    "seed": 5
+  },
+  "Yaxel Lendeborg": {
+    "fp": 28.01,
+    "region": "MW",
+    "seed": 1
+  },
+  "Trey Kaufman-Renn": {
+    "fp": 27.96,
+    "region": "West",
+    "seed": 2
+  },
+  "Flory Bidunga": {
+    "fp": 27.89,
+    "region": "East",
+    "seed": 4
+  },
+  "Donovan Dent": {
+    "fp": 27.82,
+    "region": "East",
+    "seed": 7
+  },
+  "Thomas Haugh": {
+    "fp": 27.3,
+    "region": "South",
+    "seed": 1
+  },
+  "Otega Oweh": {
+    "fp": 27.03,
+    "region": "MW",
+    "seed": 7
+  },
+  "Melvin Council": {
+    "fp": 26.91,
+    "region": "East",
+    "seed": 4
+  },
+  "Braden Huff": {
+    "fp": 26.77,
+    "region": "West",
+    "seed": 3
+  },
+  "Tarris Reed Jr.": {
+    "fp": 26.61,
+    "region": "East",
+    "seed": 2
+  },
+  "Pryce Sandfort": {
+    "fp": 26.51,
+    "region": "South",
+    "seed": 4
+  },
+  "Silas Demary Jr.": {
+    "fp": 26.42,
+    "region": "East",
+    "seed": 2
+  },
+  "Rueben Chinyelu": {
+    "fp": 26.39,
+    "region": "South",
+    "seed": 1
+  },
+  "Nolan Winter": {
+    "fp": 26.34,
+    "region": "West",
+    "seed": 5
+  },
+  "Tyler Bilodeau": {
+    "fp": 26.24,
+    "region": "East",
+    "seed": 7
+  },
+  "Duke Miles": {
+    "fp": 26.2,
+    "region": "South",
+    "seed": 5
+  },
+  "Darryn Peterson": {
+    "fp": 26.16,
+    "region": "East",
+    "seed": 4
+  },
+  "Tamin Lipsey": {
+    "fp": 25.96,
+    "region": "MW",
+    "seed": 2
+  },
+  "David Mirkovic": {
+    "fp": 25.96,
+    "region": "South",
+    "seed": 3
+  },
+  "Thijs De Ridder": {
+    "fp": 25.96,
+    "region": "MW",
+    "seed": 3
+  },
+  "Amari Allen": {
+    "fp": 25.81,
+    "region": "MW",
+    "seed": 4
+  },
+  "Rienk Mast": {
+    "fp": 25.77,
+    "region": "South",
+    "seed": 4
+  },
+  "Jaden Bradley": {
+    "fp": 25.27,
+    "region": "West",
+    "seed": 1
+  },
+  "Brayden Burries": {
+    "fp": 24.92,
+    "region": "West",
+    "seed": 1
+  },
+  "Jaxon Kohler": {
+    "fp": 24.82,
+    "region": "East",
+    "seed": 3
+  },
+  "Robbie Avila": {
+    "fp": 24.7,
+    "region": "MW",
+    "seed": 9
+  },
+  "Kylan Boswell": {
+    "fp": 24.31,
+    "region": "South",
+    "seed": 3
+  },
+  "Koa Peat": {
+    "fp": 24.18,
+    "region": "West",
+    "seed": 1
+  },
+  "Bryce Hopkins": {
+    "fp": 24.15,
+    "region": "East",
+    "seed": 5
+  },
+  "Morez Johnson": {
+    "fp": 24.08,
+    "region": "MW",
+    "seed": 1
+  },
+  "Trevon Brazile": {
+    "fp": 23.32,
+    "region": "West",
+    "seed": 4
+  },
+  "Meleek Thomas": {
+    "fp": 23.31,
+    "region": "West",
+    "seed": 4
+  },
+  "Aday Mara": {
+    "fp": 23.28,
+    "region": "MW",
+    "seed": 1
+  },
+  "Sam Hoiberg": {
+    "fp": 22.98,
+    "region": "South",
+    "seed": 4
+  },
+  "Milan Momcilovic": {
+    "fp": 22.74,
+    "region": "MW",
+    "seed": 2
+  },
+  "Alex Karaban": {
+    "fp": 22.66,
+    "region": "East",
+    "seed": 2
+  },
+  "Tobe Awaka": {
+    "fp": 22.47,
+    "region": "West",
+    "seed": 1
+  },
+  "Emanuel Sharp": {
+    "fp": 22.45,
+    "region": "South",
+    "seed": 2
+  },
+  "Motiejus Krivas": {
+    "fp": 22.33,
+    "region": "West",
+    "seed": 1
+  },
+  "Allen Graves": {
+    "fp": 22.0,
+    "region": "MW",
+    "seed": 10
+  },
+  "Xaivian Lee": {
+    "fp": 21.84,
+    "region": "South",
+    "seed": 1
+  },
+  "Elliot Cadeau": {
+    "fp": 21.59,
+    "region": "MW",
+    "seed": 1
+  },
+  "Carson Cooper": {
+    "fp": 21.36,
+    "region": "East",
+    "seed": 3
+  },
+  "Dillon Mitchell": {
+    "fp": 21.27,
+    "region": "East",
+    "seed": 5
+  },
+  "Patrick Ngongba": {
+    "fp": 21.02,
+    "region": "East",
+    "seed": 1
+  },
+  "Oscar Cluff": {
+    "fp": 21.02,
+    "region": "West",
+    "seed": 2
+  },
+  "Solo Ball": {
+    "fp": 20.58,
+    "region": "East",
+    "seed": 2
+  },
+  "Chris Cenac": {
+    "fp": 20.21,
+    "region": "South",
+    "seed": 2
+  },
+  "J'Vonne Hadley": {
+    "fp": 20.09,
+    "region": "East",
+    "seed": 6
+  },
+  "Milos Uzan": {
+    "fp": 20.0,
+    "region": "South",
+    "seed": 2
+  },
+  "Aiden Sherrell": {
+    "fp": 19.94,
+    "region": "MW",
+    "seed": 4
+  },
+  "Coen Carr": {
+    "fp": 19.91,
+    "region": "East",
+    "seed": 3
+  },
+  "Isaiah Evans": {
+    "fp": 19.9,
+    "region": "East",
+    "seed": 1
+  },
+  "Andrej Stojakovic": {
+    "fp": 19.86,
+    "region": "South",
+    "seed": 3
+  },
+  "Boogie Fland": {
+    "fp": 19.82,
+    "region": "South",
+    "seed": 1
+  },
+  "Malik Thomas": {
+    "fp": 19.77,
+    "region": "MW",
+    "seed": 3
+  },
+  "Tomislav Ivisic": {
+    "fp": 19.72,
+    "region": "South",
+    "seed": 3
+  },
+  "Tyler Nickel": {
+    "fp": 19.65,
+    "region": "South",
+    "seed": 5
+  },
+  "Malachi Moreno": {
+    "fp": 19.02,
+    "region": "MW",
+    "seed": 7
+  },
+  "Tyon Grant-Foster": {
+    "fp": 18.97,
+    "region": "West",
+    "seed": 3
+  },
+  "Ernest Udeh Jr.": {
+    "fp": 18.93,
+    "region": "West",
+    "seed": 7
+  },
+  "Fletcher Loyer": {
+    "fp": 18.89,
+    "region": "West",
+    "seed": 2
+  },
+  "Ivan Kharchenko": {
+    "fp": 18.5,
+    "region": "West",
+    "seed": 1
+  },
+  "Billy Richmond": {
+    "fp": 18.49,
+    "region": "West",
+    "seed": 4
+  },
+  "Braylon Mullins": {
+    "fp": 18.35,
+    "region": "East",
+    "seed": 2
+  },
+  "Bryson Tiller": {
+    "fp": 18.14,
+    "region": "East",
+    "seed": 4
+  },
+  "Sam Lewis": {
+    "fp": 17.32,
+    "region": "MW",
+    "seed": 3
+  },
+  "Jalen Washington": {
+    "fp": 17.29,
+    "region": "South",
+    "seed": 5
+  },
+  "Blake Buchanan": {
+    "fp": 17.27,
+    "region": "MW",
+    "seed": 2
+  },
+  "Mario Saint-Supery": {
+    "fp": 17.04,
+    "region": "West",
+    "seed": 3
+  },
+  "Malique Ewin": {
+    "fp": 17.04,
+    "region": "West",
+    "seed": 4
+  },
+  "Dallin Hall": {
+    "fp": 16.64,
+    "region": "MW",
+    "seed": 3
+  },
+  "Killyan Toure": {
+    "fp": 16.58,
+    "region": "MW",
+    "seed": 2
+  },
+  "Johann Grunloh": {
+    "fp": 15.72,
+    "region": "MW",
+    "seed": 3
+  },
+  "Joseph Tugler": {
+    "fp": 15.51,
+    "region": "South",
+    "seed": 2
+  },
+  "Keba Keita": {
+    "fp": 15.03,
+    "region": "West",
+    "seed": 6
+  },
+  "Anthony Dell'Orso": {
+    "fp": 14.67,
+    "region": "West",
+    "seed": 1
+  },
+  "Braeden Smith": {
+    "fp": 14.23,
+    "region": "West",
+    "seed": 3
+  },
+  "Trey McKenney": {
+    "fp": 14.05,
+    "region": "MW",
+    "seed": 1
+  },
+  "Urban Klavzar": {
+    "fp": 13.95,
+    "region": "South",
+    "seed": 1
+  },
+  "Roddy Gayle Jr.": {
+    "fp": 13.26,
+    "region": "MW",
+    "seed": 1
+  },
+  "Cayden Boozer": {
+    "fp": 13.25,
+    "region": "East",
+    "seed": 1
+  },
+  "Davis Fogle": {
+    "fp": 13.14,
+    "region": "West",
+    "seed": 3
+  },
+  "Zvonimir Ivisic": {
+    "fp": 13.11,
+    "region": "South",
+    "seed": 3
+  },
+  "Nimari Burnett": {
+    "fp": 13.09,
+    "region": "MW",
+    "seed": 1
+  },
+  "Ugonna Onyenso": {
+    "fp": 12.96,
+    "region": "MW",
+    "seed": 3
+  },
+  "Maliq Brown": {
+    "fp": 12.82,
+    "region": "East",
+    "seed": 1
+  },
+  "C.J. Cox": {
+    "fp": 12.73,
+    "region": "West",
+    "seed": 2
+  },
+  "Emmanuel Innocenti": {
+    "fp": 12.72,
+    "region": "West",
+    "seed": 3
+  },
+  "Eric Reibe": {
+    "fp": 12.6,
+    "region": "East",
+    "seed": 2
+  },
+  "Micah Handlogten": {
+    "fp": 12.08,
+    "region": "South",
+    "seed": 1
+  },
+  "Daniel Jacobsen": {
+    "fp": 12.06,
+    "region": "West",
+    "seed": 2
+  },
+  "Dame Sarr": {
+    "fp": 11.5,
+    "region": "East",
+    "seed": 1
+  },
+  "Nikolas Khamenia": {
+    "fp": 11.19,
+    "region": "East",
+    "seed": 1
+  },
+  "Aly Khalifa": {
+    "fp": 9.8,
+    "region": "East",
+    "seed": 6
+  },
+  "Isaiah Brown": {
+    "fp": 9.28,
+    "region": "South",
+    "seed": 1
+  },
+  "Isiah Harwell": {
+    "fp": 8.33,
+    "region": "South",
+    "seed": 2
+  },
+  "Dwayne Aristode": {
+    "fp": 8.3,
+    "region": "West",
+    "seed": 1
+  },
+  "Jayden Ross": {
+    "fp": 7.99,
+    "region": "East",
+    "seed": 2
+  },
+  "Will Tschetter": {
+    "fp": 7.51,
+    "region": "MW",
+    "seed": 1
+  },
+  "Chase McCarty": {
+    "fp": 5.94,
+    "region": "South",
+    "seed": 2
+  },
+  "Kalifa Sakho": {
+    "fp": 5.79,
+    "region": "South",
+    "seed": 2
+  },
+  "Joson Sanon": {
+    "fp": 12.2,
+    "region": "East",
+    "seed": 5
+  },
+  "Matas Vokietaitis": {
+    "fp": 24.63,
+    "region": "West",
+    "seed": null
+  },
+  "Jack Benter": {
+    "fp": 9.68,
+    "region": "West",
+    "seed": 2
+  },
+  "Dylan Darling": {
+    "fp": 13.3,
+    "region": "East",
+    "seed": 5
+  },
+  "Jamarques Lawrence": {
+    "fp": 19.15,
+    "region": "South",
+    "seed": 4
+  },
+  "Donovan Atwell": {
+    "fp": 18.16,
+    "region": "MW",
+    "seed": 5
+  },
+  "Mercy Miller": {
+    "fp": 6.58,
+    "region": "South",
+    "seed": 2
+  },
+  "Dominique Daniels": {
+    "fp": 31.93,
+    "region": "East",
+    "seed": 13
+  },
+  "LeJuan Watts": {
+    "fp": 23.15,
+    "region": "MW",
+    "seed": 5
+  },
+  "Darrion Williams": {
+    "fp": 24.43,
+    "region": "West",
+    "seed": null
+  },
+  "Malachi Smith": {
+    "fp": 9.97,
+    "region": "East",
+    "seed": 2
+  },
+  "Dailyn Swain": {
+    "fp": 31.56,
+    "region": "West",
+    "seed": null
+  },
+  "Austin Rapp": {
+    "fp": 16.48,
+    "region": "West",
+    "seed": 5
+  },
+  "Andrew McKeever": {
+    "fp": 21.77,
+    "region": "South",
+    "seed": 7
+  },
+  "Trent Perry": {
+    "fp": 20.08,
+    "region": "East",
+    "seed": 7
+  },
+  "Cruz Davis": {
+    "fp": 32.09,
+    "region": "MW",
+    "seed": 13
+  },
+  "Wes Enis": {
+    "fp": 23.12,
+    "region": "East",
+    "seed": 11
+  },
+  "Jayden Quaintance": {
+    "fp": 11.75,
+    "region": "MW",
+    "seed": 7
+  },
+  "Adam Miller": {
+    "fp": 11.22,
+    "region": "West",
+    "seed": 3
+  },
+  "Seth Trimble": {
+    "fp": 22.36,
+    "region": "South",
+    "seed": 6
+  },
+  "Pop Isaacs": {
+    "fp": 15.94,
+    "region": "South",
+    "seed": 10
+  },
+  "Jordan Pope": {
+    "fp": 18.4,
+    "region": "West",
+    "seed": null
+  },
+  "Cam Manyawu": {
+    "fp": 13.47,
+    "region": "South",
+    "seed": 9
+  },
+  "Harry Wessels": {
+    "fp": 12.36,
+    "region": "South",
+    "seed": 7
+  },
+  "Denzel Aberdeen": {
+    "fp": 20.83,
+    "region": "MW",
+    "seed": 7
+  },
+  "Tavari Johnson": {
+    "fp": 31.6,
+    "region": "MW",
+    "seed": 12
+  },
+  "Dontae Horne": {
+    "fp": 30.42,
+    "region": "South",
+    "seed": null
+  },
+  "Cam Ward": {
+    "fp": 10.71,
+    "region": "East",
+    "seed": 3
+  },
+  "Blue Cain": {
+    "fp": 23.67,
+    "region": "MW",
+    "seed": 8
+  },
+  "Jordan Scott": {
+    "fp": 11.59,
+    "region": "East",
+    "seed": 3
+  },
+  "Andrew Rohde": {
+    "fp": 12.9,
+    "region": "West",
+    "seed": 5
+  },
+  "Jeremiah Wilkinson": {
+    "fp": 23.07,
+    "region": "MW",
+    "seed": 8
+  },
+  "Lazar Djokovic": {
+    "fp": 22.17,
+    "region": "South",
+    "seed": 11
+  },
+  "Chance Mallory": {
+    "fp": 20.55,
+    "region": "MW",
+    "seed": 3
+  },
+  "Tyler Harris": {
+    "fp": 9.35,
+    "region": "South",
+    "seed": 5
+  },
+  "Jalen Warley": {
+    "fp": 15.47,
+    "region": "West",
+    "seed": 3
+  },
+  "Felix Okpara": {
+    "fp": 15.25,
+    "region": "MW",
+    "seed": 6
+  },
+  "Tramon Mark": {
+    "fp": 20.15,
+    "region": "West",
+    "seed": null
+  },
+  "Mouhamed Dioubate": {
+    "fp": 15.83,
+    "region": "MW",
+    "seed": 7
+  },
+  "Duke Brennan": {
+    "fp": 27.23,
+    "region": "West",
+    "seed": 8
+  },
+  "Corey Washington": {
+    "fp": 18.8,
+    "region": "MW",
+    "seed": null
+  },
+  "Kanon Catchings": {
+    "fp": 18.07,
+    "region": "MW",
+    "seed": 8
+  },
+  "Oziyah Sellers": {
+    "fp": 17.15,
+    "region": "East",
+    "seed": 5
+  },
+  "Christoph Tilly": {
+    "fp": 20.51,
+    "region": "East",
+    "seed": 8
+  },
+  "Bishop Boswell": {
+    "fp": 16.93,
+    "region": "MW",
+    "seed": 6
+  },
+  "Jaron Pierre": {
+    "fp": 26.45,
+    "region": "MW",
+    "seed": null
+  },
+  "Khani Rooths": {
+    "fp": 13.75,
+    "region": "East",
+    "seed": 6
+  },
+  "Jarin Stevenson": {
+    "fp": 14.05,
+    "region": "South",
+    "seed": 6
+  },
+  "David Punch": {
+    "fp": 24.82,
+    "region": "East",
+    "seed": 9
+  },
+  "Collin Chandler": {
+    "fp": 17.28,
+    "region": "MW",
+    "seed": 7
+  },
+  "John Bol": {
+    "fp": 12.44,
+    "region": "East",
+    "seed": 10
+  },
+  "Isaac Johnson": {
+    "fp": 22.16,
+    "region": "West",
+    "seed": 13
+  },
+  "Ben Humrichous": {
+    "fp": 12.54,
+    "region": "South",
+    "seed": 3
+  },
+  "Nate Heise": {
+    "fp": 12.5,
+    "region": "MW",
+    "seed": 2
+  },
+  "Boopie Miller": {
+    "fp": 33.27,
+    "region": "MW",
+    "seed": null
+  },
+  "Tre White": {
+    "fp": 24.77,
+    "region": "East",
+    "seed": 4
+  },
+  "Taylor Bol Bowen": {
+    "fp": 12.72,
+    "region": "MW",
+    "seed": 4
+  },
+  "Alvaro Folgueiras": {
+    "fp": 16.68,
+    "region": "South",
+    "seed": 9
+  },
+  "Jaylen Petty": {
+    "fp": 16.59,
+    "region": "MW",
+    "seed": 5
+  },
+  "John Mobley": {
+    "fp": 22.18,
+    "region": "East",
+    "seed": 8
+  },
+  "Mikey Lewis": {
+    "fp": 20.44,
+    "region": "South",
+    "seed": 7
+  },
+  "Kennard Davis": {
+    "fp": 12.96,
+    "region": "West",
+    "seed": 6
+  },
+  "Rashaun Agee": {
+    "fp": 28.46,
+    "region": "South",
+    "seed": 10
+  },
+  "Xavier Edmonds": {
+    "fp": 21.78,
+    "region": "East",
+    "seed": 9
+  },
+  "Joshua Dent": {
+    "fp": 24.7,
+    "region": "South",
+    "seed": 7
+  },
+  "Amani Lyles": {
+    "fp": 27.1,
+    "region": "MW",
+    "seed": 12
+  },
+  "Preston Edmead": {
+    "fp": 26.25,
+    "region": "MW",
+    "seed": 13
+  },
+  "B.J. Edwards": {
+    "fp": 27.13,
+    "region": "MW",
+    "seed": null
+  },
+  "D.J. Wagner": {
+    "fp": 12.41,
+    "region": "West",
+    "seed": 4
+  },
+  "Devin Askew": {
+    "fp": 15.19,
+    "region": "West",
+    "seed": 8
+  },
+  "Devin Royal": {
+    "fp": 23.25,
+    "region": "East",
+    "seed": 8
+  },
+  "Nick Davidson": {
+    "fp": 15.68,
+    "region": "South",
+    "seed": 8
+  },
+  "Devin Tillis": {
+    "fp": 10.6,
+    "region": "MW",
+    "seed": 3
+  },
+  "Garry Clark": {
+    "fp": 14.09,
+    "region": "West",
+    "seed": 9
+  },
+  "Karter Knox": {
+    "fp": 15.3,
+    "region": "West",
+    "seed": 4
+  },
+  "Dominick Nelson": {
+    "fp": 6.34,
+    "region": "MW",
+    "seed": 2
+  },
+  "Jacari White": {
+    "fp": 13.91,
+    "region": "MW",
+    "seed": 3
+  },
+  "Elijah Mahi": {
+    "fp": 23.45,
+    "region": "MW",
+    "seed": 10
+  },
+  "Jaylen Carey": {
+    "fp": 17.11,
+    "region": "MW",
+    "seed": 6
+  },
+  "Adrian Wooley": {
+    "fp": 14.81,
+    "region": "East",
+    "seed": 6
+  },
+  "Tyeree Bryan": {
+    "fp": 7.84,
+    "region": "MW",
+    "seed": 5
+  },
+  "Tyrell Ward": {
+    "fp": 9.57,
+    "region": "South",
+    "seed": 11
+  },
+  "Karson Templin": {
+    "fp": 15.41,
+    "region": "West",
+    "seed": 9
+  },
+  "Tyler Perkins": {
+    "fp": 22.97,
+    "region": "West",
+    "seed": 8
+  },
+  "Ven-Allen Lubin": {
+    "fp": 23.4,
+    "region": "West",
+    "seed": null
+  },
+  "Luke Bamgboye": {
+    "fp": 9.46,
+    "region": "MW",
+    "seed": 5
+  },
+  "Ian Jackson": {
+    "fp": 14.93,
+    "region": "East",
+    "seed": 5
+  },
+  "Trey Fort": {
+    "fp": 6.24,
+    "region": "East",
+    "seed": 3
+  },
+  "Skyy Clark": {
+    "fp": 18.16,
+    "region": "East",
+    "seed": 7
+  },
+  "Acaden Lewis": {
+    "fp": 24.54,
+    "region": "West",
+    "seed": 8
+  },
+  "Quadir Copeland": {
+    "fp": 28.0,
+    "region": "West",
+    "seed": null
+  },
+  "Shelton Henderson": {
+    "fp": 23.18,
+    "region": "West",
+    "seed": 7
+  },
+  "Dillon Hunter": {
+    "fp": 16.88,
+    "region": "South",
+    "seed": 8
+  },
+  "Mackenzie Mgbako": {
+    "fp": 18.23,
+    "region": "South",
+    "seed": 10
+  },
+  "Barry Evans": {
+    "fp": 16.94,
+    "region": "South",
+    "seed": 11
+  },
+  "Elmarko Jackson": {
+    "fp": 9.58,
+    "region": "East",
+    "seed": 4
+  },
+  "Kur Teng": {
+    "fp": 11.22,
+    "region": "East",
+    "seed": 3
+  },
+  "Kyan Evans": {
+    "fp": 10.26,
+    "region": "South",
+    "seed": 6
+  },
+  "Jalil Bethea": {
+    "fp": 7.78,
+    "region": "MW",
+    "seed": 4
+  },
+  "Tavion Banks": {
+    "fp": 17.92,
+    "region": "South",
+    "seed": 9
+  },
+  "Brandon Noel": {
+    "fp": 13.82,
+    "region": "East",
+    "seed": 8
+  },
+  "Gicarri Harris": {
+    "fp": 8.71,
+    "region": "West",
+    "seed": 2
+  },
+  "Kam Williams": {
+    "fp": 11.4,
+    "region": "MW",
+    "seed": 7
+  },
+  "Isaac McKneely": {
+    "fp": 15.64,
+    "region": "East",
+    "seed": 6
+  },
+  "Nick Pringle": {
+    "fp": 10.4,
+    "region": "West",
+    "seed": 4
+  }
 }
