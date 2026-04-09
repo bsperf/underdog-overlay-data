@@ -1,15 +1,12 @@
 {
   "games": [
-    { "matchup": "CHC @ TB", "over_under": "4.1" },
-    { "matchup": "TB vs CHC", "over_under": "4.1" },
-
     { "matchup": "CIN @ MIA", "over_under": "3.9" },
-    { "matchup": "MIA vs CIN", "over_under": "4.2" },
+    { "matchup": "MIA vs CIN", "over_under": "4.3" },
 
-    { "matchup": "ATH @ NYY", "over_under": "3.7" },
-    { "matchup": "NYY vs ATH", "over_under": "5.0" },
+    { "matchup": "ATH @ NYY", "over_under": "3.4" },
+    { "matchup": "NYY vs ATH", "over_under": "4.8" },
 
-    { "matchup": "DET @ MIN", "over_under": "4.5" },
-    { "matchup": "MIN vs DET", "over_under": "3.7" }
+    { "matchup": "DET @ MIN", "over_under": "4.6" },
+    { "matchup": "MIN vs DET", "over_under": "4.1" }
   ]
 }
