@@ -1,18 +1,61 @@
 {
   "games": [
-    { "matchup": "MIN @ WSH", "over_under": "4.40" },
-    { "matchup": "WSH vs MIN", "over_under": "5.48" },
+    {
+      "matchup": "BAL @ MIA",
+      "away_team": "BAL",
+      "home_team": "MIA",
+      "away_total": 4.14,
+      "home_total": 4.25
+    },
+    {
+      "matchup": "ATH @ PHI",
+      "away_team": "ATH",
+      "home_team": "PHI",
+      "away_total": 4.92,
+      "home_total": 4.96
+    },
+    {
+      "matchup": "TB @ BOS",
+      "away_team": "TB",
+      "home_team": "BOS",
+      "away_total": 5.14,
+      "home_total": 4.86
+    },
+    {
+      "matchup": "STL @ SD",
+      "away_team": "STL",
+      "home_team": "SD",
+      "away_total": 4.28,
+      "home_total": 5.44
+    },
 
-    { "matchup": "CLE @ KC", "over_under": "5.16" },
-    { "matchup": "KC vs CLE", "over_under": "5.49" },
-
-    { "matchup": "CIN @ CHC", "over_under": "4.11" },
-    { "matchup": "CHC vs CIN", "over_under": "6.21" },
-
-    { "matchup": "NYM @ COL", "over_under": "6.61" },
-    { "matchup": "COL vs NYM", "over_under": "5.98" },
-
-    { "matchup": "PIT @ AZ", "over_under": "4.90" },
-    { "matchup": "AZ vs PIT", "over_under": "5.31" }
+    {
+      "matchup": "MIA vs BAL",
+      "away_team": "BAL",
+      "home_team": "MIA",
+      "away_total": 4.14,
+      "home_total": 4.25
+    },
+    {
+      "matchup": "PHI vs ATH",
+      "away_team": "ATH",
+      "home_team": "PHI",
+      "away_total": 4.92,
+      "home_total": 4.96
+    },
+    {
+      "matchup": "BOS vs TB",
+      "away_team": "TB",
+      "home_team": "BOS",
+      "away_total": 5.14,
+      "home_total": 4.86
+    },
+    {
+      "matchup": "SD vs STL",
+      "away_team": "STL",
+      "home_team": "SD",
+      "away_total": 4.28,
+      "home_total": 5.44
+    }
   ]
 }
