@@ -1,250 +1,302 @@
 [
   {
-    "player": "Aaron Rai",
-    "exposure": 17.39
+    "player": "Angel Reese",
+    "colI": 39.84
   },
   {
-    "player": "Adam Hadwin",
-    "exposure": 4.35
+    "player": "Alyssa Thomas",
+    "colI": 39.25
   },
   {
-    "player": "Alex Smalley",
-    "exposure": 17.39
+    "player": "Jessica Shepard",
+    "colI": 37.08
   },
   {
-    "player": "Andrew Novak",
-    "exposure": 13.04
+    "player": "Rhyne Howard",
+    "colI": 36.34
   },
   {
-    "player": "Austin Eckroat",
-    "exposure": 4.35
+    "player": "Paige Bueckers",
+    "colI": 34.52
   },
   {
-    "player": "Beau Hossler",
-    "exposure": 8.7
+    "player": "Shakira Austin",
+    "colI": 34.15
   },
   {
-    "player": "Ben Griffin",
-    "exposure": 4.35
+    "player": "Dominique Malonga",
+    "colI": 33.93
   },
   {
-    "player": "C.T. Pan",
-    "exposure": 4.35
+    "player": "Kiki Iriafen",
+    "colI": 33.19
   },
   {
-    "player": "Charley Hoffman",
-    "exposure": 4.35
+    "player": "Allisha Gray",
+    "colI": 31.59
   },
   {
-    "player": "Danny Walker",
-    "exposure": 4.35
+    "player": "Sonia Citron",
+    "colI": 31.54
   },
   {
-    "player": "Davis Thompson",
-    "exposure": 21.74
+    "player": "Jordin Canada",
+    "colI": 31.53
   },
   {
-    "player": "Doug Ghim",
-    "exposure": 4.35
+    "player": "Brittney Griner",
+    "colI": 28.83
   },
   {
-    "player": "Eric Cole",
-    "exposure": 4.35
+    "player": "Valeriane Ayayi",
+    "colI": 28.5
   },
   {
-    "player": "Harris English",
-    "exposure": 4.35
+    "player": "Arike Ogunbowale",
+    "colI": 27.27
   },
   {
-    "player": "Hayden Springer",
-    "exposure": 4.35
+    "player": "Kahleah Copper",
+    "colI": 26.91
   },
   {
-    "player": "J.J. Spaun",
-    "exposure": 13.04
+    "player": "Aneesah Morrow",
+    "colI": 23.92
   },
   {
-    "player": "Jacob Bridgeman",
-    "exposure": 17.39
+    "player": "Flau'jae Johnson",
+    "colI": 23.52
   },
   {
-    "player": "Jake Knapp",
-    "exposure": 26.09
+    "player": "Natisha Hiedeman",
+    "colI": 23.39
   },
   {
-    "player": "Jason Day",
-    "exposure": 26.09
+    "player": "Aaliyah Edwards",
+    "colI": 22.79
   },
   {
-    "player": "Jhonattan Vegas",
-    "exposure": 4.35
+    "player": "DeWanna Bonner",
+    "colI": 22.56
   },
   {
-    "player": "Justin Lower",
-    "exposure": 4.35
+    "player": "Azzi Fudd",
+    "colI": 22.5
   },
   {
-    "player": "Keith Mitchell",
-    "exposure": 13.04
+    "player": "Awa Fam",
+    "colI": 21.54
   },
   {
-    "player": "Kevin Yu",
-    "exposure": 4.35
+    "player": "Monique Akoa Makani",
+    "colI": 21.37
   },
   {
-    "player": "Kurt Kitayama",
-    "exposure": 4.35
+    "player": "Naz Hillmon",
+    "colI": 21.34
   },
   {
-    "player": "Lee Hodges",
-    "exposure": 8.7
+    "player": "Madina Okot",
+    "colI": 20.7
   },
   {
-    "player": "Mackenzie Hughes",
-    "exposure": 4.35
+    "player": "Kennedy Burke",
+    "colI": 20.28
   },
   {
-    "player": "Matt Wallace",
-    "exposure": 4.35
+    "player": "Leila Lacan",
+    "colI": 17.79
   },
   {
-    "player": "Matteo Manassero",
-    "exposure": 4.35
+    "player": "Olivia Nelson-Ododa",
+    "colI": 17.71
   },
   {
-    "player": "Matthew McCarty",
-    "exposure": 4.35
+    "player": "Alexa Held",
+    "colI": 17.44
   },
   {
-    "player": "Maverick McNealy",
-    "exposure": 13.04
+    "player": "Alanna Smith",
+    "colI": 16.74
   },
   {
-    "player": "Max McGreevy",
-    "exposure": 4.35
+    "player": "Saniya Rivers",
+    "colI": 16.15
   },
   {
-    "player": "Michael Kim",
-    "exposure": 30.43
+    "player": "Michaela Onyenwere",
+    "colI": 15.76
   },
   {
-    "player": "Michael Thorbjornsen",
-    "exposure": 4.35
+    "player": "Kyara Linskens",
+    "colI": 15.42
   },
   {
-    "player": "Min Woo Lee",
-    "exposure": 4.35
+    "player": "Jordan Horston",
+    "colI": 14.43
   },
   {
-    "player": "Nick Dunlap",
-    "exposure": 4.35
+    "player": "Ezi Magbegor",
+    "colI": 14.36
   },
   {
-    "player": "Nicolai Hojgaard",
-    "exposure": 4.35
+    "player": "Maddy Siegrist",
+    "colI": 14.32
   },
   {
-    "player": "Nicolas Echavarria",
-    "exposure": 4.35
+    "player": "Georgia Amoore",
+    "colI": 13.9
   },
   {
-    "player": "Niklas Norgaard Moller",
-    "exposure": 4.35
+    "player": "Awak Kuier",
+    "colI": 13.86
   },
   {
-    "player": "Patrick Fishburn",
-    "exposure": 8.7
+    "player": "Te-Hina Paopao",
+    "colI": 13.55
   },
   {
-    "player": "Patrick Rodgers",
-    "exposure": 8.7
+    "player": "Lauren Betts",
+    "colI": 13.26
   },
   {
-    "player": "Rasmus Hojgaard",
-    "exposure": 4.35
+    "player": "Jade Melbourne",
+    "colI": 13.2
   },
   {
-    "player": "Rickie Fowler",
-    "exposure": 4.35
+    "player": "Li Yueru",
+    "colI": 12.31
   },
   {
-    "player": "Rico Hoey",
-    "exposure": 4.35
+    "player": "Cassandre Prosper",
+    "colI": 11.47
   },
   {
-    "player": "Ryan Fox",
-    "exposure": 4.35
+    "player": "Cotie McMahon",
+    "colI": 11.45
   },
   {
-    "player": "Ryan Gerard",
-    "exposure": 4.35
+    "player": "Charlisse Leger-Walker",
+    "colI": 11.27
   },
   {
-    "player": "Ryo Hisatsune",
-    "exposure": 4.35
+    "player": "Diamond Miller",
+    "colI": 11.12
   },
   {
-    "player": "Sahith Theegala",
-    "exposure": 8.7
+    "player": "Mackenzie Holmes",
+    "colI": 10.24
   },
   {
-    "player": "Sam Stevens",
-    "exposure": 4.35
+    "player": "Angela Dugalic",
+    "colI": 9.57
   },
   {
-    "player": "Scottie Scheffler",
-    "exposure": 17.39
+    "player": "Katie Lou Samuelson",
+    "colI": 8.16
   },
   {
-    "player": "Seamus Power",
-    "exposure": 4.35
+    "player": "Zia Cooke",
+    "colI": 7.71
   },
   {
-    "player": "Si Woo Kim",
-    "exposure": 13.04
+    "player": "Odyssey Sims",
+    "colI": 7.51
   },
   {
-    "player": "Stephan Jaeger",
-    "exposure": 8.7
+    "player": "Gianna Kneepkens",
+    "colI": 7.24
   },
   {
-    "player": "Sungjae Im",
-    "exposure": 43.48
+    "player": "Aziaha James",
+    "colI": 6.12
   },
   {
-    "player": "Takumi Kanaya",
-    "exposure": 8.7
+    "player": "Stefanie Dolson",
+    "colI": 5.06
   },
   {
-    "player": "Taylor Moore",
-    "exposure": 4.35
+    "player": "Marta Suarez",
+    "colI": 4.54
   },
   {
-    "player": "Taylor Pendrith",
-    "exposure": 34.78
+    "player": "Quionche Carter",
+    "colI": 4.13
   },
   {
-    "player": "Thomas Detry",
-    "exposure": 13.04
+    "player": "Hailey Van Lith",
+    "colI": 3.43
   },
   {
-    "player": "Thorbjorn Olesen",
-    "exposure": 4.35
+    "player": "Ashlon Jackson",
+    "colI": 3.0
   },
   {
-    "player": "Tony Finau",
-    "exposure": 30.43
+    "player": "Rori Harmon",
+    "colI": 1.95
   },
   {
-    "player": "Victor Perez",
-    "exposure": 8.7
+    "player": "Raegan Beers",
+    "colI": 1.94
   },
   {
-    "player": "Vince Whaley",
-    "exposure": 4.35
+    "player": "Shay Ciezki",
+    "colI": 1.68
   },
   {
-    "player": "Wyndham Clark",
-    "exposure": 13.04
+    "player": "Taylor Thierry",
+    "colI": 1.52
+  },
+  {
+    "player": "Nell Angloma",
+    "colI": 1.41
+  },
+  {
+    "player": "Lucy Olsen",
+    "colI": 0.62
+  },
+  {
+    "player": "Brionna Jones",
+    "colI": 0.0
+  },
+  {
+    "player": "Bernadett Hatar",
+    "colI": 0.0
+  },
+  {
+    "player": "Sika Kone",
+    "colI": 0.0
+  },
+  {
+    "player": "Isobel Borlase",
+    "colI": 0.0
+  },
+  {
+    "player": "Alysha Clark",
+    "colI": 0.0
+  },
+  {
+    "player": "Sug Sutton",
+    "colI": 0.0
+  },
+  {
+    "player": "Noemie Brochant",
+    "colI": 0.0
+  },
+  {
+    "player": "Jovana Nogic",
+    "colI": 0.0
+  },
+  {
+    "player": "Natasha Mack",
+    "colI": 0.0
+  },
+  {
+    "player": "Sami Whitcomb",
+    "colI": 0.0
+  },
+  {
+    "player": "Kathryn Westbeld",
+    "colI": 0.0
   }
 ]
