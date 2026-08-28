@@ -3,7 +3,7 @@
     "Age": 24.59,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 315
+    "Proj": 315.0
   },
   "Puka Nacua": {
     "Age": 25.26,
@@ -15,7 +15,7 @@
     "Age": 26.5,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 277
+    "Proj": 277.0
   },
   "Jaxon Smith-Njigba": {
     "Age": 24.54,
@@ -27,7 +27,7 @@
     "Age": 24.45,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 331
+    "Proj": 331.0
   },
   "CeeDee Lamb": {
     "Age": 27.4,
@@ -51,7 +51,7 @@
     "Age": 26.93,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 262
+    "Proj": 262.0
   },
   "De'Von Achane": {
     "Age": 24.88,
@@ -63,25 +63,25 @@
     "Age": 26.86,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 265
+    "Proj": 265.0
   },
   "Trey McBride": {
     "Age": 26.78,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 188
+    "Proj": 188.0
   },
   "Drake London": {
     "Age": 25.11,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 219
+    "Proj": 219.0
   },
   "Malik Nabers": {
     "Age": 23.1,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 203
+    "Proj": 203.0
   },
   "Justin Jefferson": {
     "Age": 27.21,
@@ -105,13 +105,19 @@
     "Age": 23.46,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 236
+    "Proj": 236.0
   },
   "Brock Bowers": {
     "Age": 23.72,
     "Rookie": "No",
     "FreeAgent": "No",
     "Proj": 191.5
+  },
+  "George Pickens": {
+    "Age": 25.49,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 199.0
   },
   "Derrick Henry": {
     "Age": 32.66,
@@ -136,7 +142,7 @@
     "Age": 26.45,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 240
+    "Proj": 240.0
   },
   "Chris Olave": {
     "Age": 26.18,
@@ -154,7 +160,7 @@
     "Age": 30.28,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 369
+    "Proj": 369.0
   },
   "Tee Higgins": {
     "Age": 27.62,
@@ -166,19 +172,19 @@
     "Age": 23.41,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 194
+    "Proj": 194.0
   },
   "Josh Jacobs": {
     "Age": 28.55,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 241
+    "Proj": 241.0
   },
   "A.J. Brown": {
     "Age": 29.17,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 206
+    "Proj": 206.0
   },
   "Bucky Irving": {
     "Age": 24.04,
@@ -196,7 +202,7 @@
     "Age": 25.43,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 176
+    "Proj": 176.0
   },
   "Travis Etienne Jr.": {
     "Age": 27.6,
@@ -204,23 +210,41 @@
     "FreeAgent": "No",
     "Proj": 223.5
   },
+  "Breece Hall": {
+    "Age": 25.25,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 248.0
+  },
   "Ladd McConkey": {
     "Age": 24.8,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 181
+    "Proj": 181.0
   },
   "Drake Maye": {
     "Age": 24.01,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 319
+    "Proj": 319.0
   },
   "Davante Adams": {
     "Age": 33.69,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 198
+    "Proj": 198.0
+  },
+  "Kenneth Walker III": {
+    "Age": 25.86,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 250.0
+  },
+  "Kyle Pitts": {
+    "Age": 25.9,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 145.0
   },
   "DeVonta Smith": {
     "Age": 27.8,
@@ -232,19 +256,19 @@
     "Age": 22.4,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 166
+    "Proj": 166.0
   },
   "Garrett Wilson": {
     "Age": 26.11,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 199
+    "Proj": 199.0
   },
   "Zay Flowers": {
     "Age": 25.97,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 198
+    "Proj": 198.0
   },
   "RJ Harvey": {
     "Age": 25.57,
@@ -263,7 +287,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 188.5,
-    "Proj": 82
+    "Proj": 82.0
   },
   "Cam Skattebo": {
     "Age": 24.57,
@@ -275,7 +299,7 @@
     "Age": 29.65,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 323
+    "Proj": 323.0
   },
   "Carnell Tate": {
     "Age": 21.62,
@@ -288,7 +312,7 @@
     "Age": 24.79,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 281
+    "Proj": 281.0
   },
   "Christian Watson": {
     "Age": 27.31,
@@ -296,11 +320,17 @@
     "FreeAgent": "No",
     "Proj": 157.5
   },
+  "Alec Pierce": {
+    "Age": 26.33,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 156.5
+  },
   "D'Andre Swift": {
     "Age": 27.63,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 197
+    "Proj": 197.0
   },
   "Rome Odunze": {
     "Age": 24.25,
@@ -318,7 +348,7 @@
     "Age": 23.88,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 194
+    "Proj": 194.0
   },
   "Luther Burden": {
     "Age": 22.72,
@@ -330,7 +360,7 @@
     "Age": 28.48,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 283
+    "Proj": 283.0
   },
   "Stefon Diggs": {
     "Age": 32.76,
@@ -349,13 +379,19 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 278.2,
-    "Proj": 129
+    "Proj": 129.0
   },
   "Quinshon Judkins": {
     "Age": 22.84,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 211
+    "Proj": 211.0
+  },
+  "Mike Evans": {
+    "Age": 33.03,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 152.5
   },
   "Tyler Warren": {
     "Age": 24.27,
@@ -373,19 +409,19 @@
     "Age": 22.12,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 147
+    "Proj": 147.0
   },
   "Rhamondre Stevenson": {
     "Age": 28.52,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 182
+    "Proj": 182.0
   },
   "Jaxson Dart": {
     "Age": 23.3,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 300
+    "Proj": 300.0
   },
   "Terry McLaurin": {
     "Age": 30.96,
@@ -397,25 +433,25 @@
     "Age": 27.83,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 169
+    "Proj": 169.0
   },
   "Trevor Lawrence": {
     "Age": 26.9,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 288
+    "Proj": 288.0
   },
   "Joe Burrow": {
     "Age": 29.72,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 305
+    "Proj": 305.0
   },
   "Jayden Daniels": {
     "Age": 25.7,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 318
+    "Proj": 318.0
   },
   "Denzel Boston": {
     "Age": 22.74,
@@ -423,6 +459,12 @@
     "FreeAgent": "No",
     "FTS Pts": 220.85,
     "Proj": 114.5
+  },
+  "Javonte Williams": {
+    "Age": 26.35,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 241.5
   },
   "Marvin Harrison": {
     "Age": 24.06,
@@ -440,25 +482,25 @@
     "Age": 29.34,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 171
+    "Proj": 171.0
   },
   "Jalen Hurts": {
     "Age": 28.07,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 320
+    "Proj": 320.0
   },
   "Michael Pittman Jr.": {
     "Age": 28.91,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 153
+    "Proj": 153.0
   },
   "Matthew Stafford": {
     "Age": 38.57,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 293
+    "Proj": 293.0
   },
   "Quentin Johnston": {
     "Age": 24.99,
@@ -482,7 +524,7 @@
     "Age": 24.24,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 163
+    "Proj": 163.0
   },
   "Blake Corum": {
     "Age": 25.77,
@@ -511,7 +553,7 @@
     "Age": 24.45,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 155
+    "Proj": 155.0
   },
   "Chuba Hubbard": {
     "Age": 27.23,
@@ -523,7 +565,7 @@
     "Age": 29.81,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 147
+    "Proj": 147.0
   },
   "Jadarian Price": {
     "Age": 22.98,
@@ -536,13 +578,13 @@
     "Age": 24.54,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 188
+    "Proj": 188.0
   },
   "Patrick Mahomes": {
     "Age": 30.96,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 291
+    "Proj": 291.0
   },
   "Elijah Sarratt": {
     "Age": 23.26,
@@ -555,19 +597,19 @@
     "Age": 25.63,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 150
+    "Proj": 150.0
   },
   "Dak Prescott": {
     "Age": 33.09,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 287
+    "Proj": 287.0
   },
   "Khalil Shakir": {
     "Age": 26.58,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 136
+    "Proj": 136.0
   },
   "Kayshon Boutte": {
     "Age": 24.32,
@@ -575,17 +617,35 @@
     "FreeAgent": "No",
     "Proj": 89.5
   },
+  "Wan'Dale Robinson": {
+    "Age": 25.65,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 135.5
+  },
+  "Romeo Doubs": {
+    "Age": 26.38,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 124.0
+  },
   "Bo Nix": {
     "Age": 26.52,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 296
+    "Proj": 296.0
   },
   "Brenton Strange": {
     "Age": 25.68,
     "Rookie": "No",
     "FreeAgent": "No",
     "Proj": 112.5
+  },
+  "Rico Dowdle": {
+    "Age": 28.22,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 171.5
   },
   "Jayden Reed": {
     "Age": 26.34,
@@ -604,25 +664,37 @@
     "Age": 23.35,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 146
+    "Proj": 146.0
   },
   "Brock Purdy": {
     "Age": 26.68,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 292
+    "Proj": 292.0
+  },
+  "Dallas Goedert": {
+    "Age": 31.66,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 141.5
+  },
+  "Jalen Coker": {
+    "Age": 24.84,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 116.5
   },
   "Woody Marks": {
     "Age": 25.67,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 116
+    "Proj": 116.0
   },
   "Jordan Addison": {
     "Age": 24.59,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 140
+    "Proj": 140.0
   },
   "Jayden Higgins": {
     "Age": 23.71,
@@ -633,44 +705,44 @@
     "Age": 23.19,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 62
+    "Proj": 62.0
   },
   "Chris Godwin": {
     "Age": 30.51,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 127
+    "Proj": 127.0
   },
   "Kaytron Allen": {
     "Age": 23.65,
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 243.1,
-    "Proj": 14
+    "Proj": 14.0
   },
   "Jerry Jeudy": {
     "Age": 27.36,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 114
+    "Proj": 114.0
   },
   "Josh Downs": {
     "Age": 25.05,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 123
+    "Proj": 123.0
   },
   "Pat Bryant": {
     "Age": 23.73,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 59
+    "Proj": 59.0
   },
   "Jordan Love": {
     "Age": 27.83,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 259
+    "Proj": 259.0
   },
   "Matthew Golden": {
     "Age": 23.09,
@@ -682,7 +754,13 @@
     "Age": 31.88,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 268
+    "Proj": 268.0
+  },
+  "Deebo Samuel": {
+    "Age": 30.63,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 126.0
   },
   "Kenyon Sadiq": {
     "Age": 21.49,
@@ -696,30 +774,36 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 149.5,
-    "Proj": 84
+    "Proj": 84.0
   },
   "Mark Andrews": {
     "Age": 30.99,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 140
+    "Proj": 140.0
   },
   "Travis Hunter": {
     "Age": 23.29,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 91
+    "Proj": 91.0
   },
   "Jacory Croskey-Merritt": {
     "Age": 25.39,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 151
+    "Proj": 151.0
   },
   "Brandon Aiyuk": {
     "Age": 28.46,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Kenneth Gainwell": {
+    "Age": 27.47,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 152.0
   },
   "David Montgomery": {
     "Age": 29.23,
@@ -731,7 +815,7 @@
     "Age": 32.9,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 152
+    "Proj": 152.0
   },
   "Jalen McMillan": {
     "Age": 24.73,
@@ -739,18 +823,42 @@
     "FreeAgent": "No",
     "Proj": 109.5
   },
+  "Jauan Jennings": {
+    "Age": 29.14,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 92.0
+  },
   "Tyjae Spears": {
     "Age": 25.21,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 129
+    "Proj": 129.0
   },
   "Emmett Johnson": {
     "Age": 22.89,
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 316.1,
-    "Proj": 43
+    "Proj": 43.0
+  },
+  "Rashid Shaheed": {
+    "Age": 28.0,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 122.5
+  },
+  "Tyler Allgeier": {
+    "Age": 26.38,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 82.0
+  },
+  "Kimani Vidal": {
+    "Age": 25.01,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 32.0
   },
   "Jake Ferguson": {
     "Age": 27.62,
@@ -762,7 +870,7 @@
     "Age": 31.38,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 265
+    "Proj": 265.0
   },
   "Aaron Jones": {
     "Age": 31.75,
@@ -774,7 +882,7 @@
     "Age": 29.07,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 250
+    "Proj": 250.0
   },
   "Chris Bell": {
     "Age": 23.54,
@@ -787,7 +895,7 @@
     "Age": 31.73,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 122
+    "Proj": 122.0
   },
   "AJ Barner": {
     "Age": 24.33,
@@ -799,24 +907,30 @@
     "Age": 25.65,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 124
+    "Proj": 124.0
   },
   "Tyreek Hill": {
     "Age": 32.5,
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Sean Tucker": {
+    "Age": 24.85,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 36.0
+  },
   "Adonai Mitchell": {
     "Age": 23.9,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 106
+    "Proj": 106.0
   },
   "Tyrone Tracy": {
     "Age": 26.77,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 35
+    "Proj": 35.0
   },
   "Jordan Mason": {
     "Age": 27.27,
@@ -828,19 +942,19 @@
     "Age": 26.93,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 266
+    "Proj": 266.0
   },
   "Dalton Schultz": {
     "Age": 30.14,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 103
+    "Proj": 103.0
   },
   "Tank Dell": {
     "Age": 26.84,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 79
+    "Proj": 79.0
   },
   "Calvin Ridley": {
     "Age": 31.7,
@@ -859,7 +973,7 @@
     "Age": 25.1,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 237
+    "Proj": 237.0
   },
   "James Conner": {
     "Age": 31.33,
@@ -870,14 +984,26 @@
     "Age": 29.24,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 242
+    "Proj": 242.0
   },
   "Fernando Mendoza": {
     "Age": 22.92,
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 398.35,
-    "Proj": 187
+    "Proj": 187.0
+  },
+  "Rachaad White": {
+    "Age": 27.64,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 145.0
+  },
+  "Isaiah Likely": {
+    "Age": 26.37,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 124.5
   },
   "Alvin Kamara": {
     "Age": 31.1,
@@ -889,19 +1015,19 @@
     "Age": 24.91,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 246
+    "Proj": 246.0
   },
   "Tank Bigsby": {
     "Age": 24.01,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 62
+    "Proj": 62.0
   },
   "Colby Parkinson": {
     "Age": 27.65,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 61
+    "Proj": 61.0
   },
   "J.K. Dobbins": {
     "Age": 27.71,
@@ -919,13 +1045,13 @@
     "Age": 23.49,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 113
+    "Proj": 113.0
   },
   "Dylan Sampson": {
     "Age": 21.96,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 73
+    "Proj": 73.0
   },
   "Theo Johnson": {
     "Age": 25.51,
@@ -938,19 +1064,25 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 215.05,
-    "Proj": 89
+    "Proj": 89.0
   },
   "T.J. Hockenson": {
     "Age": 29.16,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 119
+    "Proj": 119.0
   },
   "Cam Ward": {
     "Age": 24.27,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 220
+    "Proj": 220.0
+  },
+  "Malik Willis": {
+    "Age": 27.27,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 239.0
   },
   "Kyle Williams": {
     "Age": 27.88,
@@ -968,7 +1100,7 @@
     "Age": 33.21,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 83
+    "Proj": 83.0
   },
   "Juwan Johnson": {
     "Age": 29.97,
@@ -980,7 +1112,7 @@
     "Age": 28.72,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 99
+    "Proj": 99.0
   },
   "Chimere Dike": {
     "Age": 24.71,
@@ -992,85 +1124,121 @@
     "Age": 25.48,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 114
+    "Proj": 114.0
   },
   "Rashod Bateman": {
     "Age": 26.76,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 103
+    "Proj": 103.0
+  },
+  "Daniel Jones": {
+    "Age": 29.26,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 267.0
   },
   "J.J. McCarthy": {
     "Age": 23.61,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 40
+    "Proj": 40.0
   },
   "Michael Penix": {
     "Age": 26.32,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 113
+    "Proj": 113.0
+  },
+  "Christian Kirk": {
+    "Age": 29.79,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 23.0
   },
   "Darnell Mooney": {
     "Age": 28.84,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 60
+    "Proj": 60.0
   },
   "Jack Bech": {
     "Age": 23.7,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 52
+    "Proj": 52.0
+  },
+  "Cade Otton": {
+    "Age": 27.38,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 79.5
   },
   "Xavier Legette": {
     "Age": 25.59,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 76
+    "Proj": 76.0
   },
   "Keon Coleman": {
     "Age": 23.29,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 63
+    "Proj": 63.0
+  },
+  "Keenan Allen": {
+    "Age": 34.35,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 96.5
   },
   "Tory Horton": {
     "Age": 23.76,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 54
+    "Proj": 54.0
   },
   "Isaac TeSlaa": {
     "Age": 24.53,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 61
+    "Proj": 61.0
   },
   "Jacoby Brissett": {
     "Age": 33.72,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 199
+    "Proj": 199.0
   },
   "Dontayvion Wicks": {
     "Age": 25.21,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 88
+    "Proj": 88.0
   },
   "Jaylin Noel": {
     "Age": 23.99,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 84
+    "Proj": 84.0
   },
   "Mason Taylor": {
     "Age": 22.32,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 52
+    "Proj": 52.0
+  },
+  "Travis Kelce": {
+    "Age": 36.91,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 141.0
+  },
+  "Emanuel Wilson": {
+    "Age": 27.32,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 9.5
   },
   "Eli Stowers": {
     "Age": 23.38,
@@ -1083,14 +1251,14 @@
     "Age": 33.52,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 5
+    "Proj": 5.0
   },
   "Max Klare": {
     "Age": 23.65,
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 99.8,
-    "Proj": 8
+    "Proj": 8.0
   },
   "Braelon Allen": {
     "Age": 22.61,
@@ -1108,7 +1276,7 @@
     "Age": 38.03,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 46
+    "Proj": 46.0
   },
   "Ty Simpson": {
     "Age": 23.7,
@@ -1120,13 +1288,19 @@
     "Age": 27.85,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 106
+    "Proj": 106.0
   },
   "Ray Davis": {
     "Age": 26.81,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 34
+    "Proj": 34.0
+  },
+  "Isiah Pacheco": {
+    "Age": 27.5,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 115.5
   },
   "Evan Engram": {
     "Age": 32.0,
@@ -1138,19 +1312,49 @@
     "Age": 23.41,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 49
+    "Proj": 49.0
+  },
+  "David Njoku": {
+    "Age": 30.14,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 84.0
+  },
+  "Keaton Mitchell": {
+    "Age": 24.62,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 84.0
   },
   "Chris Rodriguez": {
     "Age": 26.93,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 69
+    "Proj": 69.0
+  },
+  "Darren Waller": {
+    "Age": 33.97,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 93.5
+  },
+  "Najee Harris": {
+    "Age": 28.48,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 72.0
   },
   "Hollywood Brown": {
     "Age": 29.24,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 28
+    "Proj": 28.0
+  },
+  "Jake Tonges": {
+    "Age": 27.15,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 20.0
   },
   "Darius Slayton": {
     "Age": 29.63,
@@ -1168,19 +1372,19 @@
     "Age": 27.48,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 43
+    "Proj": 43.0
   },
   "Ja'Tavion Sanders": {
     "Age": 23.43,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 32
+    "Proj": 32.0
   },
   "Shedeur Sanders": {
     "Age": 24.56,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 143
+    "Proj": 143.0
   },
   "Joe Mixon": {
     "Age": 30.11,
@@ -1191,7 +1395,7 @@
     "Age": 30.91,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 70
+    "Proj": 70.0
   },
   "Malik Washington": {
     "Age": 25.66,
@@ -1199,11 +1403,23 @@
     "FreeAgent": "No",
     "Proj": 92.5
   },
+  "Tyler Higbee": {
+    "Age": 33.66,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 30.5
+  },
+  "Aaron Rodgers": {
+    "Age": 42.75,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 219.0
+  },
   "Tua Tagovailoa": {
     "Age": 28.5,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 115
+    "Proj": 115.0
   },
   "Dawson Knox": {
     "Age": 29.8,
@@ -1215,13 +1431,13 @@
     "Age": 24.45,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 58
+    "Proj": 58.0
   },
   "Ollie Gordon": {
     "Age": 22.63,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 33
+    "Proj": 33.0
   },
   "Trey Benson": {
     "Age": 24.11,
@@ -1244,13 +1460,31 @@
     "Age": 22.46,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 26
+    "Proj": 26.0
+  },
+  "Jalen Nailor": {
+    "Age": 27.5,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 102.0
   },
   "Cedric Tillman": {
     "Age": 26.37,
     "Rookie": "No",
     "FreeAgent": "No",
     "Proj": 5.5
+  },
+  "Chig Okonkwo": {
+    "Age": 26.98,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 95.5
+  },
+  "Brian Robinson": {
+    "Age": 27.45,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 89.5
   },
   "Jordan Whittington": {
     "Age": 25.92,
@@ -1262,7 +1496,13 @@
     "Age": 25.73,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 66
+    "Proj": 66.0
+  },
+  "Jahan Dotson": {
+    "Age": 26.44,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 75.5
   },
   "Xavier Hutchinson": {
     "Age": 26.25,
@@ -1286,19 +1526,25 @@
     "Age": 27.04,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 9
+    "Proj": 9.0
   },
   "Noah Gray": {
     "Age": 27.34,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 48
+    "Proj": 48.0
   },
   "Deshaun Watson": {
     "Age": 30.97,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 79
+    "Proj": 79.0
+  },
+  "Jalen Tolbert": {
+    "Age": 27.51,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 67.5
   },
   "Mack Hollins": {
     "Age": 32.96,
@@ -1315,13 +1561,13 @@
     "Age": 23.75,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 13
+    "Proj": 13.0
   },
   "Tommy Tremble": {
     "Age": 26.25,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 35
+    "Proj": 35.0
   },
   "Quinn Ewers": {
     "Age": 23.47,
@@ -1342,7 +1588,7 @@
     "Age": 30.08,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 58
+    "Proj": 58.0
   },
   "Justice Hill": {
     "Age": 28.8,
@@ -1354,7 +1600,7 @@
     "Age": 25.2,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 23
+    "Proj": 23.0
   },
   "Calvin Austin III": {
     "Age": 27.44,
@@ -1365,19 +1611,19 @@
     "Age": 23.02,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 32
+    "Proj": 32.0
   },
   "Justin Fields": {
     "Age": 27.49,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 11
+    "Proj": 11.0
   },
   "Brashard Smith": {
     "Age": 23.39,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
   },
   "Will Shipley": {
     "Age": 24.01,
@@ -1400,7 +1646,7 @@
     "Age": 24.88,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 15
+    "Proj": 15.0
   },
   "Ben Sinnott": {
     "Age": 24.22,
@@ -1429,7 +1675,13 @@
     "Age": 24.22,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 15
+    "Proj": 15.0
+  },
+  "Noah Fant": {
+    "Age": 28.78,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 27.5
   },
   "Demarcus Robinson": {
     "Age": 31.95,
@@ -1463,19 +1715,19 @@
     "Age": 23.85,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 24
+    "Proj": 24.0
   },
   "Geno Smith": {
     "Age": 35.89,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 232
+    "Proj": 232.0
   },
   "Gunnar Helm": {
     "Age": 23.99,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 98
+    "Proj": 98.0
   },
   "Jonathon Brooks": {
     "Age": 23.12,
@@ -1493,7 +1745,7 @@
     "Age": 28.96,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 74
+    "Proj": 74.0
   },
   "Samaje Perine": {
     "Age": 30.96,
@@ -1505,13 +1757,13 @@
     "Age": 26.18,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
   },
   "Tahj Brooks": {
     "Age": 24.3,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 18
+    "Proj": 18.0
   },
   "Jalin Hyatt": {
     "Age": 24.93,
@@ -1529,11 +1781,17 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Olamide Zaccheaus": {
+    "Age": 29.11,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 25.0
+  },
   "Devontez Walker": {
     "Age": 25.2,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 37
+    "Proj": 37.0
   },
   "Treylon Burks": {
     "Age": 26.44,
@@ -1545,7 +1803,7 @@
     "Age": 24.34,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 31
+    "Proj": 31.0
   },
   "Joshua Palmer": {
     "Age": 26.94,
@@ -1553,33 +1811,51 @@
     "FreeAgent": "No",
     "Proj": 36.5
   },
+  "Austin Hooper": {
+    "Age": 31.84,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 32.5
+  },
   "Antonio Gibson": {
     "Age": 28.19,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Greg Dortch": {
+    "Age": 28.26,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 14.0
   },
   "Roschon Johnson": {
     "Age": 25.58,
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Kendrick Bourne": {
+    "Age": 31.08,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 38.5
+  },
   "Tai Felton": {
     "Age": 23.47,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 7
+    "Proj": 7.0
   },
   "Ryan Flournoy": {
     "Age": 26.85,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 72
+    "Proj": 72.0
   },
   "Jawhar Jordan": {
     "Age": 27.04,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 7
+    "Proj": 7.0
   },
   "Elijah Higgins": {
     "Age": 25.85,
@@ -1592,6 +1868,24 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Mo Alie-Cox": {
+    "Age": 32.95,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 22.5
+  },
+  "Tutu Atwell": {
+    "Age": 26.9,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 44.5
+  },
+  "Foster Moreau": {
+    "Age": 29.32,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 15.0
+  },
   "Jameis Winston": {
     "Age": 32.65,
     "Rookie": "No",
@@ -1602,17 +1896,35 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Chris Brooks": {
+    "Age": 26.64,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 30.0
+  },
   "Bam Knight": {
     "Age": 25.39,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
+  },
+  "Kalif Raymond": {
+    "Age": 32.07,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 38.5
+  },
+  "Emari Demercado": {
+    "Age": 27.61,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 56.0
   },
   "Trevor Etienne": {
     "Age": 22.15,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 15
+    "Proj": 15.0
   },
   "Luke Schoonmaker": {
     "Age": 27.93,
@@ -1630,6 +1942,12 @@
     "Age": 31.66,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "George Holani": {
+    "Age": 26.71,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 37.0
   },
   "Jimmy Horn": {
     "Age": 23.97,
@@ -1653,7 +1971,19 @@
     "Age": 25.65,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 78
+    "Proj": 78.0
+  },
+  "Greg Dulcich": {
+    "Age": 26.43,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 93.0
+  },
+  "Tyler Badie": {
+    "Age": 26.57,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 0.0
   },
   "Jonathan Mingo": {
     "Age": 25.37,
@@ -1665,12 +1995,30 @@
     "Age": 29.45,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 14
+    "Proj": 14.0
+  },
+  "Dyami Brown": {
+    "Age": 26.83,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 39.0
+  },
+  "Adam Trautman": {
+    "Age": 29.57,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 23.0
   },
   "AJ Dillon": {
     "Age": 28.33,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Tyquan Thornton": {
+    "Age": 26.07,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 66.0
   },
   "Casey Washington": {
     "Age": 25.49,
@@ -1681,13 +2029,19 @@
     "Age": 26.68,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 7
+    "Proj": 7.0
   },
   "Josh Oliver": {
     "Age": 29.45,
     "Rookie": "No",
     "FreeAgent": "No",
     "Proj": 29.5
+  },
+  "Daniel Bellinger": {
+    "Age": 25.94,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 20.5
   },
   "Kalel Mullings": {
     "Age": 23.91,
@@ -1708,7 +2062,7 @@
     "Age": 24.77,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 51
+    "Proj": 51.0
   },
   "Phil Mafah": {
     "Age": 23.85,
@@ -1735,7 +2089,7 @@
     "Age": 25.97,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 48
+    "Proj": 48.0
   },
   "Curtis Samuel": {
     "Age": 30.06,
@@ -1746,7 +2100,7 @@
     "Age": 27.76,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 15
+    "Proj": 15.0
   },
   "Payne Durham": {
     "Age": 26.21,
@@ -1763,31 +2117,31 @@
     "Age": 28.82,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 28
+    "Proj": 28.0
   },
   "Kyle Juszczyk": {
     "Age": 35.36,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 35
+    "Proj": 35.0
   },
   "Arian Smith": {
     "Age": 24.89,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 4
+    "Proj": 4.0
   },
   "Alec Ingold": {
     "Age": 30.15,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 12
+    "Proj": 12.0
   },
   "LeQuint Allen": {
     "Age": 22.07,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 35
+    "Proj": 35.0
   },
   "Joshua Dobbs": {
     "Age": 31.6,
@@ -1833,7 +2187,7 @@
     "Age": 30.06,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 10
+    "Proj": 10.0
   },
   "Xavier Restrepo": {
     "Age": 24.39,
@@ -1850,6 +2204,12 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Patrick Ricard": {
+    "Age": 32.27,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 5.0
+  },
   "Trey Palmer": {
     "Age": 25.42,
     "Rookie": "No",
@@ -1859,7 +2219,7 @@
     "Age": 24.71,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 2
+    "Proj": 2.0
   },
   "Mitchell Evans": {
     "Age": 23.46,
@@ -1875,7 +2235,7 @@
     "Age": 26.72,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
   },
   "Xavier Gipson": {
     "Age": 25.48,
@@ -1898,11 +2258,17 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Charlie Kolar": {
+    "Age": 27.56,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 28.5
+  },
   "Rasheen Ali": {
     "Age": 25.54,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "David Bell": {
     "Age": 25.71,
@@ -1920,11 +2286,23 @@
     "FreeAgent": "No",
     "Proj": 21.5
   },
+  "Malachi Corley": {
+    "Age": 24.45,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 9.0
+  },
   "Derius Davis": {
     "Age": 25.97,
     "Rookie": "No",
     "FreeAgent": "No",
     "Proj": 10.5
+  },
+  "DeeJay Dallas": {
+    "Age": 27.96,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 0.0
   },
   "Nick Nash": {
     "Age": 26.08,
@@ -1940,6 +2318,12 @@
     "Age": 26.83,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Durham Smythe": {
+    "Age": 31.06,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 19.0
   },
   "Lan Larison": {
     "Age": 24.89,
@@ -1961,7 +2345,7 @@
     "Age": 25.4,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
   },
   "Cedrick Wilson": {
     "Age": 30.78,
@@ -1973,22 +2357,34 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Devin Duvernay": {
+    "Age": 28.97,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 1.0
+  },
   "Dante Pettis": {
     "Age": 30.86,
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Xavier Smith": {
+    "Age": 28.94,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 10.0
+  },
   "Ashton Dulin": {
     "Age": 29.3,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 25
+    "Proj": 25.0
   },
   "Charlie Jones": {
     "Age": 27.84,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 2
+    "Proj": 2.0
   },
   "Justin Watson": {
     "Age": 30.41,
@@ -1996,11 +2392,17 @@
     "FreeAgent": "No",
     "Proj": 7.5
   },
+  "Skyy Moore": {
+    "Age": 25.97,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 0.0
+  },
   "Davis Allen": {
     "Age": 25.57,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 16
+    "Proj": 16.0
   },
   "Parris Campbell": {
     "Age": 29.13,
@@ -2026,7 +2428,7 @@
     "Age": 22.43,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 27
+    "Proj": 27.0
   },
   "Cam Akers": {
     "Age": 27.2,
@@ -2038,11 +2440,17 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Tanner Hudson": {
+    "Age": 31.8,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 22.5
+  },
   "LaJohntay Wester": {
     "Age": 24.43,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 2
+    "Proj": 2.0
   },
   "Jared Wiley": {
     "Age": 25.83,
@@ -2054,10 +2462,22 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Braxton Berrios": {
+    "Age": 30.9,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 2.0
+  },
   "Damien Martinez": {
     "Age": 22.58,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Nikko Remigio": {
+    "Age": 26.83,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 1.0
   },
   "Sione Vaki": {
     "Age": 25.09,
@@ -2073,13 +2493,13 @@
     "Age": 25.57,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
   },
   "Isaiah Williams": {
     "Age": 25.59,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 25
+    "Proj": 25.0
   },
   "Dee Eskridge": {
     "Age": 29.44,
@@ -2090,7 +2510,7 @@
     "Age": 27.01,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 1
+    "Proj": 1.0
   },
   "Isaiah Ford": {
     "Age": 30.56,
@@ -2106,7 +2526,7 @@
     "Age": 27.76,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 25
+    "Proj": 25.0
   },
   "Jake Fromm": {
     "Age": 28.09,
@@ -2169,7 +2589,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 205.8,
-    "Proj": 23
+    "Proj": 23.0
   },
   "Tyler Scott": {
     "Age": 24.89,
@@ -2200,6 +2620,12 @@
     "Age": 25.6,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Reggie Gilliam": {
+    "Age": 29.03,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 6.0
   },
   "Andrew Armstrong": {
     "Age": 25.83,
@@ -2684,6 +3110,12 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Joe Flacco": {
+    "Age": 41.62,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 11.0
+  },
   "Ainias Smith": {
     "Age": 25.25,
     "Rookie": "No",
@@ -2835,7 +3267,7 @@
     "Age": 29.46,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 2
+    "Proj": 2.0
   },
   "Trishton Jackson": {
     "Age": 28.48,
@@ -3157,7 +3589,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 181.5,
-    "Proj": 93
+    "Proj": 93.0
   },
   "Darrel Williams": {
     "Age": 31.38,
@@ -3384,6 +3816,12 @@
     "Rookie": "Yes",
     "FreeAgent": "No"
   },
+  "Michael Burton": {
+    "Age": 34.58,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 8.0
+  },
   "James Washington": {
     "Age": 30.41,
     "Rookie": "No",
@@ -3580,7 +4018,7 @@
     "Age": 28.74,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "Duke Williams": {
     "Age": 35.88,
@@ -3601,6 +4039,12 @@
     "Age": 28.14,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Nate Adkins": {
+    "Age": 27.15,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 15.0
   },
   "JaQuae Jackson": {
     "Age": 26.59,
@@ -3636,7 +4080,7 @@
     "Age": 25.48,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "Kenny Golladay": {
     "Age": 32.83,
@@ -3788,7 +4232,7 @@
     "Age": 26.32,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "Tanner Koziol": {
     "Age": null,
@@ -3916,7 +4360,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 80.2,
-    "Proj": 29
+    "Proj": 29.0
   },
   "Laviska Shenault Jr.": {
     "Age": null,
@@ -4023,6 +4467,12 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Connor Heyward": {
+    "Age": 27.61,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 8.0
+  },
   "Tanner Morgan": {
     "Age": 27.38,
     "Rookie": "No",
@@ -4094,7 +4544,7 @@
     "Age": 28.86,
     "Rookie": "Yes",
     "FreeAgent": "No",
-    "Proj": 65
+    "Proj": 65.0
   },
   "Reid Sinnett": {
     "Age": 29.57,
@@ -4172,7 +4622,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 139.9,
-    "Proj": 8
+    "Proj": 8.0
   },
   "Corey Davis": {
     "Age": 31.64,
@@ -4214,6 +4664,12 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Dareke Young": {
+    "Age": 27.24,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 0.0
+  },
   "Cade Stover": {
     "Age": 26.22,
     "Rookie": "No",
@@ -4254,6 +4710,12 @@
     "Age": 32.79,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Andrew Beck": {
+    "Age": 30.3,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 6.0
   },
   "Elijah Dotson": {
     "Age": 27.62,
@@ -4321,14 +4783,14 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 216.8,
-    "Proj": 23
+    "Proj": 23.0
   },
   "Malachi Fields": {
     "Age": null,
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 127.0,
-    "Proj": 56
+    "Proj": 56.0
   },
   "Diego Pavia": {
     "Age": null,
@@ -4350,7 +4812,7 @@
     "Age": 29.62,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 9
+    "Proj": 9.0
   },
   "Kevin Coleman Jr.": {
     "Age": null,
@@ -4413,7 +4875,7 @@
     "Age": 26.06,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 19
+    "Proj": 19.0
   },
   "Tarik Black": {
     "Age": 28.56,
@@ -4434,6 +4896,12 @@
     "Age": 28.48,
     "Rookie": "No",
     "FreeAgent": "No"
+  },
+  "Ben Sims": {
+    "Age": 26.29,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 11.5
   },
   "Myles Gaskin": {
     "Age": 29.54,
@@ -4480,7 +4948,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 94.6,
-    "Proj": 12
+    "Proj": 12.0
   },
   "Matt Bushman": {
     "Age": 30.83,
@@ -4589,7 +5057,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 66.3,
-    "Proj": 33
+    "Proj": 33.0
   },
   "Da'Quan Felton": {
     "Age": 25.63,
@@ -4878,6 +5346,12 @@
     "Rookie": "No",
     "FreeAgent": "No"
   },
+  "Kene Nwangwu": {
+    "Age": 28.56,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 2.0
+  },
   "Dillon Gabriel": {
     "Age": 25.68,
     "Rookie": "No",
@@ -4985,7 +5459,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 311.35,
-    "Proj": 29
+    "Proj": 29.0
   },
   "Luis Perez": {
     "Age": 32.02,
@@ -5072,7 +5546,7 @@
     "Age": null,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 30
+    "Proj": 30.0
   },
   "Tre Stewart": {
     "Age": 23.72,
@@ -5118,7 +5592,7 @@
     "Age": 28.01,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "Xavier Weaver": {
     "Age": 25.89,
@@ -5222,7 +5696,7 @@
     "Age": null,
     "Rookie": "Yes",
     "FreeAgent": "No",
-    "Proj": 61
+    "Proj": 61.0
   },
   "E.J. Jenkins": {
     "Age": 27.83,
@@ -5309,7 +5783,7 @@
     "Age": null,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 56
+    "Proj": 56.0
   },
   "Ethan Garbers": {
     "Age": 24.1,
@@ -5471,7 +5945,7 @@
     "Age": 29.18,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 3
+    "Proj": 3.0
   },
   "Jaden Shirden": {
     "Age": 24.33,
@@ -5519,7 +5993,7 @@
     "Age": null,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 18
+    "Proj": 18.0
   },
   "Matt Breida": {
     "Age": 31.51,
@@ -5711,7 +6185,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 174.1,
-    "Proj": 14
+    "Proj": 14.0
   },
   "Nick Muse": {
     "Age": 27.77,
@@ -5807,7 +6281,7 @@
     "Age": 26.69,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "Deven Thompkins": {
     "Age": 26.69,
@@ -5834,7 +6308,7 @@
     "Age": null,
     "Rookie": "Yes",
     "FreeAgent": "No",
-    "Proj": 23
+    "Proj": 23.0
   },
   "Logan Thomas": {
     "Age": 35.17,
@@ -5891,7 +6365,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 208.2,
-    "Proj": 0
+    "Proj": 0.0
   },
   "Dillon Bell": {
     "Age": null,
@@ -6046,7 +6520,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 52.1,
-    "Proj": 14
+    "Proj": 14.0
   },
   "Patrick Herbert": {
     "Age": 25.87,
@@ -6109,7 +6583,7 @@
     "Age": 25.23,
     "Rookie": "No",
     "FreeAgent": "No",
-    "Proj": 0
+    "Proj": 0.0
   },
   "Thaddeus Moss": {
     "Age": 28.3,
@@ -6191,7 +6665,7 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 64.9,
-    "Proj": 14
+    "Proj": 14.0
   },
   "Jamoi Mayes": {
     "Age": 24.02,
@@ -6254,5 +6728,125 @@
     "Rookie": "Yes",
     "FreeAgent": "No",
     "FTS Pts": 63.5
+  },
+  "Max Bredeson": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 7.5
+  },
+  "Riley Nowakowski": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 6.0
+  },
+  "British Brooks": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 2.0
+  },
+  "Cyrus Allen": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 43.5
+  },
+  "Kyle T. Williams": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 43.0
+  },
+  "Malik Benson": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 38.5
+  },
+  "Bo Melton": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 10.5
+  },
+  "Jahdae Walker": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 7.5
+  },
+  "Kaden Wetjen": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 4.0
+  },
+  "Kameron Johnson": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 4.0
+  },
+  "Ke'Shawn Williams": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 1.0
+  },
+  "Gage Larvadain": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 1.0
+  },
+  "Will Kacmarek": {
+    "Age": null,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 31.0
+  },
+  "Ken Walker": {
+    "Age": 25.86,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 250.0
+  },
+  "Kenny Gainwell": {
+    "Age": 27.47,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 152.0
+  },
+  "Omar Cooper": {
+    "Age": null,
+    "Rookie": "Yes",
+    "FreeAgent": "No",
+    "Proj": 70.5
+  },
+  "DeZhaun Stribling": {
+    "Age": null,
+    "Rookie": "Yes",
+    "FreeAgent": "No",
+    "Proj": 125.5
+  },
+  "Mike Washington": {
+    "Age": null,
+    "Rookie": "Yes",
+    "FreeAgent": "No",
+    "Proj": 61.0
+  },
+  "Brian Robinson Jr.": {
+    "Age": 27.45,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 89.5
+  },
+  "Chigoziem Okonkwo": {
+    "Age": 26.98,
+    "Rookie": "No",
+    "FreeAgent": "No",
+    "Proj": 95.5
   }
 }
