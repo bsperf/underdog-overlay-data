@@ -1,10 +1,10 @@
 {
 "games": [
-{ "matchup": "TB @ ATL", "over_under": "4.46" },
-{ "matchup": "ATL vs TB", "over_under": "4.38" },
+{ "matchup": "COL @ NYY", "over_under": "3.68" },
+{ "matchup": "NYY vs COL", "over_under": "5.27" },
 
-{ "matchup": "HOU @ PHI", "over_under": "4.94" },
-{ "matchup": "PHI vs HOU", "over_under": "5.30" }
+{ "matchup": "PIT @ CWS", "over_under": "3.98" },
+{ "matchup": "CWS vs PIT", "over_under": "3.66" }
 
 ]
 }
