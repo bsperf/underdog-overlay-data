@@ -1,0 +1,33 @@
+{
+  "slate": "2026-09-27-main",
+  "label": "Sunday Main - 13 Games",
+  "updated": "2026-09-25",
+  "teams": {
+    "CIN": {"opponent":"PIT","total":23.0,"spread":-3.5},
+    "PIT": {"opponent":"CIN","total":19.5,"spread":3.5},
+    "CAR": {"opponent":"CLE","total":22.5,"spread":-2.5},
+    "CLE": {"opponent":"CAR","total":20.0,"spread":2.5},
+    "NE":  {"opponent":"JAX","total":21.75,"spread":3.0},
+    "JAX": {"opponent":"NE","total":24.75,"spread":-3.0},
+    "LAC": {"opponent":"BUF","total":21.5,"spread":7.5},
+    "BUF": {"opponent":"LAC","total":29.0,"spread":-7.5},
+    "NYJ": {"opponent":"DET","total":20.75,"spread":6.5},
+    "DET": {"opponent":"NYJ","total":27.25,"spread":-6.5},
+    "HOU": {"opponent":"IND","total":22.0,"spread":-1.5},
+    "IND": {"opponent":"HOU","total":20.5,"spread":1.5},
+    "KC":  {"opponent":"MIA","total":28.25,"spread":-10.5},
+    "MIA": {"opponent":"KC","total":17.75,"spread":10.5},
+    "TEN": {"opponent":"NYG","total":17.75,"spread":2.5},
+    "NYG": {"opponent":"TEN","total":20.75,"spread":-2.5},
+    "SEA": {"opponent":"WAS","total":24.0,"spread":-7.5},
+    "WAS": {"opponent":"SEA","total":16.5,"spread":7.5},
+    "ARI": {"opponent":"SF","total":19.5,"spread":8.5},
+    "SF":  {"opponent":"ARI","total":28.0,"spread":-8.5},
+    "MIN": {"opponent":"TB","total":22.0,"spread":1.5},
+    "TB":  {"opponent":"MIN","total":20.5,"spread":-1.5},
+    "LV":  {"opponent":"NO","total":20.25,"spread":3.0},
+    "NO":  {"opponent":"LV","total":23.25,"spread":-3.0},
+    "BAL": {"opponent":"DAL","total":28.25,"spread":-3.5},
+    "DAL": {"opponent":"BAL","total":24.75,"spread":3.5}
+  }
+}
