@@ -1,0 +1,78 @@
+{
+  "teams": {
+    "TB": {
+      "league": "AL",
+      "league_odds": "+270",
+      "seed": 1
+    },
+    "NYY": {
+      "league": "AL",
+      "league_odds": "+320",
+      "seed": 4
+    },
+    "CLE": {
+      "league": "AL",
+      "league_odds": "+550",
+      "seed": 2,
+      "seed_pct": "53.0%"
+    },
+    "BOS": {
+      "league": "AL",
+      "league_odds": "+600",
+      "seed": 5
+    },
+    "CWS": {
+      "league": "AL",
+      "league_odds": "+650",
+      "seed": 6,
+      "seed_pct": "53.0%"
+    },
+    "HOU": {
+      "league": "AL",
+      "league_odds": "+850",
+      "seed": 3,
+      "seed_pct": "68.7%"
+    },
+    "TEX": {
+      "league": "AL",
+      "league_odds": "+1500",
+      "seed": 3,
+      "seed_pct": "31.3%"
+    },
+    "LAD": {
+      "league": "NL",
+      "league_odds": "+115",
+      "seed": 2
+    },
+    "MIL": {
+      "league": "NL",
+      "league_odds": "+340",
+      "seed": 1
+    },
+    "ATL": {
+      "league": "NL",
+      "league_odds": "+750",
+      "seed": 3
+    },
+    "PHI": {
+      "league": "NL",
+      "league_odds": "+800",
+      "seed": 6
+    },
+    "CHC": {
+      "league": "NL",
+      "league_odds": "+850",
+      "seed": 5
+    },
+    "SD": {
+      "league": "NL",
+      "league_odds": "+1200",
+      "seed": 4
+    },
+    "AZ": {
+      "league": "NL",
+      "league_odds": "+10000",
+      "seed": 6
+    }
+  }
+}
