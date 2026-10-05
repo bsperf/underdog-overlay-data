@@ -26,43 +26,118 @@ VALID_TEAMS = {
     "STL", "TB", "TEX", "TOR", "WSH"
 }
 
+TEAM_NAMES = {
+    "Arizona": "AZ",
+    "Athletics": "ATH",
+    "Atlanta": "ATL",
+    "Baltimore": "BAL",
+    "Boston": "BOS",
+    "Chicago Cubs": "CHC",
+    "Chicago White Sox": "CWS",
+    "Cincinnati": "CIN",
+    "Cleveland": "CLE",
+    "Colorado": "COL",
+    "Detroit": "DET",
+    "Houston": "HOU",
+    "Kansas City": "KC",
+    "Los Angeles Angels": "LAA",
+    "Los Angeles Dodgers": "LAD",
+    "Miami": "MIA",
+    "Milwaukee": "MIL",
+    "Minnesota": "MIN",
+    "New York Mets": "NYM",
+    "New York Yankees": "NYY",
+    "Philadelphia": "PHI",
+    "Pittsburgh": "PIT",
+    "San Diego": "SD",
+    "San Francisco": "SF",
+    "Seattle": "SEA",
+    "St. Louis": "STL",
+    "Tampa Bay": "TB",
+    "Texas": "TEX",
+    "Toronto": "TOR",
+    "Washington": "WSH"
+}
+
+
 def normalize(value):
     code = re.sub(
-        r"[^A-Z]", "", str(value).upper()
+        r"[^A-Z]", "",
+        str(value).upper()
     )
     return TEAM_ALIASES.get(code, code)
 
-def identify_team(card):
-    # Inspect the card header and its attributes.
-    candidates = []
 
-    for el in [card] + list(
-        card.select(
-            '[class*="header"], [class*="team"], '
-            '[data-team], [title], img[alt]'
-        )
+def find_team_in_text(text):
+    text = str(text or "")
+
+    # Prefer explicit full names.
+    for name, code in sorted(
+        TEAM_NAMES.items(),
+        key=lambda item: -len(item[0])
     ):
-        for attr in (
-            "data-team", "data-team-abbr",
-            "title", "alt"
+        if re.search(
+            r"\b" + re.escape(name) + r"\b",
+            text,
+            re.I
         ):
-            if el.has_attr(attr):
-                candidates.append(el.get(attr, ""))
+            return code
 
-        if el.name != "img":
-            candidates.append(
+    # Then try standalone abbreviations.
+    for token in re.findall(
+        r"\b[A-Z]{2,3}\b",
+        text.upper()
+    ):
+        code = normalize(token)
+        if code in VALID_TEAMS:
+            return code
+
+    return None
+
+
+def identify_team(card):
+    # Check explicit attributes and nearby
+    # team/header elements first.
+    elements = [card] + list(
+        card.select(
+            '[class*="header"], '
+            '[class*="team"], '
+            '[data-team], '
+            '[title], img[alt]'
+        )
+    )
+
+    for el in elements:
+        for attr in (
+            "data-team",
+            "data-team-abbr",
+            "data-abbr",
+            "title",
+            "alt"
+        ):
+            value = el.get(attr)
+
+            if value:
+                team = find_team_in_text(value)
+                if team:
+                    return team
+
+    # Search nearby headings outside the card.
+    parent = card.parent
+
+    if parent:
+        for el in parent.find_all(
+            ["h2", "h3", "h4"],
+            recursive=False
+        ):
+            team = find_team_in_text(
                 el.get_text(" ", strip=True)
             )
-
-    for text in candidates:
-        for token in re.findall(
-            r"\b[A-Z]{2,3}\b", text.upper()
-        ):
-            team = normalize(token)
-            if team in VALID_TEAMS:
+            if team:
                 return team
 
     return None
+
 
 def parse_lineups(html):
     soup = BeautifulSoup(
@@ -77,7 +152,7 @@ def parse_lineups(html):
         len(cards)
     )
 
-    for card in cards:
+    for index, card in enumerate(cards):
         body = card.select_one(
             ".lineup-card-body"
         )
@@ -87,14 +162,17 @@ def parse_lineups(html):
 
         team = identify_team(card)
 
-        if not team:
+        # Show the actual surrounding HTML
+        # to locate reliable team identifiers.
+        if index == 0:
             print(
-                "DIAGNOSTICS: unidentified card:",
-                card.get_text(
-                    " ", strip=True
-                )[:160]
+                "DIAGNOSTICS: first card HTML:",
+                str(card)[:3500]
             )
-            continue
+            print(
+                "DIAGNOSTICS: first card parent HTML:",
+                str(card.parent)[:5000]
+            )
 
         lineup = [None] * 9
 
@@ -119,17 +197,30 @@ def parse_lineups(html):
             if not slot.isdigit():
                 continue
 
-            index = int(slot) - 1
+            index_number = int(slot) - 1
 
-            if 0 <= index < 9:
-                lineup[index] = (
+            if 0 <= index_number < 9:
+                lineup[index_number] = (
                     name_el.get_text(
                         " ", strip=True
                     )
                 )
 
-        # Do not publish partial lineups.
+        if not team:
+            print(
+                "DIAGNOSTICS: unidentified card:",
+                index,
+                "first player:",
+                lineup[0]
+            )
+            continue
+
         if any(not name for name in lineup):
+            print(
+                "DIAGNOSTICS: incomplete lineup:",
+                team,
+                lineup
+            )
             continue
 
         unconfirmed = (
@@ -143,7 +234,7 @@ def parse_lineups(html):
 
         if team in results:
             raise ValueError(
-                f"Duplicate lineup for {team}"
+                f"Duplicate team detected: {team}"
             )
 
         results[team] = {
@@ -151,27 +242,28 @@ def parse_lineups(html):
             "lineup": lineup
         }
 
-    if not results:
-        raise ValueError(
-            "No complete team lineups parsed"
-        )
-
     print(
         "DIAGNOSTICS: parsed teams:",
         list(results)
     )
 
+    if not results:
+        raise ValueError(
+            "No complete team lineups parsed"
+        )
+
     return results
+
 
 def main():
     response = requests.get(
         URL,
         headers={
-            "User-Agent":
-                "Mozilla/5.0"
+            "User-Agent": "Mozilla/5.0"
         },
         timeout=30
     )
+
     response.raise_for_status()
 
     teams = parse_lineups(
@@ -197,6 +289,7 @@ def main():
         f"Saved {len(teams)} teams "
         f"to {OUTPUT}"
     )
+
 
 if __name__ == "__main__":
     main()
