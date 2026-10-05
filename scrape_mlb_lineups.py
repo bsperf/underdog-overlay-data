@@ -50,13 +50,18 @@ TEAMS = {
 }
 
 ALIASES = {
-    "ARI": "AZ", "ARZ": "AZ",
-    "OAK": "ATH", "KCR": "KC",
-    "SDP": "SD", "SFG": "SF",
-    "TBR": "TB", "WAS": "WSH"
+    "ARI": "AZ",
+    "ARZ": "AZ",
+    "OAK": "ATH",
+    "KCR": "KC",
+    "SDP": "SD",
+    "SFG": "SF",
+    "TBR": "TB",
+    "WAS": "WSH"
 }
 
 VALID = set(TEAMS.values())
+
 
 def identify(text):
     text = str(text or "").strip()
@@ -67,19 +72,21 @@ def identify(text):
     ):
         if re.search(
             r"(?<!\w)" + re.escape(name) + r"(?!\w)",
-            text, re.I
+            text,
+            re.I
         ):
             return code
 
-    code = re.sub(r"[^A-Z]", "", text.upper())
+    code = re.sub(
+        r"[^A-Z]", "", text.upper()
+    )
+
     code = ALIASES.get(code, code)
 
     return code if code in VALID else None
 
 
 def header_teams(game, lineups):
-    # Look only before the lineup section,
-    # avoiding player names and stats.
     candidates = []
 
     for child in game.children:
@@ -89,24 +96,36 @@ def header_teams(game, lineups):
         if not getattr(child, "name", None):
             continue
 
+        # Ignore player and lineup elements.
+        if "game-card-lineups" in child.get(
+            "class", []
+        ):
+            continue
+
         for el in [child] + list(child.descendants):
             if not getattr(el, "name", None):
                 continue
 
             for attr in (
-                "alt", "title", "data-team",
-                "data-abbr", "data-team-abbr"
+                "alt",
+                "title",
+                "data-team",
+                "data-abbr",
+                "data-team-abbr"
             ):
                 value = el.get(attr)
+
                 if isinstance(value, str):
                     candidates.append(value)
 
-            # Only short text-bearing elements.
             if el.name in (
-                "span", "a", "h2", "h3",
-                "h4", "strong"
+                "span", "a", "h2",
+                "h3", "h4", "strong"
             ):
-                value = el.get_text(" ", strip=True)
+                value = el.get_text(
+                    " ", strip=True
+                )
+
                 if len(value) <= 45:
                     candidates.append(value)
 
@@ -114,6 +133,7 @@ def header_teams(game, lineups):
 
     for candidate in candidates:
         code = identify(candidate)
+
         if code and code not in found:
             found.append(code)
 
@@ -121,17 +141,22 @@ def header_teams(game, lineups):
 
 
 def parse_card(card):
-    body = card.select_one(".lineup-card-body")
+    body = card.select_one(
+        ".lineup-card-body"
+    )
 
     if body is None:
         return None
 
     lineup = [None] * 9
 
-    for player in body.select(".lineup-card-player"):
+    for player in body.select(
+        ".lineup-card-player"
+    ):
         name_el = player.select_one(
             ".player-nameplate-name"
         )
+
         number_el = player.select_one(
             ".player-nameplate > .small"
         )
@@ -139,7 +164,9 @@ def parse_card(card):
         if not name_el or not number_el:
             continue
 
-        number = number_el.get_text(strip=True)
+        number = number_el.get_text(
+            strip=True
+        )
 
         if not number.isdigit():
             continue
@@ -147,15 +174,19 @@ def parse_card(card):
         index = int(number) - 1
 
         if 0 <= index < 9:
-            lineup[index] = name_el.get_text(
-                " ", strip=True
+            lineup[index] = (
+                name_el.get_text(
+                    " ", strip=True
+                )
             )
 
     if any(name is None for name in lineup):
         return None
 
     unconfirmed = (
-        "unconfirmed" in body.get("class", [])
+        "unconfirmed" in body.get(
+            "class", []
+        )
         or body.select_one(
             ".lineup-card-unconfirmed"
         ) is not None
@@ -168,9 +199,14 @@ def parse_card(card):
 
 
 def parse(html):
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(
+        html, "html.parser"
+    )
 
-    sections = soup.select(".game-card-lineups")
+    sections = soup.select(
+        ".game-card-lineups"
+    )
+
     results = {}
 
     print(
@@ -179,34 +215,66 @@ def parse(html):
     )
 
     if not sections:
-        raise ValueError("No game lineup sections")
+        raise ValueError(
+            "No game lineup sections found"
+        )
 
     for index, section in enumerate(sections):
         cards = section.select(
             ":scope > .lineup-card"
         )
 
-        game = section.parent
+        # Find the OUTER game card.
+        game = section.find_parent(
+            class_="game-card"
+        )
 
         if game is None:
-            raise ValueError("Missing game container")
+            print(
+                "DIAGNOSTICS: ancestors:",
+                [
+                    (
+                        p.name,
+                        p.get("class"),
+                        p.get("data-team")
+                    )
+                    for p in list(
+                        section.parents
+                    )[:6]
+                    if getattr(
+                        p, "name", None
+                    )
+                ]
+            )
 
-        teams = header_teams(game, section)
+            raise ValueError(
+                "Cannot find outer game card"
+            )
+
+        teams = header_teams(
+            game, section
+        )
 
         print(
-            "DIAGNOSTICS: game", index,
+            "DIAGNOSTICS: game",
+            index,
             "teams:", teams,
             "cards:", len(cards)
         )
 
         if len(teams) != 2 or len(cards) != 2:
-            # Print header markup, not entire lineups.
             header = []
+
             for child in game.children:
                 if child is section:
                     break
-                if getattr(child, "name", None):
-                    header.append(str(child))
+
+                if getattr(
+                    child, "name", None
+                ):
+                    header.append(
+                        str(child)
+                    )
 
             print(
                 "DIAGNOSTICS: game header HTML:",
@@ -217,8 +285,13 @@ def parse(html):
                 f"Cannot safely identify game {index}"
             )
 
-        for team, card in zip(teams, cards):
-            parsed = parse_card(card)
+        # Away team first, home team second.
+        for team, card in zip(
+            teams, cards
+        ):
+            parsed = parse_card(
+                card
+            )
 
             if parsed is None:
                 raise ValueError(
@@ -232,7 +305,9 @@ def parse(html):
 
             results[team] = parsed
 
-    if len(results) != len(sections) * 2:
+    if len(results) != (
+        len(sections) * 2
+    ):
         raise ValueError(
             "Team count does not match games"
         )
@@ -243,13 +318,17 @@ def parse(html):
 def main():
     response = requests.get(
         URL,
-        headers={"User-Agent": "Mozilla/5.0"},
+        headers={
+            "User-Agent": "Mozilla/5.0"
+        },
         timeout=30
     )
 
     response.raise_for_status()
 
-    results = parse(response.text)
+    results = parse(
+        response.text
+    )
 
     data = {
         "updated_at": datetime.now(
@@ -259,7 +338,10 @@ def main():
     }
 
     OUTPUT.write_text(
-        json.dumps(data, indent=2),
+        json.dumps(
+            data,
+            indent=2
+        ),
         encoding="utf-8"
     )
 
@@ -268,7 +350,11 @@ def main():
         len(results),
         "team lineups"
     )
-    print("Teams:", list(results))
+
+    print(
+        "Teams:",
+        list(results)
+    )
 
 
 if __name__ == "__main__":
