@@ -69,11 +69,37 @@ def parse(lines):
  if not blocks:raise ValueError('No lineups parsed')
  return dict(blocks)
 
+def diagnostics(html, lines):
+ soup = BeautifulSoup(html, 'html.parser')
+ print('DIAGNOSTICS: response bytes:', len(html), flush=True)
+ print('DIAGNOSTICS: title:', soup.title.get_text(' ', strip=True) if soup.title else '(none)', flush=True)
+ print('DIAGNOSTICS: text count:', len(lines), flush=True)
+ print('DIAGNOSTICS: first 65 visible text tokens:', repr(lines[:65]), flush=True)
+ for term in ('Chicago White Sox','Cleveland Guardians','Sam Antonacci','lineup not released'):
+  hits = [(i, v) for i,v in enumerate(lines) if term.lower() in v.lower()]
+  print('DIAGNOSTICS: term', repr(term), 'hits', hits[:4], flush=True)
+  tag = soup.find(string=lambda v: bool(v and term.lower() in str(v).lower()))
+  if tag:
+   for level in range(1,4):
+    parent=tag
+    for _ in range(level):
+     parent=parent.parent if parent else None
+    if parent:
+     print('DIAGNOSTICS: ancestor', term, level, str(parent)[:1600], flush=True)
+ # Detect likely bot/captcha pages without overwriting good data.
+ for term in ('captcha','access denied','cloudflare','enable javascript'):
+  if term in soup.get_text(' ',strip=True).lower():
+   print('DIAGNOSTICS: possible challenge:', term, flush=True)
+
 def main():
  r=requests.get(URL,headers={'User-Agent':'Mozilla/5.0 (compatible; lineup-updater/1.0)'},timeout=25)
  r.raise_for_status()
  lines=get_lines(r.text)
- data=parse(lines)
+ try:
+  data=parse(lines)
+ except Exception:
+  diagnostics(r.text,lines)
+  raise
  print('Parsed teams:',', '.join(data))
  payload={'updated_at':datetime.now(timezone.utc).isoformat(),'source':URL,'teams':data}
  OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
