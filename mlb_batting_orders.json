@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-06T01:52:15.762674+00:00",
+  "updated_at": "2026-10-06T08:32:36.319724+00:00",
   "teams": {
-    "CWS": {
-      "confirmed": true,
+    "LAD": {
+      "confirmed": false,
       "lineup": [
-        "Sam Antonacci",
-        "Kyle Teel",
-        "Miguel Vargas",
-        "Munetaka Murakami",
-        "Andrew Benintendi",
-        "Tristan Peters",
-        "Braden Montgomery",
-        "Chase Meidroth",
-        "Colson Montgomery"
+        "Mookie Betts",
+        "Shohei Ohtani",
+        "Will Smith",
+        "Freddie Freeman",
+        "Teoscar Hernandez",
+        "Kyle Tucker",
+        "Andy Pages",
+        "Max Muncy",
+        "Tommy Edman"
       ]
     },
-    "CLE": {
-      "confirmed": true,
+    "ATL": {
+      "confirmed": false,
       "lineup": [
-        "Steven Kwan",
-        "Jose Ramirez",
-        "Chase DeLauter",
-        "Jo Adell",
-        "Nathaniel Lowe",
-        "Angel Martinez",
-        "Travis Bazzana",
-        "Patrick Bailey",
-        "Brayan Rocchio"
+        "Drake Baldwin",
+        "Ronald Acuna",
+        "Matt Olson",
+        "Michael Harris",
+        "Mauricio Dubon",
+        "Mike Yastrzemski",
+        "Austin Riley",
+        "Ozzie Albies",
+        "Sean Murphy"
       ]
     },
-    "NYY": {
-      "confirmed": true,
+    "MIL": {
+      "confirmed": false,
       "lineup": [
-        "Ben Rice",
-        "Cody Bellinger",
-        "Luis Garcia Jr.",
-        "Spencer Jones",
-        "George Lombard",
-        "Jazz Chisholm",
-        "Trent Grisham",
-        "Austin Wells",
-        "Ryan McMahon"
+        "Jackson Chourio",
+        "Brice Turang",
+        "Jakob Bauers",
+        "William Contreras",
+        "Garrett Mitchell",
+        "Christian Yelich",
+        "Sal Frelick",
+        "Cooper Pratt",
+        "David Hamilton"
       ]
     },
-    "TB": {
-      "confirmed": true,
+    "SD": {
+      "confirmed": false,
       "lineup": [
-        "Yandy Diaz",
-        "Jonathan Aranda",
-        "Junior Caminero",
-        "Liam Hicks",
-        "Chandler Simpson",
-        "Victor Mesa",
-        "Jonny DeLuca",
-        "Richie Palacios",
-        "Taylor Walls"
+        "Fernando Tatis",
+        "Dustin Harris",
+        "Manny Machado",
+        "Ty France",
+        "Jackson Merrill",
+        "Gavin Sheets",
+        "Xander Bogaerts",
+        "Luis Campusano",
+        "Jake Cronenworth"
       ]
     }
   }
