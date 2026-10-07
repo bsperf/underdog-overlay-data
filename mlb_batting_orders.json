@@ -1,22 +1,50 @@
 {
-  "updated_at": "2026-10-07T05:51:53.363013+00:00",
+  "updated_at": "2026-10-07T12:35:22.930488+00:00",
   "teams": {
-    "LAD": {
-      "confirmed": true,
+    "CLE": {
+      "confirmed": false,
       "lineup": [
+        "Steven Kwan",
+        "Jose Ramirez",
+        "Chase DeLauter",
+        "Jo Adell",
+        "Angel Martinez",
+        "David Fry",
+        "Travis Bazzana",
+        "Patrick Bailey",
+        "Brayan Rocchio"
+      ]
+    },
+    "CWS": {
+      "confirmed": false,
+      "lineup": [
+        "Sam Antonacci",
+        "Kyle Teel",
+        "Miguel Vargas",
+        "Munetaka Murakami",
+        "Andrew Benintendi",
+        "Tristan Peters",
+        "Braden Montgomery",
+        "Chase Meidroth",
+        "Colson Montgomery"
+      ]
+    },
+    "LAD": {
+      "confirmed": false,
+      "lineup": [
+        "Shohei Ohtani",
         "Mookie Betts",
         "Freddie Freeman",
-        "Teoscar Hernandez",
         "Will Smith",
-        "Shohei Ohtani",
-        "Miguel Rojas",
-        "Andy Pages",
         "Kyle Tucker",
-        "Enrique Hernandez"
+        "Teoscar Hernandez",
+        "Max Muncy",
+        "Andy Pages",
+        "Tommy Edman"
       ]
     },
     "ATL": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Drake Baldwin",
         "Ronald Acuna",
@@ -29,8 +57,36 @@
         "Ha-seong Kim"
       ]
     },
+    "TB": {
+      "confirmed": false,
+      "lineup": [
+        "Yandy Diaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Ryan Vilade",
+        "Chandler Simpson",
+        "Jonny DeLuca",
+        "Nick Fortes",
+        "Victor Mesa",
+        "Taylor Walls"
+      ]
+    },
+    "NYY": {
+      "confirmed": false,
+      "lineup": [
+        "Ben Rice",
+        "Cody Bellinger",
+        "Luis Garcia Jr.",
+        "Spencer Jones",
+        "George Lombard",
+        "Jazz Chisholm",
+        "Trent Grisham",
+        "Austin Wells",
+        "Jose Caballero"
+      ]
+    },
     "MIL": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Jackson Chourio",
         "Jakob Bauers",
@@ -44,7 +100,7 @@
       ]
     },
     "SD": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Fernando Tatis",
         "Jackson Merrill",
