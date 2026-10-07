@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T19:04:31.687029+00:00",
+  "updated_at": "2026-10-07T23:34:02.797303+00:00",
   "teams": {
     "CLE": {
       "confirmed": true,
@@ -44,73 +44,73 @@
       ]
     },
     "ATL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
-        "Drake Baldwin",
+        "Michael Harris",
         "Ronald Acuna",
         "Matt Olson",
         "Ozzie Albies",
-        "Michael Harris",
+        "Drake Baldwin",
+        "Mike Yastrzemski",
         "Mauricio Dubon",
         "Austin Riley",
-        "Sean Murphy",
-        "Ha-seong Kim"
+        "Sean Murphy"
       ]
     },
     "TB": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
         "Junior Caminero",
-        "Ryan Vilade",
-        "Chandler Simpson",
-        "Jonny DeLuca",
-        "Nick Fortes",
         "Victor Mesa",
+        "Ryan Vilade",
+        "Liam Hicks",
+        "Jonny DeLuca",
+        "Richie Palacios",
         "Taylor Walls"
       ]
     },
     "NYY": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
-        "Ben Rice",
-        "Cody Bellinger",
-        "Luis Garcia Jr.",
-        "Spencer Jones",
-        "George Lombard",
-        "Jazz Chisholm",
         "Trent Grisham",
+        "Ben Rice",
+        "Luis Garcia Jr.",
+        "Cody Bellinger",
+        "George Lombard",
         "Austin Wells",
+        "Anthony Volpe",
+        "Spencer Jones",
         "Jose Caballero"
       ]
     },
     "MIL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Jackson Chourio",
-        "Jakob Bauers",
+        "Christian Yelich",
         "William Contreras",
         "Brice Turang",
-        "Christian Yelich",
-        "Garrett Mitchell",
+        "Jakob Bauers",
         "Cooper Pratt",
         "Sal Frelick",
+        "Garrett Mitchell",
         "Joey Ortiz"
       ]
     },
     "SD": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Fernando Tatis",
         "Jackson Merrill",
         "Manny Machado",
         "Ty France",
-        "Ethan Salas",
+        "Austin Hays",
         "Xander Bogaerts",
-        "Dustin Harris",
-        "Samad Taylor",
-        "Jake Cronenworth"
+        "Luis Campusano",
+        "Jake Cronenworth",
+        "Samad Taylor"
       ]
     }
   }
