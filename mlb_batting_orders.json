@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T20:30:20.413741+00:00",
+  "updated_at": "2026-10-07T00:04:18.122729+00:00",
   "teams": {
     "LAD": {
       "confirmed": true,
@@ -30,30 +30,30 @@
       ]
     },
     "MIL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Jackson Chourio",
-        "Brice Turang",
         "Jakob Bauers",
         "William Contreras",
-        "Garrett Mitchell",
+        "Brice Turang",
         "Christian Yelich",
-        "Sal Frelick",
+        "Garrett Mitchell",
         "Cooper Pratt",
-        "David Hamilton"
+        "Sal Frelick",
+        "Joey Ortiz"
       ]
     },
     "SD": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Fernando Tatis",
-        "Dustin Harris",
+        "Jackson Merrill",
         "Manny Machado",
         "Ty France",
-        "Jackson Merrill",
-        "Gavin Sheets",
+        "Ethan Salas",
         "Xander Bogaerts",
-        "Luis Campusano",
+        "Dustin Harris",
+        "Samad Taylor",
         "Jake Cronenworth"
       ]
     }
