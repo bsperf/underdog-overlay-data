@@ -1,21 +1,36 @@
-
 {
   "games": [
     {
+      "matchup": "CLE @ CWS",
+      "over_under": "4.96"
+    },
+    {
+      "matchup": "CWS vs CLE",
+      "over_under": "4.68"
+    },
+    {
       "matchup": "LAD @ ATL",
-      "over_under": "3.84"
+      "over_under": "5.22"
     },
     {
       "matchup": "ATL vs LAD",
-      "over_under": "3.36"
+      "over_under": "4.36"
+    },
+    {
+      "matchup": "TB @ NYY",
+      "over_under": "3.74"
+    },
+    {
+      "matchup": "NYY vs TB",
+      "over_under": "4.36"
     },
     {
       "matchup": "MIL @ SD",
-      "over_under": "3.71"
+      "over_under": "3.95"
     },
     {
       "matchup": "SD vs MIL",
-      "over_under": "4.36"
+      "over_under": "4.56"
     }
   ]
 }
