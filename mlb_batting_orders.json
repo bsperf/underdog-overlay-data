@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-08T17:25:16.762174+00:00",
+  "updated_at": "2026-10-08T22:19:55.073235+00:00",
   "teams": {
     "CLE": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
@@ -11,12 +11,12 @@
         "Nathaniel Lowe",
         "Angel Martinez",
         "Travis Bazzana",
-        "Patrick Bailey",
+        "Austin Hedges",
         "Brayan Rocchio"
       ]
     },
     "CWS": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Chase Meidroth",
         "Randal Grichuk",
