@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-08T02:54:04.532954+00:00",
+  "updated_at": "2026-10-08T10:10:49.493151+00:00",
   "teams": {
     "CLE": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
@@ -16,101 +16,17 @@
       ]
     },
     "CWS": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
-        "Sam Antonacci",
+        "Chase Meidroth",
+        "Randal Grichuk",
         "Miguel Vargas",
         "Munetaka Murakami",
+        "Tommy Pham",
+        "Brenton Doyle",
         "Kyle Teel",
-        "Chase Meidroth",
-        "Tristan Peters",
         "Braden Montgomery",
-        "Randal Grichuk",
         "Colson Montgomery"
-      ]
-    },
-    "LAD": {
-      "confirmed": true,
-      "lineup": [
-        "Mookie Betts",
-        "Freddie Freeman",
-        "Will Smith",
-        "Shohei Ohtani",
-        "Teoscar Hernandez",
-        "Max Muncy",
-        "Enrique Hernandez",
-        "Kyle Tucker",
-        "Andy Pages"
-      ]
-    },
-    "ATL": {
-      "confirmed": true,
-      "lineup": [
-        "Michael Harris",
-        "Ronald Acuna",
-        "Matt Olson",
-        "Ozzie Albies",
-        "Drake Baldwin",
-        "Mike Yastrzemski",
-        "Mauricio Dubon",
-        "Austin Riley",
-        "Sean Murphy"
-      ]
-    },
-    "TB": {
-      "confirmed": true,
-      "lineup": [
-        "Yandy Diaz",
-        "Jonathan Aranda",
-        "Junior Caminero",
-        "Victor Mesa",
-        "Ryan Vilade",
-        "Liam Hicks",
-        "Jonny DeLuca",
-        "Richie Palacios",
-        "Taylor Walls"
-      ]
-    },
-    "NYY": {
-      "confirmed": true,
-      "lineup": [
-        "Trent Grisham",
-        "Ben Rice",
-        "Luis Garcia Jr.",
-        "Cody Bellinger",
-        "George Lombard",
-        "Austin Wells",
-        "Anthony Volpe",
-        "Spencer Jones",
-        "Jose Caballero"
-      ]
-    },
-    "MIL": {
-      "confirmed": true,
-      "lineup": [
-        "Jackson Chourio",
-        "Christian Yelich",
-        "William Contreras",
-        "Brice Turang",
-        "Jakob Bauers",
-        "Cooper Pratt",
-        "Sal Frelick",
-        "Garrett Mitchell",
-        "Joey Ortiz"
-      ]
-    },
-    "SD": {
-      "confirmed": true,
-      "lineup": [
-        "Fernando Tatis",
-        "Jackson Merrill",
-        "Manny Machado",
-        "Ty France",
-        "Austin Hays",
-        "Xander Bogaerts",
-        "Luis Campusano",
-        "Jake Cronenworth",
-        "Samad Taylor"
       ]
     }
   }
