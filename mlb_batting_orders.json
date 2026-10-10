@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-10-09T02:21:01.973620+00:00",
+  "updated_at": "2026-10-10T13:20:50.457822+00:00",
   "teams": {
+    "CWS": {
+      "confirmed": false,
+      "lineup": [
+        "Sam Antonacci",
+        "Miguel Vargas",
+        "Munetaka Murakami",
+        "Kyle Teel",
+        "Chase Meidroth",
+        "Andrew Benintendi",
+        "Tristan Peters",
+        "Braden Montgomery",
+        "Colson Montgomery"
+      ]
+    },
     "CLE": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
@@ -11,22 +25,8 @@
         "Nathaniel Lowe",
         "Angel Martinez",
         "Travis Bazzana",
-        "Austin Hedges",
+        "Patrick Bailey",
         "Brayan Rocchio"
-      ]
-    },
-    "CWS": {
-      "confirmed": true,
-      "lineup": [
-        "Chase Meidroth",
-        "Randal Grichuk",
-        "Miguel Vargas",
-        "Munetaka Murakami",
-        "Tommy Pham",
-        "Brenton Doyle",
-        "Kyle Teel",
-        "Braden Montgomery",
-        "Colson Montgomery"
       ]
     }
   }
