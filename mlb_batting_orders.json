@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-11T06:13:03.365778+00:00",
+  "updated_at": "2026-10-11T13:03:50.994945+00:00",
   "teams": {
-    "CWS": {
-      "confirmed": true,
+    "LAD": {
+      "confirmed": false,
       "lineup": [
-        "Sam Antonacci",
-        "Kyle Teel",
-        "Miguel Vargas",
-        "Munetaka Murakami",
-        "Andrew Benintendi",
-        "Tristan Peters",
-        "Chase Meidroth",
-        "Colson Montgomery",
-        "Brenton Doyle"
+        "Mookie Betts",
+        "Freddie Freeman",
+        "Will Smith",
+        "Shohei Ohtani",
+        "Teoscar Hernandez",
+        "Max Muncy",
+        "Enrique Hernandez",
+        "Kyle Tucker",
+        "Andy Pages"
       ]
     },
-    "CLE": {
-      "confirmed": true,
+    "MIL": {
+      "confirmed": false,
       "lineup": [
-        "Steven Kwan",
-        "Jose Ramirez",
-        "Chase DeLauter",
-        "Jo Adell",
-        "Nathaniel Lowe",
-        "Travis Bazzana",
-        "Patrick Bailey",
-        "Petey Halpin",
-        "Brayan Rocchio"
+        "Jackson Chourio",
+        "Brice Turang",
+        "William Contreras",
+        "Jakob Bauers",
+        "Christian Yelich",
+        "Cooper Pratt",
+        "Luis Lara",
+        "Garrett Mitchell",
+        "Joey Ortiz"
       ]
     }
   }
