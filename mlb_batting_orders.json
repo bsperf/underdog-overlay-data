@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-12T07:14:57.974837+00:00",
+  "updated_at": "2026-10-12T16:49:14.797853+00:00",
   "teams": {
     "LAD": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Mookie Betts",
         "Freddie Freeman",
@@ -10,23 +10,51 @@
         "Shohei Ohtani",
         "Teoscar Hernandez",
         "Max Muncy",
-        "Andy Pages",
+        "Enrique Hernandez",
         "Kyle Tucker",
-        "Enrique Hernandez"
+        "Andy Pages"
       ]
     },
     "MIL": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Jackson Chourio",
-        "Brice Turang",
+        "Christian Yelich",
         "William Contreras",
+        "Brice Turang",
         "Jakob Bauers",
-        "Andrew Vaughn",
-        "Garrett Mitchell",
         "Cooper Pratt",
-        "Luis Lara",
+        "Sal Frelick",
+        "Garrett Mitchell",
         "Joey Ortiz"
+      ]
+    },
+    "CLE": {
+      "confirmed": false,
+      "lineup": [
+        "Steven Kwan",
+        "Jose Ramirez",
+        "Chase DeLauter",
+        "Jo Adell",
+        "Nathaniel Lowe",
+        "Travis Bazzana",
+        "Patrick Bailey",
+        "Petey Halpin",
+        "Brayan Rocchio"
+      ]
+    },
+    "TB": {
+      "confirmed": false,
+      "lineup": [
+        "Yandy Diaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Liam Hicks",
+        "Chandler Simpson",
+        "Victor Mesa",
+        "Jonny DeLuca",
+        "Richie Palacios",
+        "Taylor Walls"
       ]
     }
   }
