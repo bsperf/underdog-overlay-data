@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-13T18:20:10.751685+00:00",
+  "updated_at": "2026-10-13T22:58:26.919906+00:00",
   "teams": {
     "CLE": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
@@ -10,23 +10,23 @@
         "Jo Adell",
         "Nathaniel Lowe",
         "Travis Bazzana",
-        "Patrick Bailey",
         "Petey Halpin",
+        "Austin Hedges",
         "Brayan Rocchio"
       ]
     },
     "TB": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
         "Junior Caminero",
-        "Ryan Vilade",
         "Victor Mesa",
         "Jonny DeLuca",
+        "Chandler Simpson",
         "Ben Williamson",
-        "Taylor Walls",
-        "Nick Fortes"
+        "Liam Hicks",
+        "Taylor Walls"
       ]
     }
   }
