@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T20:55:37.041698+00:00",
+  "updated_at": "2026-10-15T23:37:31.133892+00:00",
   "teams": {
     "TB": {
       "confirmed": true,
@@ -30,7 +30,7 @@
       ]
     },
     "MIL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Jackson Chourio",
         "Brice Turang",
@@ -40,7 +40,7 @@
         "Garrett Mitchell",
         "Cooper Pratt",
         "Sal Frelick",
-        "Joey Ortiz"
+        "David Hamilton"
       ]
     },
     "LAD": {
