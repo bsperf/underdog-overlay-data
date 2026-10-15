@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T17:52:19.517708+00:00",
+  "updated_at": "2026-10-15T20:55:37.041698+00:00",
   "teams": {
     "TB": {
       "confirmed": true,
@@ -44,17 +44,17 @@
       ]
     },
     "LAD": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
+        "Shohei Ohtani",
         "Mookie Betts",
         "Freddie Freeman",
-        "Teoscar Hernandez",
-        "Kyle Tucker",
         "Will Smith",
-        "Shohei Ohtani",
+        "Kyle Tucker",
+        "Teoscar Hernandez",
+        "Miguel Rojas",
         "Andy Pages",
-        "Max Muncy",
-        "Tommy Edman"
+        "Enrique Hernandez"
       ]
     }
   }
