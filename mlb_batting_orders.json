@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16T06:25:37.264382+00:00",
+  "updated_at": "2026-10-16T11:48:58.268818+00:00",
   "teams": {
     "TB": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
@@ -16,7 +16,7 @@
       ]
     },
     "CLE": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
@@ -27,34 +27,6 @@
         "Patrick Bailey",
         "Petey Halpin",
         "Brayan Rocchio"
-      ]
-    },
-    "MIL": {
-      "confirmed": true,
-      "lineup": [
-        "Jackson Chourio",
-        "Brice Turang",
-        "William Contreras",
-        "Jakob Bauers",
-        "Christian Yelich",
-        "Garrett Mitchell",
-        "Cooper Pratt",
-        "Sal Frelick",
-        "David Hamilton"
-      ]
-    },
-    "LAD": {
-      "confirmed": true,
-      "lineup": [
-        "Shohei Ohtani",
-        "Mookie Betts",
-        "Freddie Freeman",
-        "Will Smith",
-        "Kyle Tucker",
-        "Teoscar Hernandez",
-        "Miguel Rojas",
-        "Andy Pages",
-        "Enrique Hernandez"
       ]
     }
   }
