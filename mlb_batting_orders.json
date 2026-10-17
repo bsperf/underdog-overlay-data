@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T04:52:44.499603+00:00",
+  "updated_at": "2026-10-17T09:01:07.484519+00:00",
   "teams": {
     "TB": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
@@ -16,7 +16,7 @@
       ]
     },
     "CLE": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
