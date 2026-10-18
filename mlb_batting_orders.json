@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-18T17:01:03.629967+00:00",
+  "updated_at": "2026-10-18T19:23:39.911429+00:00",
   "teams": {
     "TB": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
+        "Ryan Vilade",
         "Junior Caminero",
-        "Victor Mesa",
-        "Jonny DeLuca",
         "Chandler Simpson",
-        "Ben Williamson",
+        "Jonny DeLuca",
         "Liam Hicks",
+        "Ben Williamson",
         "Taylor Walls"
       ]
     },
     "CLE": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
