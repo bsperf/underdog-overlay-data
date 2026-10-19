@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-19T20:13:05.760319+00:00",
+  "updated_at": "2026-10-19T23:46:55.404922+00:00",
   "teams": {
     "CLE": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Steven Kwan",
         "Jose Ramirez",
