@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-10-20T02:10:50.332695+00:00",
+  "updated_at": "2026-10-23T11:29:05.923848+00:00",
   "teams": {
-    "CLE": {
-      "confirmed": true,
-      "lineup": [
-        "Steven Kwan",
-        "Jose Ramirez",
-        "Chase DeLauter",
-        "Jo Adell",
-        "Nathaniel Lowe",
-        "Travis Bazzana",
-        "Patrick Bailey",
-        "Petey Halpin",
-        "Brayan Rocchio"
-      ]
-    },
     "TB": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
@@ -27,6 +13,20 @@
         "Jonny DeLuca",
         "Richie Palacios",
         "Taylor Walls"
+      ]
+    },
+    "MIL": {
+      "confirmed": false,
+      "lineup": [
+        "Jackson Chourio",
+        "Brice Turang",
+        "William Contreras",
+        "Jakob Bauers",
+        "Christian Yelich",
+        "Garrett Mitchell",
+        "Cooper Pratt",
+        "Sal Frelick",
+        "David Hamilton"
       ]
     }
   }
