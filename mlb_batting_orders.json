@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-26T17:28:25.033977+00:00",
+  "updated_at": "2026-10-26T21:48:59.600781+00:00",
   "teams": {
     "MIL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Jackson Chourio",
         "Jakob Bauers",
@@ -16,17 +16,17 @@
       ]
     },
     "TB": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Yandy Diaz",
-        "Jonathan Aranda",
-        "Junior Caminero",
         "Ryan Vilade",
-        "Victor Mesa",
-        "Jonny DeLuca",
+        "Chandler Simpson",
+        "Junior Caminero",
         "Ben Williamson",
-        "Taylor Walls",
-        "Nick Fortes"
+        "Jonny DeLuca",
+        "Victor Mesa",
+        "Nick Fortes",
+        "Taylor Walls"
       ]
     }
   }
