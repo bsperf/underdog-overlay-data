@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-27T18:07:57.125946+00:00",
+  "updated_at": "2026-10-27T22:13:54.292146+00:00",
   "teams": {
     "MIL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Jackson Chourio",
-        "Brice Turang",
-        "William Contreras",
         "Jakob Bauers",
         "Christian Yelich",
-        "Garrett Mitchell",
-        "Cooper Pratt",
+        "William Contreras",
+        "Brice Turang",
         "Sal Frelick",
+        "Cooper Pratt",
+        "Garrett Mitchell",
         "David Hamilton"
       ]
     },
     "TB": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
-        "Liam Hicks",
         "Junior Caminero",
-        "Chandler Simpson",
-        "Victor Mesa",
+        "Liam Hicks",
         "Jonny DeLuca",
+        "Chandler Simpson",
+        "Ryan Vilade",
         "Richie Palacios",
         "Taylor Walls"
       ]
