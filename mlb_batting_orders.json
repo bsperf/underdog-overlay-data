@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-28T01:27:45.254193+00:00",
+  "updated_at": "2026-10-28T14:09:40.316940+00:00",
   "teams": {
     "MIL": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Jackson Chourio",
         "Jakob Bauers",
@@ -16,7 +16,7 @@
       ]
     },
     "TB": {
-      "confirmed": true,
+      "confirmed": false,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
