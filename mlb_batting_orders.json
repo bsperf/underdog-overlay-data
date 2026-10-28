@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-28T19:35:51.885825+00:00",
+  "updated_at": "2026-10-28T23:32:38.659120+00:00",
   "teams": {
     "MIL": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Jackson Chourio",
         "Jakob Bauers",
@@ -16,7 +16,7 @@
       ]
     },
     "TB": {
-      "confirmed": false,
+      "confirmed": true,
       "lineup": [
         "Yandy Diaz",
         "Jonathan Aranda",
@@ -24,8 +24,8 @@
         "Liam Hicks",
         "Jonny DeLuca",
         "Chandler Simpson",
+        "Ben Williamson",
         "Ryan Vilade",
-        "Richie Palacios",
         "Taylor Walls"
       ]
     }
